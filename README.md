@@ -41,7 +41,7 @@ To pop open the doc index and preview.
 
 
 Adding documentation
-====================
+--------------------
 
 Here's a brief description of the document writing workflow:
 

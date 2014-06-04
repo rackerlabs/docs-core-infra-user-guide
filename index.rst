@@ -12,8 +12,8 @@ regarding the Rackspace Cloud Core Infrastructure Services:
  - Cloud Networks
 
 **This guide is currently a work in progress.** Issues regarding the contents
-can be submitted to https://github.com/rackerlabs/docs-core-infra-user-
-guide/issues.
+can be submitted to
+https://github.com/rackerlabs/docs-core-infra-user-guide/issues.
 
 Contents
 --------

@@ -3,7 +3,7 @@ Creating Custom Images from Servers
 
 The first time you boot a cloud server, you'll probably use an image supplied
 by Rackspace.  We supply images of many different operating systems, all
-configured to run optimally in the Rackspace open cloud.
+configured to run optimally in the Rackspace Cloud.
 
 Since the images supplied by Rackspace need to appeal to a wide range of
 customers with varying use cases, you'll probably find that there are some
@@ -59,12 +59,13 @@ prepare an updated image of your particular application server.
 On-Demand Images
 ----------------
 
-When you use the Cloud Control Panel or Comupte API to issue an image-create
-action on one of your servers, you get a copy of your server's system disk.
-The image does not include any server state stored in memory, and for
-Performance flavors, it will not include the data disk.  Thus an on-demand
-image is not really a server backup.  It's more of a template that you can
-use to stamp out other servers just like the one you've got.
+When you use the Cloud Control Panel or the Cloud Servers API to
+create an image of one of your servers, you get a copy of your
+server's system disk.  The image does not include any server state
+stored in memory, and for Performance flavors, it will not include the
+data disk(s).  Thus an on-demand image is not really a server backup.
+It's more of a template that you can use to stamp out other servers
+just like the one you've got.
 
 When you create an on-demand image of your server, you need to be sure that
 any running applications have their states saved to disk before you create
@@ -80,7 +81,7 @@ Scheduled Images
 
 In addition to on-demand images, you have the ability to enable Scheduled
 Images on any servers for which the service is appropriate.  The Scheduled
-Images sevice will automatically create a daily or weekly image of the server.
+Images service will automatically create a daily or weekly image of the server.
 Remember that a virtual machine image is not really a backup of a server,
 so whether Scheduled Images are an appropriate solution for you depends
 entirely on your use case.  See the `Scheduled Images FAQ

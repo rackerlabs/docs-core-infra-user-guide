@@ -1,6 +1,6 @@
 Actions
 =======
-Actions represent any of the below listed actions that can be taken against an active running server from the API or Control Panel.
+Actions represent any of the below listed actions that can be taken against an active running server from the API or Control Panel. Note that these actions may or may not be accessible depending on a users RBAC role.
 
 Rebuild
 ------------------
@@ -45,5 +45,8 @@ This action will open a Java web terminal emulator window with a login prompt to
 
 Rename
 ------------------
+This action changes the label for how a server is named in the Control Panel and via the API. This does not actually change the server's hostname.
+
 Delete
 ------------------
+This action permanently deletes a server returning it's resources back to the available pool.

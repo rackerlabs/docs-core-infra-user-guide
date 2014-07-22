@@ -41,6 +41,8 @@ A hard reboot power cycles your server, which performs an immediate shutdown and
 
 Console
 ------------------
+This action will open a Java web terminal emulator window with a login prompt to the server over a secure HTTPS connection. This allows access to the server when access from SSH or RDP might be inhibited due to the server's configuration or an error state. It might be necessary to install or update Java on the web browser used to access the console or to switch web browsers to ensure operation. The console is a backup means to access a server and should not be the primary method of access.
+
 Rename
 ------------------
 Delete

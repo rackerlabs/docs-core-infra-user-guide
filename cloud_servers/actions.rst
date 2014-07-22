@@ -16,11 +16,8 @@ Allows a server to sized up or down within the same flavor class. The server is 
 
 *How this works with BFV and floating IPs?*
 
-
-
 Rescue Mode
 ------------------
-
 Builds a new server using the current server's image, if it is unable to determine the current server's image then it will use the base image that server was built from. For example if you have a server running a CentOS 6.5 snapshot with changes you have created it will attempt to use that snapshot. If for some reason it can not use that snapshot it will use the base CentOS 6.5 image.
 
 Upon entering Rescue Mode a temporary password will be issued to login to the server. At this point you can access the file system to recover or troubleshoot any issues, this process differs based on the operating system.
@@ -49,4 +46,4 @@ This action changes the label for how a server is named in the Control Panel and
 
 Delete
 ------------------
-This action permanently deletes a server returning it's resources back to the available pool.
+This action permanently deletes a server returning it's resources back to the available pool. 

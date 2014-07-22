@@ -46,4 +46,4 @@ This action changes the label for how a server is named in the Control Panel and
 
 Delete
 ------------------
-This action permanently deletes a server returning it's resources back to the available pool. 
+This action permanently deletes a server returning it's resources back to the available pool. Latent data is not recoverable from the disk of a deleted server.

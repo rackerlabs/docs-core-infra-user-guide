@@ -3,7 +3,7 @@ Important Concepts
 
 A virtual machine image ("image", for short) is a single file that contains
 a virtual disk that has a bootable operating system on it.  Images come in
-various formats.  In the Rackspace open cloud, we use images in the VHD
+various formats.  In the Rackspace Cloud, we use images in the VHD
 format.
 
 VHD
@@ -16,10 +16,11 @@ others.
 Image Properties
 -------------------
 
-When we talk about images in OpenStack, what we're really referring to is
-an *image record* with which the image data file (for example, a VHD) is
-associated.  An image record consists of a set of *image properties* (also
-known as *image metadata*) that describes the image.
+When we talk about images in the Rackspace Cloud, what we're really
+referring to is an *image record* with which the image data file (for
+example, a VHD) is associated.  An image record consists of a set of
+*image properties* (also known as *image metadata*) that describes the
+image.
 
 Image properties have several functions.
 
@@ -44,14 +45,13 @@ Image properties have several functions.
   whether the hypervisor should expand the disk partition and filesystem
   found on the image to fit the server's system disk.
 
-- They are used by the OpenStack Image Cataloging and Delivery Service (also
-  known as Glance) in its handling of images.  For example, if the
+- They are used by Cloud Images in its handling of images.  For example, if the
   **visibility** property indicates that an image is public, the image will
   be included in each user's image list.
 
-There's a set of image properties that are maintained by Glance itself.  Users
-(and in some cases, even system administrators) cannot modify these properties.
-Among these properties are:
+There's a set of image properties that are maintained by Cloud Images itself.
+Users (and in some cases, even system administrators) cannot modify these
+properties.  Among these properties are:
 
 - **checksum**: the MD5 sum of the image data file
 
@@ -65,7 +65,7 @@ Among these properties are:
 Immutability
 ------------
 
-An important aspect of how Glance treats images is that *image data is
+An important aspect of how Cloud Images treats images is that *image data is
 immutable*.  Hence, once the image data has been uploaded and the checksum
 and location are set, the image data *may not be modified*.  Thus you are
 guaranteed that whenever you boot a server from the image with id
@@ -83,5 +83,5 @@ to use an image containing the SuperOS operating system, it's a good
 idea *not* to use the image UUID in your script.  Instead, you should use
 some custom image property to identify an image as containing the SuperOS
 operating system, and then program your script to use the filtering abilities
-of the Images API to locate the image you want.
+of the Cloud Images API to locate the image you want.
 

@@ -4,3 +4,5 @@ Cloud-init is a multi-distribution open source package developed by Canonical th
 
 More Information
 http://cloudinit.readthedocs.org/en/latest/
+
+In the Rackspace environment cloud-init handles some of the server setup actions traditionally preformed by the nova-agent. This varies from image to image but as of today cloud-init handles the disk expansion and partitioning for Linux PVHVM images. 

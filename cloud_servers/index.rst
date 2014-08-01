@@ -6,10 +6,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   flavors
+   flavors_and_flavor_classes
    actions
    instance_placement
    metadata
+   personality
    config_drive
    cloud_init
    ssh_keys

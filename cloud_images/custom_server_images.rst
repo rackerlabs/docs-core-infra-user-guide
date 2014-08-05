@@ -30,7 +30,7 @@ There are two general approaches you can take for this task: "baking" or
    baked in.
 
 There are advantages and disadvantages to each of these approaches. Which you
-pick really depends on you application and workflow needs.
+pick really depends on your application and workflow needs.
 
  - With bootstrapping, the time for the server to boot is pretty quick (since so
    many users utilize the Rackspace base images, they tend to be cached close to

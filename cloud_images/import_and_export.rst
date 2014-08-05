@@ -14,7 +14,7 @@ running on open source software, our cloud is open in the following ways:
    prepare your virtual machine images on your own hardware.
 
 Exporting an Image
-==================
+------------------
 
 When you tell Rackspace Cloud Images to export one of your virtual machine
 images, the service will retrieve the image from its Cloud Images storage
@@ -32,7 +32,7 @@ you cannot export a Rackspace public image or an image that has been shared with
 you.
 
 Importing an Image
-==================
+------------------
 
 When you use Rackspace Cloud Images to import a virtual machine image, Cloud
 Images stores your image data in a special location and creates an image record
@@ -47,7 +47,7 @@ file in the VHD format. Additionally, it cannot have an actual (or virtual) size
 greater than 40 GB (the maximum size of a performance flavor system disk).
 
 Export-Import Asymmetry
-=======================
+-----------------------
 
 Note that while you can export a virtual machine image that you own (subject to
 the licensing restrictions mentioned above), you may not be able to import that
@@ -55,7 +55,7 @@ image back into the Rackspace public cloud. That's because some of the standard
 flavors have system disks that exceed 40 GB.
 
 More Information
-================
+----------------
 
 Links to articles containing more information concerning image import and
 export may be found in the `Cloud Images FAQ

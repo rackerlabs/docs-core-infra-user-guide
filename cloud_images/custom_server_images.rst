@@ -38,11 +38,11 @@ pick really depends on you application and workflow needs.
    configuration management tool to install the software and modify the server
    before it will be ready for your application.
 
-- With baking, as soon as your server boots, everything is installed and
-  configured already, so your application should be ready to go. Since you're
-  using your own private virtual machine image, however, it's pretty unlikely
-  that it will be cached anywhere, and it will take longer to download your
-  image from Cloud Images to the host machine where your server will be built.
+ - With baking, as soon as your server boots, everything is installed and
+   configured already, so your application should be ready to go. Since you're
+   using your own private virtual machine image, however, it's pretty unlikely
+   that it will be cached anywhere, and it will take longer to download your
+   image from Cloud Images to the host machine where your server will be built.
 
 It's also possible to combine the two approaches. Many people will use
 bootstrapping to prepare and QE a server, and then once everything has been

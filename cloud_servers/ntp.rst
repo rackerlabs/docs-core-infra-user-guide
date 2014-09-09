@@ -17,7 +17,9 @@ When using NTP with Virtual Servers the clock is synced with the Xen hypervisor,
 ``echo 1 > /proc/sys/xen/independent_wallclock``
 
 To make the changes persist through restarts add the following to */etc/sysctl.conf*:
+
 ``#Set independent wall clock time``
+
 ``xen.independent_wallclock=1``
 
 

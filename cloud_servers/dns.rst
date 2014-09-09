@@ -4,6 +4,10 @@ DNS
 Reverse DNS
 -----------
 
+*Chris: I borrowed a lot from here, as it's well written and good flow.
+Added/amended content of course. 
+http://www.rackspace.com/knowledge_center/article/rackspace-cloud-essentials-creating-a-reverse-dns-record*
+
 For each Cloud Server you create, you can assign a Reverse DNS record. A
 Reverse DNS record is also known as a "PTR record", and is used to assist in
 the resolution of a specific IP to a fully qualified domain name (FQDN), like
@@ -60,6 +64,8 @@ http://www.rackspace.com/knowledge_center/article/rackspace-cloud-essentials-cre
 Now, on the Server Details screen, you will now see 1 Record listed next to the
 Reverse DNS option. Clicking this link will display the details for the reverse
 DNS you just added.
+
+[insert screenshot from previous link that corresponds here]
 
 Troubleshooting your Reverse DNS record
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

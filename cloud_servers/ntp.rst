@@ -10,6 +10,17 @@ server to sync it's system clock with a pool of authoritative NTP servers.
 http://www.ntp.org maintains a list of public NTP servers to sync
 from.
 
+After installing NTP via the Linux distribution specific package manager and  starting it, NTP will sync wit a set of default NTP servers. If you wish to specify a different set to sync with then you will need edit the NTP config file directly.
+
+When using NTP with Virtual Servers the clock is synced with the Xen hypervisor, an independent clock will need to be started for NTP to work.
+
+``echo 1 > /proc/sys/xen/independent_wallclock``
+
+To make the changes persist through restarts add the following to */etc/sysctl.conf*:
+``#Set independent wall clock time``
+``xen.independent_wallclock=1``
+
+
 Rackspace maintains internal NTP servers in each region that can be used to sync
 with.
 

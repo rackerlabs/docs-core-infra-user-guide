@@ -1,4 +1,5 @@
-Cloud Server Local Storage ==========================
+Cloud Server Local Storage 
+==========================
 
 Cloud Servers are generally created with a given amount of local storage
 available to them in the form of one or more virtual hard disks.  In order to

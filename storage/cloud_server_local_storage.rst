@@ -59,12 +59,16 @@ here yet?
 
 Here is a high level comparison of the technologies:
 
-===== ======= ================ =========== Type  Speed   Cost (relative)  IOPS
-(up to) ===== ======= ================ =========== SATA  Avg     Lowest
-??  SSD   Fast    Medium           ??  PCI   Fastest Highest          ??  =====
-======= ================ ===========
-
-NOTE TABLES SUCK IN RST, MAY NEED TO DO AN IMAGE OR STRAIGHT HTML HERE
++------+---------+------------+-----------+
+| Type | Speed   | Cost       | IOPS      |
+|      |         | (relative) | (maximum) |
++======+=========+============+===========+
+| SATA | Average | Lowest     | ??        |
++------+---------+------------+-----------+
+| SSD  | Fast    | Medium     | ??        |
++------+---------+------------+-----------+
+| PCI  | Fastest | Highest    | ??        |
++------+---------+------------+-----------+ 
 
 
 System and Data disks 

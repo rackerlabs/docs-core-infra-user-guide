@@ -9,10 +9,11 @@ or the Cloud Block Storage API:
    Instructs the Cinder API to provision a volume on a CBS storage node. 
    As part of the volume creation call, 
    you can specify 
-   **volume name  
-   **description  
-   **storage type (SATA or SSD) 
-   **volume size 
+   
+   * volume name  
+   * description  
+   * storage type (SATA or SSD) 
+   * volume size 
 
    Immediately after a volume is created, 
    it cannot have any data written to it. 

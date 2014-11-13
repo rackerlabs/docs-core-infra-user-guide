@@ -62,11 +62,13 @@ or the Cloud Block Storage API:
    while the snapshot is being created. 
 
    Creating a snapshot of a CBS volume is a two-step process: 
-   1. the creation of the LVM Snapshot on the local storage node 
-   2. uploading that snapshot to Cloud Files. 
+   
+   1. create the LVM snapshot on the local storage node 
+   2. uploading that snapshot to Cloud Files
+   
    After you receive an HTTP 200 status 
    from the snapshot create call, 
-   it is then safe to reattach the volume and continue normal operation. 
+   you can safely reattach the volume and continue normal operation. 
    It is not necessary to keep the volume detached 
    while the snapshot is being uploaded to Cloud Files.
 

@@ -31,16 +31,25 @@ or the Cloud Block Storage API:
    A volume can only be attached to a Cloud Server that 
    resides in the same region as the volume.
 
-* *Detach a volume to a Cloud Server*  
-   Instructs the Nova API to release the iSCSI connection between 
-   the CBS storage node and the Cloud Server hypervisor, 
-   and logically removes the volume as 
-   a usable disk for the Cloud Server. 
+* *Detach a volume from a Cloud Server*  
+   Instructs the Nova API to 
+   
+   * release the iSCSI connection between 
+   the CBS storage node and the Cloud Server hypervisor 
+   * logically remove the volume as 
+   a usable disk for the Cloud Server 
 
-   For the detach call to succeed, 
-   a volume must be unmounted and no longer in use 
-   by the host operating system. 
-   User data stored on Cloud Block Storage volumes is persistent 
+   The detach call can succeed only if 
+   the volume is
+   
+   * unmounted 
+   * not in use 
+     by the host operating system
+     
+   Detaching a volume does not
+   affect data on the volume.
+   User data stored on Cloud Block Storage volumes 
+   is persistent 
    and remains on the volume even after 
    the volume has been detached from the server.
 

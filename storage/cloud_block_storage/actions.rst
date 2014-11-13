@@ -35,9 +35,9 @@ or the Cloud Block Storage API:
    Instructs the Nova API to 
    
    * release the iSCSI connection between 
-   the CBS storage node and the Cloud Server hypervisor 
+     the CBS storage node and the Cloud Server hypervisor 
    * logically remove the volume as 
-   a usable disk for the Cloud Server 
+     a usable disk for the Cloud Server 
 
    The detach call can succeed only if 
    the volume is

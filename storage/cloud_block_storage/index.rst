@@ -52,19 +52,17 @@ new server configurations
 such as high RAM/low storage, 
 and staging of common server images in CBS.
 
-.. NOTE:: Learn more about Cloud Block Storage
+.. Learn more about Cloud Block Storage::
 
    For instructions on using CBS 
    boot-from-volume, 
    see 
-   http://www.rackspace.com/knowledge_center/
-   article/boot-a-server-from-a-cloud-block-storage-volume.
+   http://www.rackspace.com/knowledge_center/article/boot-a-server-from-a-cloud-block-storage-volume.
    
    The Rackspace Knowledge Center
    provides many more details about Cloud Block Storage.
    Begin exploring at 
-   http://www.rackspace.com/knowledge_center/
-   product-page/cloud-block-storage.
+   http://www.rackspace.com/knowledge_center/product-page/cloud-block-storage.
 
 .. toctree::
    :maxdepth: 2

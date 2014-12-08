@@ -42,16 +42,20 @@ you must prepare the volume for use
 by partitioning, formatting, and mounting it through 
 the Cloud Server operating system.
 
-Cloud Servers will soon be able to boot 
-from a Cloud Block Storage volume. 
-This will enable users to create a bootable CBS volume 
+Most Cloud Servers can boot 
+from a network-attached Cloud Block Storage volume. 
+You can create a bootable CBS volume 
 and launch a server instance from that volume. 
-Booting from a CBS volume will allow for 
-faster server boot times, 
+Booting from a CBS volume enables
 disk-less servers, 
-and new server configurations 
+new server configurations 
 such as high RAM/low storage, 
-as well as staging of common server images in CBS.
+and staging of common server images in CBS.
+
+For instructions on how to use CBS 
+boot-from-volume, 
+see 
+http://www.rackspace.com/knowledge_center/article/boot-a-server-from-a-cloud-block-storage-volume.
 
 .. toctree::
    :maxdepth: 2

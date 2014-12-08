@@ -18,9 +18,9 @@ RAID for Windows
 ----------------
 
 * Windows Server 2012 named its RAID capability "Storage Spaces".
-` You can read about Storage Spaces at http://technet.microsoft.com/en-us/library/hh831739.aspx.
+  You can read about Storage Spaces at http://technet.microsoft.com/en-us/library/hh831739.aspx.
 * Windows Server 2008 provides two ways to interact with RAID
-``devices:
+  devices:
 
     * GUI via Diskmgmt.msc 
     * CLI via Diskpart.exe

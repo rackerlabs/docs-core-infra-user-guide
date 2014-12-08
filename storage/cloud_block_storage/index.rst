@@ -52,7 +52,7 @@ new server configurations
 such as high RAM/low storage, 
 and staging of common server images in CBS.
 
-.. Learn more about Cloud Block Storage::
+.. NOTE::
 
    For instructions on using CBS 
    boot-from-volume, 

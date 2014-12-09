@@ -27,9 +27,9 @@ Other RAID levels exist and may be appropriate
 in specialized circumstances.
 
 +----------------------+-----------------+-----------------------+-----------------------+
-| Features             |RAID 0           |RAID 1                 |RAID 10                |
-|                      | (striping)      | (mirroring)           | (mirroring +          |       
-|                      |                 |                       | block-level striping) |
+|Features              |RAID 0           |RAID 1                 |RAID 10                |
+|                      |(striping)       |(mirroring)            |(mirroring +           |       
+|                      |                 |                       |block-level striping)  |
 +======================+=================+=======================+=======================+
 | Minimum drives       | 2               | 2                     | 4                     |
 +----------------------+-----------------+-----------------------+-----------------------+

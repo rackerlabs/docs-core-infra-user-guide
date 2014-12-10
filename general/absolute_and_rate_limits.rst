@@ -18,17 +18,21 @@ to change other limits, contact Rackspace.
 
 Absolute limits
 ---------------
-Absolute limits control the total number of specific objects that the user can possess simultaneously.
+Absolute limits control the total number of 
+the limited item that the user can possess simultaneously.
 
-Specify absolute limits to limit the overall number of items or amount of capacity in the system. 
-Absolute limits also include the amount of resources currently consumed, which allow for programmatic visibility of usage.
+For example, an absolute limit controls the amount of RAM that can
+be assigned in a server configuration.
 
 Rate limits
 -----------
 Rate limits control the frequency at which 
 the user can issue specific requests. 
 Rate limits are reset after a certain amount of time passes. 
-To request a rate limit increase, contact Rackspace.
+
+For example, a rate limit controls the number of GET 
+requests that can be processed during a
+one-minute period.
 
 Limits for specific services
 ----------------------------
@@ -36,22 +40,21 @@ This table shows some examples of limits,
 with links to API documentation for 
 more examples and complete details.
 
-+--------------------+-----------------------+--------------------+
-|Service             |Absolute limit example |Rate limit example  |
-|                    | + link for details    | + link for details |          
-+=====================+======================+====================+
-|Cloud Block Storage |10 TB                  |no limits           | 
-|                    |see API doc            |                    |
-+--------------------+-----------------------+--------------------+
-|Cloud Servers       |100 servers in config  |xxxxxxxxx           | 
-|                    |see API doc            |                    |
-+--------------------+-----------------------+--------------------+
-|Cloud Images        |no limits              |no limits           | 
-|                    |                       |                    |
-+--------------------+-----------------------+---=----------------+
-|Cloud Networks      |no limits              |no limits           | 
-|                    |                       |                    |
-+--------------------+-----------------------+--------------------+
++--------------------+------------------------+--------------------+
+| Service            | Absolute limit example | Rate limit example |
++====================+========================+====================+
+|Cloud Block Storage |10 TB                   |no limits           | 
+|                    |see API doc             |                    |
++--------------------+------------------------+--------------------+
+|Cloud Servers       |100 servers in config   |xxxxxxxxx           | 
+|                    |see API doc             |                    |
++--------------------+------------------------+--------------------+
+|Cloud Images        |no limits               |no limits           | 
+|                    |                        |                    |
++--------------------+------------------------+--------------------+
+|Cloud Networks      |no limits               |no limits           | 
+|                    |                        |                    |
++--------------------+------------------------+--------------------+
 
 .. NOTE::
    The services discussed here are not the only ones 

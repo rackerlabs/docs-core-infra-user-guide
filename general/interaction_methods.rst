@@ -113,6 +113,7 @@ multiple cloud endpoints or providers.
 
 Rackspace supports SDKs for the following languages:
 
+ - Go
  - Java
  - .Net
  - Node.js
@@ -120,11 +121,12 @@ Rackspace supports SDKs for the following languages:
  - Python
  - Ruby
 
-All of the available (and future) SDKs can be found at: 
-https://developer.rackspace.com/sdks/  
-
-You'll find installation instructions, guidance, tutorials and more for each SDK
-at the developer.rackspace.com site.
+You can find links to all of the 
+Rackspace-supported SDKs,
+with installation instructions, guidance, 
+tutorials and more for each,
+at
+https://developer.rackspace.com/sdks/. 
 
 Direct API Access
 ^^^^^^^^^^^^^^^^^

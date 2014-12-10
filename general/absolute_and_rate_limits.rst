@@ -40,16 +40,16 @@ more examples and complete details.
 |Service             |Absolute limit example |Rate limit example  |
 |                    | + link for details    | + link for details |          
 +=====================+======================+====================+
-|Cloud Block Storage |10 TB                  | no limits          | 
-|                    |'see API doc <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>'                 |                    |
+|Cloud Block Storage |10 TB                  |no limits           | 
+|                    |see API doc            |                    |
 +--------------------+-----------------------+--------------------+
-|Cloud Servers       |100 servers in config        | xxxxxxxxx    | 
-|                    |'see API doc <http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html>'                  |                    |
+|Cloud Servers       |100 servers in config  |xxxxxxxxx           | 
+|                    |see API doc            |                    |
 +--------------------+-----------------------+--------------------+
-|Cloud Images        | no limits             | no limits          | 
+|Cloud Images        |no limits              |no limits           | 
 |                    |                       |                    |
 +--------------------+-----------------------+---=----------------+
-|Cloud Networks      | no limits             | no limits          | 
+|Cloud Networks      |no limits              |no limits           | 
 |                    |                       |                    |
 +--------------------+-----------------------+--------------------+
 

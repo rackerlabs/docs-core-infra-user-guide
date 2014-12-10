@@ -41,10 +41,10 @@ more examples and complete details.
 |                    | + link for details    | + link for details |          
 +=====================+======================+====================+
 |Cloud Block Storage |10 TB                  | no limits          | 
-|                    |.. _see API doc: http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html                 |                    |
+|                    |'see API doc <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>'                 |                    |
 +--------------------+-----------------------+--------------------+
 |Cloud Servers       |100 servers in config        | xxxxxxxxx    | 
-|                    |.. _see API doc: http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html                  |                    |
+|                    |'see API doc <http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html>'                  |                    |
 +--------------------+-----------------------+--------------------+
 |Cloud Images        | no limits             | no limits          | 
 |                    |                       |                    |

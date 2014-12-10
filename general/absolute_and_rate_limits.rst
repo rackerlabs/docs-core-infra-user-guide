@@ -30,6 +30,29 @@ the user can issue specific requests.
 Rate limits are reset after a certain amount of time passes. 
 To request a rate limit increase, contact Rackspace.
 
+Limits for specific services
+----------------------------
+This table shows some examples of limits, 
+with links to API documentation for 
+more examples and complete details.
+
++--------------------+-----------------------+--------------------+
+|Service             |Absolute limit example |Rate limit example  |
+|                    | + link for details    | + link for details |          
++=====================+======================+====================+
+|Cloud Block Storage |10 TB                  | no limits          | 
+|                    |.. _see API doc: http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html                 |                    |
++--------------------+-----------------------+--------------------+
+|Cloud Servers       |100 servers in config        | xxxxxxxxx    | 
+|                    |.. _see API doc: http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html                  |                    |
++--------------------+-----------------------+--------------------+
+|Cloud Images        | no limits             | no limits          | 
+|                    |                       |                    |
++--------------------+-----------------------+---=----------------+
+|Cloud Networks      | no limits             | no limits          | 
+|                    |                       |                    |
++--------------------+-----------------------+--------------------+
+
 .. NOTE::
    The services discussed here are not the only ones 
    with absolute limits or rate limits.
@@ -39,24 +62,3 @@ To request a rate limit increase, contact Rackspace.
    API documentation. You can find those details
    by going to http://docs.rackspace.com/
    and searching for "limits". 
-   
-   This table shows some examples of limits, 
-   with links to API documentation for 
-   more examples and complete details. 
-   
-   +--------------------+-----------------------+--------------------+
-   |Service             |Absolute limit example |Rate limit example  |
-   |                    | + link for details    | + link for details |          
-   +=====================+======================+====================+
-   |Cloud Block Storage |10 TB                  | no limits          | 
-   |                    |.. _see API doc: http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html                 |                    |
-   +--------------------+-----------------------+--------------------+
-   |Cloud Servers       |100 servers in config        | xxxxxxxxx    | 
-   |                    |.. _see API doc: http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html                  |                    |
-   +--------------------+-----------------------+--------------------+
-   |Cloud Images        | no limits             | no limits          | 
-   |                    |                       |                    |
-   +--------------------+-----------------------+---=----------------+
-   |Cloud Networks      | no limits             | no limits          | 
-   |                    |                       |                    |
-   +--------------------+-----------------------+--------------------+

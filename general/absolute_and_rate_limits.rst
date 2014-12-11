@@ -40,12 +40,14 @@ This table shows some examples of limits,
 with links to API documentation for 
 more examples and complete details.
 
+`Text of the link <http://example.com>`_
+
 +--------------------+--------------------------------------------------------------------------------------------------------------------+--------------------+
 | Service            | Absolute limit example                                                                                             | Rate limit example |
 +====================+====================================================================================================================+====================+
-|Cloud Block Storage |'10 TB in config <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>'_       |no limits           | 
+|Cloud Block Storage |`10 TB in config <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>`_       |no limits           | 
 +--------------------+--------------------------------------------------------------------------------------------------------------------+--------------------+
-|Cloud Servers       |'100 servers in config: http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html>'_ |xxxxxxxxx           | 
+|Cloud Servers       |`100 servers in config: http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html>`_ |xxxxxxxxx           | 
 +--------------------+--------------------------------------------------------------------------------------------------------------------+--------------------+
 |Cloud Images        |no limits                                                                                                           |no limits           | 
 +--------------------+--------------------------------------------------------------------------------------------------------------------+--------------------+

@@ -9,9 +9,9 @@ and respond to changes quickly and flexibly.
 Monitoring operates on two levels
 
 * remote monitoring, managed by Rackspace and based 
-in our global data centers
+  in our global data centers
 * agent-based monitoring, available for you to configure on 
-your Cloud Servers
+  your Cloud Servers
 
 Cloud Monitoring is included at no charge 
 with every cloud account.

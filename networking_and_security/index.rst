@@ -178,8 +178,8 @@ we will ask you to provide the following information:
   We may also ask you to indicate an acceptable maintenance window 
   during which we can perform the change.
  
- We cannot allocate more than 4 additional IPv4 addresses 
- to a single Cloud Server or to a Brocade Vyatta vRouter. 
- This gives each Cloud Server or Brocade Vyatta vRouter 
- a maximum capacity of five (5) IPv4 addresses, 
- including the originally-assigned public IP address.
+We cannot allocate more than 4 additional IPv4 addresses 
+to a single Cloud Server or to a Brocade Vyatta vRouter.
+This gives each Cloud Server or Brocade Vyatta vRouter 
+a maximum capacity of five (5) IPv4 addresses, 
+including the originally-assigned public IP address.

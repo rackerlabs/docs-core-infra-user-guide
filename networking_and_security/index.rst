@@ -1,7 +1,5 @@
 Networking and Security
 =======================
-Networking and Security
-=======================
 Your Cloud Server configuration can include
 several kinds of networks, as appropriate for your needs.
 
@@ -68,18 +66,18 @@ all attached network interfaces
 
 Performance1:
 
-*Performance1-1: 200Mbps
-*Performance1-2: 400Mbps
-*Performance1-4: 800Mbps
-*Performance1-8: 1,600Mbps
+* Performance1-1: 200Mbps
+* Performance1-2: 400Mbps
+* Performance1-4: 800Mbps
+* Performance1-8: 1,600Mbps
 
 Performance2:
 
-*Performance2-15: 1.250Mbps
-*Performance2-30 2,500Mbps
-*Performance2-60: 5,000Mbps
-*Performance2-90: 7,500Mbps
-*Performance2-120: 10,000Mbps
+* Performance2-15: 1.250Mbps
+* Performance2-30 2,500Mbps
+* Performance2-60: 5,000Mbps
+* Performance2-90: 7,500Mbps
+* Performance2-120: 10,000Mbps
 
 OnMetal
 -------
@@ -160,7 +158,7 @@ to support SSL on a Cloud Server,
 we will ask you to provide the following information:
 
 * The name of the server for which 
-   you would like to add the IP address.
+  you would like to add the IP address.
 * Permission to restart the network service 
   so that Rackspace Support can configure the IP address. 
   We may also ask you to indicate an acceptable maintenance window 

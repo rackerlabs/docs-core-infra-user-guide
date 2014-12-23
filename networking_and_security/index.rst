@@ -134,7 +134,19 @@ The graphic below depicts the services that are not available
 when these networks 
 are removed from a Cloud Server.
 
-[TODO: add the figure]
+.. figure:: ../figures/CloudServerNetworkRemovalResults.png
+   :scale: 100 %
+   :alt: Disabling a Cloud Server's PublicNet and ServiceNet
+   interfaces affects access to and functioning of
+   Rackspace products and services.
+
+   PublicNet provides a Cloud Server with access to
+   the Web as well as 
+   Cloud Monitoring, Cloud Backup, Managed Cloud Support, 
+   and operating system updates. 
+   ServiceNet provides a Cloud Server with access to
+   Cloud Databases, Cloud Load Balancers, Cloud Files, 
+   Cloud Backup, RackConnect, and Windows activation.
 
 Adding IPv4 addresses to Cloud Servers
 ++++++++++++++++++++++++++++++++++++++

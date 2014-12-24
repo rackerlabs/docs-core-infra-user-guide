@@ -130,24 +130,20 @@ Building servers without PublicNet or ServiceNet
 ++++++++++++++++++++++++++++++++++++++++++++++++
 If a server is built without PublicNet or ServiceNet, 
 it cannot access certain Rackspace products and services. 
-The graphic below depicts the services that are not available 
-when these networks 
-are removed from a Cloud Server.
 
-.. figure:: /figures/CloudServerNetworkRemovalResults.png
-   :scale: 100 %
-   :align: center
-   :alt: Disabling a Cloud Server's PublicNet and ServiceNet
-   interfaces affects access to and functioning of
-   Rackspace products and services.
+As shown in the figure below, PublicNet and 
+ServiceNet are essential to a fully-functional
+cloud configuration.
+PublicNet provides a Cloud Server with access to
+the Web as well as 
+Cloud Monitoring, Cloud Backup, Managed Cloud Support, 
+and operating system updates. 
+ServiceNet provides a Cloud Server with access to
+Cloud Databases, Cloud Load Balancers, Cloud Files, 
+Cloud Backup, RackConnect, and Windows activation.
+depicts the services that are not available 
 
-   PublicNet provides a Cloud Server with access to
-   the Web as well as 
-   Cloud Monitoring, Cloud Backup, Managed Cloud Support, 
-   and operating system updates. 
-   ServiceNet provides a Cloud Server with access to
-   Cloud Databases, Cloud Load Balancers, Cloud Files, 
-   Cloud Backup, RackConnect, and Windows activation.
+.. image:: /figures/CloudServerNetworkRemovalResults.png
 
 Adding IPv4 addresses to Cloud Servers
 ++++++++++++++++++++++++++++++++++++++

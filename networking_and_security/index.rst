@@ -124,7 +124,7 @@ on all network interfaces on the server and
 should be used with caution. 
  
 For OnMetal servers, 
-attaching and detaching networks is currently supported. 
+attaching and detaching networks is not supported. 
 
 Building servers without PublicNet or ServiceNet
 ++++++++++++++++++++++++++++++++++++++++++++++++

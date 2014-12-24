@@ -134,8 +134,9 @@ The graphic below depicts the services that are not available
 when these networks 
 are removed from a Cloud Server.
 
-.. figure:: ../figures/CloudServerNetworkRemovalResults.png
+.. figure:: /figures/CloudServerNetworkRemovalResults.png
    :scale: 100 %
+   :align: center
    :alt: Disabling a Cloud Server's PublicNet and ServiceNet
    interfaces affects access to and functioning of
    Rackspace products and services.

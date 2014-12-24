@@ -144,9 +144,7 @@ Cloud Backup, RackConnect, and Windows activation.
 depicts the services that are not available 
 
 .. image:: /figures/CloudServerNetworkRemovalResults.png
-   :alt: A Cloud Server lacking PublicNet and ServiceNet
-   interfaces has no access to some
-   Rackspace products and services.
+   :alt: PublicNet and ServiceNet enable full Cloud Servers functionality.
 
 Adding IPv4 addresses to Cloud Servers
 ++++++++++++++++++++++++++++++++++++++

@@ -41,16 +41,19 @@ in the DFW region.
 
 Choosing the right region can optimize network delivery speed 
 for local users.
+
 .. image:: /figures/CloudServerCreateRegionDFW.png
    :alt: Choose a region, which can affect network delivery speed.
    
 Choosing the right operating system can ensure compatibility with
 your applications. It can also affect price.
+
 .. image:: /figures/CloudServerCreateImageUbuntu.png
    :alt: Choose an operating system, which can affect price.
 
 Moving the blue slider up and down changes initial resource sizes;
 hovering over the green circle pops up an explanation of pricing.
+
 .. image:: /figures/CloudServerCreateFlavorStandardInstance.png
    :alt: Choose resource sizes.
 
@@ -58,11 +61,13 @@ After you submit your request,
 Nova-scheduler, the component responsible for appropriately 
 assigning a new Cloud Server to a physical host, 
 compares two sources of information:
+
 * your detailed server-creation request 
 * details 
   describing the current capacity of 
   physical hosts available 
   in the region you selected. 
+  
 Nova-scheduler then places your server 
 on a physical host capable of providing the resources  
 you described. 
@@ -72,6 +77,7 @@ the nova-scheduler does not place multiple Cloud Servers
 belonging to the same account 
 on the same physical host.
 However, it is possible to override this default in some circumstances.
-Every Cloud Server has a *Host ID*; by comparing *Host ID*s  
+Every Cloud Server has a *Host ID*, identifying its physical host; 
+by examining the *Host ID* for each Cloud Server,   
 you can determine whether any of your Cloud Servers 
-have been placed on the same physical host. 
+have been placed on the same physical host.  

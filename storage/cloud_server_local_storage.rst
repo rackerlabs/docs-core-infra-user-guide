@@ -56,7 +56,6 @@ over time, they can provide large capacities at relatively low prices. However,
 due to the physical spinning platters and moving write heads of SATA disks,
 they are slower than newer technologies like SSD in many situations. 
 
-
 Performance Cloud Servers - SSD local storage
 ---------------------------------------------
 SSD stands for Solid State Disk, and, instead of the platters and write heads
@@ -67,8 +66,33 @@ are more expensive and thus are priced higher relative to SATA/spinning disks.
 
 OnMetal Disk (PCI) 
 ^^^^^^^^^^^^^^^^^^ 
-Not sure how much we want to cover this
-here yet?
+OnMetal Cloud Servers offer the benefits of two kinds of configuration:
+
+* the elasticity of cloud computing
+* the consistent performance of colocated hosting 
+
+When you create a Cloud Server, 
+if you make it an OnMetal Cloud Server, 
+you can choose one of three flavor classes 
+designed to support specific workloads:
+
+* OnMetal I/O, optimized for databases
+* OnMetal Memory, optimized for caching
+* OnMetal Compute, optimized for CPU-intensive workloads
+
+Every OnMetal flavor class provides 
+32GB for system disk. 
+The OnMetal I/O flavor class also 
+provides 
+Dual 1.6 TB PCIe flash cards
+for data disk.
+
+You can learn more about OnMetal in the Cloud Control Panel and at 
+
+* http://www.rackspace.com/cloud/servers/onmetal/ 
+* http://www.rackspace.com/blog/onmetal-the-right-way-to-scale/
+* http://www.rackspace.com/knowledge_center/article/what-is-new-with-onmetal-cloud-servers
+* http://www.rackspace.com/knowledge_center/article/creating-onmetal-cloud-servers 
 
 System and Data disks 
 ---------------------

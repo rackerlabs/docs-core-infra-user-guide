@@ -1,17 +1,31 @@
 Cloud Server Local Storage 
 ==========================
-
 Cloud Servers are generally created with a given amount of local storage
 available to them in the form of one or more virtual hard disks.  In order to
 best utilize this local storage, the user needs to understand the different
 types and characteristics that are available.
 
-
 Local storage technologies & terminology
 ----------------------------------------- 
 The virtual hard disks allocated to
-the Cloud Server are backed by one of several different physical technologies.
-Each has specific performance and cost characteristics. 
+a Cloud Server are backed by one of several 
+different physical technologies, 
+depending upon how you choose to configure your Cloud Server.
+Each storage technology has 
+specific performance and cost characteristics. 
+
+Here is a high-level comparison of the technologies:
+
++---------------------------------+---------+------------+-----------+
+| Server Type                     | Speed   | Cost       | IOPS      |
+|                                 |         | (relative) | (maximum) |
++=================================+=========+============+===========+
+| SATA (Standard Cloud Servers)   | Average | Lowest     | ??        |
++---------------------------------+---------+------------+-----------+
+| SSD (Performance Cloud Servers) | Fast    | Medium     | ??        |
++---------------------------------+---------+------------+-----------+
+| PCI (OnMetal)                   | Fastest | Highest    | ??        |
++---------------------------------+---------+------------+-----------+ 
 
 Measuring local storage performance - IOPS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
@@ -45,7 +59,6 @@ they are slower than newer technologies like SSD in many situations.
 
 Performance Cloud Servers - SSD local storage
 ---------------------------------------------
-
 SSD stands for Solid State Disk, and, instead of the platters and write heads
 of SATA, uses persistant RAM technology to store data. This means that locating
 and reading any given bit of data from the disk is extremely fast, since there
@@ -57,23 +70,8 @@ OnMetal Disk (PCI)
 Not sure how much we want to cover this
 here yet?
 
-Here is a high level comparison of the technologies:
-
-+------+---------+------------+-----------+
-| Type | Speed   | Cost       | IOPS      |
-|      |         | (relative) | (maximum) |
-+======+=========+============+===========+
-| SATA | Average | Lowest     | ??        |
-+------+---------+------------+-----------+
-| SSD  | Fast    | Medium     | ??        |
-+------+---------+------------+-----------+
-| PCI  | Fastest | Highest    | ??        |
-+------+---------+------------+-----------+ 
-
-
 System and Data disks 
 ---------------------
-
 Different flavors of Cloud Servers are given different allocations of System
 and Data Disks. 
 
@@ -85,7 +83,6 @@ get outdated...link to RS.com?)
 
 System Disk 
 ^^^^^^^^^^^
-
 Sometimes also called "boot disk", this is simply the size of the first disk
 the server will attempt to access and boot from, much like the first physical
 hard drive plugged into a normal computer. Operating systems will be installed
@@ -97,7 +94,6 @@ the image.
 
 Data Disks 
 ^^^^^^^^^^
-
 Data disk space, versus the "System disk" described above, is additional disk
 space, spread across one or more virtual disks, available to use for your
 application data, caching, or other scenarios.  Not all Flavors will have Data
@@ -110,8 +106,6 @@ created; only the System disk is captured.
 software RAID group, depending on your needs. The Data disks are provided as
 empty or raw disks in some cases to allow you maximum flexibility in how you
 use them. XXXX link to info on formatting them XXXX
-
-
 
 Protecting local storage 
 ------------------------ 
@@ -126,7 +120,6 @@ and/or Data Disks.
 
 Snapshots 
 ^^^^^^^^^ 
-
 Snapshots (also known as "saved images" or "server images")
 can be created using the API or Control Panel, and will save a complete copy of
 your System Disk. The image will be saved in your account and you will be able
@@ -145,11 +138,9 @@ Cloud Block Storage
 ^^^^^^^^^^^^^^^^^^^ 
 I'll come back to this XXXXXXX
 
-
 Custom methods 
 ^^^^^^^^^^^^^^ 
 Rsync, etc. Not sure how far to go down this path 
-
 
 (below was lifted from KC article, not sure what to do with it yet)
 

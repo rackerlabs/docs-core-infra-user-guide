@@ -75,6 +75,10 @@ are more expensive and thus are priced higher relative to SATA/spinning disks.
 
 OnMetal flavors and local storage types
 ---------------------------------------
+OnMetal Cloud Servers are backed by storage 
+that complies with the 
+Peripheral Component Interconnect (PCI) local bus standard.
+
 OnMetal Cloud Servers offer the benefits 
 of two kinds of configuration:
 

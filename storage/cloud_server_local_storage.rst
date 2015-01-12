@@ -45,28 +45,38 @@ note that, as mentioned, many factors can affect the IOPS rate during
 operation. 
 
 Cloud Server flavors and local storage types
----------------------------------------------
+--------------------------------------------
+Choosing a flavor class for your Cloud Server  
+also means choosing what kind of local storage 
+is available to that Cloud Server.
 
-Standard/General Cloud Servers - SATA local storage
---------------------------------------------------- 
+* in Compute and Memory flavor classes, storage is entirely backed by Cloud Block Storage.
+* in I/O and General Purpose flavor classes, storage is RAID 10-protected SSD.
+* in Standard flavor classes, storage is RAID 10-protected SATA hard disk drives
+
+SATA local storage
+^^^^^^^^^^^^^^^^^^ 
 Also known as "spinning
-disk", these are the traditional hard drives with physical platters with which
+disk", Serial Advanced Technology Attachment (SATA) 
+are the traditional hard drives with physical platters with which
 most people are familiar. Due to efficiencies in engineering and manufacturing
 over time, they can provide large capacities at relatively low prices. However,
 due to the physical spinning platters and moving write heads of SATA disks,
 they are slower than newer technologies like SSD in many situations. 
 
-Performance Cloud Servers - SSD local storage
----------------------------------------------
-SSD stands for Solid State Disk, and, instead of the platters and write heads
-of SATA, uses persistant RAM technology to store data. This means that locating
-and reading any given bit of data from the disk is extremely fast, since there
-are no moving parts. This speed comes at a cost, literally, as SSD components
+SSD local storage
+^^^^^^^^^^^^^^^^^
+SSD stands for Solid State Disk. Instead of the platters and write heads
+of SATA, SSD uses persistant RAM technology to store data. 
+Because SSD has no moving parts, locating
+and reading any given bit of data from the disk is extremely fast. 
+This speed comes at a cost, literally, as SSD components
 are more expensive and thus are priced higher relative to SATA/spinning disks.
 
-OnMetal Disk (PCI) 
-^^^^^^^^^^^^^^^^^^ 
-OnMetal Cloud Servers offer the benefits of two kinds of configuration:
+OnMetal flavors and local storage types
+---------------------------------------
+OnMetal Cloud Servers offer the benefits 
+of two kinds of configuration:
 
 * the elasticity of cloud computing
 * the consistent performance of colocated hosting 

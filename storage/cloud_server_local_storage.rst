@@ -110,14 +110,22 @@ You can learn more about OnMetal in the Cloud Control Panel and at
 
 System and data disks 
 ---------------------
-Different flavors of Cloud Servers are given different allocations of system
+Different flavors of Cloud Servers are allocated different
+sizes and numbers of system
 and data disks. 
 
-**Standard / General Cloud Servers**: 1 System Disk **Performance Cloud
-Servers**: 1 System Disk, 1 or more Data Disks
-
-(we can put a table in here if we want but it'll be a bit of a hassle and might
-get outdated...link to RS.com?)
+To see what disk configuration is associated with each
+flavor, use the Cloud Control Panel to display the options 
+available to you when you create a server. 
+For example, 
+if you create a Cloud Server in the *I/O* flavor class 
+with 60GB RAM, 
+the initial configuration will include 
+40 GB system disk and 600 GB data disk (addressable as two disks); 
+if you create a Cloud Server in the *Compute* flavor class
+with 60 GB RAM, 
+the initial configuration will include 
+50 GB system disk and no data disk. 
 
 System Disk 
 ^^^^^^^^^^^
@@ -128,7 +136,7 @@ on this disk by default. Data can be stored on a system disk,
 although it may have less capacity than any attached data disks. 
 
 .. NOTE::
-   To make a back up copy of a *system* disk, 
+   To make a backup copy of a *system* disk, 
    use Cloud Images to create a bootable backup.
 
 Data Disks 
@@ -156,10 +164,10 @@ the operating system:
 * for Windows, see http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-windows-cloud-servers. 
 
 .. NOTE::
-   To make a back up copy of a *data* disk, use:
+   To make a backup copy of a *data* disk, use:
     
    * Cloud Backup for incremental backups, such as for disaster recovery
-   * Cloud Block Storage for portability, such as for creation of new servers
+   * Cloud Block Storage for portable backups, such as for relocation to new servers
 
 Protecting local storage 
 ------------------------ 

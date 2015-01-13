@@ -124,11 +124,11 @@ a Cloud Server with 60GB RAM in two different
 flavor classes: 
 
 * in the *I/O* flavor class, 
-the configuration will include 
-40 GB system disk and 600 GB data disk (addressable as two disks); 
+  the configuration will include 
+  40 GB system disk and 600 GB data disk (addressable as two disks)  
 * in the *Compute* flavor class,
-the configuration will include 
-50 GB system disk and no data disk. 
+  the configuration will include 
+  50 GB system disk and no data disk. 
 
 System Disk 
 ^^^^^^^^^^^

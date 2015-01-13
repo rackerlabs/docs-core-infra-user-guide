@@ -50,9 +50,9 @@ Choosing a flavor class for your Cloud Server
 also means choosing what kind of local storage 
 is available to that Cloud Server.
 
-* in Compute and Memory flavor classes, storage is entirely backed by Cloud Block Storage.
-* in I/O and General Purpose flavor classes, storage is RAID 10-protected SSD.
-* in Standard flavor classes, storage is RAID 10-protected SATA hard disk drives
+* In Compute and Memory flavor classes, storage is entirely backed by Cloud Block Storage.
+* In I/O and General Purpose flavor classes, storage is RAID 10 SSD.
+* In Standard flavor classes, storage is RAID 10 SATA hard disk drives.
 
 SATA local storage
 ^^^^^^^^^^^^^^^^^^ 
@@ -117,14 +117,17 @@ and data disks.
 To see what disk configuration is associated with each
 flavor, use the Cloud Control Panel to display the options 
 available to you when you create a server. 
-For example, 
-if you create a Cloud Server in the *I/O* flavor class 
-with 60GB RAM, 
-the initial configuration will include 
+
+For example, compare the disk configuration 
+offered for
+a Cloud Server with 60GB RAM in two different
+flavor classes: 
+
+* in the *I/O* flavor class, 
+the configuration will include 
 40 GB system disk and 600 GB data disk (addressable as two disks); 
-if you create a Cloud Server in the *Compute* flavor class
-with 60 GB RAM, 
-the initial configuration will include 
+* in the *Compute* flavor class,
+the configuration will include 
 50 GB system disk and no data disk. 
 
 System Disk 

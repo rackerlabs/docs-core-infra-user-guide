@@ -124,10 +124,10 @@ a Cloud Server with 60GB RAM in two different
 flavor classes: 
 
 * in the *I/O* flavor class, 
-  the configuration will include 
+  the configuration for this Cloud Server includes 
   40 GB system disk and 600 GB data disk (addressable as two disks)  
 * in the *Compute* flavor class,
-  the configuration will include 
+  the configuration for this Cloud Server includes 
   50 GB system disk and no data disk. 
 
 System Disk 
@@ -175,13 +175,23 @@ the operating system:
 Protecting local storage 
 ------------------------ 
 The virtual storage presented to your Cloud Server is backed by physical
-hardware in RAID10 configurations.  RAID10 means that multiple physical disks
+hardware in RAID 10 configurations. RAID 10 means that multiple physical disks
 in the same physical host would have to fail before there would be a chance of
 data loss on your Cloud Server. 
+Extensive hardware failure of this nature is extremely unlikely, 
+especially within the protective environment of 
+Rackspace data centers,
+but you may still be at risk for data loss caused by 
+human errors or human malice. 
 
-However, it is **strongly recommended** that you use one or more of the
-available methods below to provide an extra layer of protection for your System
-and/or Data Disks.
+Rackspace 
+**strongly recommends** 
+that you use one or more of the
+methods below to create and manage backup copies of your 
+system and data disks, 
+providing an extra layer of protection and 
+recoverability for your 
+Cloud Servers.
 
 Snapshots 
 ^^^^^^^^^ 
@@ -207,18 +217,7 @@ Custom methods
 ^^^^^^^^^^^^^^ 
 Rsync, etc. Not sure how far to go down this path 
 
-(below was lifted from KC article, not sure what to do with it yet)
 
-Performance servers use faster solid state drives (SSD) and separate the system
-disk from the data disk, with both disks equally RAID 10 protected. With your
-operating system on a separate disk from your data, you can more easily create
-an image of the system disk because it is a fixed size and doesn't scale up as
-other resources increase. For more information on data disk imaging
-limitations, see Images Capture System Disk Only (below) or for the full
-procedure,see Creating an Image of Your Performance Cloud Server with the
-Control Panel. You can back up the data on your data disk or disks by
-leveraging either Rackspace Cloud Backup or Rackspace Cloud Block Storage (an
-option that can also be used to increase the storage capacity of your server,
-if needed). For a comparison of the two data disk backup options, see Best
-Practices for Backing Up Your Data: Cloud Block Storage versus Cloud Backup.
+
+
 

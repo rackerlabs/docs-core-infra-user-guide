@@ -22,10 +22,11 @@ Contents
    :maxdepth: 2
 
    cloud_guide_intro/index
+   cloud_intro/index
+   cloud_interfaces/index
    quick_start/index
    general/infrastructure_reliability
    general/best_practices
-   general/interaction_methods
    general/absolute_and_rate_limits
    cloud_servers/index
    cloud_images/index

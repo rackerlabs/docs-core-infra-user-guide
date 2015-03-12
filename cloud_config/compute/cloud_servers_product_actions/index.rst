@@ -1,6 +1,5 @@
-Actions
-=======
-
+Actions for Cloud Servers
+=========================
 The following actions can be performed against an active, running server in the
 Control Panel and the API.
 
@@ -9,7 +8,6 @@ all of these actions.
 
 Rebuild
 -------
-
 This action rebuilds a server on the same physical host with a selected base
 image or saved snapshot. The image you select must be within the same operating
 system family (Windows or Linux). You will retain your public and ServiceNet IP
@@ -17,7 +15,6 @@ addresses. All data and disk formatting is lost.
 
 Resize
 ------
-
 Note: This action is not available for all flavor classes. Due to the
 presentation of the disks the option may be limited to up only or disallowed
 entirely.
@@ -34,7 +31,6 @@ automatically confirmed.
 
 Rescue Mode
 ------------------
-
 Rescue mode builds a new server using the current server's image. If the system
 is unable to access the current server's image then it will use the base image
 that server was built from. For example, if you have a server running a CentOS
@@ -50,24 +46,20 @@ with any changes made. Rescue mode will be automatically exited after 24 hours.
  
 Reboot
 ------
-
 This action performs a soft or hard reboot of the server.
 
 Soft Reboot
 ^^^^^^^^^^^
-
 A soft reboot is a graceful shutdown and restart of the server's operating
 system.
 
 Hard Reboot
 ^^^^^^^^^^^
-
 A hard reboot power cycles your server, which performs an immediate shutdown and
 restart.
 
 Console
 -------
-
 This action will open a Java web terminal emulator window with a login prompt to
 the server over a secure HTTPS connection. This allows access to the server when
 access from SSH or RDP might be inhibited due to the server's configuration or
@@ -78,12 +70,10 @@ the primary method of access.
 
 Rename
 ------
-
 This action changes the label for how a server is named in the Control Panel and
 via the API. This does not actually change the hostname on the server itself.
 
 Delete
 ------
-
 This action permanently deletes a server. Latent data is not recoverable from
 the disk of a deleted server.

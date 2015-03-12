@@ -1,8 +1,3 @@
-Storage and backups
--------------------
-When you create a Cloud Server, storage of several kinds is allocated to
-that server based on the choices you make.
-
 System and data disks for Cloud Servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Different flavors of Cloud Servers are allocated different sizes and

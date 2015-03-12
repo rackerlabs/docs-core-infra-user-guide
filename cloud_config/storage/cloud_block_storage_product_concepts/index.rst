@@ -46,4 +46,15 @@ http://www.rackspace.com/knowledge_center/article/boot-a-server-from-a-cloud-blo
 
 The Rackspace Knowledge Center provides many more details about Cloud
 Block Storage. Begin exploring
-at \ http://www.rackspace.com/knowledge_center/product-page/cloud-block-storage.
+at http://www.rackspace.com/knowledge_center/product-page/cloud-block-storage.
+
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   disk_storage
+   local_storage
+   block_storage
+   software_RAID

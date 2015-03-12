@@ -23,3 +23,15 @@ first tasks:
 The Cloud Control Panel may be the only interface needed by many users,
 especially if you don’t need to heavily automate the management of your
 cloud resources.
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   setup_GUI
+   cloudservers_GUI
+   cloudnetworks_GUI
+   cloudimages_GUI
+   cloudblockstorage_GUI
+   moreinfo_GUI

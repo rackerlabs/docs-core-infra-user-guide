@@ -51,3 +51,15 @@ Other clients can help you work with Cloud Images (glanceclient), Cloud
 Files (swiftclient), and other services. Which clients you need will
 depend on what Rackspace services you are using. All are installed and
 managed in a similar fashion.
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   setup_CLI
+   cloudservers_CLI
+   cloudnetworks_CLI
+   cloudimages_CLI
+   cloudblockstorage_CLI
+   moreinfo_CLI

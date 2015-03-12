@@ -86,3 +86,14 @@ plugins include:
 
 -  Salt: http://docs.saltstack.com/en/latest/topics/cloud/rackspace.html
 
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   setup_GUI
+   cloudservers_GUI
+   cloudnetworks_GUI
+   cloudimages_GUI
+   cloudblockstorage_GUI
+   moreinfo_GUI

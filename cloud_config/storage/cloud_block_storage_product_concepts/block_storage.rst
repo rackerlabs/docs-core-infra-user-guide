@@ -1,4 +1,4 @@
-Using CBS, you can add disk space to your Cloud
+Using Cloud Block Storage, you can add disk space to your Cloud
 Servers by attaching storage volumes.
 
 Cloud Block Storage offers volumes in two flavors:

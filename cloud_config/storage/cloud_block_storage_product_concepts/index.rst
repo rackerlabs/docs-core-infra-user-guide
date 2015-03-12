@@ -3,19 +3,7 @@ Understanding Cloud Block Storage
 Cloud Block Storage (CBS) provides persistent block-level storage
 volumes for use with Rackspace Standard and Performance Cloud Servers.
 CBS allows customers to scale their storage independently of their
-compute resources. Using CBS, you can add disk space to your Cloud
-Servers by attaching storage volumes.
-
-Cloud Block Storage offers volumes in two flavors:
-
--  Standard (spinning hard disk)
-
--  High-performance (SSD)
-
-Standard volumes are suitable for customers who need traditional
-high-capacity storage at a low price point. SSD volumes are suitable for
-customers who intend to run databases or other highly-transactional or
-high-I/O applications in the cloud.
+compute resources. 
 
 Cloud Block Storage is based on OpenStack Cinder and leverages
 open-source software and commodity hardware components to provide a

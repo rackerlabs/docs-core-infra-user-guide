@@ -9,9 +9,9 @@ all of these actions.
 To learn how to perform Cloud Networks actions using your choice of interface, 
 begin at 
 
-  * :ref:`../cloud_interfaces/GUI/cloudnetworks_GUI`
-  * :ref:`../cloud_interfaces/CLI/cloudnetworks_CLI`
-  * :ref:`../cloud_interfaces/API/cloudnetworks_API`
+  * :ref:`../../cloud_interfaces/GUI/cloudnetworks_GUI`
+  * :ref:`../../cloud_interfaces/CLI/cloudnetworks_CLI`
+  * :ref:`../../cloud_interfaces/API/cloudnetworks_API`
 
 Network actions
 ---------------

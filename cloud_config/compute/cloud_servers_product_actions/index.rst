@@ -6,6 +6,13 @@ Control Panel and the API.
 Note: Depending on your user's specific permissions, you may be unable to access
 all of these actions.
 
+To learn how to perform Cloud Servers actions using your choice of interface, 
+begin at 
+
+* :ref:`../cloud_interfaces/GUI/cloudservers_GUI`
+* :ref:`../cloud_interfaces/CLI/cloudservers_CLI`
+* :ref:`../cloud_interfaces/API/cloudservers_API`
+
 Rebuild
 -------
 This action rebuilds a server on the same physical host with a selected base

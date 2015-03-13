@@ -15,7 +15,6 @@ begin at
 
 Network actions
 ---------------
-
 * Retrieve list of networks
 * Create network
 * Show network
@@ -24,7 +23,6 @@ Network actions
 
 Subnet actions
 ---------------
-
 * Retrieve list of subnets
 * Create subnet
 * Show subnet
@@ -33,7 +31,6 @@ Subnet actions
 
 Port actions
 ---------------
-
 * Retrieve list of ports
 * Create port
 * Show port

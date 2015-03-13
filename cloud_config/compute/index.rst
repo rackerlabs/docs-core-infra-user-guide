@@ -13,9 +13,9 @@ visit :ref:`cloud_servers_product_actions`.
 * To learn how to perform Cloud Servers actions using your choice of interface, 
 begin at 
 
-** :ref:`../cloud_interfaces/GUI/cloudservers_GUI`
-** :ref:`../cloud_interfaces/CLI/cloudservers_CLI`
-** :ref:`../cloud_interfaces/API/cloudservers_API`
+  * :ref:`../cloud_interfaces/GUI/cloudservers_GUI`
+  * :ref:`../cloud_interfaces/CLI/cloudservers_CLI`
+  * :ref:`../cloud_interfaces/API/cloudservers_API`
 
 ----
 
@@ -28,9 +28,9 @@ see :ref:`cloud_images_product_actions`.
 * To learn how to perform Cloud Images actions using your choice of interface, 
 begin at 
 
-** :ref:`../cloud_interfaces/GUI/cloudimages_GUI`
-** :ref:`../cloud_interfaces/CLI/cloudimages_CLI`
-** :ref:`../cloud_interfaces/API/cloudimages_API`
+  * :ref:`../cloud_interfaces/GUI/cloudimages_GUI`
+  * :ref:`../cloud_interfaces/CLI/cloudimages_CLI`
+  * :ref:`../cloud_interfaces/API/cloudimages_API`
 
 ----
 

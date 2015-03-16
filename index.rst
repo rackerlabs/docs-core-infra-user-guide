@@ -15,8 +15,7 @@ regarding the Rackspace Cloud Core Infrastructure Services:
 can be submitted to
 https://github.com/rackerlabs/docs-core-infra-user-guide/issues.
 
-Contents
---------
+Contents:
 
 .. toctree::
    :maxdepth: 2
@@ -24,10 +23,11 @@ Contents
    cloud_guide_intro/index
    cloud_intro/index
    cloud_interfaces/index
+   cloud_config/index
+   cloud_preprod/index
+   cloud_ops/index
    quick_start/index
    general/infrastructure_reliability
-   general/best_practices
-   general/absolute_and_rate_limits
    cloud_servers/index
    cloud_images/index
    storage/index

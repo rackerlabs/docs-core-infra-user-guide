@@ -1,6 +1,27 @@
 Understanding Cloud Servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-xxxxxxxx
+Create one or many Cloud Servers to give yourself computing power in the
+Rackspace managed cloud.
+
+If you create a Cloud Server and decide that it doesn't meet your needs
+(for example, if an application you want to install is not compatible
+with the operating system), simply delete that Cloud Server and create a
+different one.
+
+You can create Cloud Servers of two types:
+
+* virtual servers
+
+* OnMetal™ servers
+
+This is an architectural overview of virtual servers:
+
+|image2| xxxxxxxx
+
+This is an architectural overview of OnMetal™ servers:
+
+|image3| xxxxxxxx
+
 
 Contents:
 

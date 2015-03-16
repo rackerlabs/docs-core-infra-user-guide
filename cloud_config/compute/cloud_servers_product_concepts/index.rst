@@ -10,6 +10,7 @@ Contents:
    create_server
    change_server
    flavor_class/index
+   server_region
    metadata/index
    boot_index
    nova_agent

@@ -13,3 +13,4 @@ Contents:
    network_rackconnect
    publicnet
    servicenet
+   DNS

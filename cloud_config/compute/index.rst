@@ -2,6 +2,11 @@ Core infrastructure in the Compute category
 ===========================================
 Cloud Servers and Cloud Images are core infrastructure products in the Compute category.
 
+Everything in the cloud begins with the computing power of Cloud
+Servers. After you create one or several Cloud Servers, you may need to
+add other services to create a configuration that is ideal for your
+workload.
+
 ----
 
 * To learn key concepts about Cloud Servers, 

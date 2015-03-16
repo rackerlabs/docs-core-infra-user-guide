@@ -27,7 +27,6 @@ Contents:
    cloud_preprod/index
    cloud_ops/index
    quick_start/index
-   general/infrastructure_reliability
    cloud_servers/index
    cloud_images/index
    storage/index

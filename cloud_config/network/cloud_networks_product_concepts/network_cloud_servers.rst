@@ -114,22 +114,22 @@ a Cloud Server, we will ask you to provide the following information:
 * The name of the server for which you would like to add the IP address.
 
 * Permission to restart the network service so that Rackspace Support
-   can configure the IP address. We may also ask you to indicate an
-   acceptable maintenance window during which we can perform the change.
+  can configure the IP address. We may also ask you to indicate an
+  acceptable maintenance window during which we can perform the change.
 
 * The SSL certificate. The certificate must have been signed by a valid
-   Certificate Authority; self-signed certificates are not accepted.
+  Certificate Authority; self-signed certificates are not accepted.
 
 After you are approved for an additional IPv4 address to support NAT on
 a Brocade Vyatta Router, we will ask you to provide the following
 information:
 
 * Confirmation that you intend to use the additional IPV4 address for
-   the purpose of NAT.
+  the purpose of NAT.
 
 * Permission to restart the network service so that Rackspace Support
-   can configure the IP address. We may also ask you to indicate an
-   acceptable maintenance window during which we can perform the change.
+  can configure the IP address. We may also ask you to indicate an
+  acceptable maintenance window during which we can perform the change.
 
 We cannot allocate more than 4 additional IPv4 addresses to a single
 Cloud Server or to a Brocade Vyatta vRouter. This gives each Cloud

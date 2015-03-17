@@ -1,3 +1,6 @@
+.. _cloud_block_storage_product_concepts:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Understanding Cloud Block Storage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cloud Block Storage (CBS) provides persistent block-level storage

@@ -1,3 +1,6 @@
+.. _cloud_config_compute:
+
+===========================================
 Core infrastructure in the Compute category
 ===========================================
 Cloud Servers and Cloud Images are core infrastructure products in the Compute category.

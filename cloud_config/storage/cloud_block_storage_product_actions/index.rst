@@ -1,26 +1,31 @@
+.. _cloud_block_storage_product_actions:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Actions for Cloud Block Storage
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You can use Cloud Block Storage to perform the following actions.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+You can use Cloud Block Storage to perform the actions described below.
 
 To learn how to perform Cloud Block Storage actions using your choice of interface, 
 begin at 
 
-* :ref:`../../cloud_interfaces/GUI/cloudblockstorage_GUI`
-* :ref:`../../cloud_interfaces/CLI/cloudblockstorage_CLI`
-* :ref:`../../cloud_interfaces/API/cloudblockstorage_API`
+* :ref:`cloudblockstorage_GUI`
+* :ref:`cloudblockstorage_CLI`
+* :ref:`cloudblockstorage_API`
+
+----
 
 Create a volume
 '''''''''''''''
 Instructs the Cinder API to provision a volume on a CBS storage node. As
 part of the volume creation call, you can specify
 
--  volume name
+* volume name
 
--  description
+* description
 
--  storage type (SATA or SSD)
+* storage type (SATA or SSD)
 
--  volume size
+* volume size
 
 Immediately after a volume is created, it cannot have any data written
 to it. To make the volume available for further operations, attach it to
@@ -40,16 +45,16 @@ Detach a volume from a Cloud Server
 '''''''''''''''''''''''''''''''''''
 Instructs the Nova API to
 
--  release the iSCSI connection between the CBS storage node and the
-   Cloud Server hypervisor
+* release the iSCSI connection between the CBS storage node and the
+  Cloud Server hypervisor
 
--  logically remove the volume as a usable disk for the Cloud Server
+* logically remove the volume as a usable disk for the Cloud Server
 
 The detach call can succeed only if the volume is
 
--  unmounted
+* unmounted
 
--  not in use by the host operating system
+* not in use by the host operating system
 
 Detaching a volume does not affect data on the volume. User data stored
 on Cloud Block Storage volumes is persistent and remains on the volume

@@ -21,4 +21,6 @@ Contents:
    base_images/index
    sharing_images/index
    import_export_images
+   on-demand_images
+   scheduled_images
    custom_images

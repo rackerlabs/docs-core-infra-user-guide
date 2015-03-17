@@ -1,3 +1,6 @@
+.. _cloud_interfaces_GUI:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 GUI: Rackspace Cloud Control Panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The Rackspace Cloud Control Panel at https://mycloud.rackspace.com is

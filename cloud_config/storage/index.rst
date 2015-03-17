@@ -14,13 +14,13 @@ use Cloud Block Storage to add more storage to your core infrastructure.
 ----
 
 * To learn key concepts about Cloud Block Storage, 
-begin at :ref:`cloud_block_storage_product_concepts`.
+  begin at :ref:`cloud_block_storage_product_concepts`.
 
 * To see a list of actions that Cloud Block Storage can perform, 
-visit :ref:`cloud_block_storage_product_actions`.
+  visit :ref:`cloud_block_storage_product_actions`.
 
 * To learn how to perform Cloud Block Storage actions using your choice of interface, 
-begin at 
+  begin at 
 
   * :ref:`cloudblockstorage_GUI`
   * :ref:`cloudblockstorage_CLI`

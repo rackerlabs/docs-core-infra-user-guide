@@ -1,5 +1,8 @@
+.. _moreinfo_API:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Learning more about SDKs and APIs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 xxxxxxxx
 
 Watch for release notes announcing changes to the SDKs at https://developer.rackspace.com/sdks/.

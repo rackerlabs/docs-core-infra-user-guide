@@ -3,31 +3,31 @@ Rackspace Cloud Core Infrastructure Services User Guide
 
 Introduction
 ------------
+We are developing this guide to serve as the authoritative source for information
+regarding the Rackspace cloud core infrastructure services:
 
-This guide was designed to serve as the authoritative source for information
-regarding the Rackspace Cloud Core Infrastructure Services:
- - Cloud Servers
- - Cloud Block Storage
- - Cloud Images
- - Cloud Networks
+* Cloud Servers
+* Cloud Images
+* Cloud Networks
+* Cloud Block Storage
 
-**This guide is currently a work in progress.** Issues regarding the contents
-can be submitted to
+.. WARNING::
+   **This guide is a work in progress.**
+   You are reading an early draft; 
+   be very cautious about acting on anything you read here.
+
+Please submit issues regarding the contents
+to
 https://github.com/rackerlabs/docs-core-infra-user-guide/issues.
 
-Contents
---------
+Contents:
 
 .. toctree::
    :maxdepth: 2
 
-   quick_start/index
-   general/infrastructure_reliability
-   general/best_practices
-   general/interaction_methods
-   general/absolute_and_rate_limits
-   cloud_servers/index
-   cloud_images/index
-   storage/index
-   networking_and_security/index
-   general/document_history
+   cloud_guide_intro/index
+   cloud_intro/index
+   cloud_interfaces/index
+   cloud_config/index
+   cloud_preprod/index
+   cloud_ops/index

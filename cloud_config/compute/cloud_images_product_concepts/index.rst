@@ -16,6 +16,6 @@ Contents:
    data_immutability
    virtualization_modes
    base_images/index
-   sharing_images
+   sharing_images/index
    import_export_images
    custom_images

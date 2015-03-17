@@ -8,12 +8,12 @@ Rackspace Cloud account to another, on an on-demand basis. This can be
 useful for many scenarios:
 
 * Share an image of a new server you have created or customized to a
-colleague for testing and comments.
+  colleague for testing and comments.
 
 * If you have multiple cloud accounts at Rackspace, for example to
-support different internal organizations or company branches, you can
-create a single central image and then share it with other accounts
-so they don’t have to create one themselves.
+  support different internal organizations or company branches, you can
+  create a single central image and then share it with other accounts
+  so they don’t have to create one themselves.
 
 An image producer is also called an image owner. An image owner can
 share an image with one or more image consumers.
@@ -42,11 +42,11 @@ to Consumer A and Consumer B, the relationships that are created are:
 This means that:
 
 * You can revoke the rights to the shared image from one consumer
-without affecting its availability to other users.
+  without affecting its availability to other users.
 
 * The image is available only to the specific consumer to whom you’ve
-shared it. It is not a “1 to many” sharing where you are able to
-share an image to ALL other Cloud users.
+  shared it. It is not a “1 to many” sharing where you are able to
+  share an image to ALL other Cloud users.
 
 Handshaking
 '''''''''''
@@ -69,22 +69,24 @@ control throughout.
 Image members can have any of the following statuses:
 
 * **accepted**: The consumer accepts the invitation to potentially use
-   the offered image, and the image appears in the consumer’s image
-   list. The producer knows that the consumer made an active decision
-   about the image.
+  the offered image, and the image appears in the consumer’s image
+  list. The producer knows that the consumer made an active decision
+  about the image.
 
 * **rejected**: The consumer declines the invitation to potentially use
-   the offered image, and the image does not appears in the consumer’s
-   image list. The producer knows that the consumer made an active
-   decision about the image. Note: The consumer can still use the image,
-   but must know the image ID, since the image is not in the image list.
+  the offered image, and the image does not appears in the consumer’s
+  image list. The producer knows that the consumer made an active
+  decision about the image. Note: The consumer can still use the image,
+  but must know the image ID, since the image is not in the image list.
 
 * **pending**: The consumer neither accepts nor declines the invitation
-   to potentially use the offered image, and may not have even noticed
-   the offer. The producer might elect to send a reminder that the image
-   is available, but this is outside the scope of the Cloud Images API.
-   Note: The consumer can still use the image, but must know the image
-   ID, since the image is not in the image list.
+  to potentially use the offered image, and may not have even noticed
+  the offer. The producer might elect to send a reminder that the image
+  is available, but this is outside the scope of the Cloud Images API.
+   
+.. NOTE:: 
+   While an image is pending, the consumer can use the image, 
+   but must know the image ID since the image is not shown in the image list.
 
 Considerations before sharing or using shared images
 ''''''''''''''''''''''''''''''''''''''''''''''''''''

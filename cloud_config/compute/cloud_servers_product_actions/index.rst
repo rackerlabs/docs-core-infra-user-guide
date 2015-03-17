@@ -1,4 +1,4 @@
-.. cloud_servers_product_actions:
+.. _cloud_servers_product_actions:
 
 =========================
 Actions for Cloud Servers

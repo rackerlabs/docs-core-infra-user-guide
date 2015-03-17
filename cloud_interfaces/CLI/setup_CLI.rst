@@ -1,5 +1,8 @@
+.. _setup_CLI:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
 Setting up to use rax-cli
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 xxxxxxxx
 
 You must have a Rackspace account.

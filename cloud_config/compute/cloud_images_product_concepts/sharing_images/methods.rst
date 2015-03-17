@@ -1,3 +1,12 @@
+Models of sharing Cloud Images
+------------------------------
+When you share a Cloud Image, 
+you create direct, unique relationship with each
+consumer of the image.
+The relationship between the producer of an image 
+and each consumer of the image 
+evolves through multiple stages.
+
 “1 to 1” sharing
 ''''''''''''''''
 When you share an image, what you are doing is creating a relationship

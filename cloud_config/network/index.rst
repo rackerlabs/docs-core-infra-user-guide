@@ -28,4 +28,4 @@ Contents:
    :maxdepth: 2
 
    cloud_networks_product_concepts/index
-   cloud_networks_product_actions
+   cloud_networks_product_actions/index

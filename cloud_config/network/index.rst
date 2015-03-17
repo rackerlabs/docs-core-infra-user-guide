@@ -1,3 +1,6 @@
+.. _cloud_config_network:
+
+===========================================
 Core infrastructure in the Network category
 ===========================================
 Cloud Networks is a core infrastructure product in the Network category.

@@ -1,3 +1,6 @@
+.. _cloud_interfaces_CLI:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 CLI: service-specific command-line interfaces and tools
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 As the Rackspace Cloud is based on OpenStack, there are a rich set of

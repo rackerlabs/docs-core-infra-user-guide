@@ -1,3 +1,6 @@
+.. cloud_images_product_concepts:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 Understanding Cloud Images
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 A virtual machine image (“image”, for short) is a single file that

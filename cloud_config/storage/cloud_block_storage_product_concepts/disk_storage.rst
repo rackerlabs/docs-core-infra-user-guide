@@ -10,12 +10,12 @@ create a server.
 For example, compare the disk configuration offered for a Cloud Server
 with 60GB RAM in two different flavor classes:
 
--  In the \ *I/O* flavor class, the configuration for this Cloud Server
-   includes 40 GB system disk and 600 GB data disk (addressable as two
-   disks).
+* In the \ *I/O* flavor class, the configuration for this Cloud Server
+includes 40 GB system disk and 600 GB data disk (addressable as two
+disks).
 
--  In the \ *Compute* flavor class, the configuration for this Cloud
-   Server includes 50 GB system disk and no data disk.
+* In the \ *Compute* flavor class, the configuration for this Cloud
+Server includes 50 GB system disk and no data disk.
 
 System disk
 ^^^^^^^^^^^
@@ -25,10 +25,10 @@ drive plugged into a physical computer. Operating systems are installed
 on this disk by default. Data can be stored on a system disk, although
 it may have less capacity than any attached data disks.
 
-**Note**
-
-To make a backup copy of a \ *system* disk, use Cloud Images to create a
-bootable backup.
+.. NOTE:: 
+   To make a backup copy of a *system* disk, 
+   use Cloud Images to create a
+   bootable backup.
 
 Data disks
 ^^^^^^^^^^
@@ -45,18 +45,16 @@ software RAID group.
 To prepare a data disk for use on a Cloud Server, follow the steps
 appropriate for that Cloud Server’s the operating system:
 
--  For Linux,
-   see \ http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-linux-cloud-servers.
+* For Linux,
+  see http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-linux-cloud-servers.
 
--  For Windows,
-   see \ http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-windows-cloud-servers.
+* For Windows,
+  see http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-windows-cloud-servers.
 
-**Note**
+.. NOTE::
+   To make a backup copy of a \ *data* disk, use:
 
-To make a backup copy of a \ *data* disk, use:
+   * Cloud Backup for incremental backups, such as for disaster recovery
 
--  Cloud Backup for incremental backups, such as for disaster recovery
-
--  Cloud Block Storage for portable backups, such as for relocation to
-       new servers
-
+   * Cloud Block Storage for portable backups, such as for relocation to
+   new servers

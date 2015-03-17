@@ -39,14 +39,14 @@ region.
 Choose a region that is near many of your users, reducing their network
 transfer time.
 
-.. image:: ../../../figures/CloudServerCreateRegionDFW.png
+.. image:: ../../../screenshots/CloudServerCreateRegionDFW.png
    :alt: Choose a region, which can affect network delivery speed.
 
 ***Step 2: Image***
 
 Choose an image that supports the applications you intend to run.
 
-.. image:: ../../../figures/CloudServerCreateImageUbuntu.png
+.. image:: ../../../screenshots/CloudServerCreateImageUbuntu.png
    :alt: Choose an operating system, which can affect price.
 
 ***Step 3: Flavor***
@@ -55,7 +55,7 @@ Choose a flavor that offers adequate capacity and the price you want to
 pay. Moving the blue slider up and down changes initial resource sizes;
 hovering over the green circle pops up an explanation of pricing.
 
-.. image:: ../../../figures/CloudServerCreateFlavorStandardInstance.png
+.. image:: ../../../screenshots/CloudServerCreateFlavorStandardInstance.png
    :alt: Choose resource sizes.
 
 After you submit your request, Nova-scheduler, the component responsible

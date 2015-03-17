@@ -1,5 +1,8 @@
+.. _moreinfo_CLI:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Learning more about rax-cli
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 xxxxxxxx
 
 Watch for release notes announcing changes to rax-cli at xxxxxxxx.

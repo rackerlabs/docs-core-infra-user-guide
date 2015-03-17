@@ -1,3 +1,6 @@
+.. _cloud_interfaces:
+
+==========================
 Interacting with the cloud
 ==========================
 One of the benefits of having an open standards based cloud, designed for

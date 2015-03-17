@@ -1,4 +1,4 @@
-.. cloud_images_product_actions:
+.. _cloud_images_product_actions:
 
 ========================
 Actions for Cloud Images

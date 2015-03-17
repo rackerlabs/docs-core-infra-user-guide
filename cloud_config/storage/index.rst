@@ -34,5 +34,5 @@ Contents:
    :maxdepth: 2
 
    cloud_block_storage_product_concepts/index
-   cloud_block_storage_product_actions
+   cloud_block_storage_product_actions/index
 

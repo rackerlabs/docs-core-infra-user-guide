@@ -48,6 +48,6 @@ Contents:
    :maxdepth: 2
 
    cloud_servers_product_concepts/index
-   cloud_servers_product_actions
+   cloud_servers_product_actions/index
    cloud_images_product_concepts/index
-   cloud_images_product_actions
+   cloud_images_product_actions/index

@@ -22,9 +22,9 @@ visit :ref:`cloud_block_storage_product_actions`.
 * To learn how to perform Cloud Block Storage actions using your choice of interface, 
 begin at 
 
-  * :ref:`../cloud_interfaces/GUI/cloudblockstorage_GUI`
-  * :ref:`../cloud_interfaces/CLI/cloudblockstorage_CLI`
-  * :ref:`../cloud_interfaces/API/cloudblockstorage_API`
+  * :ref:`cloudblockstorage_GUI`
+  * :ref:`cloudblockstorage_CLI`
+  * :ref:`cloudblockstorage_API`
 
 ----
 

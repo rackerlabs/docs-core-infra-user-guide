@@ -1,5 +1,8 @@
+.. cloud_images_product_actions:
+
+========================
 Actions for Cloud Images
-==========================
+========================
 The following actions can be performed to create and manage Cloud Images. 
 Actions can relate to an image, image sharing, image tags, image tasks, and image schemas.
 

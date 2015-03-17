@@ -24,9 +24,9 @@ select Networking > Cloud DNS > Create Domain:
 
 |image9| xxxxxxxx
 
-`For more about using the Cloud Control Panel to manage DNS information,
+For more about using the Cloud Control Panel to manage DNS information,
 read
-http://www.rackspace.com/knowledge\_center/article/creating-dns-records-for-cloud-servers-with-the-control-panel <http://www.rackspace.com/knowledge_center/article/creating-dns-records-for-cloud-servers-with-the-control-panel>`__.
+http://www.rackspace.com/knowledge_center/article/creating-dns-records-for-cloud-servers-with-the-control-panel.
 
 You can also use the Cloud DNS API to manage DNS information
 programmatically. Begin reading about that in the Cloud DNS API Getting
@@ -57,13 +57,14 @@ This basically means that after the sending IP address is checked, if
 the reverse DNS does not match the sending domain, then it is classed as
 “unauthenticated”.
 
-.. NOTE:: We put ”unauthenticated” in quotes because having a reverse DNS
-record attached to your domain does not automatically guarantee
-acceptance of email originating from your domain by the recipient’s
-email server. Having a reverse DNS record for your domain can prevent
-email originating from your domain from being immediately rejected.
-Non-matching or generic reverse DNS lookup settings are often rejected
-out of hand, but rejection can occur for other reasons.
+.. NOTE:: 
+   We put ”unauthenticated” in quotes because having a reverse DNS
+   record attached to your domain does not automatically guarantee
+   acceptance of email originating from your domain by the recipient’s
+   email server. Having a reverse DNS record for your domain can prevent
+   email originating from your domain from being immediately rejected.
+   Non-matching or generic reverse DNS lookup settings are often rejected
+   out of hand, but rejection can occur for other reasons.
 
 Creating a Reverse DNS record for your Cloud Server
 --------------------------------------------------- 

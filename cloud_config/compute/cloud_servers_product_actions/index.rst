@@ -1,3 +1,6 @@
+.. cloud_servers_product_actions:
+
+=========================
 Actions for Cloud Servers
 =========================
 The following actions can be performed against an active, running server in the

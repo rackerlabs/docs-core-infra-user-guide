@@ -10,32 +10,32 @@ workload.
 ----
 
 * To learn key concepts about Cloud Servers, 
-begin at :ref:`cloud_servers_product_concepts`.
+  begin at :ref:`cloud_servers_product_concepts`.
 
 * To see a list of actions that Cloud Servers can perform, 
-visit :ref:`cloud_servers_product_actions`.
+  visit :ref:`cloud_servers_product_actions`.
 
 * To learn how to perform Cloud Servers actions using your choice of interface, 
-begin at 
+  begin at 
 
-  * :ref:`../cloud_interfaces/GUI/cloudservers_GUI`
-  * :ref:`../cloud_interfaces/CLI/cloudservers_CLI`
-  * :ref:`../cloud_interfaces/API/cloudservers_API`
+  * :ref:`cloudservers_GUI`
+  * :ref:`cloudservers_CLI`
+  * :ref:`cloudservers_API`
 
 ----
 
 * To learn key concepts about Cloud Images, 
-begin at  :ref:`cloud_images_product_concepts`.
+  begin at  :ref:`cloud_images_product_concepts`.
 
 * To see a list of actions that Cloud Images can perform, 
-see :ref:`cloud_images_product_actions`.
+  see :ref:`cloud_images_product_actions`.
 
 * To learn how to perform Cloud Images actions using your choice of interface, 
-begin at 
+  begin at 
 
-  * :ref:`../cloud_interfaces/GUI/cloudimages_GUI`
-  * :ref:`../cloud_interfaces/CLI/cloudimages_CLI`
-  * :ref:`../cloud_interfaces/API/cloudimages_API`
+  * :ref:`cloudimages_GUI`
+  * :ref:`cloudimages_CLI`
+  * :ref:`cloudimages_API`
 
 ----
 

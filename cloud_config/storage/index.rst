@@ -1,3 +1,6 @@
+.. _cloud_config_storage:
+
+===========================================
 Core infrastructure in the Storage category
 ===========================================
 Cloud Block Storage is a core infrastructure product in the Storage category.

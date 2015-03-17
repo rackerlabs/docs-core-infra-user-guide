@@ -3,18 +3,19 @@
 ==========================
 Actions for Cloud Networks
 ==========================
-The following actions can be performed to create and manage Cloud Networks. 
+The actions described below can be performed to create and manage Cloud Networks. 
 Actions can relate to a network, a subnet, or a port.
 
-Note: Depending on your user's specific permissions, you may not have access to 
-all of these actions.
+.. NOTE:: 
+   Depending on your user's specific permissions, you may not have access to 
+   all of these actions.
 
 To learn how to perform Cloud Networks actions using your choice of interface, 
 begin at 
 
-  * :ref:`../../cloud_interfaces/GUI/cloudnetworks_GUI`
-  * :ref:`../../cloud_interfaces/CLI/cloudnetworks_CLI`
-  * :ref:`../../cloud_interfaces/API/cloudnetworks_API`
+  * :ref:`cloudnetworks_GUI`
+  * :ref:`cloudnetworks_CLI`
+  * :ref:`cloudnetworks_API`
 
 Network actions
 ---------------

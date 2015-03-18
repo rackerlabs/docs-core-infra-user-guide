@@ -1,3 +1,6 @@
+.. _cloud_preprod:
+
+==========================
 Preparing for productivity
 ==========================
 Before you begin performing useful work on a Cloud Server or any server,

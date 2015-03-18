@@ -1,3 +1,6 @@
+.. _cloud_guide_intro:
+
+=====================
 How to use this guide
 =====================
 We created this guide to help you get the most from your Rackspace cloud 

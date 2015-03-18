@@ -6,11 +6,13 @@ all previous versions.
 The most recent changes are described 
 in the table below:
 
-+------------------+--------------------+
-| Revision Date    | Summary of Changes |
-+==================+====================+
-| January 15, 2015 | * First draft      | 
-+------------------+--------------------+
++------------------+--------------------------------------------------+
+| Revision Date    | Summary of Changes                               |
++==================+==================================================+
+| March 17, 2015   | * Restructure draft; content remains incomplete. | 
++------------------+--------------------------------------------------+
+| January 15, 2015 | * First draft with incomplete content.           | 
++------------------+--------------------------------------------------+
 
 .. Estimated publication date; 
    adjust when finalized.

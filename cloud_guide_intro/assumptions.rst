@@ -5,8 +5,8 @@ We wrote this guide for you, imagining "you" as someone who
 * is already a Rackspace customer
 
    *We want to help you understand what's available to you in the
-    Rackspace cloud; you may already be familiar with other
-    Rackspace products and services.*
+   Rackspace cloud; you may already be familiar with other
+   Rackspace products and services.*
 
 * knows quite a lot about your own application
 

@@ -1,3 +1,6 @@
+.. _cloud_ops:
+
+===============================
 Succeeding in the managed cloud
 ===============================
 Creating a Cloud Servers configuration and equipping it with appropriate

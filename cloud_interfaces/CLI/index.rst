@@ -1,10 +1,10 @@
 .. _cloud_interfaces_CLI:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-CLI: service-specific command-line interfaces and tools
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CLI: command-line interfaces and tools
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 As the Rackspace Cloud is based on OpenStack, there are a rich set of
-open source command line interfaces (CLIs) available for users that want
+open source command line interfaces (CLIs) available for users who want
 to manage their cloud via shell scripts, manual commands, and more.
 
 CLI for Cloud Servers: OpenStack novaclient

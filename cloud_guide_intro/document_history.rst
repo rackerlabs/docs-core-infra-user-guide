@@ -1,4 +1,7 @@
-Document History
+.. _document_history:
+
+================
+Document history
 ================
 This version of the user’s guide 
 replaces and obsoletes 

@@ -1,3 +1,6 @@
+.. _cloud_intro:
+
+===================================
 **Introducing the Rackspace cloud**
 ===================================
 We want to help you confirm that working with Rackspace, home of

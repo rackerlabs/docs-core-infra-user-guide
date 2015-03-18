@@ -1,3 +1,6 @@
+.. _cloud_config:
+
+=====================================
 Establishing your cloud configuration
 =====================================
 Use our core infrastructure services--Cloud Servers, Cloud Networks,

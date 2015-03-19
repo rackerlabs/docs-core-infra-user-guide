@@ -12,9 +12,9 @@ all of these actions.
 To learn how to perform Cloud Images actions using your choice of interface, 
 begin at 
 
-* :ref:`../../cloud_interfaces/GUI/cloudimages_GUI`
-* :ref:`../../cloud_interfaces/CLI/cloudimages_CLI`
-* :ref:`../../cloud_interfaces/API/cloudimages_API`
+* :ref:`cloud_interfaces/GUI/cloudimages_GUI`
+* :ref:`cloud_interfaces/CLI/cloudimages_CLI`
+* :ref:`cloud_interfaces/API/cloudimages_API`
 
 Image actions
 -------------

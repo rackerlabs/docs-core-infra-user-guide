@@ -1,3 +1,5 @@
+.. _network_rackconnect.rst
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Networking considerations for RackConnect
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 RackConnect\ :sup:`®` refers to the technology (F5 Big-IP Load Balancer,
@@ -9,4 +11,4 @@ firewalls.
 
 .. image:: ../../../figures/RackConnectEnterpriseConfig.jpg
    :alt: RackConnect enables cloud servers and physical servers to
-   cooperate behind the same load balancer and firewall.
+         cooperate behind the same load balancer and firewall.

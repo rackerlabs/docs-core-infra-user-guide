@@ -1,3 +1,6 @@
+.. _choose_flavor_class:
+
+^^^^^^^^^^^^^^^^^^^^^^^
 Choosing a flavor class
 ^^^^^^^^^^^^^^^^^^^^^^^
 Flavor classes and flavors are often defined and grouped such that they
@@ -35,10 +38,10 @@ OnMetal servers
 OnMetal Cloud Servers are highly optimized for the following workloads:
 
 * **OnMetal Compute**: high traffic web servers, application servers,
-   load balancers, queue processing
+  load balancers, queue processing
 
 * **OnMetal Memory**: large scale caches, index searches, in-memory
-   analytics
+  analytics
 
 * **OnMetal I/O**: large relational databases and noSQL data stores,
-   Online Transaction Processing (OLTP) applications
+  Online Transaction Processing (OLTP) applications

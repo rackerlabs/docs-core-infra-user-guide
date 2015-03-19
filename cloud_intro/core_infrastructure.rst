@@ -20,12 +20,10 @@ of the same functions as hardware devices in our data centers:
 
 * Additional services enable specific activities such as user
    authentication, load balancing, and event monitoring.
-
-xxxxxxxx *art from*
-`*http://www.rackspace.co.uk/cloud/servers* <http://www.rackspace.co.uk/cloud/servers>`__
+   
+.. image:: ../../../figures/ManagedCloud.png
+   :alt: In the Rackspace Cloud, Fanatical Support combines with cloud technology.
 
 xxxxxxxx *looking for something primarily visual, of about this scope & size,
 explicitly foregrounding the core infrastructure (servers + images +
 networks + block storage)*
-
-xxxxxxxx IMAGE

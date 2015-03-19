@@ -12,9 +12,9 @@ all of these actions.
 To learn how to perform Cloud Servers actions using your choice of interface, 
 begin at 
 
-* :ref:`../../cloud_interfaces/GUI/cloudservers_GUI`
-* :ref:`../../cloud_interfaces/CLI/cloudservers_CLI`
-* :ref:`../../cloud_interfaces/API/cloudservers_API`
+* :ref:`cloudservers_GUI`
+* :ref:`cloudservers_CLI`
+* :ref:`cloudservers_API`
 
 Rebuild
 -------

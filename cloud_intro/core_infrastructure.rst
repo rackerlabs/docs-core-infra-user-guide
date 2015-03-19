@@ -13,15 +13,15 @@ of the same functions as hardware devices in our data centers:
 * Cloud Networks creates an internal network of Cloud Servers.
 
 * Cloud Block Storage emulates a removable disk, which can be
-   transferred from one Cloud Server to another.
+  transferred from one Cloud Server to another.
 
 * Cloud Images preserves a consistent starting point for new Cloud
-   Server instances.
+  Server instances.
 
 * Additional services enable specific activities such as user
-   authentication, load balancing, and event monitoring.
+  authentication, load balancing, and event monitoring.
    
-.. image:: ../../../figures/ManagedCloud.png
+.. image:: ../figures/ManagedCloud.png
    :alt: In the Rackspace Cloud, Fanatical Support combines with cloud technology.
 
 xxxxxxxx *looking for something primarily visual, of about this scope & size,

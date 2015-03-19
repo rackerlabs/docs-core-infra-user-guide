@@ -38,7 +38,10 @@ Sharing an image was designed with a “handshake” process model, to
 ensure that users involved in a sharing request have both awareness and
 control throughout.
 
-|image12| xxxxxxxx
+.. image:: ../../../figures/CloudImagesHandshaking.png
+   :alt: The image producer creates and image and creates an image member
+   for the image consumer; 
+   the image consumer accepts or rejects the image.
 
 1. The image producer identifies the desired image, and the consumers to
    whom the image will be shared.

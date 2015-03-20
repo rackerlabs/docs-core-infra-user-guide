@@ -39,7 +39,9 @@ To include a figure in the guide:
 
 ```
   .. image:: ../../../figures/ExampleImageFileName.png
-   :alt: Virtual Cloud Servers are the core of a rich configuration.
+     :alt: Cloud Servers are awesome.
+           If I say more than one line, 
+           I indent.
 ```
 
 * Update the inventory (below), connecting the image to 
@@ -47,22 +49,18 @@ To include a figure in the guide:
   responsible for it. 
   Keep the inventory alphabetized by filename.
 
-| image filename                       | used at                                                     | origin                                       | date         | added by             |
-| (in this directory)                  | (in published guide)                                        | (clue: URL,source filename,creator's name)   | (yyyy-mm-dd) | (contributor's name) |
-| ------------------------------------ | ----------------------------------------------------------- | -------------------------------------------- | ------------ | -------------------- |
-| CloudImagesHandshaking.png           | /cloud_config/compute/                                      | http://docs.rackspace.com/images/api/v2/     |              |                      |
-|                                      | cloud_images_product_concepts/sharing_images/models.html    | ci-gettingstarted/content/image-sharing.html | 2015-03-01   | Cat Lookabaugh       |
-| ------------------------------------ | ----------------------------------------------------------- | -------------------------------------------- | ------------ | -------------------- |
-| CloudServerNetworkRemovalResults.png | /cloud_config/network/                                      | https://github.com/rackerlabs/               | 2014-07-22   | Sameer Satyam        |
-|                                      | cloud_networks_product_concepts/network_cloud_servers.html  | docs-core-infra-user-guide/issues/26         |              |                      |
-| ------------------------------------ | ----------------------------------------------------------- | -------------------------------------------- | ------------ | -------------------- |
-| CloudServerOnMetalArchitecture.png   | /cloud_intro/core_infrastructure.html                       | internal ProductWeb                          | 2015-03-01   | Rose Coste           |
-| ------------------------------------ | ----------------------------------------------------------- | -------------------------------------------- | ------------ | -------------------- |
-| CloudServerVirtualArchitecture.png   | /cloud_intro/core_infrastructure.html                       | internal ProductWeb                          | 2015-03-01   | Rose Coste           |
-| ------------------------------------ | ----------------------------------------------------------- | -------------------------------------------- | ------------ | -------------------- |
-| ManagedCloud.png                     | /cloud_config/compute/                                      | http://www.rackspace.co.uk/cloud/servers     | 2015-03-01   | Rose Coste           |
-|                                      | cloud_servers_product_concepts/index.html                   |                                              |              |                      |
-| ------------------------------------ | ----------------------------------------------------------- | -------------------------------------------- | ------------ | -------------------- |
-| RackConnectEnterpriseConfig.jpg      | /cloud_config/network/                                      | internal ProductWeb                          | 2015-03-01   | Rose Coste           |
-|                                      | cloud_networks_product_concepts/network_rackconnect.html    |                                              |              |                      |
-| ------------------------------------ | ----------------------------------------------------------- | -------------------------------------------- | ------------ | -------------------- |
+----
+**Inventory of figures**
+
+* **CloudImagesHandshaking.png**
+  * used at /cloud_config/compute/cloud_images_product_concepts/sharing_images/models.html
+  * originated from http://docs.rackspace.com/images/api/v2/ci-gettingstarted/content/image-sharing.html 
+  * collection date 2015-03-01
+  * contributed by Cat Lookabaugh
+
+* **CloudServerNetworkRemovalResults.png**
+  * used at /cloud_config/network/cloud_networks_product_concepts/network_cloud_servers.html
+  * originated from https://github.com/rackerlabs/docs-core-infra-user-guide/issues/26 
+  * collection date 2014-07-22
+  * contributed by Sameer Satyam
+

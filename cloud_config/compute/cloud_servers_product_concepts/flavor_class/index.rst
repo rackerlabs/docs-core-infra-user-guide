@@ -1,3 +1,6 @@
+.. _cloud_servers_flavor_class:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Understanding flavor classes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A flavor class is a grouping of flavors based on similar
@@ -9,7 +12,8 @@ Flavor classes for virtual servers
 To create your Cloud Server as a virtual server, open the Virtual Server
 tab from the Cloud Control Panel.
 
-|image4|
+.. image:: ../../../screenshots/CloudServerCreateVirtual.png
+   :alt: Virtual Server tab
 
 You can choose Virtual Server flavor classes optimized for compute, I/O,
 memory, general purpose, or standard resources:
@@ -43,7 +47,8 @@ Flavor classes for OnMetal servers
 To create your Cloud Server as an OnMetal™ server, open the OnMetal™
 Server tab from the Cloud Control Panel.
 
-|image5| xxxxxxxx
+.. image:: ../../../screenshots/CloudServerCreateOnMetal.png
+   :alt: OnMetal Server tab
 
 You can choose OnMetal™ Server flavor classes optimized for I/O, memory,
 or compute resources:

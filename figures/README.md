@@ -53,14 +53,39 @@ To include a figure in the guide:
 **Inventory of figures**
 
 * **CloudImagesHandshaking.png**
-  * used at /cloud_config/compute/cloud_images_product_concepts/sharing_images/models.html
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/compute/cloud_images_product_concepts/sharing_images/models.html
   * originated from http://docs.rackspace.com/images/api/v2/ci-gettingstarted/content/image-sharing.html 
   * collection date 2015-03-01
   * contributed by Cat Lookabaugh
 
 * **CloudServerNetworkRemovalResults.png**
-  * used at /cloud_config/network/cloud_networks_product_concepts/network_cloud_servers.html
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/network/cloud_networks_product_concepts/network_cloud_servers.html
   * originated from https://github.com/rackerlabs/docs-core-infra-user-guide/issues/26 
   * collection date 2014-07-22
   * contributed by Sameer Satyam
+  
+* **CloudServerOnMetalArchitecture.png**
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_intro/core_infrastructure.html
+  * originated from internal ProductWeb
+  * collection date 2015-03-01
+  * contributed by Rose Coste
 
+* **CloudServerVirtualArchitecture.png**
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_intro/core_infrastructure.html
+  * originated from internal ProductWeb
+  * collection date 2015-03-01
+  * contributed by Rose Coste
+  
+* **ManagedCloud.png**
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/compute/cloud_servers_product_concepts/index.html
+  * originated from http://www.rackspace.co.uk/cloud/servers
+  * collection date 2015-03-01
+  * contributed by Rose Coste
+
+* **RackConnectEnterpriseConfig.jpg **
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/network/cloud_networks_product_concepts/network_rackconnect.html
+  * originated from internal ProductWeb
+  * collection date 2015-03-01
+  * contributed by Rose Coste
+  
+  

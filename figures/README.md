@@ -82,7 +82,7 @@ To include a figure in the guide:
   * collection date 2015-03-01
   * contributed by Rose Coste
 
-* **RackConnectEnterpriseConfig.jpg **
+* **RackConnectEnterpriseConfig.jpg**
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/network/cloud_networks_product_concepts/network_rackconnect.html
   * originated from internal ProductWeb
   * collection date 2015-03-01

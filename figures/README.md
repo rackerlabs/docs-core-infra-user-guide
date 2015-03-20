@@ -76,7 +76,7 @@ To include a figure in the guide:
   * contributed by Rose Coste
   
 * **ManagedCloud.png**
-  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/compute/cloud_intro/core_infrastructure.html
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/compute/cloud_servers_product_concepts/index.html
   * originated from http://www.rackspace.co.uk/cloud/servers
   * collection date 2015-03-01
   * contributed by Rose Coste
@@ -86,5 +86,4 @@ To include a figure in the guide:
   * originated from internal ProductWeb
   * collection date 2015-03-01
   * contributed by Rose Coste
-  
   

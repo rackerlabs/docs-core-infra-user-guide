@@ -44,20 +44,20 @@ To include a screenshot in the guide:
 
 * **CloudDNSAddReverse.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/network/cloud_networks_product_concepts/DNS.html
-  * collected from https://mycloud.rackspace.com/ 
-  * collection date 2015-03-01
-  * contributed by Rose Coste
+  * collected from http://www.rackspace.com/knowledge_center/article/create-a-reverse-dns-record-0 
+  * collection date 2015-03-01 (KC article dated 2015-02-02)
+  * contributed by Rose Coste (KC article author listed as "Rackspace Support")
   
 * **CloudDNSAddReverseDetails.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/network/cloud_networks_product_concepts/DNS.html
-  * collected from https://mycloud.rackspace.com/ 
-  * collection date 2015-03-01
-  * contributed by Rose Coste
+  * collected from http://www.rackspace.com/knowledge_center/article/create-a-reverse-dns-record-0 
+  * collection date 2015-03-01 (KC article dated 2015-02-02)
+  * contributed by Rose Coste (KC article author listed as "Rackspace Support")
   
 * **CloudDNSCreateDomain.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/network/cloud_networks_product_concepts/DNS.html
   * collected from https://mycloud.rackspace.com/ 
-  * collection date 2015-03-01
+  * collection date 2015-03-01 
   * contributed by Rose Coste
   
 * **CloudServerCreateFlavorStandardInstance.png**

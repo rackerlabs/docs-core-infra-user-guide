@@ -1,3 +1,6 @@
+.. _import_export_images:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Importing and exporting images
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The Rackspace Cloud proudly runs on OpenStack, open-source software that

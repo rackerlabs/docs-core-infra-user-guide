@@ -1,3 +1,6 @@
+.. default_base_images:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Default base image configurations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 How we manage the default configuration for base images is different for

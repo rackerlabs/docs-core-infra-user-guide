@@ -1,3 +1,6 @@
+.. scheduled_images:
+
+''''''''''''''''
 Scheduled images
 ''''''''''''''''
 In addition to on-demand images, you have the ability to enable

@@ -1,4 +1,4 @@
-.. _create_server.rst
+.. _create_server:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Using flavors to configure a new Cloud Server

@@ -1,4 +1,4 @@
-.. _network_rackconnect.rst
+.. _network_rackconnect:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Networking considerations for RackConnect
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

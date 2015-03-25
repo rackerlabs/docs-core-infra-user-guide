@@ -1,3 +1,6 @@
+.. lifecycle_base_images:
+
+^^^^^^^^^^^^^^^^^^^^^
 Base images lifecycle
 ^^^^^^^^^^^^^^^^^^^^^
 To provide the best experience for our customers, we carefully maintain
@@ -7,7 +10,7 @@ removed from the default list, usually shortly after a newer version is
 released. 
 
 Images that have been published are never deleted, so even if
-they’re removed from the default list they will still be buildable via
+they are removed from the default list they will still be buildable via
 image ID using the Cloud Servers API. 
 
 Older images that have been

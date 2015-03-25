@@ -1,3 +1,6 @@
+.. _image_properties:
+
+^^^^^^^^^^^^^^^^
 Image properties
 ^^^^^^^^^^^^^^^^
 When we talk about images in the Rackspace Cloud, what we’re really

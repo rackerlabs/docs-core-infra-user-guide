@@ -1,6 +1,11 @@
+.. _support:
+
+---------------
 Getting support
 ---------------
-xxxxxxxx
+You can find support for your work in 
+the Rackspace cloud 
+in many ways:
 
 * See frequently-needed support information at support.rackspace.com. 
 

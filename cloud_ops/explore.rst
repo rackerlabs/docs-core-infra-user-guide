@@ -1,5 +1,8 @@
-Exploring more of the managed cloud
------------------------------------
+.. _explore:
+
+-------------------
+Exploring the cloud
+-------------------
 In the cloud, 
 you can quickly try something, decide it isn't quite right, 
 then try something else. It's a flexible environment, 

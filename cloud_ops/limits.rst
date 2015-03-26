@@ -1,3 +1,6 @@
+.. _limits:
+
+-------------------------------
 Managing your Rackspace account
 -------------------------------
 When you log into your `Cloud Control
@@ -54,7 +57,7 @@ limits mean you won’t be surprised by a sudden spike in billable
 activity. Limits can also protect you from workloads beyond the capacity
 of your configuration.
 
-Limits on your account’s activity are initially set by Rackspace. You
+Limits on your account's activity are initially set by Rackspace. You
 can change some limits yourself to suit your workload; to change other
 limits, contact Rackspace.
 

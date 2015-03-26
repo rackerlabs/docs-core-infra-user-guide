@@ -1,8 +1,8 @@
 .. _cloud_ops:
 
-===============================
-Succeeding in the managed cloud
-===============================
+=======================
+Succeeding in the cloud
+=======================
 Creating a Cloud Servers configuration and equipping it with appropriate
 security, backup, application software, monitoring, and scaling can
 be a one-time experience, if you like what you build the first time and

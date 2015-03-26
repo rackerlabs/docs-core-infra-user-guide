@@ -1,5 +1,8 @@
-**Assumptions**
----------------
+.. _assumptions:
+
+-----------
+Assumptions
+-----------
 We wrote this guide for you, imagining "you" as someone who
 
 * is already a Rackspace customer

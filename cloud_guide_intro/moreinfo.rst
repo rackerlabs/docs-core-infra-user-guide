@@ -1,6 +1,9 @@
+.. _moreinfo:
+.. _moreinfo:
+
+---------------------------------------
 Alternatives and additional information
 ---------------------------------------
-
 If you aren't the "you" we imagined in writing this guide, you may find
 other Rackspace resources more suited to your needs. Here are some
 starting points:

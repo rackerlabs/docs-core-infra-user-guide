@@ -1,3 +1,6 @@
+.. _disk_storage:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 System and data disks for Cloud Servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Different flavors of Cloud Servers are allocated different sizes and
@@ -10,19 +13,22 @@ create a server.
 For example, compare the disk configuration offered for a Cloud Server
 with 60GB RAM in two different flavor classes:
 
-* In the \ *I/O* flavor class, the configuration for this Cloud Server
-includes 40 GB system disk and 600 GB data disk (addressable as two
-disks).
+* In the *I/O* flavor class, the configuration for this Cloud Server
+  includes 40 GB system disk and 600 GB data disk 
+  (addressable as two disks).
 
-* In the \ *Compute* flavor class, the configuration for this Cloud
-Server includes 50 GB system disk and no data disk.
+* In the *Compute* flavor class, the configuration for this Cloud
+  Server includes 50 GB system disk and no data disk.
 
 System disk
 ^^^^^^^^^^^
-The system disk, also called “boot disk”, is the first disk the server
-will attempt to access and boot from, much like the first physical hard
-drive plugged into a physical computer. Operating systems are installed
-on this disk by default. Data can be stored on a system disk, although
+The system disk, also called boot disk, is the first disk the server
+will attempt to access and boot from, 
+much like the first physical hard
+drive plugged into a physical computer. 
+Operating systems are installed
+on this disk by default. 
+Data can be stored on a system disk, although
 it may have less capacity than any attached data disks.
 
 .. NOTE:: 
@@ -52,9 +58,9 @@ appropriate for that Cloud Server’s the operating system:
   see http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-windows-cloud-servers.
 
 .. NOTE::
-   To make a backup copy of a \ *data* disk, use:
+   To make a backup copy of *data* disk, use:
 
    * Cloud Backup for incremental backups, such as for disaster recovery
 
    * Cloud Block Storage for portable backups, such as for relocation to
-   new servers
+     new servers

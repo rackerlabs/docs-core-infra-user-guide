@@ -1,3 +1,6 @@
+.. _stack:
+
+---------------------------
 Installing a software stack
 ---------------------------
 When you create a Cloud Server, unless you begin from an existing
@@ -21,71 +24,84 @@ that through the Cloud Control Panel, choose "Create Stack" rather than
 to install. We frequently expand the list of templates; as of February
 19, 2015, these templates are available:
 
-• Ansible Tower
+.. This list is from the control panel; 
+   another version is in the Knowledge Center, 
+   http://www.rackspace.com/knowledge_center/article/available-templates-for-cloud-orchestration.
+   Order here and in the Control Panel is alphabetical;
+   I don't know what order is in the KC article. 
+   
+* Ansible Tower
 
-• ASP .Net
+* ASP.net
 
-• Cassandra
+* Cassandra
 
-• Chef Server
+* Chef Server
 
-• Django
+* Django
 
-• DNN
+* DNN
 
-• Docker
+* Docker
 
-• Drone.io
+* Drone.io
 
-• Drupal
+* Drupal
 
-• Elasticsearch
+* Elasticsearch
 
-• Ghost
+* Ghost
 
-• GitLab
+* GitLab
 
-• Graphite
+* Graphite
 
-• IPython Notebook
+* IPython Notebook
 
-• JabbR
+* JabbR
 
-• Jenkins
+* Jenkins
 
-• LAMP
+* LAMP
 
-• Magento
+* Magento
 
-• memcached
+* memcached
 
-• Minecraft
+* Minecraft
 
-• MongoDB
+* MongoDB
 
-• MySQL
+* MySQL
 
-• Node.js
+* Node.js
 
-• ownCloud
+* ownCloud
 
-• PHP
+* PHP
 
-• Rails
+* Rails
 
-• Redis
+* Redis
 
-• SaltStack
+* SaltStack
 
-• StrongLoop
+* StrongLoop
 
-• Umbraco
+* Umbraco
 
-• Vesta
+* Vesta
 
-• WebPageTest
+* WebPageTest
 
-• WordPress
+* WordPress
+
+For some templates, you can choose a flavor. 
+For example, the Rails template is available in 
+single-server and multi-server flavors. 
+
+.. image:: ../../../screenshots/CloudOrchestrationRailsFlavors.png
+   :alt: Some templates are offered in multiple flavors.
 
 If you've written your own automation to create Cloud Servers, you can
 use the Cloud Orchestration API to create a server from one of our

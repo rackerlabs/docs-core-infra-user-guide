@@ -24,7 +24,7 @@ Image actions
 * Delete image
 
 Image sharing actions, for image producers only
-----------------------------------------------
+-----------------------------------------------
 * Create image member
 * Delete image member
 

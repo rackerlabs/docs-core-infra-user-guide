@@ -1,36 +1,37 @@
+.. _tour_compute_services:
+
+----------------
 Compute services
 ----------------
-In the cloud, compute services provide processing power.
+Services in this category include
+* Cloud Servers 
+* Cloud Images
+
+.. NOTE::
+   **Cloud Servers** and **Cloud Images** are part of the 
+   core infrastructure of the Rackspace cloud, 
+   the focus of this guide. 
+   
+   A good place to begin learning to interact with them is
+   :ref:`cloud_interfaces`.
 
 Cloud Servers at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-★ core infrastructure: more at Cloud Servers: flexible computing power
+* product overview at 
+  http://www.rackspace.com/cloud/servers
 
- open-source roots: OpenStack Nova
-
- product overview: http://www.rackspace.com/cloud/servers
-
-$ PAY only for what you use
-
-xxxxxxx
-
-get details from
-
-https://one.rackspace.com/display/productweb/Virtual+Cloud+Servers
-
-get details from
-https://one.rackspace.com/display/productweb/OnMetal+Cloud+Servers
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
+  
+* open-source roots: 
+  `OpenStack Nova <http://docs.openstack.org/developer/nova/>`__
 
 Cloud Images at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
-★ core infrastructure: more in this guide at
+* product overview at 
+  http://www.rackspace.com/cloud/images
 
- open-source roots: OpenStack Glance
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`. 
 
- product overview: http://www.rackspace.com/cloud/images
+* open-source roots: 
+  `OpenStack Glance <http://docs.openstack.org/developer/glance/>`__
 
-$ PAY only for what you use
-
-xxxxxxx
-
-get details from

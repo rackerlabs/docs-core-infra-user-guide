@@ -1,53 +1,47 @@
+.. _tour_application_services:
+
+--------------------
 Application services
 --------------------
+Services in this category include
+* Auto Scale 
+* Cloud Metrics
+* Cloud Monitoring
+* Cloud Orchestration
 
 Auto Scale at a glance
 ~~~~~~~~~~~~~~~~~~~~~~
+* product overview at  
+  http://www.rackspace.com/cloud/auto-scale
 
- open-source roots: Otter
+* FREE with every cloud account
 
- product overview: http://www.rackspace.com/cloud/auto-scale
-
- FREE with every cloud account
-
-xxxxxxx
-
-get details from
+* open-source roots: 
+  `Otter <https://github.com/rackerlabs/otter>`__
 
 Cloud Metrics at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-
- product overview:
-
-xxxxxxx
-
-get details from
+* product overview at 
+  xxxxxxxx
+  
+* pricing? xxxxxxxx
 
 Cloud Monitoring at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* product overview at 
+  http://www.rackspace.com/cloud/monitoring
 
- open-source roots: Virgo
+* FREE with every cloud account
 
- product overview: http://www.rackspace.com/cloud/monitoring
-
- FREE with every cloud account
-
-xxxxxxx
-
-get details from
-https://one.rackspace.com/display/productweb/Cloud+Monitoring
+* open-source roots: 
+  `Virgo <https://github.com/virgo-agent-toolkit>`__
 
 Cloud Orchestration at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* product overview: http://www.rackspace.com/cloud/orchestration
 
- open-source roots: OpenStack Heat
+* FREE with every cloud account
 
- product overview: http://www.rackspace.com/cloud/orchestration
-
- FREE with every cloud account
-
-xxxxxxx
-
-get details from
-https://one.rackspace.com/display/productweb/Cloud+Orchestration
+* open-source roots: 
+  `OpenStack Heat <http://docs.openstack.org/developer/heat/>`__
 

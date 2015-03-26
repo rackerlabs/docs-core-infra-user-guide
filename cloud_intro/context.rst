@@ -1,3 +1,6 @@
+.. _context:
+
+----------------------------
 The managed cloud in context
 ----------------------------
 The Rackspace managed cloud, our public cloud, is built to comply with

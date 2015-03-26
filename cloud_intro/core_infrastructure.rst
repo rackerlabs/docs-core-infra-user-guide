@@ -1,5 +1,8 @@
+.. _core_infrastructure:
+
+-----------------------------------------------
 Rackspace cloud core infrastructure at a glance
----------------------------------------------
+-----------------------------------------------
 Your Rackspace cloud configuration is backed by the physical
 infrastructure in our data centers; read more about Rackspace data
 centers at http://www.rackspace.com/about/datacenters.

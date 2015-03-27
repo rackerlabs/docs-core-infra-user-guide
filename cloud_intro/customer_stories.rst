@@ -1,5 +1,8 @@
+.. _customer_stories:
+
+----------------
 Customer stories
----------------------
+----------------
 You have big ideas of your own, but thinking about what other customers
 have accomplished in the Rackspace cloud may give you some new
 inspiration. To learn about customers who have used the cloud to help them

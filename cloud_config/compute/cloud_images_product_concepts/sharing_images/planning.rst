@@ -1,3 +1,6 @@
+.. cloud_images_sharing_planning:
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''
 Considerations before sharing or using shared images
 ''''''''''''''''''''''''''''''''''''''''''''''''''''
 Although it is easy to share a Cloud Image, it is not always

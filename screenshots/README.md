@@ -60,6 +60,12 @@ To include a screenshot in the guide:
   * collection date 2015-03-01 
   * contributed by Rose Coste
   
+  * **CloudOrchestrationRailsFlavors.png**
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_preprod/stack.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-03-26
+  * contributed by Rose Coste
+  
 * **CloudServerCreateFlavorStandardInstance.png**
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/compute/cloud_servers_product_concepts/server_region.html
   * collected from https://mycloud.rackspace.com/ 

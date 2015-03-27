@@ -1,25 +1,29 @@
-Security & supporting services
-------------------------------
+.. _tour_support_services:
+
+--------------------------------
+Security and supporting services
+--------------------------------
+Services in this category include
+* Cloud Feeds 
+* Cloud Identity 
 
 Cloud Feeds at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
-
- open-source roots: Atom Hopper
-
- product overview:
-
-xxxxxxx
-
-get details from
-
+* product overview at
+  xxxxxxxx
+  
+* pricing? xxxxxxxx  
+  
+* open-source roots: 
+  `Atom Hopper <http://atomhopper.org/>`__
 
 Cloud Identity at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
- open-source roots: OpenStack Keystone
+* product overview at 
+  xxxxxxxx
 
- product overview:
+* FREE with every cloud account
 
- FREE with every cloud account
+* open-source roots: 
+  `OpenStack Keystone <http://docs.openstack.org/developer/keystone/>`__
 
-xxxxxxx
-get details from

@@ -1,3 +1,6 @@
+.. patching_base_images:
+
+^^^^^^^^^^^^^^^^^^^^
 Patching base images
 ^^^^^^^^^^^^^^^^^^^^
 Software patches are applied to base images as appropriate to each

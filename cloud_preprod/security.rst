@@ -1,3 +1,6 @@
+.. _security:
+
+-------------------
 Tightening security
 -------------------
 Every time you create a server, whether in the cloud or in your data

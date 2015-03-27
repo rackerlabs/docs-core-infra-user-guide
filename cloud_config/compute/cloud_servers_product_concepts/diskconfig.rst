@@ -1,3 +1,6 @@
+.. _diskconfig:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Configuring disks for a Cloud Server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you create a Cloud Server, it is provisioned on a physical server
@@ -20,11 +23,11 @@ data on an ephemeral disk is not copied.
 Depending on the interface used, persistent and ephemeral disks are
 labeled differently:
 
-* The Cloud Servers API labels persistent disk as ‘Disk’ and ephemeral
-  disk as ‘Ephemeral’.
+* The Cloud Servers API labels persistent disk as "Disk" and ephemeral
+  disk as "Ephemeral".
 
-* The Cloud Control Panel labels persistent disk as ‘System Disk’ and
-  ephemeral disk as ‘Data Disk’.
+* The Cloud Control Panel labels persistent disk as "System Disk" and
+  ephemeral disk as "Data Disk".
 
 Presentation of disks to the operating system
 '''''''''''''''''''''''''''''''''''''''''''''

@@ -1,3 +1,6 @@
+.. _virtualization_modes:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Virtualization modes: PV and PVHVM
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can choose between two virtualization modes to be used by the

@@ -1,3 +1,6 @@
+.. _cloud_tour:
+
+---------------------------------------------
 Touring the managed cloud, service by service
 ---------------------------------------------
 The managed cloud is more than a virtualized representation of physical

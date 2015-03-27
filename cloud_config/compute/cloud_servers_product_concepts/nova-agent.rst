@@ -1,3 +1,6 @@
+.. _nova-agent:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Operating a Cloud Server with nova-agent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 One of the key differences between a Cloud Server and a non-cloud

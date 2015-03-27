@@ -1,3 +1,6 @@
+.. _server _region:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Creating a Cloud Server in a region
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you plan to build a Cloud Server, you may be interested in the

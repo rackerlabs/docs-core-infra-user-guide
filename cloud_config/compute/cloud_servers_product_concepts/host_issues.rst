@@ -1,3 +1,6 @@
+.. _host_issues:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Handling host-related issues
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A Cloud Server is a virtual server; it resides on a physical host. The

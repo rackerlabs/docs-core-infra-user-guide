@@ -1,56 +1,53 @@
-Storage & content delivery services
------------------------------------
+.. _tour_storage_services:
+
+-------------------------------------
+Storage and content delivery services
+-------------------------------------
+Services in this category include
+* Cloud Block Storage 
+* Cloud Backup
+* Cloud CDN
+* Cloud Files 
+
+.. NOTE::
+   **Cloud Block Storage** is part of the 
+   core infrastructure of the Rackspace cloud, 
+   the focus of this guide. 
+   
+   A good place to begin learning to interact with it is
+   :ref:`cloud_interfaces`. 
 
 Cloud Block Storage at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-★ core infrastructure: more in this guide at
+* product overview at 
+  http://www.rackspace.com/cloud/block-storage
 
- open-source roots: OpenStack Cinder
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
 
- product overview: http://www.rackspace.com/cloud/block-storage
-
-$ PAY only for what you use
-
-xxxxxxx
-
-get details from
-https://one.rackspace.com/display/productweb/Cloud+Block+Storage
+* open-source roots: 
+  `OpenStack Cinder <http://docs.openstack.org/developer/cinder/>`__  
 
 Cloud Backup at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
+* product overview at 
+  http://www.rackspace.com/cloud/backup
 
- product overview: http://www.rackspace.com/cloud/backup
-
-$ PAY only for what you use
-
-xxxxxxx
-
-get details from
-https://one.rackspace.com/display/productweb/Cloud+Backup
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
 
 Cloud CDN at a glance
 ~~~~~~~~~~~~~~~~~~~~~
+* product overview at  
+  http://www.rackspace.com/cloud/cdn-content-delivery-network
 
- product overview:
-http://www.rackspace.com/cloud/cdn-content-delivery-network
-
-$ PAY only for what you use
-
-xxxxxxx
-
-get details from
-https://one.rackspace.com/display/productweb/Rackspace+CDN
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
 
 Cloud Files at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
+* product overview at 
+  http://www.rackspace.com/cloud/files
 
- open-source roots: OpenStack Swift
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
+  
+* open-source roots: 
+  `OpenStack Swift <http://docs.openstack.org/developer/swift/>`__   
 
- product overview: http://www.rackspace.com/cloud/files
-
-$ PAY only for what you use
-
-xxxxxxx
-
-get details from
-https://one.rackspace.com/display/productweb/Cloud+Files

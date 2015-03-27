@@ -1,3 +1,6 @@
+.. drive_boot:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Controlling boot behavior with a config drive
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A config drive is a read-only, un-partitioned, 64 MB block device that

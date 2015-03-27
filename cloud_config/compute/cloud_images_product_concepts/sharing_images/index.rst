@@ -1,3 +1,6 @@
+.. _cloud_images_sharing:
+
+^^^^^^^^^^^^^^
 Sharing images
 ^^^^^^^^^^^^^^
 Cloud Images can be created as snapshots of a Cloud Server. They can

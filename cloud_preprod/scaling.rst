@@ -1,3 +1,6 @@
+.. _scaling:
+
+------------------
 Automating growth 
 ------------------
 The cloud gives you room to grow. Before growth surprises you, you can

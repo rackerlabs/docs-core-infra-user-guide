@@ -1,3 +1,6 @@
+.. _local_storage:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Local storage for Cloud Servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cloud Servers are generally created with a given amount of local storage

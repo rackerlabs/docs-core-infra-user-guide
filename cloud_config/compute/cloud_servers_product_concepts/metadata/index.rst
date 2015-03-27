@@ -1,3 +1,6 @@
+.. _cloud_servers_metadata:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Describing a Cloud Server with metadata
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can set and retrieve custom descriptive fields on your Cloud Server

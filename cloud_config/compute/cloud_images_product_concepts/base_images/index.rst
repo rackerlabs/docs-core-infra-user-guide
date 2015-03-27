@@ -1,3 +1,6 @@
+.. _base_images:
+
+---------------------------------------
 Creating Cloud Servers from base images
 ---------------------------------------
 You can create a Cloud Server from a Cloud Image that you created,

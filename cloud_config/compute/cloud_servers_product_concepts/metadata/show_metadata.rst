@@ -1,3 +1,6 @@
+.. _show_metadata:
+
+^^^^^^^^^^^^^^^^
 Showing metadata
 ^^^^^^^^^^^^^^^^
 To view the metadata on a Cloud Server, use the *nova show* command with

@@ -1,3 +1,6 @@
+.. _data_immutability:
+
+^^^^^^^^^^^^^^^^^
 Data immutability
 ^^^^^^^^^^^^^^^^^
 An important aspect of how Cloud Images treats images is that *image

@@ -1,3 +1,6 @@
+.. _backups:
+
+--------------------
 Establishing backups
 --------------------
 Rackspace data centers are secure and reliable, but you may still find

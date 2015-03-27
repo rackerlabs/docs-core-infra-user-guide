@@ -1,3 +1,6 @@
+.. _monitoring:
+
+------------------
 Observing activity
 ------------------
 The Rackspace cloud infrastructure is meant to operate smoothly,

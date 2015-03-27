@@ -1,3 +1,6 @@
+.. _boot:
+
+-----------------------------------
 Controlling Cloud Server initiation
 -----------------------------------
 You can configure your Cloud Server so that, 

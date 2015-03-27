@@ -12,9 +12,9 @@ all of these actions.
 To learn how to perform Cloud Images actions using your choice of interface, 
 begin at 
 
-* :ref:`cloud_interfaces/GUI/cloudimages_GUI`
-* :ref:`cloud_interfaces/CLI/cloudimages_CLI`
-* :ref:`cloud_interfaces/API/cloudimages_API`
+* :ref:`cloudimages_GUI`
+* :ref:`cloudimages_CLI`
+* :ref:`cloudimages_API`
 
 Image actions
 -------------
@@ -24,7 +24,7 @@ Image actions
 * Delete image
 
 Image sharing actions, for image producers only
-----------------------------------------------
+-----------------------------------------------
 * Create image member
 * Delete image member
 

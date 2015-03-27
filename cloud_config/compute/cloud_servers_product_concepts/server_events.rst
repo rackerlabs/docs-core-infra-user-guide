@@ -1,3 +1,6 @@
+.. _server_events:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Monitoring events on your Cloud Server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Automated monitoring of your Cloud Server configuration and its entire

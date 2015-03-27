@@ -1,3 +1,6 @@
+.. custom_images:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Creating custom images from servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The first time you boot a Cloud Server, you’ll probably use an image

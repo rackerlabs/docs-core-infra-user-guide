@@ -86,12 +86,12 @@ Cloud Load Balancers at a glance
 * product overview at  
   http://www.rackspace.com/cloud/load-balancing
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 RackConnect at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
 * product overview at  
   http://www.rackspace.com/cloud/hybrid/rackconnect
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 

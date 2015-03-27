@@ -22,7 +22,7 @@ Cloud Block Storage at a glance
 * product overview at 
   http://www.rackspace.com/cloud/block-storage
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 * open-source roots: 
   `OpenStack Cinder <http://docs.openstack.org/developer/cinder/>`__  
@@ -32,14 +32,14 @@ Cloud Backup at a glance
 * product overview at 
   http://www.rackspace.com/cloud/backup
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 Cloud CDN at a glance
 ~~~~~~~~~~~~~~~~~~~~~
 * product overview at  
   http://www.rackspace.com/cloud/cdn-content-delivery-network
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 Cloud Files at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~

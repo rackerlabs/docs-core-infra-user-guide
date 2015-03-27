@@ -1,3 +1,6 @@
+.. _software_RAID:
+
+^^^^^^^^^^^^^^^^^^^^^
 Software RAID for CBS
 ^^^^^^^^^^^^^^^^^^^^^
 A redundant array of independent disks (RAID) enables expansion of

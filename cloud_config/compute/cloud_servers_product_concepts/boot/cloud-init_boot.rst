@@ -1,3 +1,6 @@
+.. cloud-init_boot:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Controlling boot behavior with cloud-init
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cloud-init is a multi-distribution open source package developed by

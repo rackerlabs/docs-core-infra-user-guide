@@ -1,3 +1,6 @@
+.. _change_server:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changing the characteristics of a Cloud Server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you create a Cloud Server with a certain flavor, the resources

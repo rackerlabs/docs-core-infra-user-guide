@@ -1,3 +1,6 @@
+.. _check_region_flavor_class:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Checking for regional availability of flavor classes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Rackspace Cloud Servers are available to be created and consumed in

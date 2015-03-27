@@ -1,3 +1,6 @@
+.. _servicenet:
+
+~~~~~~~~~~~~~~~~~~~~~~~
 ServiceNet in the cloud
 ~~~~~~~~~~~~~~~~~~~~~~~
 ServiceNet is an internal, IPv4-only multi-tenant network within each

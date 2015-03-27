@@ -1,3 +1,6 @@
+.. _set_metadata:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Setting and updating metadata
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To set or change metadata on a Cloud Server, use the *nova meta* command

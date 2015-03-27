@@ -1,3 +1,6 @@
+.. time:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Synchronizing time with NTP
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 During boot, Linux sets the Cloud Server's system clock to the same time

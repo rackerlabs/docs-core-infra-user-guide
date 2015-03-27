@@ -1,3 +1,6 @@
+.. _publicnet:
+
+~~~~~~~~~~~~~~~~~~~~~~
 PublicNet in the cloud
 ~~~~~~~~~~~~~~~~~~~~~~
 Rackspace PublicNet connects cloud infrastructure components such as Cloud

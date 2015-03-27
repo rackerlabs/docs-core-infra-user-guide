@@ -20,7 +20,7 @@ Cloud Servers at a glance
 * product overview at 
   http://www.rackspace.com/cloud/servers
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
   
 * open-source roots: 
   `OpenStack Nova <http://docs.openstack.org/developer/nova/>`__
@@ -30,7 +30,7 @@ Cloud Images at a glance
 * product overview at 
   http://www.rackspace.com/cloud/images
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`. 
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__ 
 
 * open-source roots: 
   `OpenStack Glance <http://docs.openstack.org/developer/glance/>`__

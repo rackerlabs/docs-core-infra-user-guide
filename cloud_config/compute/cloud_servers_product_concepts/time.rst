@@ -52,9 +52,9 @@ Servers can synchronize with:
 +--------------+----------------------------+-------------------+
 | IAD          | time2.iad1.rackspace.com   | CST (UTC-06:00)   |
 +--------------+----------------------------+-------------------+
-| LON          | time.lon1.rackspace.com    | GMT (UTC+00:00)   |
+| LON          | time.lon.rackspace.com     | GMT (UTC+00:00)   |
 +--------------+----------------------------+-------------------+
-| LON          | time2.lon1.rackspace.com   | GMT (UTC+00:00)   |
+| LON          | time2.lon.rackspace.com    | GMT (UTC+00:00)   |
 +--------------+----------------------------+-------------------+
 | HKG          | time.hkg1.rackspace.com    | HKT (UTC+08:00)   |
 +--------------+----------------------------+-------------------+

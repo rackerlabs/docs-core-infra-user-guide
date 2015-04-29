@@ -78,7 +78,7 @@ To include a screenshot in the guide:
   * collection date 2015-03-01
   * contributed by Rose Coste 
 
-* **CloudServerCreateOnMetal.png** xxxxxxxx
+* **CloudServerCreateOnMetal.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/compute/cloud_servers_product_concepts/flavor_class/index.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-03-01
@@ -90,9 +90,20 @@ To include a screenshot in the guide:
   * collection date 2015-03-01
   * contributed by Rose Coste  
   
-* **CloudServerCreateVirtual.png** xxxxxxxx
+* **CloudServerCreateVirtual.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/compute/cloud_servers_product_concepts/flavor_class/index.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-03-01
   * contributed by Rose Coste
+  
+ * **CloudServersListAll.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudservers_API.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-04-28
+  * contributed by Rose Coste
 
+ * **CloudServersSDKpython.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudservers_API.html
+  * collected from https://developer.rackspace.com/docs/cloud-servers/getting-started/ 
+  * collection date 2015-04-28
+  * contributed by Rose Coste

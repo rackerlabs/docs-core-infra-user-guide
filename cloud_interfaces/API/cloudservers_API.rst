@@ -26,13 +26,15 @@ Sometimes,
 especially for new features that are not yet available 
 in the Cloud Control Panel, 
 you can write software to perform functions 
+via the API 
 that could not be performed in any other way; 
 product announcements for Limited Availability 
 and Early Access releases point out this limitation when it applies. 
 In that case, 
 experimenting in the Cloud Control Panel can show you 
 only part of the process of working with a new feature; 
-other details are described in the API documentation. 
+other details are described in the 
+API documentation, http://docs.rackspace.com. 
 
 Just as you can use the Cloud Control Panel 
 to help you understand a manual process that you intend to automate, 
@@ -40,8 +42,10 @@ you can use the API documentation to help you understand
 how to use a Software Development Kit (SDK) 
 in your favorite programming language. 
 
-* The API documentation shows everything that you can ask the API to do. 
-* The SDK documentation shows how to ask the API to do something. 
+* The API documentation describes 
+  *what* you can ask the API to do. 
+* The SDK documentation demonstrates 
+  *how* to ask the API to do something. 
 
 Awareness of both API and SDK capabilities 
 can help you to plan the easiest way to develop your software. 
@@ -55,15 +59,19 @@ is already available from another Rackspace product or from
 a Rackspace partner. 
 For example: 
 
-* Auto Scale responds to workload peaks by increasing server capacity. 
-* Cloud Orchestration installs a complete application stack on a server. 
-* Cloud Backup automates a server's backup schedule. 
+* `Auto Scale <http://www.rackspace.com/cloud/auto-scale>`__ 
+   responds to workload peaks by increasing server capacity.  
+* `Cloud Orchestration <http://www.rackspace.com/cloud/orchestration>`__ 
+   installs a complete application stack on a server. 
+* `Cloud Backup <http://www.rackspace.com/cloud/backup>`__ 
+   automates a server's backup schedule. 
 
 Good places to investigate relevant capabilities 
 available within the broader Rackspace portfolio include:
 
 * Rackspace product summaries such as http://www.rackspace.com/cloud/servers
 * `Rackspace Community <https://community.rackspace.com/>`__
+* `Rackspace Marketplace <https://marketplace.rackspace.com/listing?p=1&default=true&q#!/list/page/1/>`__
 * `Rackspace Knowledge Center <http://www.rackspace.com/knowledge_center/>`__
 
 Cloud Servers API demonstration

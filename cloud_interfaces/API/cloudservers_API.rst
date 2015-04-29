@@ -83,7 +83,7 @@ showing every server;
 you can narrow the list by clicking on filters 
 for tag, status, image, flavor, and type.
 
-.. image:: ../../../screenshots/CloudServersListAll.png
+.. image:: ../../screenshots/CloudServersListAll.png
    :alt: The Cloud Control Panel can list all your
          Cloud Servers.
 
@@ -104,9 +104,9 @@ you can see that sending a GET to the
 ``/v2/{tenant_id}/servers`` 
 URI 
 requests a list of servers; 
-on the same line, click “detail” to see basic information 
+on the same line, click *detail* to see basic information 
 such as request parameters and a sample response. 
-In the request parameters, “status”, “image”, and “flavor” 
+In the request parameters, *status*, *image*, and *flavor* 
 correspond to the filters available on the Cloud Control Panel. 
 
 In the Getting Started Guide for the Cloud Servers API, 
@@ -131,7 +131,8 @@ you can see some of the same steps that are documented in
 the API's Getting Started Guide. 
 For example, both the API-focused and SDK-focused documents 
 show how to authenticate with your API key before issuing any requests 
-to the Cloud Servers API.  
+to the Cloud Servers API. 
+ 
 The SDK QuickStart adds examples in several popular programming 
 languages, 
 demonstrating how to use that language to 
@@ -142,9 +143,9 @@ To see examples in a specific language,
 click that language's name in the list across the top of the page. 
 For example, to see Cloud Servers code samples coded in python, 
 go to https://developer.rackspace.com/docs/cloud-servers/getting-started/ 
-and click “python”. 
+and click *python*. 
 
-.. image:: ../../../screenshots/CloudServersSDKpython.png
+.. image:: ../../screenshots/CloudServersSDKpython.png
    :alt: Python is one of several languages for which we 
          publish an SDK QuickStart.
 
@@ -163,10 +164,11 @@ For example, if you code in python,
 
 * Follow the installation instructions to give yourself 
   a local copy of the pyrax (python for Rackspace) SDK. 
-* Click “documentation” to open a GitHub repository supporting 
+* Click *documentation* to open a GitHub repository supporting 
   the SDK at https://github.com/rackspace/pyrax/. 
-* In the pyrax repository, at /docs/cloud_servers.md, 
-  read “Working with Cloud Servers”. 
+* In that pyrax repository, at 
+  `/docs/cloud_servers.md <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__,
+  read *Working with Cloud Servers*. 
   That document begins with a demonstration 
   of using pyrax to list your Cloud Servers; 
   you can go directly to that example at 

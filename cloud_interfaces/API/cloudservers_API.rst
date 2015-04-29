@@ -44,6 +44,7 @@ in your favorite programming language.
 
 * The API documentation describes 
   *what* you can ask the API to do. 
+  
 * The SDK documentation demonstrates 
   *how* to ask the API to do something. 
 
@@ -60,11 +61,13 @@ a Rackspace partner.
 For example: 
 
 * `Auto Scale <http://www.rackspace.com/cloud/auto-scale>`__ 
-   responds to workload peaks by increasing server capacity.  
+  responds to workload peaks by increasing server capacity. 
+ 
 * `Cloud Orchestration <http://www.rackspace.com/cloud/orchestration>`__ 
-   installs a complete application stack on a server. 
+  installs a complete application stack on a server.
+    
 * `Cloud Backup <http://www.rackspace.com/cloud/backup>`__ 
-   automates a server's backup schedule. 
+  automates a server's backup schedule. 
 
 Good places to investigate relevant capabilities 
 available within the broader Rackspace portfolio include:
@@ -106,15 +109,31 @@ and the scope they act upon (for example, flavors or images).
 
 You can see all Cloud Servers operations at 
 http://api.rackspace.com/api-ref.html#compute-core-v2; 
-if you scroll down to the group of operations that act upon servers, 
-http://api.rackspace.com/api-ref.html#compute_servers, 
-you can see that sending a GET to the 
-``/v2/{tenant_id}/servers`` 
-URI 
-requests a list of servers; 
-on the same line, click *detail* to see basic information 
-such as request parameters and a sample response. 
-In the request parameters, *status*, *image*, and *flavor* 
+if you scroll down to the group of 
+`operations that act upon servers <http://api.rackspace.com/api-ref.html#compute_servers>`__, 
+you can see that:
+
+* sending a ``GET`` to the ``/v2/{tenant_id}/servers`` 
+  URI requests a list of servers with basic information
+
+* sending a ``POST`` to the same URI requests creation of a new server 
+
+* sending a ``GET`` to the same URI and appending ``/detail`` 
+  requests a list of servers with expanded information
+
+.. image:: ../../screenshots/CloudServersListServersGET.png
+   :alt: api.rackspace.com lists all API operations.
+
+On the first ``GET`` line, click *detail* to see 
+additional information,  
+such as request parameters and a sample response, 
+to help you formulate a basic *List servers* request to the API 
+and understand the API's 
+response.  
+
+You can use request parameters to construct a request that returns 
+a list of only the Cloud Servers that meet specific criteria.  
+The request parameters named *status*, *image*, and *flavor* 
 correspond to the filters available on the Cloud Control Panel. 
 
 In the Getting Started Guide for the Cloud Servers API, 
@@ -127,9 +146,9 @@ the
 begins with instructions on creating a Rackspace account 
 and concludes with deleting the Cloud Server that was created. 
 An intermediate step 
-shows 
-`two methods of listing your Cloud Servers 
-via a command-line interface (CLI) <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__. 
+demonstrates 
+`obtaining a detailed list of Cloud Servers by using the cURL command-line interface (CLI) 
+<http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/curl_list_servers.html>`__. 
 
 Learn about Cloud Servers in SDK QuickStart
 ===========================================

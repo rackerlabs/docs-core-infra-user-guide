@@ -144,6 +144,8 @@ cloudnetworks_CLI                      = /cloud_interfaces/CLI/cloudnetworks_CLI
 cloudnetworks_GUI                      = /cloud_interfaces/GUI/cloudnetworks_GUI.rst
 
 cloudservers_API                       = /cloud_interfaces/API/cloudservers_API.rst
+cloudservers_APIinvestigation          = /cloud_interfaces/API/cloudservers_API.rst
+cloudservers_APIdemonstration          = /cloud_interfaces/API/cloudservers_API.rst
 
 cloudservers_CLI                       = /cloud_interfaces/CLI/cloudservers_CLI.rst
 

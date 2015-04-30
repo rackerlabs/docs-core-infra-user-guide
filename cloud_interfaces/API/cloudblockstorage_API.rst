@@ -10,6 +10,9 @@ how Block Storage works
 in the Cloud Control Panel 
 and how SDKs and APIs are documented at Rackspace
 
+.. _cloudblockstorage_APIinvestigation:
+
+-------------------------------------
 Cloud Block Storage API investigation
 -------------------------------------
 Using an API, 
@@ -51,34 +54,11 @@ in your favorite programming language.
 Awareness of both API and SDK capabilities 
 can help you to plan the easiest way to develop your software. 
 
-After you understand what the Cloud Block Storage API is capable of 
-and how to use an SDK to simplify interaction with the API, 
-doing one more research task may save you the effort of 
-writing your own software. 
-Investigate whether the automation you require 
-is already available from another Rackspace product or from 
-a Rackspace partner. 
-For example: 
+.. _cloudblockstorage_APIdemonstration:
 
-* `Auto Scale <http://www.rackspace.com/cloud/auto-scale>`__ 
-  responds to workload peaks by increasing server capacity. 
- 
-* `Cloud Orchestration <http://www.rackspace.com/cloud/orchestration>`__ 
-  installs a complete application stack on a server.
-    
-* `Cloud Backup <http://www.rackspace.com/cloud/backup>`__ 
-  automates a server's backup schedule. 
-
-Good places to investigate relevant capabilities 
-available within the broader Rackspace portfolio include:
-
-* Rackspace product summaries such as http://www.rackspace.com/cloud/servers
-* `Rackspace Community <https://community.rackspace.com/>`__
-* `Rackspace Marketplace <https://marketplace.rackspace.com/listing?p=1&default=true&q#!/list/page/1/>`__
-* `Rackspace Knowledge Center <http://www.rackspace.com/knowledge_center/>`__
-
+-------------------------------------
 Cloud Block Storage API demonstration
--------------------------------
+-------------------------------------
 Using the process suggested at Cloud Block Storage API investigation, 
 here is an example of how you can prepare to write 
 and then write your own software to perform one simple task: 

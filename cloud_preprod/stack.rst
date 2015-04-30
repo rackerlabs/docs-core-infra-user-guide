@@ -24,80 +24,12 @@ that through the Cloud Control Panel, choose "Create Stack" rather than
 to install. We frequently expand the list of templates; as of April
 20, 2015, these templates are available:
 
-: raw:: html
-  :file: stacks-from-control-panel.html
+.. raw:: html
+   :file: stacks-from-control-panel.html
 
 .. This list is from the control panel; 
-   another version is in the Knowledge Center, 
-   http://www.rackspace.com/knowledge_center/article/available-templates-for-cloud-orchestration.
-   Order here and in the Control Panel is alphabetical;
-   I don't know what order is in the KC article. 
-   
-* Ansible Tower
-
-* ASP.net
-
-* Cassandra
-
-* Chef Server
-
-* Django
-
-* DNN
-
-* Docker
-
-* Drone.io
-
-* Drupal
-
-* Elasticsearch
-
-* Ghost
-
-* GitLab
-
-* Graphite
-
-* IPython Notebook
-
-* JabbR
-
-* Jenkins
-
-* LAMP
-
-* Magento
-
-* memcached
-
-* Minecraft
-
-* MongoDB
-
-* MySQL
-
-* Node.js
-
-* ownCloud
-
-* PHP
-
-* Rails
-
-* Redis
-
-* SaltStack
-
-* StrongLoop
-
-* Umbraco
-
-* Vesta
-
-* WebPageTest
-
-* WordPress
+   when I update the list here, I also update it at 
+   http://www.rackspace.com/knowledge_center/article/available-templates-for-cloud-orchestration. 
 
 For some templates, you can choose a flavor. 
 For example, the Rails template is available in 

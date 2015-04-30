@@ -101,6 +101,12 @@ To include a screenshot in the guide:
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-04-28
   * contributed by Rose Coste
+  
+  * **CloudServersListServersGET.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudservers_API.html
+  * collected from http://api.rackspace.com/ 
+  * collection date 2015-04-29
+  * contributed by Rose Coste
 
  * **CloudServersSDKpython.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudservers_API.html

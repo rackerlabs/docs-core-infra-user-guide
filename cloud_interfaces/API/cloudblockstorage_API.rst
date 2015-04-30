@@ -3,4 +3,180 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cloud Block Storage and SDKs and APIs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-xxxxxxxx
+When you begin writing your own software
+to interact with Cloud Block Storage, 
+you may benefit from investing some time to learn about 
+how Block Storage works
+in the Cloud Control Panel 
+and how SDKs and APIs are documented at Rackspace
+
+.. _cloudblockstorage_APIinvestigation:
+
+-------------------------------------
+Cloud Block Storage API investigation
+-------------------------------------
+Using an API, 
+you can write software to automate functions that could otherwise 
+be performed manually by a person logged into the Cloud Control Panel. 
+You can accelerate your understanding of how the API works 
+by using the Cloud Control Panel to demonstrate the manual process 
+before you begin to automate it; 
+to interact with the Cloud Block Storage service, 
+the Cloud Control Panel sends requests via the same API 
+that you interact with when you write your own software. 
+
+Sometimes, 
+especially for new features that are not yet available 
+in the Cloud Control Panel, 
+you can write software to perform functions 
+via the API 
+that could not be performed in any other way; 
+product announcements for Limited Availability 
+and Early Access releases point out this limitation when it applies. 
+In that case, 
+experimenting in the Cloud Control Panel can show you 
+only part of the process of working with a new feature; 
+other details are described in the 
+API documentation, http://docs.rackspace.com. 
+
+Just as you can use the Cloud Control Panel 
+to help you understand a manual process that you intend to automate, 
+you can use the API documentation to help you understand 
+how to use a Software Development Kit (SDK) 
+in your favorite programming language. 
+
+* The API documentation describes 
+  *what* you can ask the API to do. 
+  
+* The SDK documentation demonstrates 
+  *how* to ask the API to do something. 
+
+Awareness of both API and SDK capabilities 
+can help you to plan the easiest way to develop your software. 
+
+.. _cloudblockstorage_APIdemonstration:
+
+-------------------------------------
+Cloud Block Storage API demonstration
+-------------------------------------
+Using the process suggested at Cloud Block Storage API investigation, 
+here is an example of how you can prepare to write 
+and then write your own software to perform one simple task: 
+list all your Cloud Block Storage. 
+
+Learn about Cloud Block Storage in the Cloud Control Panel  
+====================================================
+When you login to the 
+`Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
+your session begins with a list of all your Cloud Block Storage. 
+By default, the list is unfiltered, 
+showing every server; 
+you can narrow the list by clicking on filters 
+for tag, status, image, flavor, and type.
+
+.. image:: ../../screenshots/CloudBlockStorageListAll.png
+   :alt: The Cloud Control Panel can list all your
+         Cloud Block Storage.
+
+Learn about Cloud Block Storage in API documentation
+==============================================
+In the combined API reference, 
+api.rackspace.com, 
+you can see all available API operations for all cloud services. 
+The operations are grouped according to the service they interact 
+with (for example, Cloud Block Storage or Cloud Files) 
+and the scope they act upon (for example, flavors or images). 
+
+You can see all Cloud Block Storage operations at 
+http://api.rackspace.com/api-ref.html#compute-core-v2; 
+if you scroll down to the group of 
+`operations that act upon servers <http://api.rackspace.com/api-ref.html#compute_servers>`__, 
+you can see that:
+
+* sending a ``GET`` to the ``/v2/{tenant_id}/servers`` 
+  URI requests a list of servers with basic information
+
+* sending a ``POST`` to the same URI requests creation of a new server 
+
+* sending a ``GET`` to the same URI and appending ``/detail`` 
+  requests a list of servers with expanded information
+
+.. image:: ../../screenshots/CloudBlockStorageListServersGET.png
+   :alt: api.rackspace.com lists all API operations.
+
+On the first ``GET`` line, click *detail* to see 
+additional information,  
+such as request parameters and a sample response, 
+to help you formulate a basic *List servers* request to the API 
+and understand the API's 
+response.  
+
+You can use request parameters to construct a request that returns 
+a list of only the Cloud Block Storage that meet specific criteria.  
+The request parameters named *status*, *image*, and *flavor* 
+correspond to the filters available on the Cloud Control Panel. 
+
+In the Getting Started Guide for the Cloud Block Storage API, 
+http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/, 
+you can follow a 12-step tutorial to perform an essential task: 
+create a Cloud Server. 
+In the Getting Started Guide, 
+the 
+`tutorial <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__
+begins with instructions on creating a Rackspace account 
+and concludes with deleting the Cloud Server that was created. 
+An intermediate step 
+demonstrates 
+`obtaining a detailed list of Cloud Block Storage by using the cURL command-line interface (CLI) 
+<http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/curl_list_servers.html>`__. 
+
+Learn about Cloud Block Storage in SDK QuickStart
+===========================================
+In the SDK QuickStart for Cloud Block Storage, 
+https://developer.rackspace.com/docs/cloud-servers/getting-started/,
+you can see some of the same steps that are documented in 
+the API's Getting Started Guide. 
+For example, both the API-focused and SDK-focused documents 
+show how to authenticate with your API key before issuing any requests 
+to the Cloud Block Storage API. 
+ 
+The SDK QuickStart adds examples in several popular programming 
+languages, 
+demonstrating how to use that language to 
+code some commonly-used requests to the 
+Cloud Block Storage API. 
+
+To see examples in a specific language, 
+click that language's name in the list across the top of the page. 
+For example, to see Cloud Block Storage code samples coded in python, 
+go to https://developer.rackspace.com/docs/cloud-servers/getting-started/ 
+and click *python*. 
+
+.. image:: ../../screenshots/CloudBlockStorageSDKpython.png
+   :alt: Python is one of several languages for which we 
+         publish an SDK QuickStart.
+
+Use SDK to help you write and run code to interact with Cloud Block Storage
+===========================================================================
+The SDK QuickStart demonstrates a few basic requests; 
+for more detailed guidance, 
+perhaps enough to walk you through exactly the steps required 
+to develop your software, examine the SDK itself. 
+
+To find the full SDK for your programming language, start at 
+https://developer.rackspace.com/sdks/ and find the language. 
+Then follow the steps appropriate to that language. 
+
+For example, if you code in python, 
+
+* Follow the installation instructions to give yourself 
+  a local copy of the pyrax (python for Rackspace) SDK. 
+* Click *documentation* to open a GitHub repository supporting 
+  the SDK at https://github.com/rackspace/pyrax/. 
+* In that pyrax repository, at 
+  `/docs/cloud_servers.md <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__,
+  read *Working with Cloud Block Storage*. 
+  That document begins with a demonstration 
+  of using pyrax to list your Cloud Block Storage; 
+  you can go directly to that example at 
+  https://github.com/rackspace/pyrax/blob/master/docs/cloud_servers.md#listing-servers. 

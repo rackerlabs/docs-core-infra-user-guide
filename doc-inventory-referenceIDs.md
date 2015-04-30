@@ -33,6 +33,10 @@ A page without an ID cannot be linked to from another page.
   use elements of its directory structure to construct a unique
   and descriptive ID.
   "servicenet" is a descriptive ID; "page01" is not.
+  
+* If ID represents an anchor within the page rather than the 
+  page itself, begin with the ID for the page and append 
+  details to make it unique. 
 
 ----
 

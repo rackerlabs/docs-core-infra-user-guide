@@ -42,6 +42,30 @@ To include a screenshot in the guide:
 ----
 **Inventory of screenshots**
 
+* **CloudBlockStorage0volumes.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-04-30
+  * contributed by Rose Coste
+  
+* **CloudBlockStorage1volume.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-04-30
+  * contributed by Rose Coste
+  
+ * **CloudBlockStorageListVolumesGET.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html
+  * collected from http://api.rackspace.com/ 
+  * collection date 2015-04-30
+  * contributed by Rose Coste 
+
+* **CloudBlockStorageSDKPHP.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html
+  * collected from https://developer.rackspace.com/docs/cloud-block-storage/getting-started/ 
+  * collection date 2015-04-30
+  * contributed by Rose Coste
+
 * **CloudDNSAddReverse.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/network/cloud_networks_product_concepts/DNS.html
   * collected from http://www.rackspace.com/knowledge_center/article/create-a-reverse-dns-record-0 
@@ -60,7 +84,7 @@ To include a screenshot in the guide:
   * collection date 2015-03-01 
   * contributed by Rose Coste
   
-  * **CloudOrchestrationRailsFlavors.png**
+* * **CloudOrchestrationRailsFlavors.png**
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_preprod/stack.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-03-26
@@ -96,20 +120,26 @@ To include a screenshot in the guide:
   * collection date 2015-03-01
   * contributed by Rose Coste
   
- * **CloudServersListAll.png** 
+* **CloudServersListAll.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudservers_API.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-04-28
   * contributed by Rose Coste
   
-  * **CloudServersListServersGET.png** 
+* **CloudServersListServersGET.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudservers_API.html
   * collected from http://api.rackspace.com/ 
   * collection date 2015-04-29
   * contributed by Rose Coste
 
- * **CloudServersSDKpython.png** 
+* **CloudServersSDKpython.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudservers_API.html
   * collected from https://developer.rackspace.com/docs/cloud-servers/getting-started/ 
   * collection date 2015-04-28
+  * contributed by Rose Coste
+  
+* **StorageBlockStorageVolumes.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-04-30
   * contributed by Rose Coste

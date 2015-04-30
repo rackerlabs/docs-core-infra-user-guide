@@ -116,30 +116,32 @@ and the scope they act upon (for example, flavors or images).
 
 You can see all Cloud Servers operations at 
 http://api.rackspace.com/api-ref.html#compute-core-v2; 
-if you scroll down to the group of 
+in the group of 
 `operations that act upon servers <http://api.rackspace.com/api-ref.html#compute_servers>`__, 
 you can see that:
 
 * sending a ``GET`` to the ``/v2/{tenant_id}/servers`` 
-  URI requests a list of servers with basic information
+  URI requests a requests a basic list of information about servers
 
 * sending a ``POST`` to the same URI requests creation of a new server 
 
 * sending a ``GET`` to the same URI and appending ``/detail`` 
-  requests a list of servers with expanded information
+  requests requests an expanded list of information about servers
 
 .. image:: ../../screenshots/CloudServersListServersGET.png
    :alt: api.rackspace.com lists all API operations.
 
 On the first ``GET`` line, click *detail* to see 
-additional information,  
-such as request parameters and a sample response, 
-to help you formulate a basic *List servers* request to the API 
+more about how the API handles this request.  
+The request parameters and sample response shown here can 
+help you formulate a basic *List servers* request to the API 
 and understand the API's 
 response.  
 
 You can use request parameters to construct a request that returns 
-a list of only the Cloud Servers that meet specific criteria.  
+a list of only the Cloud Servers 
+that meet specific criteria.  
+In the sample response, 
 The request parameters named *status*, *image*, and *flavor* 
 correspond to the filters available on the Cloud Control Panel. 
 
@@ -169,7 +171,7 @@ to the Cloud Servers API.
  
 The SDK QuickStart adds examples in several popular programming 
 languages, 
-demonstrating how to use that language to 
+demonstrating how to use each language to 
 code some commonly-used requests to the 
 Cloud Servers API. 
 

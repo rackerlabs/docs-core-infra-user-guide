@@ -59,81 +59,95 @@ can help you to plan the easiest way to develop your software.
 -------------------------------------
 Cloud Block Storage API demonstration
 -------------------------------------
-Using the process suggested at Cloud Block Storage API investigation, 
-here is an example of how you can prepare to write 
+Using the process suggested at 
+:ref:`cloudblockstorage_APIinvestigation`, 
+here is an example of how you can plan 
 and then write your own software to perform one simple task: 
-list all your Cloud Block Storage. 
+list all your Cloud Block Storage volumes. 
 
 Learn about Cloud Block Storage in the Cloud Control Panel  
 ====================================================
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
-your session begins with a list of all your Cloud Block Storage. 
-By default, the list is unfiltered, 
-showing every server; 
-you can narrow the list by clicking on filters 
-for tag, status, image, flavor, and type.
+your session begins with information about your Cloud Servers.
+To see your Cloud Block Storage information, click ``Storage`` 
+and then click ``Block Storage Volumes``. 
 
-.. image:: ../../screenshots/CloudBlockStorageListAll.png
+.. image:: ../../screenshots/StorageBlockStorageVolumes.png
+   :alt: To move from Cloud Servers to 
+         Cloud Block Storage details, 
+         click Storage and then Block Storage Volumes.
+
+By default, the list is focused on your account's home region, 
+showing all volumes in that region; 
+you can select a different region and you can search for a 
+specific volume.
+
+.. image:: ../../screenshots/CloudBlockStorage0volumes.png
    :alt: The Cloud Control Panel can list all your
-         Cloud Block Storage.
+         Cloud Block Storage volumes.
+         
+If your list of volumes is not empty, then for each volume 
+you can see 
+
+* its ID
+* the name of the server to which it is attached
+* the region in which it is located
+* the type of disk it uses
+* its size
+
+.. image:: ../../screenshots/CloudBlockStorage1volume.png
+   :alt: The Cloud Control Panel can list all your
+         Cloud Block Storage volumes.
 
 Learn about Cloud Block Storage in API documentation
-==============================================
+====================================================
 In the combined API reference, 
 api.rackspace.com, 
 you can see all available API operations for all cloud services. 
 The operations are grouped according to the service they interact 
 with (for example, Cloud Block Storage or Cloud Files) 
-and the scope they act upon (for example, flavors or images). 
+and the scope they act upon (for example, volumes or snapshots). 
 
 You can see all Cloud Block Storage operations at 
-http://api.rackspace.com/api-ref.html#compute-core-v2; 
-if you scroll down to the group of 
-`operations that act upon servers <http://api.rackspace.com/api-ref.html#compute_servers>`__, 
+http://api.rackspace.com/api-ref-blockstorage.html; 
+in the group of 
+`operations that act upon volumes <http://api.rackspace.com/api-ref-blockstorage.html#volumes>`__, 
 you can see that:
 
-* sending a ``GET`` to the ``/v2/{tenant_id}/servers`` 
-  URI requests a list of servers with basic information
+* sending a ``POST`` to the ``v1/{tenant_id}/volumes`` 
+  URI requests creation of a new server
 
-* sending a ``POST`` to the same URI requests creation of a new server 
+* sending a ``GET`` to the same URI  
+  requests a basic list of information about volumes
 
 * sending a ``GET`` to the same URI and appending ``/detail`` 
-  requests a list of servers with expanded information
+  requests an expanded list of information about volumes
 
-.. image:: ../../screenshots/CloudBlockStorageListServersGET.png
+.. image:: ../../screenshots/CloudBlockStorageListVolumesGET.png
    :alt: api.rackspace.com lists all API operations.
 
 On the first ``GET`` line, click *detail* to see 
-additional information,  
-such as request parameters and a sample response, 
-to help you formulate a basic *List servers* request to the API 
+more about how the API handles this request.  
+The request parameters and sample response shown here can 
+help you formulate a basic *List volumes* request to the API 
 and understand the API's 
-response.  
-
-You can use request parameters to construct a request that returns 
-a list of only the Cloud Block Storage that meet specific criteria.  
-The request parameters named *status*, *image*, and *flavor* 
-correspond to the filters available on the Cloud Control Panel. 
-
+response. 
+  
+In the sample response, 
+*id*, *display_name*, *size*, and *volume_type* 
+correspond to the information available on the Cloud Control Panel. 
+ 
 In the Getting Started Guide for the Cloud Block Storage API, 
-http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/, 
-you can follow a 12-step tutorial to perform an essential task: 
-create a Cloud Server. 
-In the Getting Started Guide, 
-the 
-`tutorial <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__
-begins with instructions on creating a Rackspace account 
-and concludes with deleting the Cloud Server that was created. 
-An intermediate step 
-demonstrates 
-`obtaining a detailed list of Cloud Block Storage by using the cURL command-line interface (CLI) 
-<http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/curl_list_servers.html>`__. 
+http://docs.rackspace.com/cbs/api/v1.0/cbs-getting-started/, 
+you can see an example of  
+`obtaining a list of Cloud Block Storage volumes by using the cURL command-line interface (CLI) 
+<http://docs.rackspace.com/cbs/api/v1.0/cbs-getting-started/content/Listing_volumes_d1e060.html>`__. 
 
 Learn about Cloud Block Storage in SDK QuickStart
-===========================================
+=================================================
 In the SDK QuickStart for Cloud Block Storage, 
-https://developer.rackspace.com/docs/cloud-servers/getting-started/,
+https://developer.rackspace.com/docs/cloud-block-storage/getting-started/,
 you can see some of the same steps that are documented in 
 the API's Getting Started Guide. 
 For example, both the API-focused and SDK-focused documents 
@@ -142,18 +156,18 @@ to the Cloud Block Storage API.
  
 The SDK QuickStart adds examples in several popular programming 
 languages, 
-demonstrating how to use that language to 
+demonstrating how to use each language to 
 code some commonly-used requests to the 
 Cloud Block Storage API. 
 
 To see examples in a specific language, 
 click that language's name in the list across the top of the page. 
-For example, to see Cloud Block Storage code samples coded in python, 
-go to https://developer.rackspace.com/docs/cloud-servers/getting-started/ 
-and click *python*. 
+For example, to see Cloud Block Storage code samples coded in PHP, 
+go to https://developer.rackspace.com/docs/cloud-block-storage/getting-started/ 
+and click *PHP*. 
 
-.. image:: ../../screenshots/CloudBlockStorageSDKpython.png
-   :alt: Python is one of several languages for which we 
+.. image:: ../../screenshots/CloudBlockStorageSDKphp.png
+   :alt: PHP is one of several languages for which we 
          publish an SDK QuickStart.
 
 Use SDK to help you write and run code to interact with Cloud Block Storage
@@ -167,16 +181,15 @@ To find the full SDK for your programming language, start at
 https://developer.rackspace.com/sdks/ and find the language. 
 Then follow the steps appropriate to that language. 
 
-For example, if you code in python, 
+For example, if you code in PHP, 
 
 * Follow the installation instructions to give yourself 
-  a local copy of the pyrax (python for Rackspace) SDK. 
-* Click *documentation* to open a GitHub repository supporting 
-  the SDK at https://github.com/rackspace/pyrax/. 
-* In that pyrax repository, at 
-  `/docs/cloud_servers.md <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__,
-  read *Working with Cloud Block Storage*. 
-  That document begins with a demonstration 
-  of using pyrax to list your Cloud Block Storage; 
-  you can go directly to that example at 
-  https://github.com/rackspace/pyrax/blob/master/docs/cloud_servers.md#listing-servers. 
+  a local copy of the php-opencloud SDK. 
+* In the documentation repository for php-opencloud, at 
+  `docs.php-opencloud.com <http://docs.php-opencloud.com/>`__,
+  read about the *Volumes v1* service, 
+  applicable to both Rackspace and OpenStack configurations. 
+  In that document,  
+  you can go directly to an example of listing 
+  Cloud Block Storage volumes at 
+  http://docs.php-opencloud.com/en/latest/services/volume/volumes.html#list-volumes. 

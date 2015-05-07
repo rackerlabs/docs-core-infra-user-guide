@@ -8,7 +8,7 @@ to interact with Cloud Block Storage,
 you may benefit from investing some time to learn about 
 how Block Storage works
 in the Cloud Control Panel 
-and how SDKs and APIs are documented at Rackspace
+and how SDKs and APIs are documented at Rackspace.
 
 .. _cloudblockstorage_APIinvestigation:
 
@@ -166,7 +166,7 @@ For example, to see Cloud Block Storage code samples coded in PHP,
 go to https://developer.rackspace.com/docs/cloud-block-storage/getting-started/ 
 and click *PHP*. 
 
-.. image:: ../../screenshots/CloudBlockStorageSDKphp.png
+.. image:: ../../screenshots/CloudBlockStorageSDKPHP.png
    :alt: PHP is one of several languages for which we 
          publish an SDK QuickStart.
 

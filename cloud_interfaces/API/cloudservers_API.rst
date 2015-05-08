@@ -8,7 +8,7 @@ to interact with Cloud Servers,
 you may benefit from investing some time to learn about 
 how Cloud Servers works
 in the Cloud Control Panel 
-and how SDKs and APIs are documented at Rackspace
+and how SDKs and APIs are documented at Rackspace.
 
 .. _cloudservers_APIinvestigation:
 

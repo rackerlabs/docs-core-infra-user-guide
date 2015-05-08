@@ -66,7 +66,7 @@ and then write your own software to perform one simple task:
 list all your Cloud Block Storage volumes. 
 
 Learn about Cloud Block Storage in the Cloud Control Panel  
-====================================================
+==========================================================
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
 your session begins with information about your Cloud Servers.

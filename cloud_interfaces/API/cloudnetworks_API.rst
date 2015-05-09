@@ -4,9 +4,9 @@
 Cloud Networks and SDKs and APIs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 When you begin writing your own software
-to interact with Cloud Servers, 
+to interact with Cloud Networks, 
 you may benefit from investing some time to learn about 
-how Cloud Servers works
+how Cloud Networks works
 in the Cloud Control Panel 
 and how SDKs and APIs are documented at Rackspace.
 
@@ -21,7 +21,7 @@ be performed manually by a person logged into the Cloud Control Panel.
 You can accelerate your understanding of how the API works 
 by using the Cloud Control Panel to demonstrate the manual process 
 before you begin to automate it; 
-to interact with the Cloud Servers service, 
+to interact with the Cloud Networks service, 
 the Cloud Control Panel sends requests via the same API 
 that you interact with when you write your own software. 
 

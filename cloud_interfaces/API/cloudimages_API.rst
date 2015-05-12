@@ -76,4 +76,111 @@ and then click ``Saved Images``.
          Cloud Images details, 
          click Servers and then Saved Images.
          
-xxxxxxxx
+By default, the list is focused on your account's home region, 
+showing all images in that region; 
+you can select a different region and you can search for a 
+specific image.
+
+If your list of images is not empty, then for each image 
+you can see 
+
+* its name
+* the server from which it was created
+* its creation date
+* its size
+
+.. image:: ../../screenshots/CloudImagesListAll.png
+   :alt: The Cloud Control Panel can list all your
+         Cloud Networks networks.
+
+Learn about Cloud Images in API documentation
+=============================================
+In the combined API reference, 
+api.rackspace.com, 
+you can see all available API operations for all cloud services. 
+The operations are grouped according to the service they interact 
+with (for example, Cloud Images or Cloud Files) 
+and the scope they act upon (for example, images or image schemas). 
+
+You can see all Cloud Images operations at 
+http://api.rackspace.com/api-ref-images.html; 
+in the group of 
+`operations that act upon images <http://api.rackspace.com/api-ref-images.html#images>`__, 
+you can see that:
+   
+* sending a ``GET`` to the ``images``  
+  URI requests a basic list of information about public images
+
+* sending a ``GET`` to the same URI and appending an image ID 
+  requests an expanded list of information about a single image
+
+.. image:: ../../screenshots/CloudImagesListImagesGET.png
+   :alt: api.rackspace.com lists all API operations.
+
+On the first ``GET`` line, click *detail* to see 
+more about how the API handles this request.  
+The request parameters and sample response shown here can 
+help you formulate a basic *List images* request to the API 
+and understand the API's 
+response.
+
+In the sample response, 
+*name*, *created_at*, *size*, and *id* 
+correspond to the information available on the Cloud Control Panel.
+
+In the Getting Started Guide for the Cloud Images API, 
+http://docs.rackspace.com/images/api/v2/ci-gettingstarted/, 
+you can see an example of  
+`obtaining a list of images by using the cURL command-line interface (CLI) 
+<http://docs.rackspace.com/images/api/v2/ci-gettingstarted/content/list-images.html>`__. 
+
+Learn about Cloud Images in SDK QuickStart
+==========================================
+In the SDK QuickStart for Cloud Images, 
+https://developer.rackspace.com/docs/cloud-images/getting-started/,
+you can see some of the same steps that are documented in 
+the API's Getting Started Guide. 
+For example, both the API-focused and SDK-focused documents 
+show how to authenticate with your API key before issuing any requests 
+to the Cloud Images API.
+
+The SDK QuickStart adds examples in several popular programming 
+languages, 
+demonstrating how to use each language to 
+code some commonly-used requests to the 
+Cloud Images API.
+
+To see examples in a specific language, 
+click that language's name in the list across the top of the page. 
+For example, to see Cloud Images code samples coded in python, 
+go to https://developer.rackspace.com/docs/cloud-images/getting-started/ 
+and click *python*.
+
+.. image:: ../../screenshots/CloudImagesSDKpython.png
+   :alt: Python is one of several languages for which we 
+         publish an SDK QuickStart.
+
+Use SDK to help you write and run code to interact with Cloud Images
+====================================================================
+The SDK QuickStart demonstrates a few basic requests; 
+for more detailed guidance, 
+perhaps enough to walk you through exactly the steps required 
+to develop your software, examine the SDK itself. 
+
+To find the full SDK for your programming language, start at 
+https://developer.rackspace.com/sdks/ and find the language. 
+Then follow the steps appropriate to that language.
+
+For example, if you code in python, 
+
+* Follow the installation instructions to give yourself 
+  a local copy of the pyrax (python for Rackspace) SDK. 
+* Click *documentation* to open a GitHub repository supporting 
+  the SDK at https://github.com/rackspace/pyrax/. 
+* In that pyrax repository, at 
+  `/docs/ <https://github.com/rackspace/pyrax/tree/master/docs>`__,
+  you can see documents specific to 
+  three of the four core infrastructure services: 
+  Cloud Servers, Cloud Networks, Cloud Block Storage. 
+  Although no document is specific to Cloud Images, 
+  you can adapt the examples in one of the others.  

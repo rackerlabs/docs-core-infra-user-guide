@@ -150,7 +150,7 @@ The SDK QuickStart adds examples in several popular programming
 languages, 
 demonstrating how to use each language to 
 code some commonly-used requests to the 
-Cloud Block Storage API.
+Cloud Networks API.
 
 To see examples in a specific language, 
 click that language's name in the list across the top of the page. 

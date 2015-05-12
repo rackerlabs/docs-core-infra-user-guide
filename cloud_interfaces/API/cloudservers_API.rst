@@ -203,7 +203,7 @@ For example, if you code in python,
 * Click *documentation* to open a GitHub repository supporting 
   the SDK at https://github.com/rackspace/pyrax/. 
 * In that pyrax repository, at 
-  `/docs/cloud_servers.md <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__,
+  `/docs/cloud_servers.md <https://github.com/rackspace/pyrax/blob/master/docs/cloud_servers.md>`__,
   read *Working with Cloud Servers*. 
   That document begins with a demonstration 
   of using pyrax to list your Cloud Servers; 

@@ -130,26 +130,32 @@ cloud_servers_product_concepts         = /cloud_config/compute/cloud_servers_pro
 cloud_tour                             = /cloud_intro/cloud_tour/index.rst
 
 cloudblockstorage_API                  = /cloud_interfaces/API/cloudblockstorage_API.rst
+cloudblockstorage_APIdemonstration     = /cloud_interfaces/API/cloudblockstorage_API.rst
+cloudblockstorage_APIinvestigation     = /cloud_interfaces/API/cloudblockstorage_API.rst
 
 cloudblockstorage_CLI                  = /cloud_interfaces/CLI/cloudblockstorage_CLI.rst
 
 cloudblockstorage_GUI                  = /cloud_interfaces/GUI/cloudblockstorage_GUI.rst
 
 cloudimages_API                        = /cloud_interfaces/API/cloudimages_API.rst
+cloudimages_APIdemonstration           = /cloud_interfaces/API/cloudimages_API.rst
+cloudimages_APIinvestigation           = /cloud_interfaces/API/cloudimages_API.rst
 
 cloudimages_CLI                        = /cloud_interfaces/CLI/cloudimages_CLI.rst
 
 cloudimages_GUI                        = /cloud_interfaces/GUI/cloudimages_GUI.rst
 
 cloudnetworks_API                      = /cloud_interfaces/API/cloudnetworks_API.rst
+cloudnetworks_APIdemonstration         = /cloud_interfaces/API/cloudnetworks_API.rst
+cloudnetworks_APIinvestigation         = /cloud_interfaces/API/cloudnetworks_API.rst
 
 cloudnetworks_CLI                      = /cloud_interfaces/CLI/cloudnetworks_CLI.rst
 
 cloudnetworks_GUI                      = /cloud_interfaces/GUI/cloudnetworks_GUI.rst
 
 cloudservers_API                       = /cloud_interfaces/API/cloudservers_API.rst
-cloudservers_APIinvestigation          = /cloud_interfaces/API/cloudservers_API.rst
 cloudservers_APIdemonstration          = /cloud_interfaces/API/cloudservers_API.rst
+cloudservers_APIinvestigation          = /cloud_interfaces/API/cloudservers_API.rst
 
 cloudservers_CLI                       = /cloud_interfaces/CLI/cloudservers_CLI.rst
 

@@ -84,6 +84,24 @@ To include a screenshot in the guide:
   * collection date 2015-03-01 
   * contributed by Rose Coste
   
+* **CloudImagesListAll.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudimages_API.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-05-11
+  * contributed by Rose Coste 
+  
+* **CloudImagesListImagesGET.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudimages_API.html
+  * collected from http://api.rackspace.com/ 
+  * collection date 2015-05-11
+  * contributed by Rose Coste 
+  
+* **CloudImagesSDKpython.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudimages_API.html
+  * collected from https://developer.rackspace.com/docs/cloud-images/getting-started/ 
+  * collection date 2015-05-11
+  * contributed by Rose Coste 
+  
 * **CloudNetworksListAll.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudnetworks_API.html
   * collected from https://mycloud.rackspace.com/ 
@@ -161,6 +179,12 @@ To include a screenshot in the guide:
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-07
   * contributed by Rose Coste  
+  
+* **ServersSavedImages.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudimages_API.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-05-11
+  * contributed by Rose Coste 
 
 * **StorageBlockStorageVolumes.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html

@@ -4,10 +4,11 @@
 Network services
 ----------------
 Services in this category include
+
 * Cloud Networks 
 * Cloud DNS
 * Cloud Load Balancers
-* Cloud RackConnect
+* RackConnect
 
 .. NOTE::
    **Cloud Networks** is part of the 

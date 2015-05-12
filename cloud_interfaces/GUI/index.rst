@@ -23,8 +23,8 @@ first tasks:
 
 -  view and change resource limits
 
-The Cloud Control Panel may be the only interface needed by many users,
-especially if you don’t need to heavily automate the management of your
+The Cloud Control Panel may be the only interface you use,
+especially if you don't need to heavily automate the management of your
 cloud resources.
 
 Contents:

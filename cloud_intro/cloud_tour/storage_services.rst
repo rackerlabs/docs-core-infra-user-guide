@@ -4,6 +4,7 @@
 Storage and content delivery services
 -------------------------------------
 Services in this category include
+
 * Cloud Block Storage 
 * Cloud Backup
 * Cloud CDN

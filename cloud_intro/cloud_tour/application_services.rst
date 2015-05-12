@@ -4,6 +4,7 @@
 Application services
 --------------------
 Services in this category include
+
 * Auto Scale 
 * Cloud Metrics
 * Cloud Monitoring

@@ -4,6 +4,7 @@
 Compute services
 ----------------
 Services in this category include
+
 * Cloud Servers 
 * Cloud Images
 

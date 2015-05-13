@@ -11,9 +11,9 @@ Services in this category include
 Cloud Feeds at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
 * product overview at
-  xxxxxxxx
+  http://www.rackspace.com/knowledge_center/article/cloud-feeds-overview
   
-* pricing? xxxxxxxx  
+* FREE with every cloud account 
   
 * open-source roots: 
   `Atom Hopper <http://atomhopper.org/>`__

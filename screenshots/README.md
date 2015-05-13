@@ -120,7 +120,7 @@ To include a screenshot in the guide:
   * collection date 2015-05-07
   * contributed by Rose Coste 
   
-* * **CloudOrchestrationRailsFlavors.png**
+* **CloudOrchestrationRailsFlavors.png**
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_preprod/stack.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-03-26
@@ -173,6 +173,12 @@ To include a screenshot in the guide:
   * collected from https://developer.rackspace.com/docs/cloud-servers/getting-started/ 
   * collection date 2015-04-28
   * contributed by Rose Coste
+ 
+* **NetworkingGroup.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/GUI/cloudnetworks_GUI.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-05-13
+  * contributed by Rose Coste
   
 * **NetworkingNetworks.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudnetworks_API.html
@@ -180,11 +186,24 @@ To include a screenshot in the guide:
   * collection date 2015-05-07
   * contributed by Rose Coste  
   
-* **ServersSavedImages.png** 
+* **ServersGroup.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudimages_API.html
   * collected from https://mycloud.rackspace.com/ 
-  * collection date 2015-05-11
+  * collection date 2015-05-12
   * contributed by Rose Coste 
+  
+* **ServersSavedImages.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/GUI/cloudservers_GUI.html
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/GUI/cloudimages_GUI.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-05-12
+  * contributed by Rose Coste 
+  
+* **StorageGroup.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/GUI/cloudblockstorage_GUI.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-05-13
+  * contributed by Rose Coste
 
 * **StorageBlockStorageVolumes.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html

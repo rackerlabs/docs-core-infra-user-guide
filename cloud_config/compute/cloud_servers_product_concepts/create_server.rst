@@ -15,6 +15,74 @@ For example, you can create a 1GB Cloud Server by selecting the
 flavor. By making one choice of a flavor, you create a server with the
 following characteristics:
 
+ID
+  : This is flavor's unique identifier, 
+  used in the API to specify a desired flavor. 
+  For example, "**general1-1**".
+  
+  Flavor IDs are returned by 
+  the *List Flavors* API operation, 
+  described at 
+  http://docs.rackspace.com/servers/api/v2/cs-devguide/content/List_Flavors-d1e4188.html.
+
+Description
+  : The friendly name for the flavor. 
+  For example, "**1 GB General Purpose v1**".
+
+
+
+ > ID
+
+  >> This is the unique identifier for the flavor, 
+  and used in the API to specify a desired flavor. 
+  For example, "**general1-1**".
+ 
+  Flavor IDs are returned by 
+  the *List Flavors* API operation, 
+  described at 
+  http://docs.rackspace.com/servers/api/v2/cs-devguide/content/List_Flavors-d1e4188.html.
+ 
+ > Description
+
+  >> The friendly name for the flavor. 
+  For example, "**1 GB General Purpose v1**".
+ 
+----
+
+:ID:                 This is the unique identifier for the flavor, 
+                     and used in the API to specify a desired flavor. 
+                     For example, "**general1-1**".
+     
+                     Flavor IDs are returned by 
+                     the *List Flavors* API operation, 
+                     described at 
+                     http://docs.rackspace.com/servers/api/v2/cs-devguide/content/List_Flavors-d1e4188.html.
+ 
+----
+
+:Description:        The friendly name for the flavor. 
+                     For example, "**1 GB General Purpose v1**".
+ 
+----
+
+:Memory (MB):        The amount of RAM, specified in megabytes; 
+                     for example, 1GB of available RAM.
+ 
+----
+
+:Disk / System Disk: Sometimes also called boot disk, 
+                     this is the size of the first disk that 
+                     the server will attempt to access and boot from, 
+                     much like the first physical hard drive 
+                     plugged into a physical computer. 
+                     For example, a **general1-1** server 
+                     has a 20GB system disk.
+ 
+----
+
+
+
+
 +----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | name                       | details                                                                                                                                                                                                                                                                                                                                                                                           |
 +============================+===================================================================================================================================================================================================================================================================================================================================================================================================+

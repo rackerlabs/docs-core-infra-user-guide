@@ -21,11 +21,4 @@ the key you want to remove:
 xxxxxxxx insert screenshot of deleting a metadata field, possibly the
 one we used earlier as an example.
 
-After a metadata field is deleted, it cannot be recovered, unless you
-have a stored image of the server. If you have a stored image of the
-server, you may be able to
-
-* rebuild the server from the image and retrieve the metadata field
-
-* view the image properties of the image and look for fields prefixed
-  with instance
+After a metadata field is deleted, it cannot be recovered.

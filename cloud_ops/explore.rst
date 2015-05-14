@@ -29,13 +29,9 @@ tried-and-true best practices:
 
 *  For Cloud Networks, use RFC 1918 less the two ServiceNet blocks.
 
-*  For Cloud Images, use UUID for complete consistency:
-
-   *  Use xxxxxxxx to get latest and greatest of same minor version (CentOS 5.1)
-
-   *  Use xxxxxxxx to get latest and greatest of same major version (CentOS 5.x)
-
-   *  Use xxxxxxxx to get latest and greatest of same OS (latest CentOS)
+*  For Cloud Images, use the UUID where possible because the UUID
+   of an image cannot change, whereas the name cannot be guaranteed
+   to be constant.
 
 Keeping up with change
 ~~~~~~~~~~~~~~~~~~~~~~

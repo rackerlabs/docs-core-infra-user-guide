@@ -6,10 +6,13 @@ Security and supporting services
 Services in this category include
 
 * Cloud Feeds 
-* Cloud Identity 
+* Rackspace Identity 
 
 Cloud Feeds at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
+Cloud Feeds provides API access to events emitted from your infrastructure resources. With Cloud Feeds, you can track usage right now.
+Access events (who changed what server via control plane at what point), and state transition events (when did a LB go to 'draining' for example) at being added.
+
 * product overview at
   http://www.rackspace.com/knowledge_center/article/cloud-feeds-overview
   
@@ -18,8 +21,10 @@ Cloud Feeds at a glance
 * open-source roots: 
   `Atom Hopper <http://atomhopper.org/>`__
 
-Cloud Identity at a glance
+Rackspace Identity at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rackspace Identity is the authentication and user-administraiton service. With Rackspace Identity, you can manage role based access control to various Rackspace services.
+
 * product overview at 
   http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac
 

@@ -21,7 +21,7 @@ Cloud Feeds at a glance
 Cloud Identity at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 * product overview at 
-  xxxxxxxx
+  http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac
 
 * FREE with every cloud account
 

@@ -99,6 +99,8 @@ you can see
 .. image:: ../../screenshots/CloudBlockStorage1volume.png
    :alt: The Cloud Control Panel can list all your
          Cloud Block Storage volumes.
+         
+.. include:: note-chrome-devtools.rst
 
 Learn about Cloud Block Storage in API documentation
 ====================================================

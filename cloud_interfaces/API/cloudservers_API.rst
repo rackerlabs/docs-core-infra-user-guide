@@ -104,6 +104,8 @@ for tag, status, image, flavor, and type.
 .. image:: ../../screenshots/CloudServersListAll.png
    :alt: The Cloud Control Panel can list all your
          Cloud Servers.
+         
+.. include:: note-chrome-devtools.rst
 
 Learn about Cloud Servers in API documentation
 ==============================================

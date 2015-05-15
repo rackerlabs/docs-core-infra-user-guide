@@ -65,6 +65,8 @@ here is an example of how you can plan
 and then write your own software to perform one simple task: 
 list all your Cloud Networks. 
 
+Learn about Cloud Networks in the Cloud Control Panel  
+=====================================================
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
 your session begins with information about your Cloud Servers.
@@ -90,8 +92,10 @@ you can see
 
 .. image:: ../../screenshots/CloudNetworksListAll.png
    :alt: The Cloud Control Panel can list all your
-         Cloud Networks networks.
-         
+         Cloud Networks networks.    
+                  
+.. include:: note-chrome-devtools.rst
+
 Learn about Cloud Block Storage in API documentation
 ====================================================
 In the combined API reference, 

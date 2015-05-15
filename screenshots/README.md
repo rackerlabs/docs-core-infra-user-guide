@@ -42,6 +42,15 @@ To include a screenshot in the guide:
 ----
 **Inventory of screenshots**
 
+* **ChromeViewDeveloper.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudservers_API.html
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudnetworks_API.html
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudimages_API.html
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-05-15
+  * contributed by Rose Coste
+
 * **CloudBlockStorage0volumes.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html
   * collected from https://mycloud.rackspace.com/ 

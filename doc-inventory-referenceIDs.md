@@ -102,6 +102,8 @@ cloud-init_boot                        = /cloud_config/compute/cloud_servers_pro
 cloud_interfaces                       = /cloud_interfaces/index.rst
 
 cloud_interfaces_API                   = /cloud_interfaces/API/index.rst
+cloud_interfaces_API-APIdirect         = /cloud_interfaces/API/index.rst
+cloud_interfaces_API-SDK               = /cloud_interfaces/API/index.rst
 
 cloud_interfaces_CLI                   = /cloud_interfaces/CLI/index.rst
 

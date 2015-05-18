@@ -42,6 +42,12 @@ To include a screenshot in the guide:
 ----
 **Inventory of screenshots**
 
+* **AccountResourceLimits.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/GUI/index.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-05-18
+  * contributed by Rose Coste
+
 * **ChromeViewDeveloper.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudservers_API.html
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudnetworks_API.html

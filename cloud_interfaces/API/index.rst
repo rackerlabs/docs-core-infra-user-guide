@@ -15,6 +15,9 @@ through one of the many available Software Development Kits
 or by 
 direct API access
 
+.. _cloud_interfaces_API-SDK:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Development Kits (SDKs)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software development kits provide
@@ -45,6 +48,9 @@ You can find links to all the Rackspace-supported SDKs, with
 installation instructions, guidance, tutorials, and more for each, at
 https://developer.rackspace.com/sdks/.
 
+.. _cloud_interfaces_API-APIdirect:
+
+^^^^^^^^^^^^^^^^^
 Direct API access
 ^^^^^^^^^^^^^^^^^
 Each of our cloud services exposes an API which can be leveraged for

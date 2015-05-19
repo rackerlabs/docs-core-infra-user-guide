@@ -6,7 +6,8 @@ Managing your Rackspace account
 When you log into your `Cloud Control
 Panel <https://mycloud.rackspace.com/>`__, you can examine and change
 your managed cloud configuration. For example, you can create a Cloud
-Server or create a block storage volume. You can also examine and change
+Server or delete a block storage volume. 
+You can also examine and change
 your account itself in several areas:
 
 *  **Billing and Payments** gives you access to your current balance,
@@ -46,14 +47,14 @@ example you can enable a database administrator to schedule database
 backups and enable a network administrator to expand a load balancing
 group. The roles that make sense for your team are likely to change as
 your workload grows, your team grows, and you add more services to your
-configuration. You can see suggested role configurations at
+configuration. You can see suggested role configurations at 
 http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac.
 
 Managing expenses by limiting workload
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Enforcing limits on some activities makes it easier to control costs.
 Because you pay for only what you use in the Rackspace managed cloud,
-limits mean you won’t be surprised by a sudden spike in billable
+limits mean you won�'t be surprised by a sudden spike in billable
 activity. Limits can also protect you from workloads beyond the capacity
 of your configuration.
 
@@ -68,6 +69,11 @@ user can possess simultaneously.
 
 For example, an absolute limit controls the amount of RAM that can be
 assigned in a Cloud Servers configuration.
+
+In the Cloud Control Panel, 
+you can see absolute limits defined for Cloud Servers, 
+along with your current consumption of the limited resources, 
+at https://mycloud.rackspace.com/account#resource-limits. 
 
 Rate limits
 ^^^^^^^^^^^
@@ -84,8 +90,6 @@ documentation for more examples and complete details.
 
 +-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
 | **Service**           | **Absolute limit example**                                                                                             | **Rate limit example**                                                                                            |
-|                       |                                                                                                                        |                                                                                                                   |
-|                       |     **(click to see more)**                                                                                            |     **(click to see more)**                                                                                       |
 +=======================+========================================================================================================================+===================================================================================================================+
 | Cloud Block Storage   | `10 TB in config <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>`__         | no limits                                                                                                         |
 +-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
@@ -98,9 +102,9 @@ documentation for more examples and complete details.
 
 The services mentioned here are not the only ones with absolute limits
 or rate limits. Some services have no limits. We publish the limits
-relevant to any service in that service’s API documentation. You can
+relevant to any service in that service's API documentation. You can
 find those details by going to http://docs.rackspace.com/ and searching
-for “limits”.
+for *limits*.
 
 You can also avoid surprises in your usage-based billing with the help
 of several tools:
@@ -116,4 +120,31 @@ of several tools:
 
 Adding services
 ~~~~~~~~~~~~~~~
-xxxxxxxx
+If you have never used a service before, 
+your first attempt to do so in the Cloud Control Panel 
+will remind you that you are beginning something new 
+and point out the first step you should take. 
+
+.. image:: ../screenshots/CloudBigData0clusters.png
+   :alt: The Cloud Control Panel points out how to begin
+         using a new service. 
+         
+
+When Rackspace makes a new service generally available, 
+all customers are given access to that service. 
+When a new service is made available to you, 
+its endpoint is added to the 
+`service catalog <http://docs.rackspace.com/auth/api/v2.0/auth-client-devguide/content/Sample_Request_Response-d1e64.html>`__ 
+that is returned when you authenticate before using an API or CLI.
+
+If you meet eligibility criteria, 
+it may be possible for you to experiment with a new service 
+before it is made available to all customers. 
+The 
+`Rackspace blog <http://www.rackspace.com/blog/?s=early+access>`__ 
+is a good place to learn about 
+limited-access and early-availability releases; 
+signup procedures and contact information are included in 
+each announcement.  
+
+

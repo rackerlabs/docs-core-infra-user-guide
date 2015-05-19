@@ -213,6 +213,18 @@ To include a screenshot in the guide:
   * collection date 2015-05-07
   * contributed by Rose Coste  
   
+* **ReleaseNotesFeed-API.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/moreinfo_API.html
+  * collected from http://docs.rackspace.com/cbs/api/v1.0/cbs-releasenotes/ 
+  * collection date 2015-05-19
+  * contributed by Rose Coste 
+
+* **ReleaseNotesFeed-SDK.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/moreinfo_API.html
+  * collected from https://developer.rackspace.com/sdks/ 
+  * collection date 2015-05-19
+  * contributed by Rose Coste 
+
 * **ServersGroup.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudimages_API.html
   * collected from https://mycloud.rackspace.com/ 

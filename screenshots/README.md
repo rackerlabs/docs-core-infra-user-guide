@@ -188,7 +188,13 @@ To include a screenshot in the guide:
   * collected from https://developer.rackspace.com/docs/cloud-servers/getting-started/ 
   * collection date 2015-04-28
   * contributed by Rose Coste
- 
+
+* **CreateTicketServersResourceLimit.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/GUI/index.html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-05-18
+  * contributed by Rose Coste
+
 * **NetworkingGroup.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/GUI/cloudnetworks_GUI.html
   * collected from https://mycloud.rackspace.com/ 

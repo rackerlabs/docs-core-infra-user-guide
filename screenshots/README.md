@@ -56,6 +56,12 @@ To include a screenshot in the guide:
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-15
   * contributed by Rose Coste
+  
+* **CloudBigData0clusters.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_ops/limits..html
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-05-19 
+  * contributed by Rose Coste
 
 * **CloudBlockStorage0volumes.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/cloudblockstorage_API.html

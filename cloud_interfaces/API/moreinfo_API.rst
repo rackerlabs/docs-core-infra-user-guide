@@ -37,6 +37,6 @@ customers:
   other users of SDKs and APIs 
   at https://community.rackspace.com/.
 
-* Suggest and vote one improvements 
+* Suggest and vote on improvements 
   to SDKs and APIs 
   at https://feedback.rackspace.com/. 

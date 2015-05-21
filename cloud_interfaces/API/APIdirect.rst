@@ -51,7 +51,7 @@ Rackspace publishes at least two technical documents:
   tutorial material *demonstrating* simple interactions
   with the API 
  
-We published these API documents primarily to support readers who are 
+We publish these API documents primarily to support readers who are 
 already experienced with RESTful APIs in other contexts and 
 are seeking details specifically about Rackspace's APIs. 
 We don't publish a beginner-level API tutorial. 

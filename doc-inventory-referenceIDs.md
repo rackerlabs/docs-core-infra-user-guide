@@ -59,6 +59,8 @@ Link to a page within the site by using its reference ID.
 
 **Inventory**
 
+APIdirect                              = /cloud_interfaces/API/APIdirect.rst
+
 assumptions                            = /cloud_guide_intro/assumptions.rst
 
 backups                                = /cloud_preprod/backups.rst
@@ -102,8 +104,6 @@ cloud-init_boot                        = /cloud_config/compute/cloud_servers_pro
 cloud_interfaces                       = /cloud_interfaces/index.rst
 
 cloud_interfaces_API                   = /cloud_interfaces/API/index.rst
-cloud_interfaces_API-APIdirect         = /cloud_interfaces/API/index.rst
-cloud_interfaces_API-SDK               = /cloud_interfaces/API/index.rst
 
 cloud_interfaces_CLI                   = /cloud_interfaces/CLI/index.rst
 
@@ -177,6 +177,8 @@ data_immutability                      = /cloud_config/compute/cloud_images_prod
 
 default_base_images                    = /cloud_config/compute/cloud_images_product_concepts/base_images/default_base_images.rst
 
+devopstools                            = /cloud_interfaces/API/devopstools.rst
+
 disk_storage                           = /cloud_config/storage/cloud_block_storage_product_concepts/disk_storage.rst
 
 diskconfig                             = /cloud_config/compute/cloud_servers_product_concepts/diskconfig.rst
@@ -228,6 +230,8 @@ personality_boot                       = /cloud_config/compute/cloud_servers_pro
 publicnet                              = /cloud_config/network/cloud_networks_product_concepts/publicnet.rst
 
 scaling                                = /cloud_preprod/scaling.rst
+
+SDK                                    = /cloud_interfaces/API/SDK.rst
 
 security                               = /cloud_preprod/security.rst
 

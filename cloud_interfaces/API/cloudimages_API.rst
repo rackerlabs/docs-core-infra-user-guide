@@ -1,8 +1,8 @@
 .. _cloudimages_API:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 Cloud Images and SDKs and APIs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 When you begin writing your own software
 to interact with Cloud Images, 
 you may benefit from investing some time to learn about 
@@ -12,9 +12,9 @@ and how SDKs and APIs are documented at Rackspace.
 
 .. _cloudimages_APIinvestigation:
 
-------------------------------
+++++++++++++++++++++++++++++++
 Cloud Images API investigation
-------------------------------
+++++++++++++++++++++++++++++++
 Using an API, 
 you can write software to automate functions that could otherwise 
 be performed manually by a person logged into the Cloud Control Panel. 
@@ -56,9 +56,9 @@ can help you to plan the easiest way to develop your software.
 
 .. _cloudimages_APIdemonstration:
 
-------------------------------
+++++++++++++++++++++++++++++++
 Cloud Images API demonstration
-------------------------------
+++++++++++++++++++++++++++++++
 Using the process suggested at 
 :ref:`cloudimages_APIinvestigation`, 
 here is an example of how you can plan 
@@ -66,7 +66,7 @@ and then write your own software to perform one simple task:
 list all your Cloud Images. 
 
 Learn about Cloud Images in the Cloud Control Panel  
-====================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
 your session begins with information about your Cloud Servers.
@@ -98,7 +98,7 @@ you can see
 .. include:: note-chrome-devtools.rst
 
 Learn about Cloud Images in API documentation
-=============================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the combined API reference, 
 api.rackspace.com, 
 you can see all available API operations for all cloud services. 
@@ -139,7 +139,7 @@ you can see an example of
 <http://docs.rackspace.com/images/api/v2/ci-gettingstarted/content/list-images.html>`__. 
 
 Learn about Cloud Images in SDK QuickStart
-==========================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the SDK QuickStart for Cloud Images, 
 https://developer.rackspace.com/docs/cloud-images/getting-started/,
 you can see some of the same steps that are documented in 
@@ -165,7 +165,7 @@ and click *python*.
          publish an SDK QuickStart.
 
 Use SDK to help you write and run code to interact with Cloud Images
-====================================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The SDK QuickStart demonstrates a few basic requests; 
 for more detailed guidance, 
 perhaps enough to walk you through exactly the steps required 

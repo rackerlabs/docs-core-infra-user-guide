@@ -1,8 +1,8 @@
 .. _cloudservers_API:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 Cloud Servers and SDKs and APIs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 When you begin writing your own software
 to interact with Cloud Servers, 
 you may benefit from investing some time to learn about 
@@ -12,9 +12,9 @@ and how SDKs and APIs are documented at Rackspace.
 
 .. _cloudservers_APIinvestigation:
 
--------------------------------
++++++++++++++++++++++++++++++++
 Cloud Servers API investigation
--------------------------------
++++++++++++++++++++++++++++++++
 Using an API, 
 you can write software to automate functions that could otherwise 
 be performed manually by a person logged into the Cloud Control Panel. 
@@ -82,9 +82,9 @@ available within the broader Rackspace portfolio include:
 
 .. _cloudservers_APIdemonstration:
 
--------------------------------
++++++++++++++++++++++++++++++++
 Cloud Servers API demonstration
--------------------------------
++++++++++++++++++++++++++++++++
 Using the process suggested at 
 :ref:`cloudservers_APIinvestigation`, 
 here is an example of how you can plan 
@@ -92,7 +92,7 @@ and then write your own software to perform one simple task:
 list all your Cloud Servers. 
 
 Learn about Cloud Servers in the Cloud Control Panel  
-====================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
 your session begins with a list of all your Cloud Servers. 
@@ -108,7 +108,7 @@ for tag, status, image, flavor, and type.
 .. include:: note-chrome-devtools.rst
 
 Learn about Cloud Servers in API documentation
-==============================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the combined API reference, 
 api.rackspace.com, 
 you can see all available API operations for all cloud services. 
@@ -162,7 +162,7 @@ demonstrates
 <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/curl_list_servers.html>`__. 
 
 Learn about Cloud Servers in SDK QuickStart
-===========================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the SDK QuickStart for Cloud Servers, 
 https://developer.rackspace.com/docs/cloud-servers/getting-started/,
 you can see some of the same steps that are documented in 
@@ -188,7 +188,7 @@ and click *python*.
          publish an SDK QuickStart.
 
 Use SDK to help you write and run code to interact with Cloud Servers
-=====================================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The SDK QuickStart demonstrates a few basic requests; 
 for more detailed guidance, 
 perhaps enough to walk you through exactly the steps required 

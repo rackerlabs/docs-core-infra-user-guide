@@ -1,8 +1,8 @@
 .. _cloudblockstorage_API:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------
 Cloud Block Storage and SDKs and APIs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------
 When you begin writing your own software
 to interact with Cloud Block Storage, 
 you may benefit from investing some time to learn about 
@@ -12,9 +12,9 @@ and how SDKs and APIs are documented at Rackspace.
 
 .. _cloudblockstorage_APIinvestigation:
 
--------------------------------------
++++++++++++++++++++++++++++++++++++++
 Cloud Block Storage API investigation
--------------------------------------
++++++++++++++++++++++++++++++++++++++
 Using an API, 
 you can write software to automate functions that could otherwise 
 be performed manually by a person logged into the Cloud Control Panel. 
@@ -56,9 +56,9 @@ can help you to plan the easiest way to develop your software.
 
 .. _cloudblockstorage_APIdemonstration:
 
--------------------------------------
++++++++++++++++++++++++++++++++++++++
 Cloud Block Storage API demonstration
--------------------------------------
++++++++++++++++++++++++++++++++++++++
 Using the process suggested at 
 :ref:`cloudblockstorage_APIinvestigation`, 
 here is an example of how you can plan 
@@ -66,7 +66,7 @@ and then write your own software to perform one simple task:
 list all your Cloud Block Storage volumes. 
 
 Learn about Cloud Block Storage in the Cloud Control Panel  
-==========================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
 your session begins with information about your Cloud Servers.
@@ -103,7 +103,7 @@ you can see
 .. include:: note-chrome-devtools.rst
 
 Learn about Cloud Block Storage in API documentation
-====================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the combined API reference, 
 api.rackspace.com, 
 you can see all available API operations for all cloud services. 
@@ -147,7 +147,7 @@ you can see an example of
 <http://docs.rackspace.com/cbs/api/v1.0/cbs-getting-started/content/Listing_volumes_d1e060.html>`__. 
 
 Learn about Cloud Block Storage in SDK QuickStart
-=================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the SDK QuickStart for Cloud Block Storage, 
 https://developer.rackspace.com/docs/cloud-block-storage/getting-started/,
 you can see some of the same steps that are documented in 
@@ -173,7 +173,7 @@ and click *PHP*.
          publish an SDK QuickStart.
 
 Use SDK to help you write and run code to interact with Cloud Block Storage
-===========================================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The SDK QuickStart demonstrates a few basic requests; 
 for more detailed guidance, 
 perhaps enough to walk you through exactly the steps required 

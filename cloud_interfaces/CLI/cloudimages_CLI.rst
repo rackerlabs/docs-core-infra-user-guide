@@ -1,6 +1,6 @@
 .. _cloudimages_CLI:
 
-~~~~~~~~~~~~~~~~~~~~~~~~
-Cloud Images and rax-cli
-~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
+Cloud Images and CLIs: glance
+-----------------------------
 xxxxxxxx

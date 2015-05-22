@@ -1,8 +1,8 @@
 .. _cloud_intro:
 
-===================================
-**Introducing the Rackspace cloud**
-===================================
+===============================
+Introducing the Rackspace cloud
+===============================
 We want to help you confirm that working with Rackspace, home of
 the #1 managed cloud, is the best way to get your work done.
 

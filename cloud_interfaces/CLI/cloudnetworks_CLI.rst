@@ -1,6 +1,6 @@
 .. _cloudnetworks_CLI:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-Cloud Networks and rax-cli
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------------
+Cloud Networks and CLIs: novaclient and supernova
+-------------------------------------------------
 xxxxxxxx

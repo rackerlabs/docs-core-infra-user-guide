@@ -17,6 +17,9 @@ or by writing software
   * after you login, you can obtain your API key 
     and your tenant ID (also called account number)
 
+You also need to know something that you would need to know if working 
+with an API: 
+
 * the endpoint for the cloud service with which you want to interact
 
 .. note::
@@ -33,6 +36,14 @@ the cloud by typing commands:
 
 * a locally-installed client capable of interacting with 
   the cloud service you have chosen
+  
+  * you can use 
+    `cURL <http://curl.haxx.se/>`__ 
+    to send commands to any API endpoint
+  * you can use 
+    `OpenStack CLIs <http://docs.openstack.org/cli-reference/content/>`__
+    to send commands to specific
+    cloud services
 
 In your terminal emulator, 
 you can type commands to the client and, 

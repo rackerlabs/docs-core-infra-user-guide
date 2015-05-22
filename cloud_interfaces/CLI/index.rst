@@ -3,12 +3,11 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 CLI: command-line interfaces and tools
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-As the Rackspace Cloud is based on OpenStack, there are a rich set of
-open source command line interfaces (CLIs) available for users who want
-to manage their cloud via shell scripts, manual commands, and more.
-
-
-
+If you want to manage your cloud configuration 
+by typing commands or executing shell scripts,
+you can use command-line interfaces (CLIs) 
+provided by OpenStack and, 
+in some cases, supported by Rackspace. 
 
 Contents:
 

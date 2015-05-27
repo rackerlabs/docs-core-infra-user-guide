@@ -25,7 +25,13 @@ required packages for you.
 Alternatively, you can download the rackspace-novaclient package from 
 https://github.com/rackerlabs/rackspace-novaclient.
 
-We publish detailed instructions about novaclient, 
+OpenStack documents novaclient: 
+
+* http://docs.openstack.org/developer/python-novaclient/man/nova.html
+
+.. include:: note-openstack-username.rst
+
+Rackspace publishes detailed instructions about novaclient, 
 including how to install the client
 on most popular operating systems, in two places:
 

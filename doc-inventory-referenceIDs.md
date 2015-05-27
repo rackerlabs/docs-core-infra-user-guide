@@ -77,6 +77,8 @@ check_region_flavor_class              = /cloud_config/compute/cloud_servers_pro
 
 choose_flavor_class                    = /cloud_config/compute/cloud_servers_product_concepts/flavor_class/choose_flavor_class.rst
 
+cinder                                 = /cloud_interfaces/CLI/cinder.rst
+
 cloud_config                           = /cloud_config/index.rst
 
 cloud_config_compute                   = /cloud_config/compute/index.rst
@@ -190,6 +192,8 @@ document_history                       = /cloud_guide_intro/document_history.rst
 drive_boot                             = /cloud_config/compute/cloud_servers_product_concepts/boot/drive_boot.rst
 
 explore                                = /cloud_ops/explore.rst
+
+glance                                 = /cloud_interfaces/CLI/glance.rst
 
 host_issues                            = /cloud_config/compute/cloud_servers_product_concepts/host_issues.rst
 

@@ -9,6 +9,19 @@ of interacting with OpenStack-based clouds
 (nova, supernova) 
 or general-purpose tools (cURL). 
 
+Before you can use one of these tools, 
+you must install a local (client) copy. 
+The installation procedure varies for each tool 
+and is documented with the tool. 
+
+The commands you can send are the 
+the same, 
+wrapped in the syntax of the client, 
+as the requests you can send 
+to the API endpoint. 
+http://api.rackspace.com/api-ref.html#compute-core-v2 
+lists those requests for Cloud Servers. 
+
 Contents:
 
 .. toctree::

@@ -169,6 +169,8 @@ core_infrastructure                    = /cloud_intro/core_infrastructure.rst
 
 create_server                          = /cloud_config/compute/cloud_servers_product_concepts/create_server.rst
 
+curl                                   = /cloud_interfaces/CLI/curl.rst
+
 custom_images                          = /cloud_config/compute/cloud_images_product_concepts/custom_images.rst
 
 customer_stories                       = /cloud_intro/customer_stories.rst
@@ -219,6 +221,8 @@ network_onmetal_servers                = /cloud_config/network/cloud_networks_pr
 
 network_rackconnect                    = /cloud_config/network/cloud_networks_product_concepts/network_rackconnect.rst
 
+nova                                   = /cloud_interfaces/CLI/nova.rst
+
 nova-agent                             = /cloud_config/compute/cloud_servers_product_concepts/nova-agent.rst
 
 on-demand_images                       = /cloud_config/compute/cloud_images_product_concepts/on-demand_images.rst
@@ -258,6 +262,8 @@ software_RAID                          = /cloud_config/storage/cloud_block_stora
 SSH                                    = /cloud_config/compute/cloud_servers_product_concepts/SSH.rst
 
 stack                                  = /cloud_preprod/stack.rst 
+
+supernova                              = /cloud_interfaces/CLI/supernova.rst
 
 support                                = /cloud_ops/support.rst
 

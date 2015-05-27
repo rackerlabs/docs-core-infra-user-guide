@@ -213,6 +213,12 @@ To include a screenshot in the guide:
   * collection date 2015-05-07
   * contributed by Rose Coste  
   
+* **Quickstart-shell.png** 
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/CLI/curl.html
+  * collected from https://developer.rackspace.com/docs/cloud-block-storage/getting-started/ 
+  * collection date 2015-05-26
+  * contributed by Rose Coste
+  
 * **ReleaseNotesFeed-API.png** 
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_interfaces/API/moreinfo_API.html
   * collected from http://docs.rackspace.com/cbs/api/v1.0/cbs-releasenotes/ 

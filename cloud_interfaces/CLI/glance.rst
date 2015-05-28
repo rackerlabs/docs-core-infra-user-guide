@@ -3,6 +3,10 @@
 ++++++++++
 glance CLI
 ++++++++++ 
+Rackspace implemented 
+the OpenStack project named "glance" 
+as our Cloud Images product.
+
 The OpenStack tool primarily used for 
 managing Cloud Images is written
 in Python and called *glance*. 
@@ -17,8 +21,15 @@ required packages for you.
 Alternatively, you can download the rackspace-glanceclient package from 
 https://github.com/rackerlabs/rackspace-glanceclient.
 
-OpenStack documents glanceclient: 
+OpenStack documents that may help you install glanceclient 
+and learn to use it include: 
 
-* http://docs.openstack.org/developer/python-glanceclient/man/glance.html
+* `Install the OpenStack command-line clients <http://docs.openstack.org/user-guide/common/cli_install_openstack_command_line_clients.html>`__
+
+* `OpenStack Command-Line Interface Reference <http://docs.openstack.org/cli-reference/content/index.html>`__, 
+   especially at 
+   `Image service command-line client <http://docs.openstack.org/cli-reference/content/glanceclient_commands.html>`__ 
+
+* `glance CLI man page <http://docs.openstack.org/developer/python-glanceclient/man/glance.html>`__ 
 
 .. include:: note-openstack-username.rst

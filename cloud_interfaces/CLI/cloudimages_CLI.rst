@@ -46,16 +46,18 @@ wrapped in the syntax of the client,
 as the requests you can send 
 to the API endpoint. 
 http://api.rackspace.com/api-ref-images.html 
-lists those requests for Cloud Images. 
-
-The Getting Started Guide for the Cloud Images API 
-includes many examples of using cURL, especially at 
-`Using images <http://docs.rackspace.com/images/api/v2/ci-gettingstarted/content/using-images.html>`__.
+lists those requests for Cloud Images.  
  
+The Getting Started Guide for the Cloud Images API 
+includes many examples of using cURL commands 
+to send requests to the API's endpoint, 
+especially at 
+`Using images <http://docs.rackspace.com/images/api/v2/ci-gettingstarted/content/using-images.html>`__.
+  
 The Developers Guide for the Cloud Images API 
 also demonstrates using cURL to interact with the API, such as at 
 `How cURL commands work <http://docs.rackspace.com/images/api/v2/ci-devguide/content/curl_stuff.html>`__.
- 
+  
 Contents:
 
 .. toctree::

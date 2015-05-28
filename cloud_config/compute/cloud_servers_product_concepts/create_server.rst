@@ -128,6 +128,3 @@ following characteristics:
      In the case of **general1-1**, aggregate bandwidth of 200Mb/s 
      (Megabits per second) means that you can 
      generate 80Mb/s of outbound traffic.
-
-----
-

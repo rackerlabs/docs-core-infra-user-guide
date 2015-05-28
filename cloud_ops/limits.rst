@@ -54,7 +54,7 @@ Managing expenses by limiting workload
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Enforcing limits on some activities makes it easier to control costs.
 Because you pay for only what you use in the Rackspace managed cloud,
-limits mean you wonâ't be surprised by a sudden spike in billable
+limits mean you will not be surprised by a sudden spike in billable
 activity. Limits can also protect you from workloads beyond the capacity
 of your configuration.
 

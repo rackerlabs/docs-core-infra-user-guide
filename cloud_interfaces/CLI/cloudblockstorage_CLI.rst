@@ -22,8 +22,18 @@ or you can go directly to the tool that interests you:
 * :ref:`supernova`
 * :ref:`curl`
 
-You can also use the cinder CLI, 
+You can also use the 
+:ref:`cinder`, 
 focused on Cloud Block Storage. 
+
+In working with Cloud Block Storage, 
+you may find that you need to use nova for some functions 
+and cinder for others. You should install them both. 
+You can see an example of using nova and cinder together at 
+`Configuring OpenStack Block Storage <http://www.rackspace.com/knowledge_center/article/configuring-openstack-block-storage>`__ 
+where, in the "Create a Volume" section, 
+``nova volume-attach`` associates a volume with a server 
+and ``cinder list`` confirms that association. 
 
 Before you can use one of these tools, 
 you must install a local (client) copy. 
@@ -36,7 +46,24 @@ wrapped in the syntax of the client,
 as the requests you can send 
 to the API endpoint. 
 http://api.rackspace.com/api-ref-blockstorage.html 
-lists those requests for Cloud Networks. 
+lists those requests for Cloud Block Storage. 
+ 
+If you have the cinder client installed on your local machine, 
+you can choose whether to issue commands through your 
+local copy of the cinder client or, by using a general-purpose client 
+such as cURL, by sending a request to the instance of 
+python-cinderclient active at the API endpoint for 
+Cloud Block Storage. 
+You can see both methods demonstrated in the Cloud Block Storage 
+API documentation, under 
+` Cloud Block Storage quotas <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/serviceQuotas-d1e01.html>`_:
+
+* cinder users send ``cinder quota-usage yourAccountID``
+* cURL users send ``curl -i -X GET https://dfw.blockstorage.api.rackspacecloud.com/v1/yourAccountID/os-quota-sets/yourAccountID?usage=True \
+  -H "X-Auth-Project-Id: yourAccountID" \
+  -H "User-Agent: python-cinderclient" \
+  -H "Accept: application/json" \
+  -H "X-Auth-Token: yourAuthToken"``
 
 Contents:
 

@@ -35,8 +35,8 @@ and learn to use it include:
 * `Install the OpenStack command-line clients <http://docs.openstack.org/user-guide/common/cli_install_openstack_command_line_clients.html>`__
 
 * `OpenStack Command-Line Interface Reference <http://docs.openstack.org/cli-reference/content/index.html>`__, 
-   especially at 
-   `Compute command-line client <http://docs.openstack.org/cli-reference/content/novaclient_commands.html>`__ 
+  especially at 
+  `Compute command-line client <http://docs.openstack.org/cli-reference/content/novaclient_commands.html>`__ 
 
 * `nova CLI man page <http://docs.openstack.org/developer/python-novaclient/man/nova.html>`__ 
 

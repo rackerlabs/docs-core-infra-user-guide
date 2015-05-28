@@ -27,8 +27,8 @@ and learn to use it include:
 * `Install the OpenStack command-line clients <http://docs.openstack.org/user-guide/common/cli_install_openstack_command_line_clients.html>`__
 
 * `OpenStack Command-Line Interface Reference <http://docs.openstack.org/cli-reference/content/index.html>`__, 
-   especially at 
-   `Image service command-line client <http://docs.openstack.org/cli-reference/content/glanceclient_commands.html>`__ 
+  especially at 
+  `Image service command-line client <http://docs.openstack.org/cli-reference/content/glanceclient_commands.html>`__ 
 
 * `glance CLI man page <http://docs.openstack.org/developer/python-glanceclient/man/glance.html>`__ 
 

@@ -4,8 +4,8 @@
 Rackspace cloud core infrastructure at a glance
 -----------------------------------------------
 Your Rackspace cloud configuration is backed by the physical
-infrastructure in our data centers; read more about Rackspace data
-centers at http://www.rackspace.com/about/datacenters.
+infrastructure in our 
+`data centers <http://www.rackspace.com/about/datacenters>`__.
 
 The virtual infrastructure of the managed cloud is provided by
 infrastructure-as-a-service (IaaS) software services that perform some

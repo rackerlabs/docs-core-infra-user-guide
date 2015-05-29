@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Rackspace Cloud Core Infrastructure Guide'
+project = u'Rackspace Cloud Guide to Core Infrastructure Services'
 copyright = u'2015, Rackspace'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -114,7 +114,7 @@ pygments_style = 'sphinx'
 #html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-#html_short_title = None
+html_short_title = 'Rackspace Cloud Core Infrastructure'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.

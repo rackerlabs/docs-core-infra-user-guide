@@ -29,13 +29,15 @@ focused on Cloud Images.
 In working with Cloud Networks, 
 you may find that you need to use nova for some functions 
 and neutron for others. You should install them both. 
-You can see an example of using nova and neutron together at 
-xxxxxxxx find example 
-`Openstack CLI Basics <https://developer.rackspace.com/blog/openstack-cli-basics/>`__ 
-where, in the "Creating a Modified Image" section, 
-``glance image-create`` establishes a new image 
-and ``nova boot`` initializes a new server from that image. xxxxxxxx
-
+You can see an example of using nova and neutron together 
+in the multi-step 
+`Configure host routes with neutron <http://docs.rackspace.com/networks/api/v2/cn-gettingstarted/content/chr_neutron_neutron.html>`__ 
+example: 
+ 
+* ``neutron net-create`` establishes a new network 
+* ``neutron subnet-create`` establishes a new subnet 
+* ``nova boot`` initializes a new server with the new subnet 
+* ``nova list`` verifies the new server's IP address
 
 Before you can use one of these tools, 
 you must install a local (client) copy. 

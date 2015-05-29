@@ -225,6 +225,8 @@ network_onmetal_servers                = /cloud_config/network/cloud_networks_pr
 
 network_rackconnect                    = /cloud_config/network/cloud_networks_product_concepts/network_rackconnect.rst
 
+neutron                                = /cloud_interfaces/CLI/neutron.rst
+
 nova                                   = /cloud_interfaces/CLI/nova.rst
 
 nova-agent                             = /cloud_config/compute/cloud_servers_product_concepts/nova-agent.rst

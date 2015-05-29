@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Rackspace Cloud Guide to Core Infrastructure Services'
+project = u'Rackspace Cloud Core Infrastructure Services User Guide'
 copyright = u'2015, Rackspace'
 
 # The version info for the project you're documenting, acts as replacement for

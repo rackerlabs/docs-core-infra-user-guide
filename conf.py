@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Rackspace Cloud Core Infrastructure Services User Guide documentation build configuration file, created by
+# Rackspace Cloud Core Infrastructure Guide documentation build configuration file, created by
 # sphinx-quickstart on Thu May 22 22:32:46 2014.
 #
 # This file is execfile()d with the current directory set to its
@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Rackspace Cloud Core Infrastructure Services User Guide'
+project = u'Rackspace Cloud Core Infrastructure Guide'
 copyright = u'2015, Rackspace'
 
 # The version info for the project you're documenting, acts as replacement for

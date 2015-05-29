@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Rackspace Cloud Core Infrastructure Services User Guide documentation build configuration file, created by
+# Rackspace Cloud Core Infrastructure Guide documentation build configuration file, created by
 # sphinx-quickstart on Thu May 22 22:32:46 2014.
 #
 # This file is execfile()d with the current directory set to its
@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Rackspace Cloud Core Infrastructure Services User Guide'
+project = u'Rackspace Cloud Core Infrastructure Guide'
 copyright = u'2015, Rackspace'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -98,7 +98,8 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'default'
+# not specifying a theme asks RTD to use sphinx_rtd_theme
+# html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the

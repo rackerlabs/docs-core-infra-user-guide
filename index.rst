@@ -1,8 +1,8 @@
 .. _index:
 
-=======================================================
-Rackspace Cloud Core Infrastructure Services User Guide
-=======================================================
+=====================================================
+Rackspace Cloud Guide to Core Infrastructure Services
+=====================================================
 
 Introduction
 ------------

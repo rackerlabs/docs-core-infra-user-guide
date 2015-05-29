@@ -47,7 +47,7 @@ Cloud Files at a glance
 * product overview at 
   http://www.rackspace.com/cloud/files
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`.
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
   
 * open-source roots: 
   `OpenStack Swift <http://docs.openstack.org/developer/swift/>`__   

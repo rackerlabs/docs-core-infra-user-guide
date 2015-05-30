@@ -18,8 +18,7 @@ Services in this category include
 
 Cloud Servers at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/servers
+* `product overview <http://www.rackspace.com/cloud/servers>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
   
@@ -28,8 +27,7 @@ Cloud Servers at a glance
 
 Cloud Images at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/images
+* `product overview <http://www.rackspace.com/cloud/images>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__ 
 

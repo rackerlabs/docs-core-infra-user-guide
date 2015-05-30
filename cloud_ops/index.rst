@@ -8,14 +8,17 @@ security, backup, application software, monitoring, and scaling can
 be a one-time experience, if you like what you build the first time and
 want to stick with it.
 
-Beyond the setup process, you should expect to interact with Rackspace,
-probably by logging into your `Cloud Control
-Panel <https://mycloud.rackspace.com/>`__, to maintain your contact
+Even if you don't need to change your configuration, 
+you should expect to interact with Rackspace occasionally,
+probably by logging into your 
+`Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
+to maintain your contact
 information, to assign specific roles to specific users, to see or
-change your billing options, and to enable services in addition to the
-core infrastructure. To learn about some of the the activities you may
-need to perform, start at
-http://www.rackspace.com/knowledge_center/getting-started/cloud-servers.
+change your billing options, and to explore new services and features. 
+
+To learn about some of the basic activities you may
+need to perform in the Cloud Control Panel, begin with 
+`Getting Started with Cloud Servers <http://www.rackspace.com/knowledge_center/getting-started/cloud-servers>`__.
 
 Contents:
 

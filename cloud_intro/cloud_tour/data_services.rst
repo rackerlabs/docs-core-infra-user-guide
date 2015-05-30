@@ -15,7 +15,7 @@ Cloud Big Data at a glance
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
-.. NOTE::
+.. TIP::
    Cloud Big Data is the right tool for 
    Hadoop.
 
@@ -25,7 +25,7 @@ Cloud Databases at a glance
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
-.. NOTE::
+.. TIP::
    Cloud Databases is the right tool for 
    MySQL, Percona Server, and MariaDB.
 
@@ -38,7 +38,7 @@ Object Rocket at a glance
 * open-source roots: 
   `Object Rocket <https://objectrocket.com/>`__  
 
-.. NOTE::
+.. TIP::
    Object Rocket is the right tool for 
    MongoDB and Redis.
 

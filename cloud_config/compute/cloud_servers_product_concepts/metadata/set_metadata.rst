@@ -3,13 +3,13 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Setting and updating metadata
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-To set or change metadata on a Cloud Server, use the *nova meta* command
-with the action *set*, and provide the Cloud Server ID and key/value
+To set or change metadata on a Cloud Server, use the ``nova meta`` command
+with the action ``set``, and provide the Cloud Server ID and key/value
 pair you want to set or update::
 
     $ nova meta 191ecc6d-a4aa-4cdd-979f-536c55857c90 set useful-key=useful-value
 
-Your custom metadata will appear when you do a "show" on your server. 
+Your custom metadata will appear when you do a ``show`` on your server. 
 Here's an abbreviated example::
 
     $ nova show 191ecc6d-a4aa-4cdd-979f-536c55857c90 
@@ -31,8 +31,8 @@ In general, you can use any metadata key you need, as long as it doesn't
 conflict with existing metadata placed on the Cloud Server by Rackspace,
 and doesn't exceed 255 characters.
 
-To delete a metadata key from a Cloud Server, use the *nova meta*
-command with the action *delete*, and provide the Cloud Server ID and
+To delete a metadata key from a Cloud Server, use the ``nova meta``
+command with the action ``delete``, and provide the Cloud Server ID and
 the key you want to remove::
 
     $ nova meta 191ecc6d-a4aa-4cdd-979f-536c55857c90 delete useful-key

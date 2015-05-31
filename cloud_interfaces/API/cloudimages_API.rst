@@ -182,7 +182,7 @@ For example, if you code in python,
 * Follow the installation instructions to give yourself 
   a local copy of the pyrax (python for Rackspace) SDK. 
 * Click *documentation* to open the 
-  `GitHub repository supporting the pyrax SDK <https://github.com/rackspace/pyrax/>`__. 
+  `GitHub repository for the pyrax SDK <https://github.com/rackspace/pyrax/>`__. 
 * In that pyrax repository, at 
   `/docs/ <https://github.com/rackspace/pyrax/tree/master/docs>`__,
   you can see documents specific to 

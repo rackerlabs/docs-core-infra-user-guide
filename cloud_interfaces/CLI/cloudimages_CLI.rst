@@ -44,8 +44,9 @@ The commands you can send are the
 the same, 
 wrapped in the syntax of the client, 
 as the requests you can send 
-to the API endpoint. 
-http://api.rackspace.com/api-ref-images.html 
+to the API endpoint.
+The  
+`API cross-reference <http://api.rackspace.com/api-ref-images.html>`__ 
 lists those requests for Cloud Images.  
  
 The Getting Started Guide for the Cloud Images API 

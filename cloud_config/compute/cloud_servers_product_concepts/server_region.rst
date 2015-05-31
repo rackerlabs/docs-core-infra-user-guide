@@ -6,7 +6,7 @@ Creating a Cloud Server in a region
 When you plan to build a Cloud Server, you may be interested in the
 geographical region of its physical host. Choosing the right region can
 optimize network delivery speed for local users. For example, if you
-expect most of the Cloud Server’s workload to originate in Australia,
+expect most of the Cloud Server's workload to originate in Australia,
 you may prefer it to be hosted in our SYD region rather than in our DFW
 region.
 
@@ -27,7 +27,7 @@ Cloud Server.
 * If you use an SDK, you begin describing your new Cloud Server by
   authenticating at an API endpoint (which identifies a region), and
   then choosing an image and a flavor, as shown at
-  https://developer.rackspace.com/docs/cloud-servers/getting-started/
+  `Quickstart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`__.
 
 No matter how you submit your request to create a Cloud Server, the
 resources described in the request determine the placement of your Cloud
@@ -61,7 +61,7 @@ hovering over the green circle pops up an explanation of pricing.
 .. image:: ../../../screenshots/CloudServerCreateFlavorStandardInstance.png
    :alt: Choose resource sizes.
 
-After you submit your request, Nova-scheduler, the component responsible
+After you submit your request, nova-scheduler, the component responsible
 for appropriately assigning a new Cloud Server to a physical host,
 compares two sources of information:
 
@@ -73,7 +73,7 @@ compares two sources of information:
 Nova-scheduler then places your server on a physical host capable of
 providing the resources you described.
 
-By default, the nova-scheduler does not place multiple Cloud Servers
+By default, nova-scheduler does not place multiple Cloud Servers
 belonging to the same account on the same physical host. However, it is
 possible to override this default in some circumstances. Every Cloud
 Server has a *Host ID*, identifying its physical host; by examining the

@@ -45,7 +45,8 @@ the same,
 wrapped in the syntax of the client, 
 as the requests you can send 
 to the API endpoint. 
-http://api.rackspace.com/api-ref-blockstorage.html 
+The 
+`API cross-reference <http://api.rackspace.com/api-ref-blockstorage.html>`__ 
 lists those requests for Cloud Block Storage. 
 
 The Getting Started Guide for the Cloud Block Storage API 

@@ -6,10 +6,16 @@ Learning more about CLIs
 CLIs that you can use to interact with the Rackspace cloud 
 are, or are consistent with, 
 the CLIs provided by OpenStack. 
-Read about all OpenStack CLIs at
-http://docs.openstack.org/cli-reference/content/.
 
-Talk with others using CLIs to interact with 
-Rackspace cloud services at https://community.rackspace.com/.
+Useful information about these CLIs exists in sources published by 
+Rackspace and in sources published by OpenStack:
 
-Suggest improvements to CLIs at https://feedback.rackspace.com/. 
+* `OpenStack Command-Line Interface Reference <http://docs.openstack.org/cli-reference/content/>`__ 
+  documents all OpenStack CLIs, whether or not they are 
+  in use at Rackspace. 
+
+* In the 
+  `Rackspace Community <https://community.rackspace.com/>`__, 
+  if you search for relevant keywords 
+  such as ``CLI`` or ``command line``, 
+  you can find and join useful conversations. 

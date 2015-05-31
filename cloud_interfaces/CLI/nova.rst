@@ -26,8 +26,9 @@ We recommend that you use the
 to install novaclient, as it will handle installing dependencies and
 required packages for you.
 
-Alternatively, you can download the rackspace-novaclient package from 
-https://github.com/rackerlabs/rackspace-novaclient.
+Alternatively, you can download the rackspace-novaclient package from
+the 
+`GitHub repository for rackspace-novaclient <https://github.com/rackerlabs/rackspace-novaclient>`__.
 
 OpenStack documents that may help you install novaclient 
 and learn to use it include: 
@@ -44,12 +45,12 @@ and learn to use it include:
 
 Rackspace publishes detailed instructions about novaclient, 
 including how to install the client
-on most popular operating systems, in two places:
+on most popular operating systems:
 
 * in the Cloud Servers API documentation at 
-  http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/section_gs_install_nova.html
+  `Install the nova Client with the Cloud Networks Extension <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/section_gs_install_nova.html>`__
 * in the Knowledge Center at 
-  http://www.rackspace.com/knowledge_center/article/using-python-novaclient-with-the-rackspace-cloud
+  `Using python-novaclient with the Rackspace Cloud <http://www.rackspace.com/knowledge_center/article/using-python-novaclient-with-the-rackspace-cloud>`__
 
 After you have novaclient installed, you will need to set up your
 environment so you can properly authenticate to Rackspace and use the

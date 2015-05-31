@@ -18,9 +18,6 @@ We recommend that you use the
 to install glanceclient, as it will handle installing dependencies and
 required packages for you.
 
-Alternatively, you can download the rackspace-glanceclient package from 
-https://github.com/rackerlabs/rackspace-glanceclient.
-
 OpenStack documents that may help you install glanceclient 
 and learn to use it include: 
 

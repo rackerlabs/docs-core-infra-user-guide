@@ -19,7 +19,8 @@ the same,
 wrapped in the syntax of the client, 
 as the requests you can send 
 to the API endpoint. 
-http://api.rackspace.com/api-ref.html#compute-core-v2 
+The 
+`API cross-reference <http://api.rackspace.com/api-ref.html#compute-core-v2>`__ 
 lists those requests for Cloud Servers. 
 
 Contents:

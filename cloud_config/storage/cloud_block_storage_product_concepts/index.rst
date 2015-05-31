@@ -33,11 +33,12 @@ staging of common server images in CBS.
 **Note**
 
 For instructions on using CBS boot-from-volume, see
-http://www.rackspace.com/knowledge_center/article/boot-a-server-from-a-cloud-block-storage-volume.
+`Boot a server from a Cloud Block Storage volume <http://www.rackspace.com/knowledge_center/article/boot-a-server-from-a-cloud-block-storage-volume>`__.
 
 The Rackspace Knowledge Center provides many more details about Cloud
 Block Storage. Begin exploring
-at http://www.rackspace.com/knowledge_center/product-page/cloud-block-storage.
+at 
+`Cloud Block Storage support <http://www.rackspace.com/knowledge_center/product-page/cloud-block-storage>`__.
 
 
 Contents:

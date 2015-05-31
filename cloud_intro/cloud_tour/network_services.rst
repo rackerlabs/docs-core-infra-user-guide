@@ -20,8 +20,7 @@ Services in this category include
 
 Cloud Networks at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/networks
+* `product overview <http://www.rackspace.com/cloud/networks>`__
 
 * FREE with every cloud account
 
@@ -98,22 +97,19 @@ be useful within your Cloud Servers configuration:
 
 Cloud DNS at a glance
 ~~~~~~~~~~~~~~~~~~~~~
-* product overview at  
-  http://www.rackspace.com/cloud/dns
+* `product overview <http://www.rackspace.com/cloud/dns>`__
 
 * FREE with every cloud account
 
 Cloud Load Balancers at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at  
-  http://www.rackspace.com/cloud/load-balancing
+* `product overview <http://www.rackspace.com/cloud/load-balancing>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 RackConnect at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at  
-  http://www.rackspace.com/cloud/hybrid/rackconnect
+* `product overview <http://www.rackspace.com/cloud/hybrid/rackconnect>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 

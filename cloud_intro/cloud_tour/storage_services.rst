@@ -20,8 +20,7 @@ Services in this category include
 
 Cloud Block Storage at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/block-storage
+* `product overview <http://www.rackspace.com/cloud/block-storage>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
@@ -30,22 +29,19 @@ Cloud Block Storage at a glance
 
 Cloud Backup at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/backup
+* `product overview <http://www.rackspace.com/cloud/backup>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 Cloud CDN at a glance
 ~~~~~~~~~~~~~~~~~~~~~
-* product overview at  
-  http://www.rackspace.com/cloud/cdn-content-delivery-network
+* `product overview <http://www.rackspace.com/cloud/cdn-content-delivery-network>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 Cloud Files at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/files
+* `product overview <http://www.rackspace.com/cloud/files>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
   

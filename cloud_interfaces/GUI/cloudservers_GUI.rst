@@ -18,4 +18,4 @@ You can use the Cloud Control Panel to help you
 observe and manage your Cloud Servers configuration. 
 For ideas about what to do first, 
 visit 
-http://www.rackspace.com/knowledge_center/getting-started/cloud-servers.
+`Getting Started with Cloud Servers <http://www.rackspace.com/knowledge_center/getting-started/cloud-servers>`__.

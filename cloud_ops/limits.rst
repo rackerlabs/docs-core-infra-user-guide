@@ -48,7 +48,7 @@ backups and enable a network administrator to expand a load balancing
 group. The roles that make sense for your team are likely to change as
 your workload grows, your team grows, and you add more services to your
 configuration. You can see suggested role configurations at 
-http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac.
+`Managing: Role-Based Access Control (RBAC) <http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac>`__.
 
 Managing expenses by limiting workload
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,10 +70,11 @@ user can possess simultaneously.
 For example, an absolute limit controls the amount of RAM that can be
 assigned in a Cloud Servers configuration.
 
-In the Cloud Control Panel, 
+When you are logged in to the Cloud Control Panel, 
 you can see absolute limits defined for Cloud Servers, 
 along with your current consumption of the limited resources, 
-at https://mycloud.rackspace.com/account#resource-limits. 
+by clicking your account number and then 
+`Resource Limits <https://mycloud.rackspace.com/account#resource-limits>`__. 
 
 Rate limits
 ^^^^^^^^^^^
@@ -103,7 +104,9 @@ documentation for more examples and complete details.
 The services mentioned here are not the only ones with absolute limits
 or rate limits. Some services have no limits. We publish the limits
 relevant to any service in that service's API documentation. You can
-find those details by going to http://docs.rackspace.com/ and searching
+find those details by going to 
+`Rackspace Cloud Technical Documentation <http://docs.rackspace.com/>`__ 
+and searching
 for *limits*.
 
 You can also avoid surprises in your usage-based billing with the help
@@ -146,5 +149,3 @@ is a good place to learn about
 limited-access and early-availability releases; 
 signup procedures and contact information are included in 
 each announcement.  
-
-

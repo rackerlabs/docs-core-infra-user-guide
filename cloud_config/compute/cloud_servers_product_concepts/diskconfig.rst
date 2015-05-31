@@ -23,11 +23,11 @@ data on an ephemeral disk is not copied.
 Depending on the interface used, persistent and ephemeral disks are
 labeled differently:
 
-* The Cloud Servers API labels persistent disk as "Disk" and ephemeral
-  disk as "Ephemeral".
+* The Cloud Servers API labels persistent disk as ``Disk`` and ephemeral
+  disk as ``Ephemeral``.
 
-* The Cloud Control Panel labels persistent disk as "System Disk" and
-  ephemeral disk as "Data Disk".
+* The Cloud Control Panel labels persistent disk as ``System Disk`` and
+  ephemeral disk as ``Data Disk``.
 
 Presentation of disks to the operating system
 '''''''''''''''''''''''''''''''''''''''''''''
@@ -35,8 +35,8 @@ A flavor may have zero or multiple individual disks presented to it.
 Additional disks are supplied unformatted and without a partition. Some
 behavior varies with the operating system:
 
-* Linux labels the system disk ‘/dev/xvda’. Subsequent disks are
-  labeled starting at ‘/dev/xvde’ and proceeding through the alphabet
+* Linux labels the system disk ``/dev/xvda``. Subsequent disks are
+  labeled starting at ``/dev/xvde`` and proceeding through the alphabet
   for each additional local disk or attached Cloud Block Storage
   volume.
 

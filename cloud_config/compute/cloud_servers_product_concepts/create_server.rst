@@ -11,7 +11,7 @@ A flavor is the definition of the characteristics and resources that are
 assigned to a Cloud Server when it is created.
 
 For example, you can create a 1GB Cloud Server by selecting the
-**General** **Purpose** flavor class and the **1 GB General Purpose v1**
+**General Purpose** flavor class and the **1 GB General Purpose v1**
 flavor. By making one choice of a flavor, you create a server with the
 following characteristics:
  
@@ -26,8 +26,8 @@ following characteristics:
      
      Flavor IDs are returned by 
      the *List Flavors* API operation, 
-     described at 
-     http://docs.rackspace.com/servers/api/v2/cs-devguide/content/List_Flavors-d1e4188.html.
+     described in the 
+     `Cloud Servers API documentation <http://docs.rackspace.com/servers/api/v2/cs-devguide/content/List_Flavors-d1e4188.html>`__.
  
 ----
 

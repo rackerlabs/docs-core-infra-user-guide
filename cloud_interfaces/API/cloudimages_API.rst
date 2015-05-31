@@ -37,7 +37,7 @@ In that case,
 experimenting in the Cloud Control Panel can show you 
 only part of the process of working with a new feature; 
 other details are described in the 
-API documentation, http://docs.rackspace.com. 
+`API documentation <http://docs.rackspace.com>`__. 
 
 Just as you can use the Cloud Control Panel 
 to help you understand a manual process that you intend to automate, 
@@ -99,15 +99,15 @@ you can see
 
 Learn about Cloud Images in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the combined API reference, 
-api.rackspace.com, 
+In the 
+`API cross-reference <http://api.rackspace.com/>`__,
 you can see all available API operations for all cloud services. 
 The operations are grouped according to the service they interact 
 with (for example, Cloud Images or Cloud Files) 
 and the scope they act upon (for example, images or image schemas). 
 
-You can see all Cloud Images operations at 
-http://api.rackspace.com/api-ref-images.html; 
+You can see all Cloud Images operations in the 
+`API cross-reference <http://api.rackspace.com/api-ref-images.html>`__; 
 in the group of 
 `operations that act upon images <http://api.rackspace.com/api-ref-images.html#images>`__, 
 you can see that:
@@ -129,19 +129,19 @@ and understand the API's
 response.
 
 In the sample response, 
-*name*, *created_at*, *size*, and *id* 
+``name``, ``created_at``, ``size``, and ``id`` 
 correspond to the information available on the Cloud Control Panel.
 
-In the Getting Started Guide for the Cloud Images API, 
-http://docs.rackspace.com/images/api/v2/ci-gettingstarted/, 
+In the 
+`Getting Started Guide for the Cloud Images API <http://docs.rackspace.com/images/api/v2/ci-gettingstarted/>`__, 
 you can see an example of  
 `obtaining a list of images by using the cURL command-line interface (CLI) 
 <http://docs.rackspace.com/images/api/v2/ci-gettingstarted/content/list-images.html>`__. 
 
 Learn about Cloud Images in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the SDK QuickStart for Cloud Images, 
-https://developer.rackspace.com/docs/cloud-images/getting-started/,
+In the 
+`SDK QuickStart for Cloud Images <https://developer.rackspace.com/docs/cloud-images/getting-started/>`__,
 you can see some of the same steps that are documented in 
 the API's Getting Started Guide. 
 For example, both the API-focused and SDK-focused documents 
@@ -157,7 +157,8 @@ Cloud Images API.
 To see examples in a specific language, 
 click that language's name in the list across the top of the page. 
 For example, to see Cloud Images code samples coded in python, 
-go to https://developer.rackspace.com/docs/cloud-images/getting-started/ 
+go to the 
+`SDK QuickStart for Cloud Images <https://developer.rackspace.com/docs/cloud-images/getting-started/>`__ 
 and click *python*.
 
 .. image:: ../../screenshots/CloudImagesSDKpython.png
@@ -172,15 +173,16 @@ perhaps enough to walk you through exactly the steps required
 to develop your software, examine the SDK itself. 
 
 To find the full SDK for your programming language, start at 
-https://developer.rackspace.com/sdks/ and find the language. 
+`SDKs & Tools in the Developer Center <https://developer.rackspace.com/sdks/>`__ 
+and find the language. 
 Then follow the steps appropriate to that language.
 
 For example, if you code in python, 
 
 * Follow the installation instructions to give yourself 
   a local copy of the pyrax (python for Rackspace) SDK. 
-* Click *documentation* to open a GitHub repository supporting 
-  the SDK at https://github.com/rackspace/pyrax/. 
+* Click *documentation* to open the 
+  `GitHub repository supporting the pyrax SDK <https://github.com/rackspace/pyrax/>`__. 
 * In that pyrax repository, at 
   `/docs/ <https://github.com/rackspace/pyrax/tree/master/docs>`__,
   you can see documents specific to 

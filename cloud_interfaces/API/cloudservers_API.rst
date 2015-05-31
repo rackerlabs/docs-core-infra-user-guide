@@ -37,7 +37,7 @@ In that case,
 experimenting in the Cloud Control Panel can show you 
 only part of the process of working with a new feature; 
 other details are described in the 
-API documentation, http://docs.rackspace.com. 
+`API documentation <http://docs.rackspace.com>`__. 
 
 Just as you can use the Cloud Control Panel 
 to help you understand a manual process that you intend to automate, 
@@ -75,7 +75,8 @@ For example:
 Good places to investigate relevant capabilities 
 available within the broader Rackspace portfolio include:
 
-* Rackspace product summaries such as http://www.rackspace.com/cloud/servers
+* Rackspace product summaries such as 
+  `Rackspace Cloud Servers powered by OpenStack <http://www.rackspace.com/cloud/servers>`__
 * `Rackspace Community <https://community.rackspace.com/>`__
 * `Rackspace Marketplace <https://marketplace.rackspace.com/listing?p=1&default=true&q#!/list/page/1/>`__
 * `Rackspace Knowledge Center <http://www.rackspace.com/knowledge_center/>`__
@@ -109,15 +110,15 @@ for tag, status, image, flavor, and type.
 
 Learn about Cloud Servers in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the combined API reference, 
-api.rackspace.com, 
+In the 
+`API cross-reference <http://api.rackspace.com/>`__, 
 you can see all available API operations for all cloud services. 
 The operations are grouped according to the service they interact 
 with (for example, Cloud Servers or Cloud Files) 
 and the scope they act upon (for example, flavors or images). 
 
-You can see all Cloud Servers operations at 
-http://api.rackspace.com/api-ref.html#compute-core-v2; 
+You can see all Cloud Servers operations in the  
+`API cross-reference <http://api.rackspace.com/api-ref.html#compute-core-v2>`__; 
 in the group of 
 `operations that act upon servers <http://api.rackspace.com/api-ref.html#compute_servers>`__, 
 you can see that:
@@ -144,11 +145,11 @@ You can use request parameters to construct a request that returns
 a list of only the Cloud Servers 
 that meet specific criteria.  
 In the sample response, 
-The request parameters named *status*, *image*, and *flavor* 
+The request parameters named ``status``, ``image``, and ``flavor`` 
 correspond to the filters available on the Cloud Control Panel. 
 
-In the Getting Started Guide for the Cloud Servers API, 
-http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/, 
+In the 
+`Getting Started Guide for the Cloud Servers API <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/>`__, 
 you can follow a 12-step tutorial to perform an essential task: 
 create a Cloud Server. 
 In the Getting Started Guide, 
@@ -163,8 +164,8 @@ demonstrates
 
 Learn about Cloud Servers in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the SDK QuickStart for Cloud Servers, 
-https://developer.rackspace.com/docs/cloud-servers/getting-started/,
+In the 
+`SDK QuickStart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`__,
 you can see some of the same steps that are documented in 
 the API's Getting Started Guide. 
 For example, both the API-focused and SDK-focused documents 
@@ -180,7 +181,8 @@ Cloud Servers API.
 To see examples in a specific language, 
 click that language's name in the list across the top of the page. 
 For example, to see Cloud Servers code samples coded in python, 
-go to https://developer.rackspace.com/docs/cloud-servers/getting-started/ 
+go to the 
+`SDK QuickStart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`__ 
 and click *python*. 
 
 .. image:: ../../screenshots/CloudServersSDKpython.png
@@ -195,19 +197,18 @@ perhaps enough to walk you through exactly the steps required
 to develop your software, examine the SDK itself. 
 
 To find the full SDK for your programming language, start at 
-https://developer.rackspace.com/sdks/ and find the language. 
+`SDKs & Tools in the Developer Center <https://developer.rackspace.com/sdks/>`__ 
+and find the language. 
 Then follow the steps appropriate to that language. 
 
 For example, if you code in python, 
 
 * Follow the installation instructions to give yourself 
   a local copy of the pyrax (python for Rackspace) SDK. 
-* Click *documentation* to open a GitHub repository supporting 
-  the SDK at https://github.com/rackspace/pyrax/. 
+* Click *documentation* to open the 
+  `GitHub repository for the pyrax SDK <https://github.com/rackspace/pyrax/>`__. 
 * In that pyrax repository, at 
   `/docs/cloud_servers.md <https://github.com/rackspace/pyrax/blob/master/docs/cloud_servers.md>`__,
   read *Working with Cloud Servers*. 
-  That document begins with a demonstration 
-  of using pyrax to list your Cloud Servers; 
-  you can go directly to that example at 
-  https://github.com/rackspace/pyrax/blob/master/docs/cloud_servers.md#listing-servers. 
+  That document begins with an 
+  `example of using pyrax to list servers <https://github.com/rackspace/pyrax/blob/master/docs/cloud_servers.md#listing-servers>`__. 

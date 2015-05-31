@@ -35,8 +35,11 @@ customers:
 
 * Compare notes on best practices with 
   other users of SDKs and APIs 
-  at https://community.rackspace.com/.
-
-* Suggest and vote on improvements 
-  to SDKs and APIs 
-  at https://feedback.rackspace.com/. 
+  in the 
+  `Rackspace Community <https://community.rackspace.com/>`__.
+  
+* IRC on 
+  `freenode <https://freenode.net/>`__ 
+  at #rackspace
+ 
+* Email sdk-support@rackspace.com

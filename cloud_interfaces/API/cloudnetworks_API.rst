@@ -37,7 +37,7 @@ In that case,
 experimenting in the Cloud Control Panel can show you 
 only part of the process of working with a new feature; 
 other details are described in the 
-API documentation, http://docs.rackspace.com. 
+`API documentation <http://docs.rackspace.com>`__. 
 
 Just as you can use the Cloud Control Panel 
 to help you understand a manual process that you intend to automate, 
@@ -96,17 +96,17 @@ you can see
                   
 .. include:: note-chrome-devtools.rst
 
-Learn about Cloud Block Storage in API documentation
+Learn about Cloud Networks in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the combined API reference, 
-api.rackspace.com, 
+In the 
+`API cross-reference <http://api.rackspace.com/>`__, 
 you can see all available API operations for all cloud services. 
 The operations are grouped according to the service they interact 
 with (for example, Cloud Networks or Cloud Files) 
 and the scope they act upon (for example, subnets or ports). 
 
-You can see all Cloud Block Storage operations at 
-http://api.rackspace.com/api-ref-networks.html; 
+You can see all Cloud Networks operations in the 
+`API cross-reference <http://api.rackspace.com/api-ref-networks.html>`__; 
 in the group of 
 `operations that act upon networks <http://api.rackspace.com/api-ref-networks.html#network-ops>`__, 
 you can see that:
@@ -131,19 +131,19 @@ and understand the API's
 response.
 
 In the sample response, 
-*name* and *id* 
+``name`` and ``id`` 
 correspond to the information available on the Cloud Control Panel. 
 
-In the Getting Started Guide for the Cloud Networks API, 
-http://docs.rackspace.com/networks/api/v2/cn-gettingstarted/, 
+In the 
+`Getting Started Guide for the Cloud Networks API <http://docs.rackspace.com/networks/api/v2/cn-gettingstarted/>`__, 
 you can see an example of  
 `obtaining a list of networks by using the cURL command-line interface (CLI) 
 <http://docs.rackspace.com/networks/api/v2/cn-gettingstarted/content/neutron_list_networks_curl.html>`__. 
 
 Learn about Cloud Networks in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the SDK QuickStart for Cloud Networks, 
-https://developer.rackspace.com/docs/cloud-networks/getting-started/,
+In the 
+`SDK QuickStart for Cloud Networks <https://developer.rackspace.com/docs/cloud-networks/getting-started/>`__,
 you can see some of the same steps that are documented in 
 the API's Getting Started Guide. 
 For example, both the API-focused and SDK-focused documents 
@@ -159,7 +159,8 @@ Cloud Networks API.
 To see examples in a specific language, 
 click that language's name in the list across the top of the page. 
 For example, to see Cloud Networks code samples coded in Java, 
-go to https://developer.rackspace.com/docs/cloud-block-storage/getting-started/ 
+go to the 
+`SDK QuickStart for Cloud Networks <https://developer.rackspace.com/docs/cloud-networks/getting-started/>`__ 
 and click *Java*. 
 
 .. image:: ../../screenshots/CloudNetworksSDKjava.png
@@ -174,17 +175,18 @@ perhaps enough to walk you through exactly the steps required
 to develop your software, examine the SDK itself. 
 
 To find the full SDK for your programming language, start at 
-https://developer.rackspace.com/sdks/ and find the language. 
+`SDKs & Tools in the Developer Center <https://developer.rackspace.com/sdks/>`__ 
+and find the language. 
 Then follow the steps appropriate to that language. 
 
 For example, if you code in Java, 
 
 * Follow the installation instructions to give yourself 
   a local copy of the Apache jclouds SDK. 
-* In the source repository for jclouds, at 
-  `github.com/jclouds/ <https://github.com/jclouds/jclouds-examples/tree/master/rackspace/src/main/java/org/jclouds/examples/rackspace/cloudnetworks>`__,
+* In the 
+  `GitHub repository for jclouds <https://github.com/jclouds/jclouds-examples/tree/master/rackspace/src/main/java/org/jclouds/examples/rackspace/cloudnetworks>`__,
   examine the examples of Cloud Networks code. 
-  No complete example of a *List volumes* request is provided, 
+  No complete example of a *List networks* request is provided, 
   but you can use the other examples as guides to help you
-  adapt the partial *List volumes* request in the SDK QuickStart at  
-  https://developer.rackspace.com/docs/cloud-networks/getting-started/#list-networks.
+  adapt the partial *List networks* request in the 
+  `SDK QuickStart <https://developer.rackspace.com/docs/cloud-networks/getting-started/#list-networks>`__.

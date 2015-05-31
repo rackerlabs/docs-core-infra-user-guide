@@ -3,17 +3,18 @@
 ------------
 DevOps tools
 ------------
-If you use popular DevOps tools such as Knife, Vagrant, Ansible, and
-Salt, you may be interested in plugins (official or unofficial) 
+If you already use a DevOps tool, 
+you may be interested in plugins (official or unofficial) 
 that improve the abilities of 
 these automation frameworks to support cloud-based operations. 
-Sources of more information about these
+
+Sources of Rackspace-focused information about these
 plugins include:
 
-* Knife: https://github.com/opscode/knife-rackspace
+* `Knife's GitHub repository <https://github.com/opscode/knife-rackspace>`__
 
-* Vagrant: https://github.com/mitchellh/vagrant-rackspace
+* `Vagrant's GitHub repository <https://github.com/mitchellh/vagrant-rackspace>`__
 
-* Ansible: http://docs.ansible.com/guide_rax.html
+* `Ansible's Rackspace Cloud Guide <http://docs.ansible.com/guide_rax.html>`__
 
-* Salt: http://docs.saltstack.com/en/latest/topics/cloud/rackspace.html
+* `Salt's Getting Started with Rackspace <http://docs.saltstack.com/en/latest/topics/cloud/rackspace.html>`__

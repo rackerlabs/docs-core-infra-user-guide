@@ -28,5 +28,6 @@ Rackspace supports SDKs for the following languages:
 * Ruby
 
 You can find links to all the Rackspace-supported SDKs, with
-installation instructions, guidance, tutorials, and more for each, at
-https://developer.rackspace.com/sdks/.
+installation instructions, guidance, tutorials, and more for each, 
+in the 
+`Rackspace Developer Center <https://developer.rackspace.com/sdks/>`__.

@@ -18,4 +18,4 @@ You can use the Cloud Control Panel to help you
 observe and manage your Cloud Images configuration. 
 For ideas about what to do first, 
 visit 
-http://www.rackspace.com/knowledge_center/getting-started/cloud-images.
+`Getting Started With Rackspace Cloud Images <http://www.rackspace.com/knowledge_center/getting-started/cloud-images>`__.

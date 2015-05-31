@@ -21,12 +21,13 @@ help you become a skillful user of the Cloud Control Panel:
 * **Technical documentation** 
   focused on the Cloud Control Panel, 
   including short tutorials and demonstrations, is 
-  published in the Rackspace Knowledge Center at 
-  http://www.rackspace.com/knowledge_center/. 
+  published in the 
+  `Rackspace Knowledge Center <http://www.rackspace.com/knowledge_center/>`__. 
 
 * **Announcements of major changes** 
   are published 
-  in Release Notes at https://mycloud.rackspace.com/release_notes.
+  in 
+  `Release Notes <https://mycloud.rackspace.com/release_notes>`__.
   
   .. note::
      We continuously improve the Cloud Control Panel;  
@@ -34,9 +35,9 @@ help you become a skillful user of the Cloud Control Panel:
      We announce only major changes in Release Notes. 
 
 * **Discussions with customers and Rackers** 
-  are open to public participation in the Rackspace Community at  
-  https://community.rackspace.com/.
+  are open to public participation in the 
+  `Rackspace Community <https://community.rackspace.com/>`__.
 
 * **Feedback on proposed improvements to the Cloud Control Panel** 
   is open to public partication at 
-  https://feedback.rackspace.com/. 
+  `Rackspace Product Feedback <https://feedback.rackspace.com/>`__. 

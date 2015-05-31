@@ -37,7 +37,7 @@ In that case,
 experimenting in the Cloud Control Panel can show you 
 only part of the process of working with a new feature; 
 other details are described in the 
-API documentation, http://docs.rackspace.com. 
+`API documentation <http://docs.rackspace.com>`__. 
 
 Just as you can use the Cloud Control Panel 
 to help you understand a manual process that you intend to automate, 
@@ -104,15 +104,15 @@ you can see
 
 Learn about Cloud Block Storage in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the combined API reference, 
-api.rackspace.com, 
+In the 
+`API cross-reference <http://api.rackspace.com/>`__, 
 you can see all available API operations for all cloud services. 
 The operations are grouped according to the service they interact 
 with (for example, Cloud Block Storage or Cloud Files) 
 and the scope they act upon (for example, volumes or snapshots). 
 
-You can see all Cloud Block Storage operations at 
-http://api.rackspace.com/api-ref-blockstorage.html; 
+You can see all Cloud Block Storage operations in the 
+`API cross-reference <http://api.rackspace.com/api-ref-blockstorage.html>`__; 
 in the group of 
 `operations that act upon volumes <http://api.rackspace.com/api-ref-blockstorage.html#volumes>`__, 
 you can see that:
@@ -137,19 +137,19 @@ and understand the API's
 response. 
   
 In the sample response, 
-*id*, *display_name*, *size*, and *volume_type* 
+``id``, ``display_name``, ``size``, and ``volume_type`` 
 correspond to the information available on the Cloud Control Panel. 
  
-In the Getting Started Guide for the Cloud Block Storage API, 
-http://docs.rackspace.com/cbs/api/v1.0/cbs-getting-started/, 
+In the 
+`Getting Started Guide for the Cloud Block Storage API <http://docs.rackspace.com/cbs/api/v1.0/cbs-getting-started/>`__, 
 you can see an example of  
 `obtaining a list of Cloud Block Storage volumes by using the cURL command-line interface (CLI) 
 <http://docs.rackspace.com/cbs/api/v1.0/cbs-getting-started/content/Listing_volumes_d1e060.html>`__. 
 
 Learn about Cloud Block Storage in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the SDK QuickStart for Cloud Block Storage, 
-https://developer.rackspace.com/docs/cloud-block-storage/getting-started/,
+In the 
+`SDK QuickStart for Cloud Block Storage <https://developer.rackspace.com/docs/cloud-block-storage/getting-started/>`__,
 you can see some of the same steps that are documented in 
 the API's Getting Started Guide. 
 For example, both the API-focused and SDK-focused documents 
@@ -165,7 +165,8 @@ Cloud Block Storage API.
 To see examples in a specific language, 
 click that language's name in the list across the top of the page. 
 For example, to see Cloud Block Storage code samples coded in PHP, 
-go to https://developer.rackspace.com/docs/cloud-block-storage/getting-started/ 
+go to the 
+`SDK QuickStart for Cloud Block Storage <https://developer.rackspace.com/docs/cloud-block-storage/getting-started/>`__ 
 and click *PHP*. 
 
 .. image:: ../../screenshots/CloudBlockStorageSDKPHP.png
@@ -180,18 +181,18 @@ perhaps enough to walk you through exactly the steps required
 to develop your software, examine the SDK itself. 
 
 To find the full SDK for your programming language, start at 
-https://developer.rackspace.com/sdks/ and find the language. 
+`SDKs & Tools in the Developer Center <https://developer.rackspace.com/sdks/>`__ 
+and find the language. 
 Then follow the steps appropriate to that language. 
 
 For example, if you code in PHP, 
 
 * Follow the installation instructions to give yourself 
   a local copy of the php-opencloud SDK. 
-* In the documentation repository for php-opencloud, at 
-  `docs.php-opencloud.com <http://docs.php-opencloud.com/>`__,
+* In the 
+  `documentation repository for php-opencloud <http://docs.php-opencloud.com/>`__,
   read about the *Volumes v1* service, 
   applicable to both Rackspace and OpenStack configurations. 
   In that document,  
-  you can go directly to an example of listing 
-  Cloud Block Storage volumes at 
-  http://docs.php-opencloud.com/en/latest/services/volume/volumes.html#list-volumes. 
+  you can go directly to an 
+  `example of listing Cloud Block Storage volumes <http://docs.php-opencloud.com/en/latest/services/volume/volumes.html#list-volumes>`__. 

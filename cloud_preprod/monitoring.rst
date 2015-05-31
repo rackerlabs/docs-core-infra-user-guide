@@ -13,5 +13,5 @@ know about and how you want to be told.
 
 If you are using Cloud Databases or are signed up for the Managed
 Infrastructure service level, some Cloud Monitoring is already in place
-for you. To investigate other options, start at
-http://www.rackspace.com/cloud/monitoring/resources/.
+for you. To investigate other options, begin with 
+`Cloud Monitoring Resources <http://www.rackspace.com/cloud/monitoring/resources/>`__.

@@ -17,4 +17,4 @@ time.
    moveable from one Cloud Server to another.
 
 For best practices regarding Cloud Backup and Cloud Block Storage, see
-http://www.rackspace.com/knowledge_center/article/best-practices-for-backing-up-your-data-cloud-block-storage-versus-cloud-backup.
+`Best Practices for Backing Up Your Data: Cloud Block Storage versus Cloud Backup <http://www.rackspace.com/knowledge_center/article/best-practices-for-backing-up-your-data-cloud-block-storage-versus-cloud-backup>`__.

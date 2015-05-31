@@ -12,4 +12,4 @@ workload.
 Auto Scale relies on Cloud Monitoring and Cloud Load Balancers. To learn
 how to use Auto Scale through the Cloud Control Panel or the Cloud
 Monitoring API, start at
-http://www.rackspace.com/knowledge_center/article/rackspace-auto-scale-overview.
+`Rackspace Auto Scale overview <http://www.rackspace.com/knowledge_center/article/rackspace-auto-scale-overview>`__.

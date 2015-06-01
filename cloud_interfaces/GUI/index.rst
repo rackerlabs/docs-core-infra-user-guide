@@ -8,7 +8,7 @@ the easiest way to get started with provisioning cloud resources.
 
 The Cloud Control Panel provides a simple, unified web based interface
 that works in all major browsers. After signing up for a Cloud account
-at rackspace.com, the Cloud Control panel is the first place you 
+at `rackspace.com <http://www.rackspace.com/>`__, the Cloud Control panel is the first place you 
 should visit to get an overview of products and services available,
 create your first servers and resources, or view more information about
 your Rackspace account.

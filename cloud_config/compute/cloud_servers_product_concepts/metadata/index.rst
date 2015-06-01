@@ -8,7 +8,7 @@ instances by using metadata.
 
 Metadata are key/value pairs that can be assigned to a Cloud Server
 during creation, or at any point during the lifetime of the server. Both
-the key field (sometimes called *name() and the value field can be up to
+the key field (sometimes called *name*) and the value field can be up to
 255 characters in length.
 
 Metadata can be useful for adding descriptive tags to your 

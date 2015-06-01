@@ -7,8 +7,6 @@ Cloud Networks are user-defined L2 networks that are fully isolated,
 single-tenant, and offer users a means to securely connect their
 application servers.
 
-Cloud Networks are provided at no charge.
-
 Cloud Networks can be provisioned as either IPv4 or IPv6.
 
 Cloud Networks are recommended for all inter-server communication. Even
@@ -23,7 +21,9 @@ Networks also includes full support for broadcasting and multicasting
 required for some clustering technologies.
 
 Aggregate outbound bandwidth limits across all attached network
-interfaces (PublicNet, ServiceNet, Cloud Networks) are shown here:
+interfaces (PublicNet, ServiceNet, Cloud Networks) 
+are defined for each Cloud Server based on its 
+performance characteristics:
 
 * Performance1:
 

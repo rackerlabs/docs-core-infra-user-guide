@@ -4,7 +4,7 @@
 Creating Cloud Servers from base images
 ---------------------------------------
 You can create a Cloud Server from a Cloud Image that you created,
-or you can create it form a Cloud Image that Rackspace created. 
+or you can create it from a Cloud Image that Rackspace created. 
 
 We maintain the Cloud Images that we create; 
 you are responsible for maintaining the Cloud Images that you create.

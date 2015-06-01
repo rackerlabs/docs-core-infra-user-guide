@@ -14,8 +14,9 @@ and especially from its core infrastructure:
 
 * Cloud Block Storage
 
-The guide doesn't replace our detailed technical documentation, but we
-hope it simplifies your startup process and gives you a clear picture of
+The guide is meant to simplify your startup process. 
+It doesn't replace our detailed technical documentation, but we
+hope it gives you a clear picture of
 what, after getting started, you can do in the Rackspace cloud.
 
 * :ref:`cloud_intro`

@@ -10,14 +10,6 @@ Services in this category include
 * Cloud CDN
 * Cloud Files 
 
-.. NOTE::
-   **Cloud Block Storage** is part of the 
-   core infrastructure of the Rackspace cloud, 
-   the focus of this guide. 
-   
-   A good place to begin learning to interact with it is
-   :ref:`cloud_interfaces`. 
-
 Cloud Block Storage at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * `product overview <http://www.rackspace.com/cloud/block-storage>`__
@@ -26,6 +18,14 @@ Cloud Block Storage at a glance
 
 * open-source roots: 
   `OpenStack Cinder <http://docs.openstack.org/developer/cinder/>`__  
+
+.. TIP::
+   **Cloud Block Storage** is part of the 
+   core infrastructure of the Rackspace cloud, 
+   the focus of this guide. 
+   
+   A good place to begin learning to interact with it is
+   :ref:`cloud_interfaces`. 
 
 Cloud Backup at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~

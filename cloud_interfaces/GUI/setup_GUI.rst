@@ -10,7 +10,7 @@ To use the Rackspace Cloud Control Panel, you need:
 * credentials (username and password) giving you access 
   to that account 
   
-Login by launching the browser, opening `Cloud Control Panel's login page <https://mycloud.rackspace.com/#>`__, 
+Login by launching the browser, opening the Cloud Control Panel's `login page <https://mycloud.rackspace.com/#>`__, 
 filling in your credentials, and clicking **Log In**.
 
 The account's credentials are those that were chosen when you, 

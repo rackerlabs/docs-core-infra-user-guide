@@ -36,8 +36,9 @@ all of these:
 * long-term storage (Cloud Files)
 * data services (Cloud Databases, Cloud Big Data, Object Rocket)
 * recoverability (Cloud Backup)
+* distribution of public-facing content (Cloud CDN)
 * connections to public-facing networks 
-  (Cloud DNS, Cloud Load Balancers, Cloud CDN) 
+  (Cloud DNS, Cloud Load Balancers) 
 * connections to dedicated hardware (RackConnect)
 * automated installation (Cloud Orchestration) 
 * automated reconfiguration (Auto Scale) 

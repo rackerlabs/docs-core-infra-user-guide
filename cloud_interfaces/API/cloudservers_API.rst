@@ -102,9 +102,13 @@ showing every server;
 you can narrow the list by clicking on filters 
 for tag, status, image, flavor, and type.
 
-.. image:: ../../screenshots/CloudServersListAll.png
-   :alt: The Cloud Control Panel can list all your
+.. figure:: ../../screenshots/CloudServersListAll.png
+   :scale: 80%
+   :alt: The Cloud Control Panel lists all of your
          Cloud Servers.
+         
+   The Cloud Control Panel lists all of your
+   Cloud Servers.
          
 .. include:: note-chrome-devtools.rst
 
@@ -131,8 +135,11 @@ you can see that:
 * sending a ``GET`` to the same URI and appending ``/detail`` 
   requests requests an expanded list of information about servers
 
-.. image:: ../../screenshots/CloudServersListServersGET.png
+.. figure:: ../../screenshots/CloudServersListServersGET.png
+   :scale: 80%
    :alt: api.rackspace.com lists all API operations.
+   
+   The API cross-reference lists all API operations
 
 On the first ``GET`` line, click *detail* to see 
 more about how the API handles this request.  
@@ -185,9 +192,13 @@ go to the
 `SDK QuickStart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`__ 
 and click *python*. 
 
-.. image:: ../../screenshots/CloudServersSDKpython.png
+.. figure:: ../../screenshots/CloudServersSDKpython.png
+   :scale: 80%
    :alt: Python is one of several languages for which we 
          publish an SDK QuickStart.
+         
+   Python is one of several languages for which we 
+   publish an SDK QuickStart.
 
 Use SDK to help you write and run code to interact with Cloud Servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

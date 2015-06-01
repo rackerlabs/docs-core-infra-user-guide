@@ -40,10 +40,15 @@ you will see samples formatted for use at the command line
 with  
 cURL. 
 
-.. image:: ../../screenshots/quickstart-shell.png
+.. figure:: ../../screenshots/quickstart-shell.png
+   :scale: 80%
    :alt: To move from Cloud Servers to 
          Cloud Images details, 
-         click Servers and then Saved Images.
+         click Servers and then click Saved Images.
+         
+   To move from Cloud Servers to 
+   Cloud Images details, 
+   click Servers and then click Saved Images.
 
 You may also be interested in exploring some 
 `alternatives to cURL <https://community.rackspace.com/developers/f/7/t/249>`__.

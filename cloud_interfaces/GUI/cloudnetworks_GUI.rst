@@ -10,8 +10,11 @@ Cloud Networks (labeled *Networks*)
 available 
 under *Networking*. 
 
-.. image:: ../../screenshots/NetworkingGroup.png
-   :alt: The Networking group includes Cloud Networks.   
+.. figure:: ../../screenshots/NetworkingGroup.png
+   :scale: 80%
+   :alt: The Networking group includes Cloud Networks.  
+   
+   The Networking group includes Cloud Networks. 
 
 You can use the Cloud Control Panel to help you 
 observe and manage your Cloud Networks configuration. 

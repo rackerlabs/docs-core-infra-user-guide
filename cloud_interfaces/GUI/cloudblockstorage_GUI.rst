@@ -10,8 +10,11 @@ Cloud Block Storage (labeled *Block Storage Volumes*)
 available 
 under *Storage*. 
 
-.. image:: ../../screenshots/StorageGroup.png
-   :alt: The Storage group includes Cloud Block Storage.   
+.. figure:: ../../screenshots/StorageGroup.png
+   :scale: 80%
+   :alt: The Storage group includes Cloud Block Storage. 
+   
+   The Storage group includes Cloud Block Storage. 
 
 You can use the Cloud Control Panel to help you 
 observe and manage your Cloud Block Storage configuration. 

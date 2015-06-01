@@ -38,8 +38,12 @@ first tasks:
 
 * view and change resource limits
 
-  .. image:: ../../screenshots/AccountResourceLimits.png
+  .. figure:: ../../screenshots/AccountResourceLimits.png
+     :scale: 80%
      :alt: Use the Control Panel to see your current
+         limits and to ask to change them.
+         
+         Use the Control Panel to see your current
          limits and to ask to change them.
          
   If you click the *Request Limit Increase* link, the system will
@@ -48,9 +52,13 @@ first tasks:
   submitting the ticket for processing. Update the ticket to 
   describe the change you want; then click *Submit Ticket*. 
  
-  .. image:: ../../screenshots/CreateTicketServersResourceLimit.png
+  .. figure:: ../../screenshots/CreateTicketServersResourceLimit.png
+     :scale: 80%
      :alt: Fill in the details you want to change in the 
          generated ticket. 
+         
+         Fill in the details you want to change in the 
+         generated ticket.
  
 The Cloud Control Panel may be the only interface you need to use,
 especially if you don't need to heavily automate the management of your

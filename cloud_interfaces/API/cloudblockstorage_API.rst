@@ -73,22 +73,33 @@ your session begins with information about your Cloud Servers.
 To see your Cloud Block Storage information, click ``Storage`` 
 and then click ``Block Storage Volumes``. 
 
-.. image:: ../../screenshots/StorageBlockStorageVolumes.png
+.. figure:: ../../screenshots/StorageBlockStorageVolumes.png
+   :scale: 80%
    :alt: To move from Cloud Servers to 
          Cloud Block Storage details, 
-         click Storage and then Block Storage Volumes.
+         click Storage and then click Block Storage Volumes.
+
+   To move from Cloud Servers to 
+   Cloud Block Storage details, 
+   click Storage and then click Block Storage Volumes.
 
 By default, the list is focused on your account's home region, 
 showing all volumes in that region; 
 you can select a different region and you can search for a 
 specific volume.
 
-.. image:: ../../screenshots/CloudBlockStorage0volumes.png
-   :alt: The Cloud Control Panel can list all your
-         Cloud Block Storage volumes.
+.. figure:: ../../screenshots/CloudBlockStorage0volumes.png
+   :scale: 80%
+   :alt: If you have no Cloud Block Storage volumes, 
+         the Cloud Control Panel shows you how to 
+         create one.
+         
+   If you have no Cloud Block Storage volumes, 
+   the Cloud Control Panel shows you how to 
+   create one.
          
 If your list of volumes is not empty, then for each volume 
-you can see 
+you can see: 
 
 * its ID
 * the name of the server to which it is attached
@@ -96,9 +107,13 @@ you can see
 * the type of disk it uses
 * its size
 
-.. image:: ../../screenshots/CloudBlockStorage1volume.png
-   :alt: The Cloud Control Panel can list all your
+.. figure:: ../../screenshots/CloudBlockStorage1volume.png
+   :scale: 80%
+   :alt: The Cloud Control Panel lists all of your
          Cloud Block Storage volumes.
+         
+   The Cloud Control Panel lists all of your
+   Cloud Block Storage volumes.
          
 .. include:: note-chrome-devtools.rst
 
@@ -126,8 +141,11 @@ you can see that:
 * sending a ``GET`` to the same URI and appending ``/detail`` 
   requests an expanded list of information about volumes
 
-.. image:: ../../screenshots/CloudBlockStorageListVolumesGET.png
+.. figure:: ../../screenshots/CloudBlockStorageListVolumesGET.png
+   :scale: 80%
    :alt: api.rackspace.com lists all API operations.
+   
+   The API cross-reference lists all API operations.
 
 On the first ``GET`` line, click *detail* to see 
 more about how the API handles this request.  
@@ -169,9 +187,13 @@ go to the
 `SDK QuickStart for Cloud Block Storage <https://developer.rackspace.com/docs/cloud-block-storage/getting-started/>`__ 
 and click *PHP*. 
 
-.. image:: ../../screenshots/CloudBlockStorageSDKPHP.png
+.. figure:: ../../screenshots/CloudBlockStorageSDKPHP.png
+   :scale: 80%
    :alt: PHP is one of several languages for which we 
          publish an SDK QuickStart.
+         
+   PHP is one of several languages for which we 
+   publish an SDK QuickStart.
 
 Use SDK to help you write and run code to interact with Cloud Block Storage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

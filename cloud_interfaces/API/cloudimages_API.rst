@@ -73,11 +73,16 @@ your session begins with information about your Cloud Servers.
 To see your Cloud Images information, click ``Servers`` 
 and then click ``Saved Images``. 
 
-.. image:: ../../screenshots/ServersSavedImages.png
+.. figure:: ../../screenshots/ServersSavedImages.png
+   :scale: 80%
    :alt: To move from Cloud Servers to 
          Cloud Images details, 
-         click Servers and then Saved Images.
-         
+         click Servers and then click Saved Images.
+   
+   To move from Cloud Servers to 
+   Cloud Images details, 
+   click Servers and then click Saved Images.
+     
 By default, the list is focused on your account's home region, 
 showing all images in that region; 
 you can select a different region and you can search for a 
@@ -91,9 +96,12 @@ you can see
 * its creation date
 * its size
 
-.. image:: ../../screenshots/CloudImagesListAll.png
-   :alt: The Cloud Control Panel can list all your
+.. figure:: ../../screenshots/CloudImagesListAll.png
+   :alt: The Cloud Control Panel lists all of your
          Cloud Networks networks.
+         
+   The Cloud Control Panel lists all of your
+   Cloud Networks networks.
          
 .. include:: note-chrome-devtools.rst
 
@@ -118,8 +126,11 @@ you can see that:
 * sending a ``GET`` to the same URI and appending an image ID 
   requests an expanded list of information about a single image
 
-.. image:: ../../screenshots/CloudImagesListImagesGET.png
+.. figure:: ../../screenshots/CloudImagesListImagesGET.png
+   :scale: 80%
    :alt: api.rackspace.com lists all API operations.
+   
+   The API cross-reference lists all API operations.
 
 On the first ``GET`` line, click *detail* to see 
 more about how the API handles this request.  
@@ -161,9 +172,13 @@ go to the
 `SDK QuickStart for Cloud Images <https://developer.rackspace.com/docs/cloud-images/getting-started/>`__ 
 and click *python*.
 
-.. image:: ../../screenshots/CloudImagesSDKpython.png
+.. figure:: ../../screenshots/CloudImagesSDKpython.png
+   :scale: 80%
    :alt: Python is one of several languages for which we 
          publish an SDK QuickStart.
+         
+   Python is one of several languages for which we 
+   publish an SDK QuickStart.
 
 Use SDK to help you write and run code to interact with Cloud Images
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

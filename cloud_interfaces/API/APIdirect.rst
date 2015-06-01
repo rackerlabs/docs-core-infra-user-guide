@@ -24,7 +24,7 @@ powerful tool for understanding and managing the Rackspace Cloud
 infrastructure.
 
 The API Developer Guide for each service is published in 
-`our technical documentation collection <http://docs.rackspace.com/>; 
+`our technical documentation collection <http://docs.rackspace.com/>`__; 
 the same API operations are also listed 
 in a 
 combined 

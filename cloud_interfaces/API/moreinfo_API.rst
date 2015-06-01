@@ -8,7 +8,7 @@ the SDKs and APIs we support.
 We publish release notes to
 announce new features, bug fixes, and other changes.
 
-Watch for release notes announcing changes to the SDKs at https://developer.rackspace.com/sdks/. 
+Watch for release notes announcing changes to the SDKs `here <https://developer.rackspace.com/sdks/>`__. 
 You can subscribe to 
 an Atom feed for each SDK's release notes 
 so you are notified when we update them. 
@@ -16,7 +16,7 @@ so you are notified when we update them.
 .. image:: ../../screenshots/ReleaseNotesFeed-SDK.png
    :alt: The RSS symbol shows that you can subscribe to this feed. 
 
-Watch for release notes announcing changes to the APIs at http://docs.rackspace.com/.
+Watch for release notes announcing changes to the APIs `here <http://docs.rackspace.com/>`__.
 
 You can subscribe to 
 an Atom feed for each API's release notes 
@@ -27,7 +27,7 @@ so you are notified when we update them.
    
 You can also subscribe to a combined Atom feed for all API documents, 
 including API release notes, 
-at http://docs.rackspace.com/feeds/atom-all.xml.
+`here <http://docs.rackspace.com/feeds/atom-all.xml>`__.
 
 You can also learn how to make use of new features 
 and influence planned changes by talking with Rackers and 

@@ -18,7 +18,6 @@ tried-and-true best practices:
 
 General
 -------
-
 * Assume failure will happen and design accordingly. Don't rely on 
   individual resources (VMs, storage) to always be available.
 
@@ -35,7 +34,6 @@ General
 
 Orchestration
 -------------
-
 *  Use config drive and cloud-init to bootstrap your servers.
    (see `Developer Blog 
    <https://developer.rackspace.com/blog/using-cloud-init-with-rackspace-cloud/>`_ )
@@ -50,7 +48,6 @@ Orchestration
 
 Security
 --------
-
 *  Sending a high volume of email from your Cloud Server can downgrade
    its IP reputation; use Mailgun instead. (see `Mailgun Quickstart 
    <https://documentation.mailgun.com/quickstart-sending.html#how-to-start-sending-email>`_ )
@@ -60,14 +57,12 @@ Security
 
 Storage 
 -------
-
 * Use attached storage whenever possible since it will allow you to
   resize, backup and plan for failure more gracefully. (see `Knowledge Center
   <http://www.rackspace.com/knowledge_center/article/create-and-attach-a-cloud-block-storage-volume>`_ )
 
 Networking
 ----------
-
 *  Use ServiceNet for Cloud Files and Cloud Databases; use Cloud
    Networks for server to server communication. (see `Knowledge Center
    <http://www.rackspace.com/knowledge_center/frequently-asked-question/what-is-servicenet>`_ )

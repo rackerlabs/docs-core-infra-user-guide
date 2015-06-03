@@ -13,7 +13,7 @@ we're committed to making sure you always know what to expect from us.
 Contents:
  
 .. toctree:: 
-   :maxdepth: 2 
+   :maxdepth: 6 
  
    core_infrastructure 
    context 

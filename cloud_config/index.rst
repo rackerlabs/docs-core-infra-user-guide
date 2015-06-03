@@ -11,7 +11,7 @@ configuration secure, recoverable, and manageable.
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
 
    compute/index
    network/index

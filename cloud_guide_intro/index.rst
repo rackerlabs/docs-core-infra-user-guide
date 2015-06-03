@@ -43,7 +43,7 @@ what, after getting started, you can do in the Rackspace cloud.
 Contents:
  
 .. toctree:: 
-   :maxdepth: 2 
+   :maxdepth: 6 
  
    assumptions 
    moreinfo 

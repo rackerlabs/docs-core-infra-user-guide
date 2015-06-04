@@ -28,11 +28,24 @@ of the same functions as hardware devices in our data centers:
    :align: center
    :alt: Cloud Servers, Cloud Networks, Cloud Images, 
          and Cloud Block Storage are the
-         Rackspace cloud's core infrastructure.
+         Rackspace cloud's core infrastructure. 
+         From the Cloud Control Panel, 
+         you can send a request to the API for 
+         a cloud service. 
+         The service processes
+         your request.*
             
    *Cloud Servers, Cloud Networks, Cloud Images, 
    and Cloud Block Storage are the            
    Rackspace cloud's core infrastructure.*
+   
+   *From the Cloud Control Panel, 
+   you can send a request to the API for 
+   a cloud service.
+   The service processes
+   your request.*
 
-.. :scale: 50% doesn't work here; resized the image directly 
+.. :scale: is ignored here; resized the image directly 
    to 50% of its natural draw.io size
+   http://docs.readthedocs.org/en/latest/faq.html#image-scaling-doesn-t-work-in-my-documentation 
+   may explain why scaling doesn't work

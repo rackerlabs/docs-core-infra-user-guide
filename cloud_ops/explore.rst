@@ -13,8 +13,7 @@ and you may sometimes need help.
 Best practices
 ~~~~~~~~~~~~~~
 As you learn about and experiment with the many options available to you, 
-remember these as
-tried-and-true best practices:
+remember these as tried-and-true best practices:
 
 General
 -------
@@ -24,6 +23,9 @@ General
 
 * Decompose your application into smaller individually scalable parts.
   Don't have a monolithic server that scales up as your demand grows.
+
+* Always stop/reboot your server via the operating system, doing so through
+  the dashboard may lead to dataloss and should generally be avoided.
 
 * Deploy a load balancer to allow you to more easily scale and
   update your application. (see `Knowledge Center 
@@ -35,6 +37,8 @@ General
 
 Orchestration
 -------------
+
+*  Always configure services and applications to restart upon reboot.
 
 *  Use config drive and cloud-init to bootstrap your servers.
    (see `Developer Blog 

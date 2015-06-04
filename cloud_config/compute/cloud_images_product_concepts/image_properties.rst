@@ -50,4 +50,4 @@ properties. Among these properties are:
 
 * ``owner``: indicates who owns the image
 
-* **id**: a universally unique identifier (UUID) assigned to this image
+* ``id``: a universally unique identifier (UUID) assigned to this image

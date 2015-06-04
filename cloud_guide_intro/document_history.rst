@@ -3,10 +3,17 @@
 ================
 Document history
 ================
-This version of the user’s guide 
+This version of the guide 
 replaces and obsoletes 
-all previous versions. 
-The most recent changes are described 
+all previous versions.
+
+The guide is continuously improved. 
+Our documentation source repository is open for review; 
+to learn about everything that has changed recently, begin 
+by 
+`taking the repository's pulse <https://github.com/rackerlabs/docs-core-infra-user-guide/pulse>`__.  
+ 
+Highlights of the most recent changes are described 
 in the table below:
 
 +------------------+--------------------------------------------------+

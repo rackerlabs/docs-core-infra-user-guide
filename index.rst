@@ -23,12 +23,6 @@ We want to hear what you think about this guide.
 If you have a suggestion regarding the content, 
 please add it to our 
 `list of GitHub issues <https://github.com/rackerlabs/docs-core-infra-user-guide/issues>`__. 
-You're also welcome to use 
-`Disqus <https://disqus.com/>`__ 
-to post a comment here.
-
-.. raw:: html
-   :file: disqus.html
 
 Contents:
 

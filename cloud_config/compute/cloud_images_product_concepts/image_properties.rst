@@ -45,8 +45,8 @@ properties. Among these properties are:
 
 * **checksum**: the MD5 sum of the image data file
 
-* **status**: the current state of the image. An image must be in
-   **active** status in order to be used to boot a server.
+* **status**: the current state of the image. An image must be in **active**
+  status in order to be used to boot a server.
 
 * **owner**: indicates who owns the image
 

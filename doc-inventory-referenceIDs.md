@@ -220,6 +220,7 @@ moreinfo_CLI                           = /cloud_interfaces/CLI/moreinfo_CLI.rst
 moreinfo_GUI                           = /cloud_interfaces/GUI/moreinfo_GUI.rst
 
 network_cloud_servers                  = /cloud_config/network/cloud_networks_product_concepts/network_cloud_servers.rst
+network_cloud_servers-working          = /cloud_config/network/cloud_networks_product_concepts/network_cloud_servers.rst
 
 network_onmetal_servers                = /cloud_config/network/cloud_networks_product_concepts/network_onmetal_servers.rst
 

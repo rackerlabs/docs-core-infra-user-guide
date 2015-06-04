@@ -47,6 +47,9 @@ performance characteristics:
 
    * Performance2-120: 10,000Mbps
 
+.. _network_cloud_servers-working:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Working with networked Cloud Servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 As with physical servers, networked Cloud Servers are subject to
@@ -70,8 +73,9 @@ throughput.
 Attaching or detaching networks from a server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can attach or detach networks from a Cloud Server through
-the `Rackspace Cloud Control
-Panel <https://mycloud.rackspace.com/>`__ or an API.
+the 
+`Rackspace Cloud Control Panel <https://mycloud.rackspace.com/>`
+or an API.
 
 Attaching or detaching any single network from a live server results in
 a full reset of networking on the server. This causes a brief disruption

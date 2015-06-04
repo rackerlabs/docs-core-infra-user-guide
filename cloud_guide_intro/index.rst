@@ -47,4 +47,5 @@ Contents:
  
    assumptions 
    moreinfo 
+   contactus
    document_history 

@@ -165,6 +165,8 @@ cloudservers_CLI                       = /cloud_interfaces/CLI/cloudservers_CLI.
 
 cloudservers_GUI                       = /cloud_interfaces/GUI/cloudservers_GUI.rst
 
+contactus                              = /cloud_guide_intro/contactus.rst
+
 context                                = /cloud_intro/context.rst
 
 core_infrastructure                    = /cloud_intro/core_infrastructure.rst

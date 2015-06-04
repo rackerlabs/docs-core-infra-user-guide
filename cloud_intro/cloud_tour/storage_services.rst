@@ -10,7 +10,16 @@ Services in this category include
 * Cloud CDN
 * Cloud Files 
 
-.. NOTE::
+Cloud Block Storage at a glance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* `product overview <http://www.rackspace.com/cloud/block-storage>`__
+
+* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
+
+* open-source roots: 
+  `OpenStack Cinder <http://docs.openstack.org/developer/cinder/>`__  
+
+.. TIP::
    **Cloud Block Storage** is part of the 
    core infrastructure of the Rackspace cloud, 
    the focus of this guide. 
@@ -18,34 +27,21 @@ Services in this category include
    A good place to begin learning to interact with it is
    :ref:`cloud_interfaces`. 
 
-Cloud Block Storage at a glance
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/block-storage
-
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
-
-* open-source roots: 
-  `OpenStack Cinder <http://docs.openstack.org/developer/cinder/>`__  
-
 Cloud Backup at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/backup
+* `product overview <http://www.rackspace.com/cloud/backup>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 Cloud CDN at a glance
 ~~~~~~~~~~~~~~~~~~~~~
-* product overview at  
-  http://www.rackspace.com/cloud/cdn-content-delivery-network
+* `product overview <http://www.rackspace.com/cloud/cdn-content-delivery-network>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 Cloud Files at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/files
+* `product overview <http://www.rackspace.com/cloud/files>`__
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
   

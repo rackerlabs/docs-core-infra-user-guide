@@ -19,8 +19,8 @@ You can choose Virtual Server flavor classes optimized for compute, I/O,
 memory, general purpose, or standard resources:
 
 * **Compute** is optimized for web servers, application servers and
-   other CPU-intensive workloads. Storage is entirely backed by Cloud
-   Block Storage, for maximum flexibility.
+  other CPU-intensive workloads. Storage is entirely backed by Cloud
+  Block Storage, for maximum flexibility.
 
 * **I/O** is optimized for applications demanding high disk I/O and
   consistent performance, such as large relational databases and

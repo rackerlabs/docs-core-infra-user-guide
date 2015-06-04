@@ -12,8 +12,7 @@ Services in this category include
 
 Auto Scale at a glance
 ~~~~~~~~~~~~~~~~~~~~~~
-* product overview at  
-  http://www.rackspace.com/cloud/auto-scale
+* `product overview <http://www.rackspace.com/cloud/auto-scale>`__
 
 * FREE with every cloud account
 
@@ -22,8 +21,7 @@ Auto Scale at a glance
 
 Cloud Metrics at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/knowledge_center/article/cloud-metrics-overview
+* `product overview <http://www.rackspace.com/knowledge_center/article/cloud-metrics-overview>`__
   
 * FREE with every cloud account
 
@@ -32,8 +30,7 @@ Cloud Metrics at a glance
 
 Cloud Monitoring at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview at 
-  http://www.rackspace.com/cloud/monitoring
+* `product overview <http://www.rackspace.com/cloud/monitoring>`__
 
 * FREE with every cloud account
 
@@ -42,7 +39,7 @@ Cloud Monitoring at a glance
 
 Cloud Orchestration at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* product overview: http://www.rackspace.com/cloud/orchestration
+* `product overview <http://www.rackspace.com/cloud/orchestration>`__
 
 * FREE with every cloud account
 

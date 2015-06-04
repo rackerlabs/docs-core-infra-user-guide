@@ -7,8 +7,6 @@ Cloud Networks are user-defined L2 networks that are fully isolated,
 single-tenant, and offer users a means to securely connect their
 application servers.
 
-Cloud Networks are provided at no charge.
-
 Cloud Networks can be provisioned as either IPv4 or IPv6.
 
 Cloud Networks are recommended for all inter-server communication. Even
@@ -23,7 +21,9 @@ Networks also includes full support for broadcasting and multicasting
 required for some clustering technologies.
 
 Aggregate outbound bandwidth limits across all attached network
-interfaces (PublicNet, ServiceNet, Cloud Networks) are shown here:
+interfaces (PublicNet, ServiceNet, Cloud Networks) 
+are defined for each Cloud Server based on its 
+performance characteristics:
 
 * Performance1:
 
@@ -47,6 +47,9 @@ interfaces (PublicNet, ServiceNet, Cloud Networks) are shown here:
 
    * Performance2-120: 10,000Mbps
 
+.. _network_cloud_servers-working:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Working with networked Cloud Servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 As with physical servers, networked Cloud Servers are subject to
@@ -70,8 +73,9 @@ throughput.
 Attaching or detaching networks from a server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can attach or detach networks from a Cloud Server through
-the `Rackspace Cloud Control
-Panel <https://mycloud.rackspace.com/>`__ or an API.
+the 
+`Rackspace Cloud Control Panel <https://mycloud.rackspace.com/>`
+or an API.
 
 Attaching or detaching any single network from a live server results in
 a full reset of networking on the server. This causes a brief disruption

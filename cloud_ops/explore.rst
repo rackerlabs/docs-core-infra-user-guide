@@ -17,9 +17,9 @@ remember these as tried-and-true best practices:
 
 General
 -------
-
 * Assume failure will happen and design accordingly. Don't rely on 
-  individual resources (VMs, storage) to always be available.
+  individual resources 
+  such as VMs and storage to always be available.
 
 * Decompose your application into smaller individually scalable parts.
   Don't have a monolithic server that scales up as your demand grows.
@@ -28,21 +28,22 @@ General
   the dashboard may lead to dataloss and should generally be avoided.
 
 * Deploy a load balancer to allow you to more easily scale and
-  update your application. (see `Knowledge Center 
-  <http://www.rackspace.com/knowledge_center/article/configuring-a-load-balancer>`_ )
+  update your application. 
+  Follow the configuration guidelines at 
+  `Configuring a Load Balancer <http://www.rackspace.com/knowledge_center/article/configuring-a-load-balancer>`_.
 
 * Deploy backup and/or monitoring for your most important servers. 
-  (see `Knowledge Center 
-  <http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-overview>`_ )
+  Configure Cloud Backup as discussed at 
+  `Rackspace Cloud Backup - Overview <http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-overview>`_.
 
 Orchestration
 -------------
 
 *  Always configure services and applications to restart upon reboot.
 
-*  Use config drive and cloud-init to bootstrap your servers.
-   (see `Developer Blog 
-   <https://developer.rackspace.com/blog/using-cloud-init-with-rackspace-cloud/>`_ )
+*  Use config drive and cloud-init to bootstrap your servers 
+   as described at
+   `Using Cloud-init with Rackspace cloud <https://developer.rackspace.com/blog/using-cloud-init-with-rackspace-cloud/>`_.
 
 *  For Cloud Images, use the UUID where possible because the UUID
    of an image cannot change, whereas the name cannot be guaranteed
@@ -50,31 +51,33 @@ Orchestration
 
 *  Use base images rather than snapshots for build-time performance.
 
-*  Automate configuraiton tasks whenever possible.
+*  Automate configuration tasks whenever possible.
 
 Security
 --------
-
 *  Sending a high volume of email from your Cloud Server can downgrade
-   its IP reputation; use Mailgun instead. (see `Mailgun Quickstart 
-   <https://documentation.mailgun.com/quickstart-sending.html#how-to-start-sending-email>`_ )
+   its IP reputation; use Mailgun instead, 
+   as described at 
+   `Mailgun Quickstart <https://documentation.mailgun.com/quickstart-sending.html#how-to-start-sending-email>`_.
 
-*  Use SSH keys rather than passwords for Linux (see `Knowledge Center 
-   <http://www.rackspace.com/knowledge_center/article/basic-cloud-server-security>`_ )
+*  Use SSH keys rather than passwords for Linux. 
+   Follow the procedure at 
+   `Basic Cloud Server Security <http://www.rackspace.com/knowledge_center/article/basic-cloud-server-security>`_.
 
 Storage 
 -------
-
 * Use attached storage whenever possible since it will allow you to
-  resize, backup and plan for failure more gracefully. (see `Knowledge Center
-  <http://www.rackspace.com/knowledge_center/article/create-and-attach-a-cloud-block-storage-volume>`_ )
+  resize, backup, and plan for failure more gracefully. 
+  Follow the tutorial at 
+  `Create and Attach a Cloud Block Storage Volume <http://www.rackspace.com/knowledge_center/article/create-and-attach-a-cloud-block-storage-volume>`_.
 
 Networking
 ----------
-
-*  Use ServiceNet for Cloud Files and Cloud Databases; use Cloud
-   Networks for server to server communication. (see `Knowledge Center
-   <http://www.rackspace.com/knowledge_center/frequently-asked-question/what-is-servicenet>`_ )
+*  Use 
+   `ServiceNet <http://www.rackspace.com/knowledge_center/frequently-asked-question/what-is-servicenet>`__ 
+   to communicate between Cloud Servers and Cloud Files and Cloud Databases. 
+   Use Cloud
+   Networks for server-to-server communication.
 
 *  For Cloud Networks, use `RFC 1918 
    <https://tools.ietf.org/html/rfc1918>`_ less the two 
@@ -90,13 +93,17 @@ ways to keep up with the news:
 *  Watch for email sent from Rackspace to the email contact associated
    with your Rackspace account.
 
-*  Read Rackspace blogs at https://www.rackspace.com/blog/ and
-   https://developer.rackspace.com/blog/.
+*  Read Rackspace blogs, both the 
+   `general-interest blog <https://www.rackspace.com/blog/>`__ 
+   and the 
+   `developer blog <https://developer.rackspace.com/blog/>`__.
    
-*  Subscribe to relevant discussion forums in The Rackspace Community at 
-   https://community.rackspace.com/products/f/forumsubscriptions. 
+*  Subscribe to relevant discussion forums in the 
+   `Rackspace Community <https://community.rackspace.com/products/f/forumsubscriptions>`__. 
 
-*  Monitor and vote for development of your favorite ideas at
-   https://feedback.rackspace.com/.
+*  Suggest new ideas, vote for development of your favorite ideas, 
+   and monitor progress at 
+   `Rackspace Product Feedback <https://feedback.rackspace.com/>`__.
 
-*  Follow the Rackspace twitter feed at https://twitter.com/rackspace.
+*  Follow the 
+   `Rackspace twitter feed <https://twitter.com/rackspace>`__.

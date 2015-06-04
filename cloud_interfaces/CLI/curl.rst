@@ -14,15 +14,16 @@ so
 includes 
 many cURL-based examples.
 
-You can read about cURL in several Rackspace publications, 
+You can read basic information about cURL 
+in several Rackspace publications, 
 including:
 
 * `How cURL commands work <http://docs.rackspace.com/servers/api/v2/cn-gettingstarted/content/curl.html>`__ 
 * `Cloud Files cURL Cookbook <http://www.rackspace.com/knowledge_center/article/cloud-files-curl-cookbook>`__
 * `Authenticate with cURL <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/curl_auth.html>`__
 
-At 
-`developer.rackspace.com <https://developer.rackspace.com/>`__, 
+At the 
+`Developer Center <https://developer.rackspace.com/>`__, 
 you can see examples of using cURL to 
 send requests to the API endpoints 
 for many Rackspace cloud services.
@@ -30,18 +31,24 @@ A shell is a program that emulates a terminal,
 enabling you to type commands and observe responses; 
 `bash <http://www.gnu.org/software/bash/>`__ 
 is a widely-used shell. 
-At 
-`developer.rackspace.com <https://developer.rackspace.com/>`__, 
+
+At the 
+`Developer Center <https://developer.rackspace.com/>`__, 
 if you select 
 *Shell* as your preferred language, 
 you will see samples formatted for use at the command line 
 with  
 cURL. 
 
-.. image:: ../../screenshots/quickstart-shell.png
+.. figure:: ../../screenshots/quickstart-shell.png
+   :scale: 80%
    :alt: To move from Cloud Servers to 
          Cloud Images details, 
-         click Servers and then Saved Images.
+         click Servers and then click Saved Images.
+         
+   To move from Cloud Servers to 
+   Cloud Images details, 
+   click Servers and then click Saved Images.
 
 You may also be interested in exploring some 
 `alternatives to cURL <https://community.rackspace.com/developers/f/7/t/249>`__.

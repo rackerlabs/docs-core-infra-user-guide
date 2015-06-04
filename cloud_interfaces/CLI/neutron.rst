@@ -19,7 +19,8 @@ to install neutronclient, as it will handle installing dependencies and
 required packages for you.
 
 Alternatively, you can download the rackspace-neutronclient package from 
-https://github.com/rackerlabs/rackspace-neutronclient.
+the 
+`GitHub repository for rackspace-neutronclient <https://github.com/rackerlabs/rackspace-neutronclient>`__.
 
 OpenStack documents that may help you install neutronclient 
 and learn to use it include: 

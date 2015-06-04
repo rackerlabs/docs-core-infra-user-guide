@@ -11,7 +11,7 @@ drive for the purpose of injecting data into the server.
 
 The config drive's contents are accessible only when the drive is mounted. 
 If the operating system supports accessing disk by label, the
-config drive is labeled **config-2**.
+config drive is labeled ``config-2``.
 
 The config drive is used primarily as a data source for cloud-init. If
 cloud-init or cloudbase-init is present, the config drive is

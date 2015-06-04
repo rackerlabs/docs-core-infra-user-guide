@@ -8,7 +8,7 @@ the easiest way to get started with provisioning cloud resources.
 
 The Cloud Control Panel provides a simple, unified web based interface
 that works in all major browsers. After signing up for a Cloud account
-at rackspace.com, the Cloud Control panel is the first place you 
+at `rackspace.com <http://www.rackspace.com/>`__, the Cloud Control panel is the first place you 
 should visit to get an overview of products and services available,
 create your first servers and resources, or view more information about
 your Rackspace account.
@@ -38,9 +38,13 @@ first tasks:
 
 * view and change resource limits
 
-  .. image:: ../../screenshots/AccountResourceLimits.png
+  .. figure:: ../../screenshots/AccountResourceLimits.png
+     :scale: 80%
      :alt: Use the Control Panel to see your current
          limits and to ask to change them.
+         
+     Use the Control Panel to see your current
+     limits and to ask to change them.
          
   If you click the *Request Limit Increase* link, the system will
   generate a ticket with details of your current limits filled in. 
@@ -48,9 +52,13 @@ first tasks:
   submitting the ticket for processing. Update the ticket to 
   describe the change you want; then click *Submit Ticket*. 
  
-  .. image:: ../../screenshots/CreateTicketServersResourceLimit.png
-     :alt: Fill in the details you want to change in the 
-         generated ticket. 
+  .. figure:: ../../screenshots/CreateTicketServersResourceLimit.png
+     :scale: 80%
+     :alt: In the generated ticket, 
+         fill in the details you want to change. 
+         
+     In the generated ticket, 
+     fill in the details you want to change.
  
 The Cloud Control Panel may be the only interface you need to use,
 especially if you don't need to heavily automate the management of your

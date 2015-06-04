@@ -6,22 +6,23 @@ Rackspace Cloud Guide to Core Infrastructure Services
 
 Introduction
 ------------
-We are developing this guide to serve as the authoritative source for information
-regarding the Rackspace cloud core infrastructure services:
+This is a guide to the core infrastructure services 
+at the heart of the Rackspace cloud:
 
-* Cloud Servers
-* Cloud Images
-* Cloud Networks
-* Cloud Block Storage
+* `Cloud Servers <http://www.rackspace.com/cloud/servers>`__
+* `Cloud Networks <http://www.rackspace.com/cloud/networks>`__
+* `Cloud Images <http://www.rackspace.com/cloud/images>`__
+* `Cloud Block Storage <http://www.rackspace.com/cloud/block-storage>`__
 
 .. WARNING::
    **This guide is a work in progress.**
    You are reading an early draft; 
    be very cautious about acting on anything you read here.
 
-Please submit issues regarding the contents
-to
-https://github.com/rackerlabs/docs-core-infra-user-guide/issues.
+We want to hear what you think about this guide. 
+If you have a suggestion regarding the content, 
+please add it to our 
+`list of GitHub issues <https://github.com/rackerlabs/docs-core-infra-user-guide/issues>`__. 
 
 Contents:
 

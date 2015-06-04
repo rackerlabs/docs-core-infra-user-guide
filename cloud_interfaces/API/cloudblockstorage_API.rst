@@ -37,7 +37,7 @@ In that case,
 experimenting in the Cloud Control Panel can show you 
 only part of the process of working with a new feature; 
 other details are described in the 
-API documentation, http://docs.rackspace.com. 
+`API documentation <http://docs.rackspace.com>`__. 
 
 Just as you can use the Cloud Control Panel 
 to help you understand a manual process that you intend to automate, 
@@ -73,22 +73,33 @@ your session begins with information about your Cloud Servers.
 To see your Cloud Block Storage information, click ``Storage`` 
 and then click ``Block Storage Volumes``. 
 
-.. image:: ../../screenshots/StorageBlockStorageVolumes.png
+.. figure:: ../../screenshots/StorageBlockStorageVolumes.png
+   :scale: 80%
    :alt: To move from Cloud Servers to 
          Cloud Block Storage details, 
-         click Storage and then Block Storage Volumes.
+         click Storage and then click Block Storage Volumes.
+
+   To move from Cloud Servers to 
+   Cloud Block Storage details, 
+   click Storage and then click Block Storage Volumes.
 
 By default, the list is focused on your account's home region, 
 showing all volumes in that region; 
 you can select a different region and you can search for a 
 specific volume.
 
-.. image:: ../../screenshots/CloudBlockStorage0volumes.png
-   :alt: The Cloud Control Panel can list all your
-         Cloud Block Storage volumes.
+.. figure:: ../../screenshots/CloudBlockStorage0volumes.png
+   :scale: 80%
+   :alt: If you have no Cloud Block Storage volumes, 
+         the Cloud Control Panel shows you how to 
+         create one.
+         
+   If you have no Cloud Block Storage volumes, 
+   the Cloud Control Panel shows you how to 
+   create one.
          
 If your list of volumes is not empty, then for each volume 
-you can see 
+you can see: 
 
 * its ID
 * the name of the server to which it is attached
@@ -96,23 +107,27 @@ you can see
 * the type of disk it uses
 * its size
 
-.. image:: ../../screenshots/CloudBlockStorage1volume.png
-   :alt: The Cloud Control Panel can list all your
+.. figure:: ../../screenshots/CloudBlockStorage1volume.png
+   :scale: 80%
+   :alt: The Cloud Control Panel lists all of your
          Cloud Block Storage volumes.
+         
+   The Cloud Control Panel lists all of your
+   Cloud Block Storage volumes.
          
 .. include:: note-chrome-devtools.rst
 
 Learn about Cloud Block Storage in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the combined API reference, 
-api.rackspace.com, 
+In the 
+`API cross-reference <http://api.rackspace.com/>`__, 
 you can see all available API operations for all cloud services. 
 The operations are grouped according to the service they interact 
 with (for example, Cloud Block Storage or Cloud Files) 
 and the scope they act upon (for example, volumes or snapshots). 
 
-You can see all Cloud Block Storage operations at 
-http://api.rackspace.com/api-ref-blockstorage.html; 
+You can see all Cloud Block Storage operations in the 
+`API cross-reference <http://api.rackspace.com/api-ref-blockstorage.html>`__; 
 in the group of 
 `operations that act upon volumes <http://api.rackspace.com/api-ref-blockstorage.html#volumes>`__, 
 you can see that:
@@ -126,8 +141,11 @@ you can see that:
 * sending a ``GET`` to the same URI and appending ``/detail`` 
   requests an expanded list of information about volumes
 
-.. image:: ../../screenshots/CloudBlockStorageListVolumesGET.png
+.. figure:: ../../screenshots/CloudBlockStorageListVolumesGET.png
+   :scale: 80%
    :alt: api.rackspace.com lists all API operations.
+   
+   The API cross-reference lists all API operations.
 
 On the first ``GET`` line, click *detail* to see 
 more about how the API handles this request.  
@@ -137,19 +155,19 @@ and understand the API's
 response. 
   
 In the sample response, 
-*id*, *display_name*, *size*, and *volume_type* 
+``id``, ``display_name``, ``size``, and ``volume_type`` 
 correspond to the information available on the Cloud Control Panel. 
  
-In the Getting Started Guide for the Cloud Block Storage API, 
-http://docs.rackspace.com/cbs/api/v1.0/cbs-getting-started/, 
+In the 
+`Getting Started Guide for the Cloud Block Storage API <http://docs.rackspace.com/cbs/api/v1.0/cbs-getting-started/>`__, 
 you can see an example of  
 `obtaining a list of Cloud Block Storage volumes by using the cURL command-line interface (CLI) 
 <http://docs.rackspace.com/cbs/api/v1.0/cbs-getting-started/content/Listing_volumes_d1e060.html>`__. 
 
 Learn about Cloud Block Storage in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the SDK QuickStart for Cloud Block Storage, 
-https://developer.rackspace.com/docs/cloud-block-storage/getting-started/,
+In the 
+`SDK QuickStart for Cloud Block Storage <https://developer.rackspace.com/docs/cloud-block-storage/getting-started/>`__,
 you can see some of the same steps that are documented in 
 the API's Getting Started Guide. 
 For example, both the API-focused and SDK-focused documents 
@@ -165,12 +183,17 @@ Cloud Block Storage API.
 To see examples in a specific language, 
 click that language's name in the list across the top of the page. 
 For example, to see Cloud Block Storage code samples coded in PHP, 
-go to https://developer.rackspace.com/docs/cloud-block-storage/getting-started/ 
+go to the 
+`SDK QuickStart for Cloud Block Storage <https://developer.rackspace.com/docs/cloud-block-storage/getting-started/>`__ 
 and click *PHP*. 
 
-.. image:: ../../screenshots/CloudBlockStorageSDKPHP.png
+.. figure:: ../../screenshots/CloudBlockStorageSDKPHP.png
+   :scale: 80%
    :alt: PHP is one of several languages for which we 
          publish an SDK QuickStart.
+         
+   PHP is one of several languages for which we 
+   publish an SDK QuickStart.
 
 Use SDK to help you write and run code to interact with Cloud Block Storage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -180,18 +203,18 @@ perhaps enough to walk you through exactly the steps required
 to develop your software, examine the SDK itself. 
 
 To find the full SDK for your programming language, start at 
-https://developer.rackspace.com/sdks/ and find the language. 
+`SDKs & Tools in the Developer Center <https://developer.rackspace.com/sdks/>`__ 
+and find the language. 
 Then follow the steps appropriate to that language. 
 
 For example, if you code in PHP, 
 
 * Follow the installation instructions to give yourself 
   a local copy of the php-opencloud SDK. 
-* In the documentation repository for php-opencloud, at 
-  `docs.php-opencloud.com <http://docs.php-opencloud.com/>`__,
+* In the 
+  `documentation repository for php-opencloud <http://docs.php-opencloud.com/>`__,
   read about the *Volumes v1* service, 
   applicable to both Rackspace and OpenStack configurations. 
   In that document,  
-  you can go directly to an example of listing 
-  Cloud Block Storage volumes at 
-  http://docs.php-opencloud.com/en/latest/services/volume/volumes.html#list-volumes. 
+  you can go directly to an 
+  `example of listing Cloud Block Storage volumes <http://docs.php-opencloud.com/en/latest/services/volume/volumes.html#list-volumes>`__. 

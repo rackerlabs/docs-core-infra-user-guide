@@ -10,7 +10,7 @@ availability, but it may provide advantages in configurations that
 require extreme protection of in-flight data.
 
 RAID can be implemented by hardware, software, or a hybrid of both.
-Software RAID uses a server’s operating system to virtualize and manage
+Software RAID uses a server's operating system to virtualize and manage
 the RAID array. With Cloud Servers and Cloud Block Storage, you can
 create and use a cloud-based software RAID array.
 
@@ -45,22 +45,24 @@ Software RAID for Linux
 '''''''''''''''''''''''
 To learn how to set up software RAID on a cloud server running Linux,
 read
-http://www.rackspace.com/knowledge_center/article/configuring-a-software-raid-on-a-linux-general-purpose-cloud-server.
+`Configuring a Software RAID on a Linux General Purpose Cloud Server <http://www.rackspace.com/knowledge_center/article/configuring-a-software-raid-on-a-linux-general-purpose-cloud-server>`__.
 
 Software RAID for Windows
 '''''''''''''''''''''''''
 Windows tools for RAID have different names in different versions of
 Windows.
 
-Windows Server 2012 named its RAID capability “Storage Spaces”. You can
+Windows Server 2012 named its RAID capability *Storage Spaces*. You can
 read about Storage Spaces
-at http://technet.microsoft.com/en-us/library/hh831739.aspx.
+in Microsoft's 
+`Storage Spaces Overview <http://technet.microsoft.com/en-us/library/hh831739.aspx>`__.
 
 Windows Server 2008 provides two ways to interact with RAID devices:
 
--  GUI via Diskmgmt.msc
+* GUI via Diskmgmt.msc
 
--  CLI via Diskpart.exe
+* CLI via Diskpart.exe
 
 You can read about both Diskmgmt and Diskpart
-at http://msdn.microsoft.com/en-us/library/dd163558.aspx.
+in Microsoft's 
+`Overview of Disk Management <http://msdn.microsoft.com/en-us/library/dd163558.aspx>`__.

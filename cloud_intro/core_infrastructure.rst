@@ -23,10 +23,29 @@ of the same functions as hardware devices in our data centers:
 
 * Additional services enable specific activities such as user
   authentication, load balancing, and event monitoring.
+  
+.. figure:: ../figures/core-infrastructure.png
+   :align: center
+   :alt: Cloud Servers, Cloud Networks, Cloud Images, 
+         and Cloud Block Storage are the
+         Rackspace cloud's core infrastructure. 
+         From the Cloud Control Panel, 
+         you can send a request to the API for 
+         a cloud service. 
+         The service processes
+         your request.*
+            
+   *Cloud Servers, Cloud Networks, Cloud Images, 
+   and Cloud Block Storage are the            
+   Rackspace cloud's core infrastructure.*
    
-.. image:: ../figures/ManagedCloud.png
-   :alt: In the Rackspace Cloud, Fanatical Support combines with cloud technology.
+   *From the Cloud Control Panel, 
+   you can send a request to the API for 
+   a cloud service.
+   The service processes
+   your request.*
 
-xxxxxxxx *looking for something primarily visual, of about this scope & size,
-explicitly foregrounding the core infrastructure (servers + images +
-networks + block storage)*
+.. :scale: is ignored here; resized the image directly 
+   to 50% of its natural draw.io size
+   http://docs.readthedocs.org/en/latest/faq.html#image-scaling-doesn-t-work-in-my-documentation 
+   may explain why scaling doesn't work

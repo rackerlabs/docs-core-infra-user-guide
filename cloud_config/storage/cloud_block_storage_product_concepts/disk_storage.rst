@@ -31,8 +31,8 @@ on this disk by default.
 Data can be stored on a system disk, although
 it may have less capacity than any attached data disks.
 
-.. NOTE:: 
-   To make a backup copy of a *system* disk, 
+.. TIP:: 
+   To make a backup copy of a *system* disk, 
    use Cloud Images to create a
    bootable backup.
 
@@ -49,18 +49,22 @@ disk, you may need to format it, partition it, or group it into a
 software RAID group.
 
 To prepare a data disk for use on a Cloud Server, follow the steps
-appropriate for that Cloud Server’s the operating system:
+appropriate for that Cloud Server's operating system:
 
 * For Linux,
-  see http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-linux-cloud-servers.
+  see 
+  `Preparing Data Disks on Linux Cloud Servers <http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-linux-cloud-servers>`__.
 
 * For Windows,
-  see http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-windows-cloud-servers.
+  see 
+  `Preparing Data Disks on Windows Cloud Servers <http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-windows-cloud-servers>`__.
 
-.. NOTE::
+.. TIP::
    To make a backup copy of *data* disk, use:
 
-   * Cloud Backup for incremental backups, such as for disaster recovery
+   * Cloud Backup for incremental backups, 
+     such as for disaster recovery
 
-   * Cloud Block Storage for portable backups, such as for relocation to
+   * Cloud Block Storage for portable backups, 
+     such as for relocation to
      new servers

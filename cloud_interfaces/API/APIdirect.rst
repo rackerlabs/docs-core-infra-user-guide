@@ -14,18 +14,21 @@ structured, stateless, and scalable (among other properties).
 For most use cases, we recommend 
 working with the guidance of an SDK
 rather than integrating directly with an API. 
-We have documented basic
+In the 
+`Developer Center <https://developer.rackspace.com/docs/>`__, 
+we have documented basic 
 functions for many APIs in many popular programming languages in
-quickstart guides for developers at
-https://developer.rackspace.com/docs/. However, knowing the API
+quickstart guides. However, knowing the API
 structure and being able to make direct, manual calls to the API is a
 powerful tool for understanding and managing the Rackspace Cloud
 infrastructure.
 
-The API Developer Guide for each service is available at
-http://docs.rackspace.com/; the same API operations are also listed
+The API Developer Guide for each service is published in 
+`our technical documentation collection <http://docs.rackspace.com/>`__; 
+the same API operations are also listed 
 in a 
-combined reference at http://api.rackspace.com/.
+combined 
+`API cross-reference <http://api.rackspace.com/>`__.
 
 Some of the most common ways to directly interact with APIs are:
 
@@ -50,6 +53,10 @@ Rackspace publishes at least two technical documents:
 * `API Getting Started Guide <http://docs.rackspace.com>`__: 
   tutorial material *demonstrating* simple interactions
   with the API 
+  
+For most APIs, we also publish 
+`API Release Notes <http://docs.rackspace.com>`__, 
+*announcing* changes to the API. 
  
 We publish these API documents primarily to support readers who are 
 already experienced with RESTful APIs in other contexts and 

@@ -18,13 +18,16 @@ your configuration to grow as needed.
    Securing your own server and establishing your own backups 
    provides a layer of protection that you can control, 
    in addition to that provided by Rackspace's reliable infrastructure.
-   You can read about and perform some test interactions with
-   our infrastructure at http://www.rackspace.com/about/datacenters. 
+   You can read about 
+   our infrastructure at 
+   `Global Infrastructure and Uptime Guarantee <http://www.rackspace.com/about/datacenters>`__; 
+   to perform some test interactions, 
+   click the name of one of the data centers shown on that page.  
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
 
    security
    stack

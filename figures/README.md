@@ -75,6 +75,14 @@ To include a figure in the guide:
   * collection date 2015-03-01
   * contributed by Rose Coste
   
+* **core-infrastructure.png**
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_config/compute/cloud_servers_product_concepts/index.html
+  * source here, in /figures/core-infrastructure.xml; 
+    to change the drawing, open the XML in https://www.draw.io/, 
+    then export a new .PNG and save it here
+  * collection date 2015-06-04
+  * contributed by Nate Archer
+  
 * **ManagedCloud.png**
   * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_intro/core_infrastructure.html
   * originated from http://www.rackspace.co.uk/cloud/servers

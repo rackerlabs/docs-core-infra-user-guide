@@ -23,12 +23,15 @@ of the same functions as hardware devices in our data centers:
 
 * Additional services enable specific activities such as user
   authentication, load balancing, and event monitoring.
+  
+.. figure:: ../figures/core-infrastructure.png
+   :alt: Cloud Servers, Cloud Networks, Cloud Images, 
+         and Cloud Block Storage are the
+         Rackspace cloud's core infrastructure.
+            
+   *Cloud Servers, Cloud Networks, Cloud Images, 
+   and Cloud Block Storage are the            
+   Rackspace cloud's core infrastructure.*
 
-.. commenting out placeholder image and defaced text suggesting
-.. improvements; put a better image here when we have one   
-.. .. image:: ../figures/ManagedCloud.png
-..    :alt: In the Rackspace Cloud, Fanatical Support combines with cloud technology.
-.. 
-.. xxxxxxxx *looking for something primarily visual, of about this scope & size,
-.. explicitly foregrounding the core infrastructure (servers + images +
-.. networks + block storage)*
+.. :scale: 50% doesn't work here; resized the image directly 
+   to 50% of its natural draw.io size

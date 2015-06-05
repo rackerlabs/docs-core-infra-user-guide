@@ -12,7 +12,7 @@ Flavor classes for virtual servers
 To create your Cloud Server as a virtual server, open the Virtual Server
 tab from the Cloud Control Panel.
 
-.. figure:: ../../../../screenshots/CloudServerCreateVirtual.png
+.. figure:: /_images/CloudServerCreateVirtual.png
    :alt: Click the Virtual Server tab 
          to begin creating a virtual server.
    
@@ -50,7 +50,7 @@ Flavor classes for OnMetal servers
 To create your Cloud Server as an OnMetal™ server, open the OnMetal™
 Server tab from the Cloud Control Panel.
 
-.. figure:: ../../../../screenshots/CloudServerCreateOnMetal.png
+.. figure:: /_images/CloudServerCreateOnMetal.png
    :alt: Click the OnMetal Server tab 
          to begin creating an OnMetal server.
    

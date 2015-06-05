@@ -40,7 +40,7 @@ you will see samples formatted for use at the command line
 with  
 cURL. 
 
-.. figure:: ../../screenshots/quickstart-shell.png
+.. figure:: /_images/quickstart-shell.png
    :scale: 80%
    :alt: To see samples usable with cURL, 
          click "Shell".

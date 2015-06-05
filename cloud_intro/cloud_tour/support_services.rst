@@ -10,6 +10,7 @@ Services in this category include
 
 Cloud Feeds at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
+
 * `product overview <http://www.rackspace.com/knowledge_center/article/cloud-feeds-overview>`__
   
 * FREE with every cloud account 
@@ -17,10 +18,11 @@ Cloud Feeds at a glance
 * open-source roots: 
   `Atom Hopper <http://atomhopper.org/>`__
 
-Cloud Feeds provides API access to events emitted from your infrastructure resources. 
+Cloud Feeds provides API access to events emitted from your infrastructure
+resources. 
 With Cloud Feeds, you can track usage right now.
 You can see *access events* (for example, who changed what server via control plane at what point) and 
-*state transition events" (for example, when did a load balancer's status go to 'draining').
+*state transition events* (for example, when did a load balancer's status go to 'draining').
 
 Rackspace Identity at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

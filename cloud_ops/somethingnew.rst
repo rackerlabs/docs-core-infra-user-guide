@@ -8,7 +8,7 @@ your first attempt to do so in the Cloud Control Panel
 will remind you that you are beginning something new 
 and point out the first step you should take. 
 
-.. figure:: ../screenshots/CloudBigData0clusters.png
+.. figure:: /_images/CloudBigData0clusters.png
    :alt: The Cloud Control Panel points out how to begin
          using a new service. 
          

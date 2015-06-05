@@ -1,17 +1,10 @@
-.. _explore:
+.. _bestpractice:
 
--------------------
-Exploring the cloud
--------------------
-In the cloud, 
-you can quickly try something, decide it isn't quite right, 
-then try something else. It's a flexible environment, 
-but some practices are more reliable than others, 
-and you may sometimes need help. 
-
-Best practices
-~~~~~~~~~~~~~~
-As you learn about and experiment with the many options available to you, 
+---------------------------
+Best practices in the cloud
+---------------------------
+As you learn about and experiment with the many options 
+available to you in the Rackspace Cloud, 
 remember these as tried-and-true best practices:
 
 General

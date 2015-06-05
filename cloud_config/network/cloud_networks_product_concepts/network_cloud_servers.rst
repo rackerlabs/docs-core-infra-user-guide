@@ -74,7 +74,7 @@ Attaching or detaching networks from a server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can attach or detach networks from a Cloud Server through
 the 
-`Rackspace Cloud Control Panel <https://mycloud.rackspace.com/>`
+`Rackspace Cloud Control Panel <https://mycloud.rackspace.com/>`__
 or an API.
 
 Attaching or detaching any single network from a live server results in

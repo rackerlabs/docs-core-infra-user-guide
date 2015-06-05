@@ -38,4 +38,5 @@ Contents:
    bestpractice
    troubleshoot
    support
+   somethingnew
    keepup

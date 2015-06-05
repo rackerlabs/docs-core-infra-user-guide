@@ -268,6 +268,8 @@ show_metadata                          = /cloud_config/compute/cloud_servers_pro
 
 software_RAID                          = /cloud_config/storage/cloud_block_storage_product_concepts/software_RAID.rst
 
+somethingnew                           = /cloud_ops/somethingnew.rst
+
 SSH                                    = /cloud_config/compute/cloud_servers_product_concepts/SSH.rst
 
 stack                                  = /cloud_preprod/stack.rst 

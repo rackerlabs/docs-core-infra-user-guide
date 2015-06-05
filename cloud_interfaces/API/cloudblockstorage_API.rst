@@ -79,9 +79,9 @@ and then click ``Block Storage Volumes``.
          Cloud Block Storage details, 
          click Storage and then click Block Storage Volumes.
 
-   To move from Cloud Servers to 
+   *To move from Cloud Servers to 
    Cloud Block Storage details, 
-   click Storage and then click Block Storage Volumes.
+   click Storage and then click Block Storage Volumes.*
 
 By default, the list is focused on your account's home region, 
 showing all volumes in that region; 
@@ -94,9 +94,9 @@ specific volume.
          the Cloud Control Panel shows you how to 
          create one.
          
-   If you have no Cloud Block Storage volumes, 
+   *If you have no Cloud Block Storage volumes, 
    the Cloud Control Panel shows you how to 
-   create one.
+   create one.*
          
 If your list of volumes is not empty, then for each volume 
 you can see: 
@@ -112,8 +112,8 @@ you can see:
    :alt: The Cloud Control Panel lists all of your
          Cloud Block Storage volumes.
          
-   The Cloud Control Panel lists all of your
-   Cloud Block Storage volumes.
+   *The Cloud Control Panel lists all of your
+   Cloud Block Storage volumes.*
          
 .. include:: note-chrome-devtools.rst
 
@@ -145,7 +145,7 @@ you can see that:
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
    
-   The API cross-reference lists all API operations.
+   *The API cross-reference lists all API operations.*
 
 On the first ``GET`` line, click *detail* to see 
 more about how the API handles this request.  
@@ -192,8 +192,8 @@ and click *PHP*.
    :alt: PHP is one of several languages for which we 
          publish an SDK QuickStart.
          
-   PHP is one of several languages for which we 
-   publish an SDK QuickStart.
+   *PHP is one of several languages for which we 
+   publish an SDK QuickStart.*
 
 Use SDK to help you write and run code to interact with Cloud Block Storage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

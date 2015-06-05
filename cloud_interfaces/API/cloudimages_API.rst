@@ -79,9 +79,9 @@ and then click ``Saved Images``.
          Cloud Images details, 
          click Servers and then click Saved Images.
    
-   To move from Cloud Servers to 
+   *To move from Cloud Servers to 
    Cloud Images details, 
-   click Servers and then click Saved Images.
+   click Servers and then click Saved Images.*
      
 By default, the list is focused on your account's home region, 
 showing all images in that region; 
@@ -100,8 +100,8 @@ you can see
    :alt: The Cloud Control Panel lists all of your
          Cloud Networks networks.
          
-   The Cloud Control Panel lists all of your
-   Cloud Networks networks.
+   *The Cloud Control Panel lists all of your
+   Cloud Networks networks.*
          
 .. include:: note-chrome-devtools.rst
 
@@ -130,7 +130,7 @@ you can see that:
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
    
-   The API cross-reference lists all API operations.
+   *The API cross-reference lists all API operations.*
 
 On the first ``GET`` line, click *detail* to see 
 more about how the API handles this request.  
@@ -177,8 +177,8 @@ and click *python*.
    :alt: Python is one of several languages for which we 
          publish an SDK QuickStart.
          
-   Python is one of several languages for which we 
-   publish an SDK QuickStart.
+   *Python is one of several languages for which we 
+   publish an SDK QuickStart.*
 
 Use SDK to help you write and run code to interact with Cloud Images
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

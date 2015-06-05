@@ -15,8 +15,8 @@ under *Servers*.
    :alt: The Servers group includes Cloud Servers and 
          Cloud Images.
          
-   The Servers group includes Cloud Servers and 
-   Cloud Images.    
+   *The Servers group includes Cloud Servers and 
+   Cloud Images.*   
 
 You can use the Cloud Control Panel to help you 
 observe and manage your Cloud Servers configuration. 

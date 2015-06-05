@@ -23,5 +23,5 @@
    :alt: You can use Chrome's developer tools to 
          observe the Cloud Control Panel's API interactions.
          
-   You can use Chrome's developer tools to 
-   observe the Cloud Control Panel's API interactions.
+   *You can use Chrome's developer tools to 
+   observe the Cloud Control Panel's API interactions.*

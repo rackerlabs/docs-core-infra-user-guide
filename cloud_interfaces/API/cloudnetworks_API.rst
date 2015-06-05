@@ -79,9 +79,9 @@ and then click ``Networks``.
          Cloud Networks details, 
          click Networking and then Networks.
          
-   To move from Cloud Servers to 
+   *To move from Cloud Servers to 
    Cloud Networks details, 
-   click Networking and then click Networks.
+   click Networking and then click Networks.*
          
 By default, the list is focused on your account's home region, 
 showing all networks in that region; 
@@ -100,8 +100,8 @@ you can see
    :alt: The Cloud Control Panel lists all of your
          Cloud Networks networks.  
          
-   The Cloud Control Panel lists all of your
-   Cloud Networks networks.  
+   *The Cloud Control Panel lists all of your
+   Cloud Networks networks.*  
                   
 .. include:: note-chrome-devtools.rst
 
@@ -133,7 +133,7 @@ you can see that:
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
    
-   The API cross-reference lists all API operations.
+   *The API cross-reference lists all API operations.*
 
 On the first ``GET`` line, click *detail* to see 
 more about how the API handles this request.  
@@ -180,8 +180,8 @@ and click *Java*.
    :alt: Java is one of several languages for which we 
          publish an SDK QuickStart.
          
-   Java is one of several languages for which we 
-   publish an SDK QuickStart.
+   *Java is one of several languages for which we 
+   publish an SDK QuickStart.*
          
 Use SDK to help you write and run code to interact with Cloud Networks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

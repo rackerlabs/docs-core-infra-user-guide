@@ -48,8 +48,10 @@ For some templates, you can choose a flavor.
 For example, the Rails template is available in 
 single-server and multi-server flavors. 
 
-.. image:: ../screenshots/CloudOrchestrationRailsFlavors.png
+.. figure:: ../screenshots/CloudOrchestrationRailsFlavors.png
    :alt: Some templates are offered in multiple flavors.
+   
+   *Some templates are offered in multiple flavors.*
 
 If you've written your own automation to create Cloud Servers, you can
 use the Cloud Orchestration API to create a server from one of our

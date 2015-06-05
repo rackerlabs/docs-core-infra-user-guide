@@ -42,13 +42,11 @@ cURL.
 
 .. figure:: ../../screenshots/quickstart-shell.png
    :scale: 80%
-   :alt: To move from Cloud Servers to 
-         Cloud Images details, 
-         click Servers and then click Saved Images.
+   :alt: To see samples usable with cURL, 
+         click "Shell".
          
-   To move from Cloud Servers to 
-   Cloud Images details, 
-   click Servers and then click Saved Images.
+   *To see samples usable with cURL, 
+   click "Shell".*
 
 You may also be interested in exploring some 
 `alternatives to cURL <https://community.rackspace.com/developers/f/7/t/249>`__.

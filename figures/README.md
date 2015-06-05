@@ -38,10 +38,12 @@ To include a figure in the guide:
   Follow this model:
 
 ```
-  .. image:: ../../../figures/ExampleImageFileName.png
+  .. figure:: ../../../figures/ExampleImageFileName.png
      :alt: Cloud Servers are awesome.
            If I say more than one line, 
            I indent.
+           
+     *A caption is italicized below the figure*
 ```
 
 * Update the inventory (below), connecting the image to 

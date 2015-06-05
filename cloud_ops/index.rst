@@ -26,5 +26,6 @@ Contents:
    :maxdepth: 6
 
    limits
+   troubleshoot
    support
    explore

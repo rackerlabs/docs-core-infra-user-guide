@@ -24,7 +24,7 @@ of the same functions as hardware devices in our data centers:
 * Additional services enable specific activities such as user
   authentication, load balancing, and event monitoring.
   
-.. figure:: ../figures/core-infrastructure.png
+.. figure:: /_images/core-infrastructure.png
    :alt: Cloud Servers, Cloud Networks, Cloud Images, 
          and Cloud Block Storage are the
          Rackspace cloud's core infrastructure. 

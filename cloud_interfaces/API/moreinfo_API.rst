@@ -13,7 +13,7 @@ You can subscribe to
 an Atom feed for each SDK's release notes 
 so you are notified when we update them. 
 
-.. image:: ../../screenshots/ReleaseNotesFeed-SDK.png
+.. image:: /_images/ReleaseNotesFeed-SDK.png
    :alt: The RSS symbol shows that you can subscribe to this feed. 
 
 Watch for release notes announcing changes to the APIs `here <http://docs.rackspace.com/>`__.
@@ -22,7 +22,7 @@ You can subscribe to
 an Atom feed for each API's release notes 
 so you are notified when we update them. 
 
-.. image:: ../../screenshots/ReleaseNotesFeed-API.png
+.. image:: /_images/ReleaseNotesFeed-API.png
    :alt: The RSS symbol shows that you can subscribe to this feed. 
    
 You can also subscribe to a combined Atom feed for all API documents, 

@@ -73,7 +73,7 @@ your session begins with information about your Cloud Servers.
 To see your Cloud Networks information, click ``Networking`` 
 and then click ``Networks``. 
 
-.. figure:: ../../screenshots/NetworkingNetworks.png
+.. figure:: /_images/NetworkingNetworks.png
    :scale: 80%
    :alt: To move from Cloud Servers to 
          Cloud Networks details, 
@@ -95,7 +95,7 @@ you can see
 * its IP address in CIDR format
 * the region in which it is located
 
-.. figure:: ../../screenshots/CloudNetworksListAll.png
+.. figure:: /_images/CloudNetworksListAll.png
    :scale: 80%
    :alt: The Cloud Control Panel lists all of your
          Cloud Networks networks.  
@@ -129,7 +129,7 @@ you can see that:
 * sending a ``GET`` to the same URI and appending a network ID 
   requests an expanded list of information about a single network
 
-.. figure:: ../../screenshots/CloudNetworksListNetworksGET.png
+.. figure:: /_images/CloudNetworksListNetworksGET.png
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
    
@@ -175,7 +175,7 @@ go to the
 `SDK QuickStart for Cloud Networks <https://developer.rackspace.com/docs/cloud-networks/getting-started/>`__ 
 and click *Java*. 
 
-.. figure:: ../../screenshots/CloudNetworksSDKjava.png
+.. figure:: /_images/CloudNetworksSDKjava.png
    :scale: 80%
    :alt: Java is one of several languages for which we 
          publish an SDK QuickStart.

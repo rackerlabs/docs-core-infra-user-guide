@@ -10,7 +10,7 @@ Cloud Block Storage (labeled *Block Storage Volumes*)
 available 
 under *Storage*. 
 
-.. figure:: ../../screenshots/StorageGroup.png
+.. figure:: /_images/StorageGroup.png
    :scale: 80%
    :alt: The Storage group includes Cloud Block Storage. 
    

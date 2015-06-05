@@ -1,8 +1,8 @@
 .. _troubleshoot:
 
--------------------------
-Troubleshooting the cloud
--------------------------
+----------------------------
+Troubleshooting in the cloud
+----------------------------
 Many of the same troubleshooting skills you already know apply
 to the Rackspace cloud as well. 
 
@@ -70,6 +70,7 @@ Twitter feed for updates on maintenance or
 other service-impacting events. 
 
 As a managed cloud company, we're of course always available for you to 
-contact us directly. So please feel free to reach out via the "Support"
+contact us directly. If you need help, you can reach out to us 
+through the "Support"
 link at the top of the 
 `Rackspace Cloud Control Panel <https://mycloud.rackspace.com/>`__.

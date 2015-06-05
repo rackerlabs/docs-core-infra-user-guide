@@ -5,19 +5,21 @@ Best practices in the cloud
 ---------------------------
 As you learn about and experiment with the many options 
 available to you in the Rackspace Cloud, 
-remember these as tried-and-true best practices:
+remember these general suggestions 
+as tried-and-true best practices:
 
-General
--------
-* Assume failure will happen and design accordingly. Don't rely on 
+* Assume failure can happen and design accordingly. Don't rely on 
   individual resources 
   such as VMs and storage to always be available.
 
 * Decompose your application into smaller individually scalable parts.
   Don't have a monolithic server that scales up as your demand grows.
 
-* Always stop/reboot your server via the operating system, doing so through
-  the dashboard may lead to dataloss and should generally be avoided.
+* When you must stop or reboot an active server, 
+  always do so via the operating system.
+  Using the control panel to 
+  initialize a running server 
+  can lead to data loss and should generally be avoided.
 
 * Deploy a load balancer to allow you to more easily scale and
   update your application. 
@@ -28,9 +30,11 @@ General
   Configure Cloud Backup as discussed at 
   `Rackspace Cloud Backup - Overview <http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-overview>`_.
 
-Orchestration
--------------
+Other best practices relate to specific services, options, 
+and configurations:
 
+Best practices for orchestration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *  Always configure services and applications to restart upon reboot.
 
 *  Use config drive and cloud-init to bootstrap your servers 
@@ -45,8 +49,8 @@ Orchestration
 
 *  Automate configuration tasks whenever possible.
 
-Security
---------
+Best practices for security
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *  Sending a high volume of email from your Cloud Server can downgrade
    its IP reputation; use Mailgun instead, 
    as described at 
@@ -56,15 +60,15 @@ Security
    Follow the procedure at 
    `Basic Cloud Server Security <http://www.rackspace.com/knowledge_center/article/basic-cloud-server-security>`_.
 
-Storage 
--------
+Best practices for storage 
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Use attached storage whenever possible since it will allow you to
   resize, backup, and plan for failure more gracefully. 
   Follow the tutorial at 
   `Create and Attach a Cloud Block Storage Volume <http://www.rackspace.com/knowledge_center/article/create-and-attach-a-cloud-block-storage-volume>`_.
 
-Networking
-----------
+Best practices for networking
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *  Use 
    `ServiceNet <http://www.rackspace.com/knowledge_center/frequently-asked-question/what-is-servicenet>`__ 
    to communicate between Cloud Servers and Cloud Files and Cloud Databases. 

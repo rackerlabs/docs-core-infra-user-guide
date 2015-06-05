@@ -20,11 +20,22 @@ To learn about some of the basic activities you may
 need to perform in the Cloud Control Panel, begin with 
 `Getting Started with Cloud Servers <http://www.rackspace.com/knowledge_center/getting-started/cloud-servers>`__.
 
+In the Rackspace cloud, 
+you can quickly try something, decide it isn't quite right for you, 
+then try something else. It's a flexible, reliable environment, but 
+there are some limits, 
+some practices are more productive than others, 
+trouble can happen, 
+and 
+you may sometimes need help. 
+
 Contents:
 
 .. toctree::
    :maxdepth: 6
 
    limits
+   bestpractice
+   troubleshoot
    support
-   explore
+   keepup

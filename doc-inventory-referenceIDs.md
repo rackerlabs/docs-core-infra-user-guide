@@ -67,6 +67,8 @@ backups                                = /cloud_preprod/backups.rst
 
 base_images                            = /cloud_config/compute/cloud_images_product_concepts/base_images/index.rst
 
+bestpractice                           = /cloud_ops/bestpractice.rst
+
 block_storage                          = /cloud_config/storage/cloud_block_storage_product_actions/block_storage.rst
 
 boot                                   = /cloud_config/compute/cloud_servers_product_concepts/boot/index.rst
@@ -193,8 +195,6 @@ document_history                       = /cloud_guide_intro/document_history.rst
 
 drive_boot                             = /cloud_config/compute/cloud_servers_product_concepts/boot/drive_boot.rst
 
-explore                                = /cloud_ops/explore.rst
-
 glance                                 = /cloud_interfaces/CLI/glance.rst
 
 host_issues                            = /cloud_config/compute/cloud_servers_product_concepts/host_issues.rst
@@ -289,6 +289,8 @@ tour_network_services                  = /cloud_intro/cloud_tour/network_service
 tour_storage_services                  = /cloud_intro/cloud_tour/storage_services.rst
 
 tour_support_services                  = /cloud_intro/cloud_tour/support_services.rst
+
+troubleshoot                           = /cloud_ops/troubleshoot.rst
 
 virtualization_modes                   = /cloud_config/compute/cloud_images_product_concepts/virtualization_modes.rst
 

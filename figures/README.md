@@ -1,9 +1,8 @@
 Figures for Rackspace Cloud Core Infrastructure Services User Guide
 ===================================================================
-This directory contains *figures* used anywhere in 
-http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/. 
+All figures are now in the _images directory for building.
 
-A figure is a kind of image.
+This document describes figures in this context. A figure is a kind of image.
 
 Figures are drawings related to an idea discussed 
 in the text. The drawings show how things work conceptually but 
@@ -17,14 +16,14 @@ session looks. Screenshots visually demonstrate a process.
 To include a figure in the guide:
 
 * Save the publishable figure (for example, .png or .svg) 
-  in this *figures* directory 
+  in the */_images/* directory 
   with a descriptive filename. "CloudServersArchitecture" 
   is a descriptive filename; "Image01" is not.
   
 * If you have a source drawing for the publishable figure 
   (for example, .vsdx (Visio) or .graffle (OmniGraffle)), 
   save the source drawing 
-  in this *figures* directory 
+  in the */_images/* directory 
   with a descriptive filename that matches it to the 
   publishable figure.
   For example, "NetworkLayout.vsdx" is recognizable as the source 
@@ -38,7 +37,7 @@ To include a figure in the guide:
   Follow this model:
 
 ```
-  .. figure:: ../../../figures/ExampleImageFileName.png
+  .. figure:: /_images/ExampleImageFileName.png
      :alt: Cloud Servers are awesome.
            If I say more than one line, 
            I indent.

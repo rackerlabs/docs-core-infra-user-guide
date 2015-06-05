@@ -1,25 +1,24 @@
 Screenshots for Rackspace Cloud Core Infrastructure Services User Guide
 =======================================================================
-This directory contains *screenshots* used anywhere in 
-the guide. 
+All screenshots are now in the _images directory for building.
 
-A screenshot is a kind of image.
+This document describes screenshots in this context. A screenshot is a kind of
+image.
 
-Screenshots show how a Cloud Control Panel 
-session looks. Screenshots visually demonstrate a process.
+Screenshots show how a Cloud Control Panel session looks. Screenshots visually
+demonstrate a process.
 
-Drawings are in another directory, 
-named *figures*. The drawings show how things work conceptually but 
-not procedurally. Figures visually explain a concept.
+Drawings are also in the *_images* directory. The drawings show how things
+work conceptually but not procedurally. Figures visually explain a concept.
 
 ----
 To include a screenshot in the guide:
 
 * Save the screenshot (probably of type .png) 
-  in this *screenshots* directory 
+  in the *_images* directory 
   with a descriptive filename. "CloudServerCreation" 
   is a descriptive filename; "Image01" is not.
-  
+
 * On the page where you intend the image to appear, 
   at the location where you intend it to appear, 
   call for it with the full path to the screenshot's filename, 
@@ -28,7 +27,7 @@ To include a screenshot in the guide:
   Follow this model:
 
 ```
-  .. figure:: ../../../screenshots/ExampleProcess.png
+  .. figure:: /_images/screenshots/ExampleProcess.png
      :alt: Cloud Servers are awesome.
            If I say more than one line, 
            I indent.
@@ -42,7 +41,7 @@ since that is the only way to provide a caption.
 
 * Update the inventory (below), connecting the image to 
   its intended use, its source, and at least one human 
-  responsible for it. 
+  responsible for it.
   Keep the inventory alphabetized by filename.
 
 ----

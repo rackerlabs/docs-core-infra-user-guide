@@ -96,8 +96,10 @@ Managed Cloud Support, and operating system updates. ServiceNet provides
 a Cloud Server with access to Cloud Databases, Cloud Load Balancers,
 Cloud Files, Cloud Backup, RackConnect, and Windows activation.
 
-.. image:: ../../../figures/CloudServerNetworkRemovalResults.png
+.. figure:: ../../../figures/CloudServerNetworkRemovalResults.png
    :alt: PublicNet and ServiceNet enable full Cloud Servers functionality.
+   
+   *PublicNet and ServiceNet enable full Cloud Servers functionality.*
 
 Adding IPv4 addresses to Cloud Servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

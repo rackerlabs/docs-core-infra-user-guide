@@ -290,5 +290,7 @@ tour_storage_services                  = /cloud_intro/cloud_tour/storage_service
 
 tour_support_services                  = /cloud_intro/cloud_tour/support_services.rst
 
+troubleshoot                           = /cloud_ops/troubleshoot.rst
+
 virtualization_modes                   = /cloud_config/compute/cloud_images_product_concepts/virtualization_modes.rst
 

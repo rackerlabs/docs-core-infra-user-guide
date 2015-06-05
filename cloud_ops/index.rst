@@ -29,3 +29,4 @@ Contents:
    troubleshoot
    support
    explore
+   keepup

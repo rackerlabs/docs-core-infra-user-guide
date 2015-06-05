@@ -73,7 +73,7 @@ your session begins with information about your Cloud Servers.
 To see your Cloud Images information, click ``Servers`` 
 and then click ``Saved Images``. 
 
-.. figure:: ../../screenshots/ServersSavedImages.png
+.. figure:: /_images/ServersSavedImages.png
    :scale: 80%
    :alt: To move from Cloud Servers to 
          Cloud Images details, 
@@ -96,7 +96,7 @@ you can see
 * its creation date
 * its size
 
-.. figure:: ../../screenshots/CloudImagesListAll.png
+.. figure:: /_images/CloudImagesListAll.png
    :alt: The Cloud Control Panel lists all of your
          Cloud Networks networks.
          
@@ -126,7 +126,7 @@ you can see that:
 * sending a ``GET`` to the same URI and appending an image ID 
   requests an expanded list of information about a single image
 
-.. figure:: ../../screenshots/CloudImagesListImagesGET.png
+.. figure:: /_images/CloudImagesListImagesGET.png
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
    
@@ -172,7 +172,7 @@ go to the
 `SDK QuickStart for Cloud Images <https://developer.rackspace.com/docs/cloud-images/getting-started/>`__ 
 and click *python*.
 
-.. figure:: ../../screenshots/CloudImagesSDKpython.png
+.. figure:: /_images/CloudImagesSDKpython.png
    :scale: 80%
    :alt: Python is one of several languages for which we 
          publish an SDK QuickStart.

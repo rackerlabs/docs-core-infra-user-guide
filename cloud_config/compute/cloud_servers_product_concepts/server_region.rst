@@ -42,7 +42,7 @@ region.
 Choose a region that is near many of your users, reducing their network
 transfer time.
 
-.. figure:: ../../../screenshots/CloudServerCreateRegionDFW.png
+.. figure:: /_images/CloudServerCreateRegionDFW.png
    :alt: Choose a region.  
          Your choice can affect network delivery speed.
          
@@ -53,7 +53,7 @@ transfer time.
 
 Choose an image that supports the applications you intend to run.
 
-.. figure:: ../../../screenshots/CloudServerCreateImageUbuntu.png
+.. figure:: /_images/CloudServerCreateImageUbuntu.png
    :alt: Choose an operating system. 
          Your choice can affect your cost.
          
@@ -66,7 +66,7 @@ Choose a flavor that offers adequate capacity and the price you want to
 pay. Moving the blue slider up and down changes initial resource sizes;
 hovering over the green circle pops up an explanation of pricing.
 
-.. figure:: ../../../screenshots/CloudServerCreateFlavorStandardInstance.png
+.. figure:: /_images/CloudServerCreateFlavorStandardInstance.png
    :alt: Choose resource sizes. 
          Your choice can affect your cost.
    

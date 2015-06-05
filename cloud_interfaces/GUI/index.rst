@@ -38,7 +38,7 @@ first tasks:
 
 * view and change resource limits
 
-  .. figure:: ../../screenshots/AccountResourceLimits.png
+  .. figure:: /_images/AccountResourceLimits.png
      :scale: 80%
      :alt: Use the Control Panel to see your current
          limits and to ask to change them.
@@ -52,7 +52,7 @@ first tasks:
   submitting the ticket for processing. Update the ticket to 
   describe the change you want; then click *Submit Ticket*. 
  
-  .. figure:: ../../screenshots/CreateTicketServersResourceLimit.png
+  .. figure:: /_images/CreateTicketServersResourceLimit.png
      :scale: 80%
      :alt: In the generated ticket, 
          fill in the details you want to change. 

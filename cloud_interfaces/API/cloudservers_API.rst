@@ -102,7 +102,7 @@ showing every server;
 you can narrow the list by clicking on filters 
 for tag, status, image, flavor, and type.
 
-.. figure:: ../../screenshots/CloudServersListAll.png
+.. figure:: /_images/CloudServersListAll.png
    :scale: 80%
    :alt: The Cloud Control Panel lists all of your
          Cloud Servers.
@@ -135,7 +135,7 @@ you can see that:
 * sending a ``GET`` to the same URI and appending ``/detail`` 
   requests requests an expanded list of information about servers
 
-.. figure:: ../../screenshots/CloudServersListServersGET.png
+.. figure:: /_images/CloudServersListServersGET.png
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
    
@@ -192,7 +192,7 @@ go to the
 `SDK QuickStart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`__ 
 and click *python*. 
 
-.. figure:: ../../screenshots/CloudServersSDKpython.png
+.. figure:: /_images/CloudServersSDKpython.png
    :scale: 80%
    :alt: Python is one of several languages for which we 
          publish an SDK QuickStart.

@@ -84,12 +84,6 @@ To include a figure in the guide:
     then export a new .PNG and save it here
   * collection date 2015-06-04
   * contributed by Nate Archer
-  
-* **ManagedCloud.png**
-  * used at /cloud_intro/core_infrastructure.html
-  * originated from http://www.rackspace.co.uk/cloud/servers
-  * collection date 2015-03-01
-  * contributed by Rose Coste
 
 * **RackConnectEnterpriseConfig.jpg**
   * used at /cloud_config/network/cloud_networks_product_concepts/network_rackconnect.html

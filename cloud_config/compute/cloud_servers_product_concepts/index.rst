@@ -19,14 +19,14 @@ You can create Cloud Servers of two types:
 
 This is an architectural overview of virtual servers:
 
-.. figure:: ../../../figures/CloudServerVirtualArchitecture.png
+.. figure:: /_images/CloudServerVirtualArchitecture.png
    :alt: Virtual Cloud Servers are the core of a rich configuration.
    
    *Virtual Cloud Servers are the core of a rich configuration.*
 
 This is an architectural overview of OnMetal™ servers:
 
-.. figure:: ../../../figures/CloudServerOnMetalArchitecture.png
+.. figure:: /_images/CloudServerOnMetalArchitecture.png
    :alt: OnMetal Cloud Servers add a performance boost.
    
    *OnMetal Cloud Servers add a performance boost.*

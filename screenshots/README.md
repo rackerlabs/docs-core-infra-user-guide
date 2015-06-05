@@ -58,7 +58,7 @@ To include a screenshot in the guide:
   * contributed by Rose Coste
   
 * **CloudBigData0clusters.png** 
-  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_ops/limits..html
+  * used at http://rackspace-core-infra-user-guide.readthedocs.org/en/latest/cloud_ops/somethingnew.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-19 
   * contributed by Rose Coste

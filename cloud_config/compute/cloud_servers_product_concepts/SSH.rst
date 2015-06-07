@@ -15,7 +15,8 @@ SSH keys are stored per region. For example, a key stored in DFW will
 not be usable in IAD unless it is also added there. SSH keys may be
 listed, viewed, and deleted via the API or the control panel.
 
-.. Note:: SSH keys only work in conjunction with a server 
+.. NOTE:: 
+   SSH keys only work in conjunction with a server 
    running Linux and
    are not compatible with Windows. 
    Although the API will allow a Windows

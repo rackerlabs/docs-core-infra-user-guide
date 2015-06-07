@@ -42,7 +42,7 @@ physical disks. Because of this, we list the IOPS capabilities of each
 local storage option as the upper limit of its range, identifying 
 the highest possible
 IOPS that the device can process. This gives a picture of the
-performance characteristics, but it is important to note that, as
+performance characteristics, but it is important to remember that, as
 mentioned, many factors can affect the IOPS rate during operation.
 
 Local storage types associated with Cloud Server flavors

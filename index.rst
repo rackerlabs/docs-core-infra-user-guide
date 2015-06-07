@@ -9,10 +9,41 @@ Introduction
 This is a guide to the core infrastructure services 
 at the heart of the Rackspace cloud:
 
-* `Cloud Servers <http://www.rackspace.com/cloud/servers>`__
-* `Cloud Networks <http://www.rackspace.com/cloud/networks>`__
-* `Cloud Images <http://www.rackspace.com/cloud/images>`__
-* `Cloud Block Storage <http://www.rackspace.com/cloud/block-storage>`__
+* **Cloud Servers**
+
+  * :ref:`cloud_servers_product_actions`
+  * :ref:`cloud_servers_product_concepts`
+  * :ref:`cloudservers_GUI`
+  * :ref:`cloudservers_CLI`
+  * :ref:`cloudservers_API`
+ 
+ 
+* **Cloud Networks**
+
+  * :ref:`cloud_networks_product_actions`
+  * :ref:`cloud_networks_product_concepts`
+  * :ref:`cloudnetworks_GUI`
+  * :ref:`cloudnetworks_CLI`
+  * :ref:`cloudnetworks_API`
+ 
+ 
+* **Cloud Images**
+
+  * :ref:`cloud_images_product_actions`
+  * :ref:`cloud_images_product_concepts`
+  * :ref:`cloudimages_GUI`
+  * :ref:`cloudimages_CLI`
+  * :ref:`cloudimages_API`
+ 
+ 
+* **Cloud Block Storage**
+
+  * :ref:`cloud_block_storage_product_actions`
+  * :ref:`cloud_block_storage_product_concepts`
+  * :ref:`cloudblockstorage_GUI`
+  * :ref:`cloudblockstorage_CLI`
+  * :ref:`cloudblockstorage_API`
+
 
 .. WARNING::
    **This guide is a work in progress.**
@@ -21,8 +52,8 @@ at the heart of the Rackspace cloud:
 
 We want to hear what you think about this guide. 
 If you have a suggestion regarding the content, 
-please add it to our 
-`list of GitHub issues <https://github.com/rackerlabs/docs-core-infra-user-guide/issues>`__. 
+please :ref:`contactus`.
+
 
 Contents:
 

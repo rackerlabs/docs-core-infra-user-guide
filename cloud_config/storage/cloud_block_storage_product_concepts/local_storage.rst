@@ -45,6 +45,13 @@ IOPS that the device can process. This gives a picture of the
 performance characteristics, but it is important to remember that, as
 mentioned, many factors can affect the IOPS rate during operation.
 
+You can see the results of a performance experiment  
+comparing Rackspace storage technologies at 
+`Determining Optimal Storage based on IOPS <https://developer.rackspace.com/blog/determining-optimal-storage-based-on-iops/>`__. 
+In that experiment, 
+Cloud Block Storage on SSD performed 
+better than any other option tested.
+
 Local storage types associated with Cloud Server flavors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Choosing a flavor class for your Cloud Server also means choosing what

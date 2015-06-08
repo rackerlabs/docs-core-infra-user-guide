@@ -6,8 +6,9 @@ Actions for Cloud Servers
 The following actions can be performed against an active, running server in the
 Control Panel and the API.
 
-Note: Depending on your user's specific permissions, you may be unable to access
-all of these actions.
+.. NOTE:: 
+   Depending on your user's specific permissions, you may be unable to access
+   all of these actions.
 
 To learn how to perform Cloud Servers actions using your choice of interface, 
 begin at 
@@ -25,10 +26,6 @@ addresses. All data and disk formatting is lost.
 
 Resize
 ------
-Note: This action is not available for all flavor classes. Due to the
-presentation of the disks the option may be limited to up only or disallowed
-entirely.
-
 The resize action allows a server to sized up or down within the same flavor
 class. The server is offline during the resize. A new server on a different
 physical host is reserved and data is then copied from the source to the
@@ -38,6 +35,13 @@ then asked to confirm the resize within the next 24 hours by checking to make
 sure your server is working as intended. Confirming destroys the original source
 server; reverting moves you back to it. After 24 hours, your resize will be
 automatically confirmed.
+
+.. NOTE::
+   This action is not available for all flavor classes. 
+   Due to the
+   presentation of the disks, the option may be limited 
+   to allow only upward resizing 
+   or disallowed entirely.
 
 Rescue Mode
 ------------------

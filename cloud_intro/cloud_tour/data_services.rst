@@ -25,6 +25,9 @@ Cloud Databases at a glance
 
 * `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
+* open-source roots: 
+  `OpenStack Trove <http://docs.openstack.org/developer/trove/>`__  
+
 .. TIP::
    Cloud Databases is the right tool for 
    MySQL, Percona Server, and MariaDB.

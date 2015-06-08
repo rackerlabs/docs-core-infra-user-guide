@@ -107,8 +107,8 @@ for tag, status, image, flavor, and type.
    :alt: The Cloud Control Panel lists all of your
          Cloud Servers.
          
-   The Cloud Control Panel lists all of your
-   Cloud Servers.
+   *The Cloud Control Panel lists all of your
+   Cloud Servers.*
          
 .. include:: note-chrome-devtools.rst
 
@@ -139,7 +139,7 @@ you can see that:
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
    
-   The API cross-reference lists all API operations
+   *The API cross-reference lists all API operations*
 
 On the first ``GET`` line, click *detail* to see 
 more about how the API handles this request.  
@@ -197,8 +197,8 @@ and click *python*.
    :alt: Python is one of several languages for which we 
          publish an SDK QuickStart.
          
-   Python is one of several languages for which we 
-   publish an SDK QuickStart.
+   *Python is one of several languages for which we 
+   publish an SDK QuickStart.*
 
 Use SDK to help you write and run code to interact with Cloud Servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

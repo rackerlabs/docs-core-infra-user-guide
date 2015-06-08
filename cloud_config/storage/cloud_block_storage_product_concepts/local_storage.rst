@@ -17,33 +17,50 @@ performance and cost characteristics.
 
 Here is a high-level comparison of the technologies:
 
-+-----------------------------------+-------------+-----------------------+----------------------+
-| **Server Type**                   | **Speed**   | **Cost (relative)**   | **IOPS (maximum)**   |
-+===================================+=============+=======================+======================+
-| SATA (Standard Cloud Servers)     | Average     | Lowest                | ??                   |
-+-----------------------------------+-------------+-----------------------+----------------------+
-| SSD (Performance Cloud Servers)   | Fast        | Medium                | ??                   |
-+-----------------------------------+-------------+-----------------------+----------------------+
-| PCI (OnMetal)                     | Fastest     | Highest               | ??                   |
-+-----------------------------------+-------------+-----------------------+----------------------+
++-----------------------------------+-------------+-----------------------+
+| **Server Type**                   | **Speed**   | **Cost (relative)**   |
++===================================+=============+=======================+
+| SATA (Standard Cloud Servers)     | Average     | Lowest                |
++-----------------------------------+-------------+-----------------------+
+| SSD (Performance Cloud Servers)   | Fast        | Medium                |
++-----------------------------------+-------------+-----------------------+
+| PCI (OnMetal)                     | Fastest     | Highest               |
++-----------------------------------+-------------+-----------------------+
 
 Measuring local storage performance - IOPS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-There are many ways to capture the performance metrics of storage,
-including 
+One way to compare the performance metrics of storage 
+is by observing  
 Input/Output Operations per Second (IOPS). 
-IOPS reports how many operations per second the
-storage can handle. (An operation is typically a read or write of data.)
+IOPS reports the maximum number of operations per second the
+storage can handle. 
+For the purpose of calculating IOPS, 
+an operation is typically a read or write of data.
 
 Several factors can cause the effective measured IOPS capability of
 a storage medium to fluctuate, including system load, background
 operations, or traffic from other virtual machines residing on the same
-physical disks. Because of this, we list the IOPS capabilities of each
-local storage option as the upper limit of its range, identifying 
+physical disks. Because of this, consider any IOPS 
+measurements you obtain as describing the upper limit of each
+local storage option's range, identifying 
 the highest possible
 IOPS that the device can process. This gives a picture of the
-performance characteristics, but it is important to note that, as
-mentioned, many factors can affect the IOPS rate during operation.
+performance characteristics, but it is important to remember that 
+many factors can affect the IOPS rate during operation. IOPS is most 
+useful as a basis of comparison 
+if you can control all other factors and run identical workloads 
+on systems that differ only in their storage configuration.
+
+You can see the results of a performance experiment  
+comparing Rackspace storage technologies at 
+`Determining Optimal Storage based on IOPS <https://developer.rackspace.com/blog/determining-optimal-storage-based-on-iops/>`__. 
+In that experiment, 
+Cloud Block Storage on SSD performed 
+better than any other option tested.
+In a white paper on 
+`Cloud Block Storage (CBS) Benchmarking <http://www.rackspace.com/knowledge_center/whitepaper/cloud-block-storage-cbs-benchmarking>`__,
+performance quadrupled using Cloud Block Storage with SSD 
+as compared to Cloud Block Storage with SATA. 
 
 Local storage types associated with Cloud Server flavors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

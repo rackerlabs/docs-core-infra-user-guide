@@ -43,8 +43,8 @@ first tasks:
      :alt: Use the Control Panel to see your current
          limits and to ask to change them.
          
-     Use the Control Panel to see your current
-     limits and to ask to change them.
+     *Use the Control Panel to see your current
+     limits and to ask to change them.*
          
   If you click the *Request Limit Increase* link, the system will
   generate a ticket with details of your current limits filled in. 
@@ -57,8 +57,8 @@ first tasks:
      :alt: In the generated ticket, 
          fill in the details you want to change. 
          
-     In the generated ticket, 
-     fill in the details you want to change.
+     *In the generated ticket, 
+     fill in the details you want to change.*
  
 The Cloud Control Panel may be the only interface you need to use,
 especially if you don't need to heavily automate the management of your

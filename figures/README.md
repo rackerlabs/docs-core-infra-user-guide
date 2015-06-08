@@ -67,14 +67,19 @@ To include a figure in the guide:
   
 * **CloudServerOnMetalArchitecture.png**
   * used at /cloud_config/compute/cloud_servers_product_concepts/index.html
-  * collection date 2015-03-01
-  * contributed by Rose Coste
+  * source here, in /figures/core-infrastructure.xml; 
+    to change the drawing, open the XML in https://www.draw.io/, 
+    then export a new .PNG and save it here 
+  * collection date 2015-06-05
+  * contributed by Nate Archer
 
 * **CloudServerVirtualArchitecture.png**
   * used at /cloud_config/compute/cloud_servers_product_concepts/index.html
-  * originated from internal ProductWeb
-  * collection date 2015-03-01
-  * contributed by Rose Coste
+  * source here, in /figures/core-infrastructure.xml; 
+    to change the drawing, open the XML in https://www.draw.io/, 
+    then export a new .PNG and save it here 
+  * collection date 2015-06-05
+  * contributed by Nate Archer
   
 * **core-infrastructure.png**
   * used at /cloud_intro/core_infrastructure.html

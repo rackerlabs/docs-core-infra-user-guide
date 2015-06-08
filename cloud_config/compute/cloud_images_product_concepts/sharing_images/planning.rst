@@ -75,16 +75,18 @@ complete some preparatory steps:
 1. Create a snapshot of a Cloud Server, or import an image that you will
    be sharing.
 
-2. Note the UUID (also known as “image ID”) of the image that you will
-   be sharing. The UUID can be gathered from the API or Cloud Control
+2. Obtain the UUID (also known as *image ID*) of the image that you will
+   be sharing. The UUID is available from the API or the Cloud Control
    Panel.
 
-3. Gather the tenant ID(s) (also known as “DDI” or “customer number”) of
+3. Gather the tenant ID(s) (also known as *DDI* or *customer number*) of
    the consumer(s) to whom you will be sharing. This is a numeric ID
    that the consumer can find in their Control Panel or using their API.
-   Note: The target consumer must provide their tenant ID to you; you
-   are not able to search, browse, or otherwise discover their unique
-   ID.
+   
+   .. NOTE::
+      The target consumer must provide their tenant ID to you; 
+      you cannot search, browse, or otherwise discover 
+      their unique ID.
 
 Offering to share an image
 ''''''''''''''''''''''''''

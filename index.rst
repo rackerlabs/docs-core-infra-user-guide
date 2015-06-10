@@ -12,14 +12,14 @@ at the heart of the Rackspace cloud:
 +----------------------------------------------+-----------------------------------------+
 | **Cloud Servers**                            | * :ref:`cloud_servers_product_concepts` |
 |                                              | * :ref:`cloud_servers_product_actions`  |
-| .. figure::                                  | * :ref:`cloudservers_GUI`               |
+| .. image::                                   | * :ref:`cloudservers_GUI`               |
 |    /_images/logo-cloudservers-50x50.png      | * :ref:`cloudservers_CLI`               |
 |   :alt: Cloud Servers provides               | * :ref:`cloudservers_API`               |
 |         computing power.                     |                                         |
 |   :align: center                             |                                         |
 |                                              |                                         |
-|   *Cloud Servers provides                    |                                         |
-|   computing power.*                          |                                         |
+| *Cloud Servers provides                      |                                         |
+| computing power.*                            |                                         |
 |                                              |                                         |
 +----------------------------------------------+-----------------------------------------+
  
@@ -27,14 +27,14 @@ at the heart of the Rackspace cloud:
 +----------------------------------------------+------------------------------------------+
 | **Cloud Networks**                           | * :ref:`cloud_networks_product_concepts` |
 |                                              | * :ref:`cloud_networks_product_actions`  |
-| .. figure::                                  | * :ref:`cloudnetworks_GUI`               |
+| .. image::                                   | * :ref:`cloudnetworks_GUI`               |
 |    /_images/logo-cloudnetworks-50x50.png     | * :ref:`cloudnetworks_CLI`               |
 |   :alt: Cloud Networks connects              | * :ref:`cloudnetworks_API`               |
 |         Cloud Servers.                       |                                          |
 |   :align: center                             |                                          |
 |                                              |                                          |
-|   *Cloud Networks connects                   |                                          |
-|   cloud servers.*                            |                                          |
+| *Cloud Networks connects                     |                                          |
+| cloud servers.*                              |                                          |
 |                                              |                                          |
 +----------------------------------------------+------------------------------------------+
  
@@ -42,14 +42,14 @@ at the heart of the Rackspace cloud:
 +----------------------------------------------+----------------------------------------+
 | **Cloud Images**                             | * :ref:`cloud_images_product_concepts` |
 |                                              | * :ref:`cloud_images_product_actions`  |
-| .. figure::                                  | * :ref:`cloudimages_GUI`               |
+| .. image::                                   | * :ref:`cloudimages_GUI`               |
 |    /_images/logo-cloudimages-50x50.png       | * :ref:`cloudimages_CLI`               |
 |   :alt: Cloud Images standardizes            | * :ref:`cloudimages_API`               |
 |         cloud server creation.               |                                        |
 |   :align: center                             |                                        |
 |                                              |                                        |
-|   *Cloud Images standardizes                 |                                        |
-|   cloud server creation.*                    |                                        |
+| *Cloud Images standardizes                   |                                        |
+| cloud server creation.*                      |                                        |
 |                                              |                                        |
 +----------------------------------------------+----------------------------------------+
  
@@ -57,14 +57,14 @@ at the heart of the Rackspace cloud:
 +----------------------------------------------+-----------------------------------------------+
 | **Cloud Block Storage**                      | * :ref:`cloud_block_storage_product_concepts` |
 |                                              | * :ref:`cloud_block_storage_product_actions`  |
-| .. figure::                                  | * :ref:`cloudblockstorage_GUI`                |
+| .. image::                                   | * :ref:`cloudblockstorage_GUI`                |
 |    /_images/logo-cloudblockstorage-50x50.png | * :ref:`cloudblockstorage_CLI`                |
 |   :alt: Cloud Block Storage adds             | * :ref:`cloudblockstorage_API`                |
 |         cloud server storage.                |                                               |
 |   :align: center                             |                                               |
 |                                              |                                               |
-|   *Cloud Block Storage adds                  |                                               |
-|   cloud server storage.*                     |                                               |
+| *Cloud Block Storage adds                    |                                               |
+| cloud server storage.*                       |                                               |
 |                                              |                                               |
 +----------------------------------------------+-----------------------------------------------+
  

@@ -11,11 +11,11 @@ Services in this category include
 Cloud Feeds at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-* `product overview <http://www.rackspace.com/knowledge_center/article/cloud-feeds-overview>`__
+* `Product overview <http://www.rackspace.com/knowledge_center/article/cloud-feeds-overview>`__
   
-* FREE with every cloud account 
+* Free with every cloud account 
   
-* open-source roots: 
+* Open-source roots: 
   `Atom Hopper <http://atomhopper.org/>`__
 
 Cloud Feeds provides API access to events emitted from your infrastructure
@@ -26,11 +26,11 @@ You can see *access events* (for example, who changed what server via control pl
 
 Rackspace Identity at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* `product overview <http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac>`__
+* `Product overview <http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac>`__
 
-* FREE with every cloud account
+* Free with every cloud account
 
-* open-source roots: 
+* Open-source roots: 
   `OpenStack Keystone <http://docs.openstack.org/developer/keystone/>`__
 
 Rackspace Identity is the authentication and 

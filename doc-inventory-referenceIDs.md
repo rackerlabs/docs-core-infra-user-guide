@@ -121,6 +121,10 @@ cloud_networks_product_actions         = /cloud_config/network/cloud_networks_pr
 
 cloud_networks_product_concepts        = /cloud_config/network/cloud_networks_product_concepts/index.rst
 
+cloudnetworks-benefits                 = /cloud_config/network/cloud_networks_product_concepts/cloudnetworks-benefits.rst
+
+cloudnetworks-usecases                 = /cloud_config/network/cloud_networks_product_concepts/cloudnetworks-usecases.rst
+
 cloud_ops                              = /cloud_ops/index.rst
 
 cloud_preprod                          = /cloud_preprod/index.rst

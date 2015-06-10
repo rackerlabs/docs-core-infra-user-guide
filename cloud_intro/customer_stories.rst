@@ -12,10 +12,10 @@ meet some of the same challenges you are facing, start at
 Other good places to find
 customer stories include:
 
-* `case studies and white papers in the Knowledge Center <http://www.rackspace.com/knowledge_center/case-studies-white-papers>`__
+* `Case studies and white papers in the Knowledge Center <http://www.rackspace.com/knowledge_center/case-studies-white-papers>`__
 
-* `postings in the "Partner & Customer Updates" channel of the Rackspace blog <http://www.rackspace.com/blog/channels/partner-and-customer-updates/>`__
+* `Postings in the "Partner & Customer Updates" channel of the Rackspace blog <http://www.rackspace.com/blog/channels/partner-and-customer-updates/>`__
 
-* `postings from Racker and customer developers in the Rackspace developer blog <https://developer.rackspace.com/blog/>`__
+* `Postings from Racker and customer developers in the Rackspace developer blog <https://developer.rackspace.com/blog/>`__
 
-* `discussions with Rackers and customers in the Rackspace Community <https://community.rackspace.com/>`__
+* `Discussions with Rackers and customers in the Rackspace Community <https://community.rackspace.com/>`__

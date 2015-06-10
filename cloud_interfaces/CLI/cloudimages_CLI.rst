@@ -23,7 +23,7 @@ or you can go directly to the tool that interests you:
 * :ref:`curl`
 
 You can also use the 
-:ref:`cinder`, 
+:ref:`glance`, 
 focused on Cloud Images. 
 
 In working with Cloud Images, 

@@ -11,9 +11,9 @@ Services in this category include
 
 Cloud Big Data at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-* `product overview <http://www.rackspace.com/cloud/big-data>`__
+* `Product overview <http://www.rackspace.com/cloud/big-data>`__
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
+* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
 .. TIP::
    Cloud Big Data is the right tool for 
@@ -21,11 +21,11 @@ Cloud Big Data at a glance
 
 Cloud Databases at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* `product overview <http://www.rackspace.com/cloud/databases>`__
+* `Product overview <http://www.rackspace.com/cloud/databases>`__
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
+* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
 
-* open-source roots: 
+* Open-source roots: 
   `OpenStack Trove <http://docs.openstack.org/developer/trove/>`__  
 
 .. TIP::
@@ -34,11 +34,11 @@ Cloud Databases at a glance
 
 Object Rocket at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-* `product overview <https://objectrocket.com/features>`__
+* `Product overview <https://objectrocket.com/features>`__
 
-* `PAY only for what you use <https://objectrocket.com/pricing>`__ 
+* `Pay only for what you use <https://objectrocket.com/pricing>`__ 
 
-* open-source roots: 
+* Open-source roots: 
   `Object Rocket <https://objectrocket.com/>`__  
 
 .. TIP::

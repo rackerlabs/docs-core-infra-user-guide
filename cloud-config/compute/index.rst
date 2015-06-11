@@ -47,7 +47,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   cloud_servers_product_concepts/index
-   cloud_servers_product_actions/index
-   cloud_images_product_concepts/index
-   cloud_images_product_actions/index
+   cloud-servers-product-concepts/index
+   cloud-servers-product-actions/index
+   cloud-images-product-concepts/index
+   cloud-images-product-actions/index

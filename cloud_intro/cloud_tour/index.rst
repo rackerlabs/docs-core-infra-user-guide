@@ -14,13 +14,13 @@ if you had a fixed configuration of physical computing equipment, the
 services that provide you with flexible computing in the cloud must 
 perform essential tasks:
 
-* deliver processing power 
+* Deliver processing power
   (Cloud Servers) 
-* connect servers in an internal network 
+* Connect servers in an internal network 
   (Cloud Networks) 
-* quickstart new servers according to predefined patterns 
+* Quickstart new servers according to predefined patterns 
   (Cloud Images) 
-* expand storage attached to one server and transferable to others 
+* Expand storage attached to one server and transferable to others 
   (Cloud Block Storage) 
 
 We consider
@@ -32,17 +32,17 @@ other services provide additional functions.
 Depending on your workload, you may need to use some or 
 all of these: 
 
-* authentication (Cloud Identity)
-* long-term storage (Cloud Files)
-* data services (Cloud Databases, Cloud Big Data, Object Rocket)
-* recoverability (Cloud Backup)
-* distribution of public-facing content (Cloud CDN)
-* connections to public-facing networks 
+* Authentication (Cloud Identity)
+* Long-term storage (Cloud Files)
+* Data services (Cloud Databases, Cloud Big Data, Object Rocket)
+* Recoverability (Cloud Backup)
+* Distribution of public-facing content (Cloud CDN)
+* Connections to public-facing networks 
   (Cloud DNS, Cloud Load Balancers) 
-* connections to dedicated hardware (RackConnect)
-* automated installation (Cloud Orchestration) 
-* automated reconfiguration (Auto Scale) 
-* observation of activity 
+* Connections to dedicated hardware (RackConnect)
+* Automated installation (Cloud Orchestration) 
+* Automated reconfiguration (Auto Scale) 
+* Observation of activity 
   (Cloud Monitoring, Cloud Metrics, Cloud Feeds)
 
 These services work well with the core infrastructure and with

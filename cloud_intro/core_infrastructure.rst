@@ -13,10 +13,10 @@ of the same functions as hardware devices in our data centers:
 
 * Cloud Servers provides computing power.
 
-* Cloud Networks creates an internal network of Cloud Servers.
+* Cloud Networks creates an internal network of cloud servers.
 
 * Cloud Block Storage emulates a removable disk, which can be
-  transferred from one Cloud Server to another.
+  transferred from one cloud server to another.
 
 * Cloud Images preserves a consistent starting point for new Cloud
   Server instances.

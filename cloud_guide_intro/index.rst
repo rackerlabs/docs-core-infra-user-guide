@@ -34,7 +34,7 @@ what, after getting started, you can do in the Rackspace cloud.
   establish a useful and manageable cloud configuration.
  
 * :ref:`cloud_preprod` specifies pre-production steps you should
-  take to harden your Cloud Server and make it ready for work.
+  take to harden your cloud server and make it ready for work.
  
 * :ref:`cloud_ops` identifies ongoing
   responsibilities and suggests special-interest topics that may

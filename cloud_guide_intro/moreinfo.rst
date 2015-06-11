@@ -16,7 +16,7 @@ starting points:
 * To learn the vendor-neutral basics of cloud computing, start at
   `Cloud U <http://cloudu.rackspace.com/>`__.
   
-* To learn about the Rackspace Cloud 
+* To learn about the Rackspace cloud 
   through tutorials, case studies, and white papers, 
   start at the 
   `Rackspace Knowledge Center <http://www.rackspace.com/knowledge_center/>`__.

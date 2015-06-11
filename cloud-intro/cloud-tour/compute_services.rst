@@ -10,11 +10,11 @@ Services in this category include
 
 Cloud Servers at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-* `product overview <http://www.rackspace.com/cloud/servers>`__
+* `Product overview <http://www.rackspace.com/cloud/servers>`__
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
+* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
   
-* open-source roots: 
+* Open-source roots: 
   `OpenStack Nova <http://docs.openstack.org/developer/nova/>`__
 
 .. TIP::
@@ -27,11 +27,11 @@ Cloud Servers at a glance
 
 Cloud Images at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
-* `product overview <http://www.rackspace.com/cloud/images>`__
+* `Product overview <http://www.rackspace.com/cloud/images>`__
 
-* `PAY only for what you use <http://www.rackspace.com/cloud/public-pricing>`__ 
+* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__ 
 
-* open-source roots: 
+* Open-source roots: 
   `OpenStack Glance <http://docs.openstack.org/developer/glance/>`__
   
 .. TIP::

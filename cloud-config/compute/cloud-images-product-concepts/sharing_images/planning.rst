@@ -1,30 +1,58 @@
-.. _cloud_images_sharing:
+.. cloud-images-sharing-planning:
 
-^^^^^^^^^^^^^^
-Sharing images
-^^^^^^^^^^^^^^
-Cloud Images can be created as snapshots of a Cloud Server. They can
-also be imported using the Cloud Images Import feature.
+''''''''''''''''''''''''''''''''''''''''''''''''''''
+Considerations before sharing or using shared images
+''''''''''''''''''''''''''''''''''''''''''''''''''''
+Although it is easy to share a Cloud Image, it is not always
+appropriate. Consider carefully before creating an image-sharing
+relationship.
 
-No matter how you create a Cloud Image, you can share it from one
-Rackspace Cloud account to another, on an on-demand basis. This can be
-useful for many scenarios:
+Security and legal considerations
+---------------------------------                         
+Before sharing an image to another user, consider whether your image
+includes any confidential or other content you should not share with
+other users. For example, removing any stored passwords, source code, or
+personal information are all good practices before creating and sharing
+an image.
 
-* Share an image of a new server you have created or customized to a
-  colleague for testing and comments.
+You should also consider whether there is any content in the image that
+could be considered to have legal implications once it is shared to
+another user. Examples can be licensed software, any unintended malware
+or suspicious software, or any copyright-infringing content.
 
-* If you have multiple cloud accounts at Rackspace, for example to
-  support different internal organizations or company branches, you can
-  create a single central image and then share it with other accounts
-  so they don’t have to create one themselves.
+If you believe an image has been shared to you in error or with
+malicious intent, contact Rackspace at
+`cloudimageshelp@rackspace.com <mailto:cloudimageshelp%40rackspace.com>`__.
 
-An image producer is also called an image owner. An image owner can
-share an image with one or more image consumers.
+Creating Cloud Servers from shared images
+-----------------------------------------                                         
+Once an image is shared to a user, they are free to create Cloud Servers
+from the shared image; they appear in the user’s image list, just like
+any of their own saved snapshots. After a Cloud Server is created from a
+shared image, any subsequent snapshots that are taken of these new Cloud
+Servers will be available only to that user, not the user that
+originally shared the image.
 
-An image consumer is also called an image member.
+Any Cloud Servers or images created from the shared image will still be
+available to the consumer, even if the shared image is revoked.
 
-A shared image is an image that an image owner has made available to one
-or more image members.
+Image sharing and regions
+-------------------------                         
+Images can only be shared to consumers in the same Rackspace Cloud
+region.
+
+Costs incurred with shared images
+---------------------------------                                 
+Only the image producer is charged for the cost of the original shared
+image (the cost to store the image in Cloud Files). Consumers of the
+images do not incur a cost for either the sharing process, or using the
+shared image until they:
+
+* create a Cloud Server from the shared image, at which point normal
+  Cloud Server pricing applies
+
+* take an image of a Cloud Server created from the shared image, at
+  which point the normal Cloud Files pricing to store the image applies
 
 Exporting shared images
 -----------------------
@@ -48,8 +76,8 @@ complete some preparatory steps:
    be sharing.
 
 2. Obtain the UUID (also known as *image ID*) of the image that you will
-   be sharing. The UUID is available from the API or 
-   the Cloud Control Panel.
+   be sharing. The UUID is available from the API or the Cloud Control
+   Panel.
 
 3. Gather the tenant ID(s) (also known as *DDI* or *customer number*) of
    the consumer(s) to whom you will be sharing. This is a numeric ID
@@ -102,11 +130,3 @@ Rackspace will generally offer best-effort support to verify whether any
 Cloud Servers created from the images have problems booting or other
 issues, but detailed troubleshooting of any specific additional
 functionality may be the responsibility of the image producer.
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-   models
-   planning

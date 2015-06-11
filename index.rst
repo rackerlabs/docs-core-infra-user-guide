@@ -84,9 +84,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   cloud_guide_intro/index
-   cloud_intro/index
-   cloud_interfaces/index
-   cloud_config/index
-   cloud_preprod/index
-   cloud_ops/index
+   cloud-guide-intro/index
+   cloud-intro/index
+   cloud-interfaces/index
+   cloud-config/index
+   cloud-preprod/index
+   cloud-ops/index

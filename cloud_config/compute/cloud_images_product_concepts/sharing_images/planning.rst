@@ -1,4 +1,4 @@
-.. cloud_images_sharing_planning:
+.. cloud-images-sharing-planning:
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''
 Considerations before sharing or using shared images
@@ -20,8 +20,8 @@ could be considered to have legal implications once it is shared to
 another user. Examples can be licensed software, any unintended malware
 or suspicious software, or any copyright-infringing content.
 
-If you believe an image has been shared to you in error, or with
-malicious intent, please contact Rackspace at
+If you believe an image has been shared to you in error or with
+malicious intent, contact Rackspace at
 `cloudimageshelp@rackspace.com <mailto:cloudimageshelp%40rackspace.com>`__.
 
 Creating Cloud Servers from shared images

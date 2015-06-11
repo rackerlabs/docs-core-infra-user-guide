@@ -17,5 +17,5 @@ Contents:
  
    core_infrastructure 
    context 
-   cloud_tour/index
+   cloud-tour/index
    customer_stories

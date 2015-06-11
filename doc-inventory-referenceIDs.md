@@ -99,7 +99,9 @@ cloud_images_product_concepts          = /cloud_config/compute/cloud_images_prod
 
 cloud_images_sharing                   = /cloud_config/compute/cloud_images_product_concepts/sharing_images/index.rst
 
-cloud_images_sharing_planning          = /cloud_config/compute/cloud_images_product_concepts/sharing_images/planning.rst
+cloud-images-sharing-planning          = /cloud_config/compute/cloud_images_product_concepts/sharing_images/planning.rst
+
+cloud-images-sharing-support           = /cloud_config/compute/cloud_images_product_concepts/sharing_images/support.rst
 
 cloud_images_sharing_models            = /cloud_config/compute/cloud_images_product_concepts/sharing_images/models.rst
 

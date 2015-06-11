@@ -23,16 +23,15 @@ your NTP config file directly.
 
 On a virtual server such as a Cloud Server, the clock is initially
 synchronized with the Xen hypervisor. This means you must start an
-independent clock for NTP to use. Use this command:
+independent clock for NTP to use. Use this command::
 
-``echo 1 > /proc/sys/xen/independent\_wallclock``
+   echo 1 > /proc/sys/xen/independent\_wallclock 
 
 To make the independent clock persist through restarts, add the
-following to ``*/etc/sysctl.conf*``:
+following to ``*/etc/sysctl.conf*``::
 
-``#Set independent wall clock time``
-
-``xen.independent\_wallclock=1``
+   #Set independent wall clock time
+   xen.independent\_wallclock=1 
 
 In each region, Rackspace maintains internal NTP servers that Cloud
 Servers can synchronize with:

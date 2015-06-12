@@ -3,7 +3,7 @@
 ''''''''''''''''''''''''''''''''''''''''''''''''''''
 Considerations before sharing or using shared images
 ''''''''''''''''''''''''''''''''''''''''''''''''''''
-Although it is easy to share a Cloud Image, it is not always
+Although it is easy to share a cloud image, it is not always
 appropriate. Consider carefully before creating an image-sharing
 relationship.
 
@@ -24,21 +24,21 @@ If you believe an image has been shared to you in error or with
 malicious intent, contact Rackspace at
 `cloudimageshelp@rackspace.com <mailto:cloudimageshelp%40rackspace.com>`__.
 
-Creating Cloud Servers from shared images
+Creating cloud servers from shared images
 -----------------------------------------                                         
-Once an image is shared to a user, they are free to create Cloud Servers
+Once an image is shared to a user, they are free to create servers
 from the shared image; they appear in the user’s image list, just like
-any of their own saved snapshots. After a Cloud Server is created from a
-shared image, any subsequent snapshots that are taken of these new Cloud
-Servers will be available only to that user, not the user that
+any of their own saved snapshots. After a new server is created from a
+shared image, any subsequent snapshots that are taken of these new cloud
+servers will be available only to that user, not the user that
 originally shared the image.
 
-Any Cloud Servers or images created from the shared image will still be
+Any servers or images created from the shared image will still be
 available to the consumer, even if the shared image is revoked.
 
 Image sharing and regions
 -------------------------                         
-Images can only be shared to consumers in the same Rackspace Cloud
+Images can only be shared to consumers in the same Rackspace cloud
 region.
 
 Costs incurred with shared images
@@ -48,10 +48,10 @@ image (the cost to store the image in Cloud Files). Consumers of the
 images do not incur a cost for either the sharing process, or using the
 shared image until they:
 
-* Create a Cloud Server from the shared image, at which point normal
-  Cloud Server pricing applies
+* Create a cloud server from the shared image, at which point normal
+  Cloud Servers pricing applies
 
-* Take an image of a Cloud Server created from the shared image, at
+* Take an image of a server created from the shared image, at
   which point the normal Cloud Files pricing to store the image applies
 
 Exporting shared images

@@ -32,9 +32,9 @@ Contents:
    devopstools
    SDK
    APIdirect
-   setup_API
-   cloudservers_API
-   cloudnetworks_API
-   cloudimages_API
-   cloudblockstorage_API
-   moreinfo_API
+   setup-API
+   cloudservers-API
+   cloudnetworks-API
+   cloudimages-API
+   cloudblockstorage-API
+   moreinfo-API

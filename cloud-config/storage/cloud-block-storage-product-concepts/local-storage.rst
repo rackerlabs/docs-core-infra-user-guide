@@ -107,9 +107,9 @@ Peripheral Component Interconnect (PCI) local bus standard.
 
 OnMetal Cloud Servers offer the benefits of two kinds of configuration:
 
-* the elasticity of cloud computing
+* The elasticity of cloud computing
 
-* the consistent performance of colocated hosting
+* The consistent performance of colocated hosting
 
 When you create a Cloud Server, if you make it an OnMetal Cloud Server,
 you can choose one of three flavor classes designed to support specific

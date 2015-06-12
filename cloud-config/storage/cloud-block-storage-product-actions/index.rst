@@ -19,13 +19,13 @@ Create a volume
 Instructs the Cinder API to provision a volume on a CBS storage node. As
 part of the volume creation call, you can specify
 
-* volume name
+* Volume name
 
-* description
+* Description
 
-* storage type (SATA or SSD)
+* Storage type (SATA or SSD)
 
-* volume size
+* Volume size
 
 Immediately after a volume is created, it cannot have any data written
 to it. To make the volume available for further operations, attach it to
@@ -43,18 +43,18 @@ Cloud Server that resides in the same region as the volume.
 
 Detach a volume from a Cloud Server
 '''''''''''''''''''''''''''''''''''
-Instructs the Nova API to
+Instructs the Nova API to:
 
-* release the iSCSI connection between the CBS storage node and the
+* Release the iSCSI connection between the CBS storage node and the
   Cloud Server hypervisor
 
-* logically remove the volume as a usable disk for the Cloud Server
+* Logically remove the volume as a usable disk for the Cloud Server
 
-The detach call can succeed only if the volume is
+The detach call can succeed only if the volume is:
 
-* unmounted
+* Unmounted
 
-* not in use by the host operating system
+* Not in use by the host operating system
 
 Detaching a volume does not affect data on the volume. User data stored
 on Cloud Block Storage volumes is persistent and remains on the volume

@@ -63,12 +63,12 @@ control throughout.
 
 Image members can have any of the following statuses:
 
-* **accepted**: The consumer accepts the invitation to potentially use
+* **Accepted**: The consumer accepts the invitation to potentially use
   the offered image, and the image appears in the consumer's image
   list. The producer knows that the consumer made an active decision
   about the image.
 
-* **rejected**: The consumer declines the invitation to potentially use
+* **Rejected**: The consumer declines the invitation to potentially use
   the offered image, and the image does not appears in the consumer's
   image list. The producer knows that the consumer made an active
   decision about the image. 
@@ -78,7 +78,7 @@ Image members can have any of the following statuses:
    the consumer can use the image 
    but must know the image ID since the image is not in the image list.
 
-* **pending**: The consumer neither accepts nor declines the invitation
+* **Pending**: The consumer neither accepts nor declines the invitation
   to potentially use the offered image, and may not have even noticed
   the offer. The producer might elect to send a reminder that the image
   is available, but this is outside the scope of the Cloud Images API.

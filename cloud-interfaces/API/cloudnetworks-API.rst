@@ -63,13 +63,13 @@ Using the process suggested at
 :ref:`cloudnetworks_APIinvestigation`, 
 here is an example of how you can plan 
 and then write your own software to perform one simple task: 
-list all your Cloud Networks. 
+list all your cloud networks. 
 
 Learn about Cloud Networks in the Cloud Control Panel  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
-your session begins with information about your Cloud Servers.
+your session begins with information about your servers.
 To see your Cloud Networks information, click ``Networking`` 
 and then click ``Networks``. 
 

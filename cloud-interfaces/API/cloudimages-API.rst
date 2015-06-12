@@ -63,13 +63,13 @@ Using the process suggested at
 :ref:`cloudimages_APIinvestigation`, 
 here is an example of how you can plan 
 and then write your own software to perform one simple task: 
-list all your Cloud Images. 
+list all your cloud images. 
 
 Learn about Cloud Images in the Cloud Control Panel  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
-your session begins with information about your Cloud Servers.
+your session begins with information about your servers.
 To see your Cloud Images information, click ``Servers`` 
 and then click ``Saved Images``. 
 

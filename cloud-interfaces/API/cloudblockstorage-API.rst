@@ -6,7 +6,7 @@ Cloud Block Storage and SDKs and APIs
 When you begin writing your own software
 to interact with Cloud Block Storage, 
 you may benefit from investing some time to learn about 
-how Block Storage works
+how Cloud Block Storage works
 in the Cloud Control Panel 
 and how SDKs and APIs are documented at Rackspace.
 

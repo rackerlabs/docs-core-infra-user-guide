@@ -27,5 +27,5 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   cloud_networks_product_concepts/index
-   cloud_networks_product_actions/index
+   cloud-networks-product-concepts/index
+   cloud-networks-product-actions/index

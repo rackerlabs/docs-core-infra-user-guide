@@ -14,6 +14,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   default_base_images
-   lifecycle_base_images
-   patching_base_images
+   default-base-images
+   lifecycle-base-images
+   patching-base-images

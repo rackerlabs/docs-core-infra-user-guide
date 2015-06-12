@@ -45,7 +45,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   disk_storage
-   local_storage
-   block_storage
-   software_RAID
+   disk-storage
+   local-storage
+   block-storage
+   software-RAID

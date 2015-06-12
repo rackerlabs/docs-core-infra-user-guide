@@ -48,4 +48,4 @@ Contents:
    assumptions 
    moreinfo 
    contactus
-   document_history 
+   document-history 

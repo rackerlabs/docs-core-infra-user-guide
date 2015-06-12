@@ -3,7 +3,7 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Handling host-related issues
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A Cloud Server is a virtual server; it resides on a physical host. The
+A cloud server is a virtual server; it resides on a physical host. The
 physical host is designed with redundancies for power, network, and disk
 to prevent failures to the underlying virtual servers. It may sometimes
 be necessary to restart a physical host for maintenance or other issues.

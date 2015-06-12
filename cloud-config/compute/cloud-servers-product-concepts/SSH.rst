@@ -1,10 +1,10 @@
 .. _SSH:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Managing access with SSH Keys
+Managing access with SSH keys
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 SSH keys allow a user to manage and assign RSA keys for the root user to
-a server at build from the API or the control panel.
+a server at build from the API or the Cloud Control Panel.
 
 Key names are associated with a public and private key pair in the API
 and the control panel. A key pair may be created or an existing public

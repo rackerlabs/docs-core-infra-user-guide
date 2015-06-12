@@ -10,17 +10,17 @@ if you wished to interact by choosing options on a Web page
 or by writing software 
 (:ref:`SDK or API <cloud_interfaces_API>`):
 
-* a Rackspace cloud account
-* credentials enabling access to that account
+* A Rackspace cloud account
+* Credentials enabling access to that account
 
-  * username and password allow you to login to the Cloud Control Panel
-  * after you login, you can obtain your API key 
-    and your tenant ID (also called account number)
+  * Your username and password allow you to login to the Cloud Control Panel.
+  * After you login, you can obtain your API key 
+    and your tenant ID (also called account number).
 
 You also need to know something that you would need to know if working 
 with an API: 
 
-* the endpoint for the cloud service with which you want to interact
+* The endpoint for the cloud service with which you want to interact
 
 .. note::
    :ref:`setup_API` provides more detail about these prerequisites.
@@ -29,18 +29,18 @@ Beyond what you would need to use with the Control Panel or an API,
 you must have two additional tools to enable you to interact with 
 the cloud by typing commands:
 
-* a terminal emulator such as 
+* A terminal emulator such as 
   `iTerm2 <https://www.iterm2.com/>`__ 
   or 
   `PuTTY <http://www.chiark.greenend.org.uk/~sgtatham/putty/>`__ 
 
-* a locally-installed client capable of interacting with 
+* A locally-installed client capable of interacting with 
   the cloud service you have chosen
   
-  * you can use 
+  * You can use 
     `cURL <http://curl.haxx.se/>`__ 
     to send commands to any API endpoint
-  * you can use 
+  * You can use 
     `OpenStack CLIs <http://docs.openstack.org/cli-reference/content/>`__
     to send commands to specific
     cloud services

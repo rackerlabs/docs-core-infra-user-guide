@@ -32,25 +32,25 @@ combined
 
 Some of the most common ways to directly interact with APIs are:
 
-* command line tools, 
+* Command line tools, 
   such as 
   `cURL <http://curl.haxx.se/>`__
 
-* browser extensions, 
+* Browser extensions, 
   such as 
   `Postman for Chrome <https://www.getpostman.com/>`__
 
-* utilities for specific operating systems,  
+* Utilities for specific operating systems,  
   such as those listed in your app store or directory 
   under *REST client*
 
 For each service that offers a public API, 
 Rackspace publishes at least two technical documents:
  
-* `API Developer Guide <http://docs.rackspace.com>`__: 
+* `API developer guide <http://docs.rackspace.com>`__: 
   reference material *describing* API requests and sample responses
    
-* `API Getting Started Guide <http://docs.rackspace.com>`__: 
+* `API getting started guide <http://docs.rackspace.com>`__: 
   tutorial material *demonstrating* simple interactions
   with the API 
   

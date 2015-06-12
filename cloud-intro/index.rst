@@ -15,7 +15,7 @@ Contents:
 .. toctree:: 
    :maxdepth: 6 
  
-   core_infrastructure 
+   core-infrastructure 
    context 
    cloud-tour/index
-   customer_stories
+   customer-stories

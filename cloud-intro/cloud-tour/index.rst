@@ -63,9 +63,9 @@ Contents:
 .. toctree:: 
    :maxdepth: 2 
  
-   compute_services 
-   network_services
-   storage_services
-   data_services
-   application_services
-   support_services
+   compute-services 
+   network-services
+   storage-services
+   data-services
+   application-services
+   support-services

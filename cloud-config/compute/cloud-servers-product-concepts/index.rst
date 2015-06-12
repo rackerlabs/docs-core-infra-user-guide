@@ -13,7 +13,7 @@ different one.
 
 You can create Cloud Servers of two types:
 
-* virtual servers
+* Virtual servers
 
 * OnMetal™ servers
 

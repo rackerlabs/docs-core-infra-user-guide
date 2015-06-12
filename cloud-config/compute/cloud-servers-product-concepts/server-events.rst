@@ -1,9 +1,9 @@
 .. _server_events:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Monitoring events on your Cloud Server
+Monitoring events on your cloud server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Automated monitoring of your Cloud Server configuration and its entire
+Automated monitoring of your cloud server configuration and its entire
 infrastructure stack enables you to know how your system is being used
 and respond to changes quickly and flexibly.
 
@@ -12,10 +12,9 @@ Monitoring operates on two levels:
 * Remote monitoring, managed by Rackspace and based in our global data
   centers
 
-* Agent-based monitoring, available for you to configure on your Cloud
-  Servers
+* Agent-based monitoring, available for you to configure on your cloud
 
-Cloud Monitoring is included at no charge with every cloud account.
+Rackspace Cloud Monitoring is included at no charge with every cloud account.
 
 You can customize your monitoring configuration in several ways:
 
@@ -41,9 +40,9 @@ You can customize your monitoring configuration in several ways:
 Because Rackspace Cloud Monitoring is closely integrated with Rackspace
 Auto Scale, your monitoring configuration can become the basis of your
 autoscaling configuration. Used in combination, Cloud Monitoring can
-report an event (for example, a workload spike on a Cloud Server) and
-Auto Scale can respond to that report (for example, by adding a Cloud
-Server to share the workload within a Cloud Load Balancer group).
+report an event (for example, a workload spike on a server) and
+Auto Scale can respond to that report (for example, by adding a
+server to share the workload within a Cloud Load Balancer group).
 
 You can interact with Cloud Monitoring and Auto Scale using the same
 methods you use to interact with Cloud Servers:

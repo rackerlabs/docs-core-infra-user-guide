@@ -127,12 +127,12 @@ in the group of
 `operations that act upon servers <http://api.rackspace.com/api-ref.html#compute_servers>`__, 
 you can see that:
 
-* sending a ``GET`` to the ``/v2/{tenant_id}/servers`` 
+* Sending a ``GET`` to the ``/v2/{tenant_id}/servers`` 
   URI requests a requests a basic list of information about servers
 
-* sending a ``POST`` to the same URI requests creation of a new server 
+* Sending a ``POST`` to the same URI requests creation of a new server 
 
-* sending a ``GET`` to the same URI and appending ``/detail`` 
+* Sending a ``GET`` to the same URI and appending ``/detail`` 
   requests requests an expanded list of information about servers
 
 .. figure:: /_images/CloudServersListServersGET.png

@@ -91,9 +91,9 @@ specific network.
 If your list of networks is not empty, then for each network 
 you can see 
 
-* its name
-* its IP address in CIDR format
-* the region in which it is located
+* Its name
+* Its IP address in CIDR format
+* The region in which it is located
 
 .. figure:: /_images/CloudNetworksListAll.png
    :scale: 80%
@@ -120,13 +120,13 @@ in the group of
 `operations that act upon networks <http://api.rackspace.com/api-ref-networks.html#network-ops>`__, 
 you can see that:
 
-* sending a ``GET`` to the ``v2.0/networks``  
+* Sending a ``GET`` to the ``v2.0/networks``  
   URI requests a basic list of information about networks
 
-* sending a ``POST`` to the same 
+* Sending a ``POST`` to the same 
   URI requests creation of a new network
 
-* sending a ``GET`` to the same URI and appending a network ID 
+* Sending a ``GET`` to the same URI and appending a network ID 
   requests an expanded list of information about a single network
 
 .. figure:: /_images/CloudNetworksListNetworksGET.png

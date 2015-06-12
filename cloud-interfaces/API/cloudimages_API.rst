@@ -91,10 +91,10 @@ specific image.
 If your list of images is not empty, then for each image 
 you can see 
 
-* its name
-* the server from which it was created
-* its creation date
-* its size
+* Its name
+* The server from which it was created
+* Its creation date
+* Its size
 
 .. figure:: /_images/CloudImagesListAll.png
    :alt: The Cloud Control Panel lists all of your
@@ -120,10 +120,10 @@ in the group of
 `operations that act upon images <http://api.rackspace.com/api-ref-images.html#images>`__, 
 you can see that:
    
-* sending a ``GET`` to the ``images``  
+* Sending a ``GET`` to the ``images``  
   URI requests a basic list of information about public images
 
-* sending a ``GET`` to the same URI and appending an image ID 
+* Sending a ``GET`` to the same URI and appending an image ID 
   requests an expanded list of information about a single image
 
 .. figure:: /_images/CloudImagesListImagesGET.png

@@ -3,9 +3,9 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Synchronizing time with NTP
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-During boot, Linux sets the Cloud Server's system clock to the same time
+During boot, Linux sets the cloud server's system clock to the same time
 as the physical server's hardware clock. After this initial
-synchronization, Linux maintains the Cloud Server's clock separately
+synchronization, Linux maintains the server's clock separately
 from the hardware clock. If the hardware clock is incorrect, then this
 can cause issues with anything that relies on having the correct time.
 
@@ -13,7 +13,7 @@ Network time protocol (NTP) is an open-source Linux package that allows
 a server to synchronize its system clock with a pool of authoritative
 NTP servers. You can see a list of public NTP servers at
 http://www.ntp.org; using NTP, you can synchronize the time on your
-Cloud Server with any of the servers on the list.
+cloud server with any of the servers on the list.
 
 To install NTP, use the package manager appropriate for your Linux
 distribution. When you start NTP, NTP will synchronize the Cloud Server
@@ -33,11 +33,11 @@ following to ``*/etc/sysctl.conf*``::
    #Set independent wall clock time
    xen.independent\_wallclock=1 
 
-In each region, Rackspace maintains internal NTP servers that Cloud
-Servers can synchronize with:
+In each region, Rackspace maintains internal NTP servers that cloud
+servers can synchronize with:
 
 +--------------+----------------------------+-------------------+
-| **Region**   | **Hostname**               | **Timezone**      |
+| **Region**   | **Host name**              | **Time zone**     |
 +==============+============================+===================+
 | DFW          | time.dfw1.rackspace.com    | CST (UTC-06:00)   |
 +--------------+----------------------------+-------------------+

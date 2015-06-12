@@ -15,12 +15,12 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   image_properties
-   data_immutability
-   virtualization_modes
-   base_images/index
-   sharing_images/index
-   import_export_images
-   on-demand_images
-   scheduled_images
-   custom_images
+   image-properties
+   data-immutability
+   virtualization-modes
+   base-images/index
+   sharing-images/index
+   import-export-images
+   on-demand-images
+   scheduled-images
+   custom-images

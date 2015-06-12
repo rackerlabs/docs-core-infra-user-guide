@@ -16,14 +16,14 @@ your Rackspace account.
 The Cloud Control Panel is also where you can complete some important
 first tasks:
 
-* `obtain your API key <http://www.rackspace.com/knowledge_center/article/view-and-reset-your-api-key>`__
+* `Obtain your API key <http://www.rackspace.com/knowledge_center/article/view-and-reset-your-api-key>`__
   for use with 
   :ref:`CLIs <cloud_interfaces_CLI>`, 
   :ref:`SDKs <SDK>`, 
   and 
   :ref:`APIs <APIdirect>`
 
-* `create additional account users <http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac>`__ 
+* `Create additional account users <http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac>`__ 
   and give them 
   `permissions <http://www.rackspace.com/knowledge_center/article/permissions-matrix-for-role-based-access-control-rbac>`__ 
   if needed
@@ -36,7 +36,7 @@ first tasks:
      and elsewhere may show features that are not 
      available to some users.
 
-* view and change resource limits
+* View and change resource limits
 
   .. figure:: /_images/AccountResourceLimits.png
      :scale: 80%

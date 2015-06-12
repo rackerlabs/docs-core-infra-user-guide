@@ -14,9 +14,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   setup_CLI
-   cloudservers_CLI
-   cloudnetworks_CLI
-   cloudimages_CLI
-   cloudblockstorage_CLI
-   moreinfo_CLI
+   setup-CLI
+   cloudservers-CLI
+   cloudnetworks-CLI
+   cloudimages-CLI
+   cloudblockstorage-CLI
+   moreinfo-CLI

@@ -101,11 +101,11 @@ specific volume.
 If your list of volumes is not empty, then for each volume 
 you can see: 
 
-* its ID
-* the name of the server to which it is attached
-* the region in which it is located
-* the type of disk it uses
-* its size
+* Its ID
+* The name of the server to which it is attached
+* The region in which it is located
+* The type of disk it uses
+* Its size
 
 .. figure:: /_images/CloudBlockStorage1volume.png
    :scale: 80%
@@ -132,13 +132,13 @@ in the group of
 `operations that act upon volumes <http://api.rackspace.com/api-ref-blockstorage.html#volumes>`__, 
 you can see that:
 
-* sending a ``POST`` to the ``v1/{tenant_id}/volumes`` 
+* Sending a ``POST`` to the ``v1/{tenant_id}/volumes`` 
   URI requests creation of a new server
 
-* sending a ``GET`` to the same URI  
+* Sending a ``GET`` to the same URI  
   requests a basic list of information about volumes
 
-* sending a ``GET`` to the same URI and appending ``/detail`` 
+* Sending a ``GET`` to the same URI and appending ``/detail`` 
   requests an expanded list of information about volumes
 
 .. figure:: /_images/CloudBlockStorageListVolumesGET.png

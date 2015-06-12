@@ -80,5 +80,5 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   choose_flavor_class
-   check_region_flavor_class
+   choose-flavor-class
+   check-region-flavor-class

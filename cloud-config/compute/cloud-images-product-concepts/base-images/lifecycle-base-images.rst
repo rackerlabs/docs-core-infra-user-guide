@@ -1,8 +1,8 @@
 .. lifecycle_base_images:
 
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 Base images life cycle
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 To provide the best experience for our customers, we carefully maintain
 the list of images displayed when building a new cloud server. This
 means that older versions of an operating system may sometimes be

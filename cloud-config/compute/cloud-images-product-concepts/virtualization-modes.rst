@@ -4,7 +4,7 @@
 Virtualization modes: PV and PVHVM
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can choose between two virtualization modes to be used by the
-hypervisor that runs your Cloud Server:
+hypervisor that runs your cloud server:
 
 * Paravirtualized (PV), in which the guest operating system is aware of
   the virtual environment
@@ -16,7 +16,7 @@ hypervisor that runs your Cloud Server:
 In general, PVHVM offers better performance than PV, especially for disk
 and network IO, but is not well supported in Linux operating systems
 with a kernel version earlier than 2.6.36. The availability of PV and
-PVHVM images in the Rackspace Cloud is determined by the effectiveness
+PVHVM images in the Rackspace cloud is determined by the effectiveness
 of each virtualization mode for that particular operating system.
 
 If both PV and PVHVM options are available for the operating system that

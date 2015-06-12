@@ -33,6 +33,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   cloud_block_storage_product_concepts/index
-   cloud_block_storage_product_actions/index
+   cloud-block-storage-product-concepts/index
+   cloud-block-storage-product-actions/index
 

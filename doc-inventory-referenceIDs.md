@@ -69,7 +69,7 @@ base_images                            = /cloud-config/compute/cloud-images-prod
 
 bestpractice                           = /cloud-ops/bestpractice.rst
 
-block_storage                          = /cloud-config/storage/cloud_block_storage_product_actions/block_storage.rst
+block_storage                          = /cloud-config/storage/cloud-block-storageproduct_actions/block_storage.rst
 
 boot                                   = /cloud-config/compute/cloud-servers-product-concepts/boot/index.rst
 
@@ -89,7 +89,7 @@ cloud-config_network                   = /cloud-config/network/index.rst
 
 cloud-config_storage                   = /cloud-config/storage/index.rst
 
-cloud_block_storage_product_concepts   = /cloud-config/storage/cloud_block_storage_product_concepts/index.rst
+cloud_block_storage_product_concepts   = /cloud-config/storage/cloud-block-storageproduct_concepts/index.rst
 
 cloud-guide-intro                      = /cloud-guide-intro/index.rst
 
@@ -193,7 +193,7 @@ default_base_images                    = /cloud-config/compute/cloud-images-prod
 
 devopstools                            = /cloud-interfaces/API/devopstools.rst
 
-disk_storage                           = /cloud-config/storage/cloud_block_storage_product_concepts/disk_storage.rst
+disk_storage                           = /cloud-config/storage/cloud-block-storageproduct_concepts/disk_storage.rst
 
 diskconfig                             = /cloud-config/compute/cloud-servers-product-concepts/diskconfig.rst
 
@@ -215,7 +215,7 @@ lifecycle_base_images                  = /cloud-config/compute/cloud-images-prod
 
 limits                                 = /cloud-ops/limits.rst
 
-local_storage                          = /cloud-config/storage/cloud_block_storage_product_concepts/local_storage.rst
+local_storage                          = /cloud-config/storage/cloud-block-storageproduct_concepts/local_storage.rst
 
 monitoring                             = /cloud-preprod/monitoring.rst
 
@@ -272,7 +272,7 @@ setup_GUI                              = /cloud-interfaces/GUI/setup_GUI.rst
 
 show_metadata                          = /cloud-config/compute/cloud-servers-product-concepts/metadata/show_metadata.rst
 
-software_RAID                          = /cloud-config/storage/cloud_block_storage_product_concepts/software_RAID.rst
+software_RAID                          = /cloud-config/storage/cloud-block-storageproduct_concepts/software_RAID.rst
 
 somethingnew                           = /cloud-ops/somethingnew.rst
 

@@ -3,8 +3,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Setting and updating metadata
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-To set or change metadata on a Cloud Server, use the ``nova meta`` command
-with the action ``set``, and provide the Cloud Server ID and key/value
+To set or change metadata on a cloud server, use the ``nova meta`` command
+with the action ``set``, and provide the cloud server ID and key/value
 pair you want to set or update::
 
     $ nova meta 191ecc6d-a4aa-4cdd-979f-536c55857c90 set useful-key=useful-value

@@ -3,7 +3,7 @@
 -----------------------------------
 Controlling Cloud Server initiation
 -----------------------------------
-You can configure your Cloud Server so that, 
+You can configure your cloud server so that, 
 when it is started or restarted, it 
 initiates operation in any of several ways.
 

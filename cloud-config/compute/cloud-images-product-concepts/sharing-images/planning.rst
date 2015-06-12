@@ -48,10 +48,10 @@ image (the cost to store the image in Cloud Files). Consumers of the
 images do not incur a cost for either the sharing process, or using the
 shared image until they:
 
-* create a Cloud Server from the shared image, at which point normal
+* Create a Cloud Server from the shared image, at which point normal
   Cloud Server pricing applies
 
-* take an image of a Cloud Server created from the shared image, at
+* Take an image of a Cloud Server created from the shared image, at
   which point the normal Cloud Files pricing to store the image applies
 
 Exporting shared images

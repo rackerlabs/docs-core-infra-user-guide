@@ -90,13 +90,13 @@ Using the process suggested at
 :ref:`cloudservers_APIinvestigation`, 
 here is an example of how you can plan 
 and then write your own software to perform one simple task: 
-list all your Cloud Servers. 
+list all your cloud servers. 
 
 Learn about Cloud Servers in the Cloud Control Panel  
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
-your session begins with a list of all your Cloud Servers. 
+your session begins with a list of all your servers. 
 By default, the list is unfiltered, 
 showing every server; 
 you can narrow the list by clicking on filters 
@@ -158,7 +158,7 @@ correspond to the filters available on the Cloud Control Panel.
 In the 
 `Getting Started Guide for the Cloud Servers API <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/>`__, 
 you can follow a 12-step tutorial to perform an essential task: 
-create a Cloud Server. 
+create a cloud server. 
 In the Getting Started Guide, 
 the 
 `tutorial <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__

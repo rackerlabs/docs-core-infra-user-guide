@@ -54,11 +54,11 @@ A set of image properties is maintained by Cloud Images itself. Users
 (and in some cases, even system administrators) cannot modify these
 properties. Among these properties are:
 
-* ``checksum``: the MD5 sum of the image data file
+* ``checksum``: The MD5 sum of the image data file
 
-* ``status``: the current state of the image. An image must be in
+* ``status``: The current state of the image. An image must be in
   ``active`` status to be used to boot a server.
 
-* ``owner``: indicates who owns the image
+* ``owner``: Indicates who owns the image
 
-* ``id``: a universally unique identifier (UUID) assigned to this image
+* ``id``: A universally unique identifier (UUID) assigned to this image

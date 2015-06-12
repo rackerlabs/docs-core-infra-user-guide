@@ -34,14 +34,14 @@ significant. In these cases, an **I/O** flavor might be a good choice.
 
 OnMetal servers
 '''''''''''''''
-**OnMetal**\ ™ flavors are ideal for a rapidly growing internet company.
+**OnMetal**\ ™ flavors are ideal for a rapidly growing Internet company.
 OnMetal Cloud Servers are highly optimized for the following workloads:
 
-* **OnMetal Compute**: high traffic web servers, application servers,
+* **OnMetal Compute**: High traffic web servers, application servers,
   load balancers, queue processing
 
-* **OnMetal Memory**: large scale caches, index searches, in-memory
+* **OnMetal Memory**: Large scale caches, index searches, in-memory
   analytics
 
-* **OnMetal I/O**: large relational databases and noSQL data stores,
+* **OnMetal I/O**: Large relational databases and noSQL data stores,
   Online Transaction Processing (OLTP) applications

@@ -1,16 +1,16 @@
 .. _create_server:
 
 ---------------------------------------------
-Using flavors to configure a new Cloud Server
+Using flavors to configure a new cloud server
 ---------------------------------------------
-When you create a Cloud Server, you choose its basic configuration by
+When you create a cloud server, you choose its basic configuration by
 selecting from the available *flavors*; similar flavors are grouped as
 *flavor classes*.
 
 A flavor is the definition of the characteristics and resources that are
 assigned to a Cloud Server when it is created.
 
-For example, you can create a 1GB Cloud Server by selecting the
+For example, you can create a 1 GB server by selecting the
 **General Purpose** flavor class and the **1 GB General Purpose v1**
 flavor. By making one choice of a flavor, you create a server with the
 following characteristics:
@@ -42,7 +42,7 @@ Flavor memory
 ``memory`` is the amount of RAM, available to this flavor, 
 specified in megabytes. 
      
-For example, 1GB of available RAM.
+For example, 1 GB of available RAM.
 
 +++++++++++++++++++++++++
 Flavor disk / system disk
@@ -55,7 +55,7 @@ much like the first physical hard drive
 plugged into a physical computer. 
      
 For example, a ``general1-1`` server 
-has a 20GB system disk.
+has a 20 GB system disk.
 
 +++++++++++++++++++++
 Ephemeral / data disk
@@ -125,6 +125,6 @@ see
 Maximum outbound public bandwidth is limited to 40% 
 of the aggregate, while inbound traffic is not limited. 
 In the case of the ``general1-1`` flavor, 
-aggregate bandwidth of 200Mb/s 
+aggregate bandwidth of 200 Mb/s 
 (Megabits per second) means that you can 
-generate 80Mb/s of outbound traffic.
+generate 80 Mb/s of outbound traffic.

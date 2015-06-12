@@ -77,9 +77,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   setup_GUI
-   cloudservers_GUI
-   cloudnetworks_GUI
-   cloudimages_GUI
-   cloudblockstorage_GUI
-   moreinfo_GUI
+   setup-GUI
+   cloudservers-GUI
+   cloudnetworks-GUI
+   cloudimages-GUI
+   cloudblockstorage-GUI
+   moreinfo-GUI

@@ -1,13 +1,13 @@
 .. _base_images:
 
 ---------------------------------------
-Creating Cloud Servers from base images
+Creating cloud servers from base images
 ---------------------------------------
-You can create a Cloud Server from a Cloud Image that you created,
-or you can create it from a Cloud Image that Rackspace created. 
+You can create a cloud server from a cloud image that you created,
+or you can create it from an image that Rackspace created. 
 
-We maintain the Cloud Images that we create; 
-you are responsible for maintaining the Cloud Images that you create.
+We maintain the images that we create; 
+you are responsible for maintaining the images that you create.
 
 Contents:
 

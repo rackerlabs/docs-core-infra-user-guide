@@ -47,9 +47,9 @@ Rackspace publishes detailed instructions about novaclient,
 including how to install the client
 on most popular operating systems:
 
-* in the Cloud Servers API documentation at 
+* In the Cloud Servers API documentation at 
   `Install the nova Client with the Cloud Networks Extension <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/section_gs_install_nova.html>`__
-* in the Knowledge Center at 
+* In the Knowledge Center at 
   `Using python-novaclient with the Rackspace Cloud <http://www.rackspace.com/knowledge_center/article/using-python-novaclient-with-the-rackspace-cloud>`__
 
 After you have novaclient installed, you will need to set up your

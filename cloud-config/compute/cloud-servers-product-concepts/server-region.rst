@@ -1,23 +1,23 @@
 .. _server _region:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Creating a Cloud Server in a region
+Creating a cloud server in a region
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-When you plan to build a Cloud Server, you may be interested in the
+When you plan to build a cloud server, you may be interested in the
 geographical region of its physical host. Choosing the right region can
 optimize network delivery speed for local users. For example, if you
 expect most of the Cloud Server's workload to originate in Australia,
-you may prefer it to be hosted in our SYD region rather than in our DFW
-region.
+you may prefer it to be hosted in our SYD (Sydney) region rather than 
+in our DFW (Dallas-Fort Worth) region.
 
 Beyond a general preference for a region, though, working in the cloud
 means that you need not be concerned with selecting among the hundreds
 or thousands of physical servers available in that region.
 
-When you request creation of a new Cloud Server, your request describes
-the initial resources you want to make available to that Cloud Server.
+When you request the creation of a new cloud server, your request describes
+the initial resources you want to make available to that server.
 We use that description to choose an appropriate physical host for your
-Cloud Server.
+cloud server.
 
 * If you use the Cloud Control Panel to create your new Cloud Server,
   you describe your requirements by choosing a region, an image, and a
@@ -34,7 +34,7 @@ resources described in the request determine the placement of your Cloud
 Server on a physical host capable of providing those resources. For
 example, the three figures below demonstrate using the Cloud Control
 Panel to describe the resources needed for a 1 GB standard instance of a
-cloud server in the standard flavor class, running Ubuntu in the DFW
+cloud server in the Standard flavor class, running Ubuntu in the DFW
 region.
 
 ***Step 1: Server Details***
@@ -85,9 +85,9 @@ compares two sources of information:
 Nova-scheduler then places your server on a physical host capable of
 providing the resources you described.
 
-By default, nova-scheduler does not place multiple Cloud Servers
+By default, nova-scheduler does not place multiple cloud servers
 belonging to the same account on the same physical host. However, it is
-possible to override this default in some circumstances. Every Cloud
-Server has a *Host ID*, identifying its physical host; by examining the
+possible to override this default in some circumstances. Every
+server has a *Host ID*, identifying its physical host; by examining the
 *Host ID* for each Cloud Server, you can determine whether any of your
 Cloud Servers have been placed on the same physical host.

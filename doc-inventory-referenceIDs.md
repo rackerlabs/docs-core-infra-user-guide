@@ -65,7 +65,7 @@ assumptions                            = /cloud-guide-intro/assumptions.rst
 
 backups                                = /cloud-preprod/backups.rst
 
-base_images                            = /cloud-config/compute/cloud-images-product-concepts/base-images/index.rst
+base-images                            = /cloud-config/compute/cloud-images-product-concepts/base-images/index.rst
 
 bestpractice                           = /cloud-ops/bestpractice.rst
 
@@ -189,7 +189,7 @@ customer_stories                       = /cloud-intro/customer-stories.rst
 
 data_immutability                      = /cloud-config/compute/cloud-images-product-concepts/data-immutability.rst
 
-default_base_images                    = /cloud-config/compute/cloud-images-product-concepts/base-images/default-base-images.rst
+default-base-images                    = /cloud-config/compute/cloud-images-product-concepts/base-images/default-base-images.rst
 
 devopstools                            = /cloud-interfaces/API/devopstools.rst
 
@@ -211,7 +211,7 @@ import_export_images                   = /cloud-config/compute/cloud-images-prod
 
 index                                  = index.rst (**home page for the site**)
 
-lifecycle_base_images                  = /cloud-config/compute/cloud-images-product-concepts/base_images/lifecycle-base-images.rst
+lifecycle-base-images                  = /cloud-config/compute/cloud-images-product-concepts/base-images/lifecycle-base-images.rst
 
 limits                                 = /cloud-ops/limits.rst
 
@@ -242,7 +242,7 @@ nova-agent                             = /cloud-config/compute/cloud-servers-pro
 
 on-demand_images                       = /cloud-config/compute/cloud-images-product-concepts/on-demand-images.rst
 
-patching_base_images                   = /cloud-config/compute/cloud-images-product-concepts/base-images/patching-base-images.rst
+patching-base-images                   = /cloud-config/compute/cloud-images-product-concepts/base-images/patching-base-images.rst
 
 personality_boot                       = /cloud-config/compute/cloud-servers-product-concepts/boot/personality-boot.rst
 

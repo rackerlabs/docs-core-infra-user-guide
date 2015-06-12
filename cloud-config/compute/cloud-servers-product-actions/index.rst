@@ -4,7 +4,7 @@
 Actions for Cloud Servers
 =========================
 The following actions can be performed against an active, running server in the
-Control Panel and the API.
+Cloud Control Panel and the API.
 
 .. NOTE:: 
    Depending on your user's specific permissions, you may be unable to access
@@ -84,7 +84,7 @@ the primary method of access.
 
 Rename
 ------
-This action changes the label for how a server is named in the Control Panel and
+This action changes the label for how a server is named in the Cloud Control Panel and
 via the API. This does not actually change the hostname on the server itself.
 
 Delete

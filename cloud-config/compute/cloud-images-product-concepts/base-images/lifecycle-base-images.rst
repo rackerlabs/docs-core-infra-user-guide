@@ -1,7 +1,7 @@
 .. lifecycle_base_images:
 
 ^^^^^^^^^^^^^^^^^^^^^
-Base images lifecycle
+Base images life cycle
 ^^^^^^^^^^^^^^^^^^^^^
 To provide the best experience for our customers, we carefully maintain
 the list of images displayed when building a new cloud server. This

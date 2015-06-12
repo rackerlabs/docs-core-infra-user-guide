@@ -3,12 +3,12 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Understanding Cloud Servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Create one or many Cloud Servers to give yourself computing power in the
-Rackspace managed cloud.
+Create one or many cloud servers to give yourself computing power in the
+Rackspace Managed Cloud.
 
-If you create a Cloud Server and decide that it doesn't meet your needs
+If you create a server and decide that it doesn't meet your needs
 (for example, if an application you want to install is not compatible
-with the operating system), simply delete that Cloud Server and create a
+with the operating system), simply delete that server and create a
 different one.
 
 You can create Cloud Servers of two types:

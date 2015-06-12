@@ -69,7 +69,7 @@ base-images                            = /cloud-config/compute/cloud-images-prod
 
 bestpractice                           = /cloud-ops/bestpractice.rst
 
-block_storage                          = /cloud-config/storage/cloud-block-storageproduct_actions/block-storage.rst
+block-storage                          = /cloud-config/storage/cloud-block-storage-product-actions/block-storage.rst
 
 boot                                   = /cloud-config/compute/cloud-servers-product-concepts/boot/index.rst
 
@@ -89,7 +89,9 @@ cloud-config_network                   = /cloud-config/network/index.rst
 
 cloud-config_storage                   = /cloud-config/storage/index.rst
 
-cloud_block_storage_product_concepts   = /cloud-config/storage/cloud-block-storage-product-concepts/index.rst
+cloud-block-storage-product-actions    = /cloud-config/storage/cloud-block-storage-product-actions/index.rst
+
+cloud-block-storage-product-concepts   = /cloud-config/storage/cloud-block-storage-product-concepts/index.rst
 
 cloud-guide-intro                      = /cloud-guide-intro/index.rst
 

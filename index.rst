@@ -46,8 +46,8 @@ at the heart of the Rackspace cloud:
 | cloud server creation.*                      |                                               |
 |                                              |                                               |
 +----------------------------------------------+-----------------------------------------------+
-| **Cloud Block Storage**                      | * :ref:`cloud_block_storage_product_concepts` |
-|                                              | * :ref:`cloud_block_storage_product_actions`  |
+| **Cloud Block Storage**                      | * :ref:`cloud-block-storage-product-concepts` |
+|                                              | * :ref:`cloud-block-storage-product-actions`  |
 | .. image::                                   | * :ref:`cloudblockstorage_GUI`                |
 |    /_images/logo-cloudblockstorage-50x50.png | * :ref:`cloudblockstorage_CLI`                |
 |   :alt: Cloud Block Storage adds             | * :ref:`cloudblockstorage_API`                |

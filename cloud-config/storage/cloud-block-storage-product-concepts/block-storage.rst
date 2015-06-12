@@ -1,4 +1,4 @@
-.. _block_storage:
+.. _block-storage:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Block storage for Cloud Servers

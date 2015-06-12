@@ -1,4 +1,4 @@
-.. _cloud_block_storage_product_actions:
+.. _cloud-block-storage-product-actions:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Actions for Cloud Block Storage

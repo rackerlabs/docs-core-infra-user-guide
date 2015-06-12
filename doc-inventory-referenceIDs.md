@@ -117,15 +117,15 @@ cloud-interfaces_GUI                   = /cloud-interfaces/GUI/index.rst
 
 cloud-intro                            = /cloud-intro/index.rst
 
-cloud_networks_DNS                     = /cloud-config/network/cloud_networks_product_concepts/DNS.rst
+cloud_networks_DNS                     = /cloud-config/network/cloud-networks-product-concepts/DNS.rst
 
-cloud_networks_product_actions         = /cloud-config/network/cloud_networks_product_actions/index.rst
+cloud_networks_product_actions         = /cloud-config/network/cloud-networks-product-actions/index.rst
 
-cloud_networks_product_concepts        = /cloud-config/network/cloud_networks_product_concepts/index.rst
+cloud_networks_product_concepts        = /cloud-config/network/cloud-networks-product-concepts/index.rst
 
-cloudnetworks-benefits                 = /cloud-config/network/cloud_networks_product_concepts/cloudnetworks-benefits.rst
+cloudnetworks-benefits                 = /cloud-config/network/cloud-networks-product-concepts/cloudnetworks-benefits.rst
 
-cloudnetworks-usecases                 = /cloud-config/network/cloud_networks_product_concepts/cloudnetworks-usecases.rst
+cloudnetworks-usecases                 = /cloud-config/network/cloud-networks-product-concepts/cloudnetworks-usecases.rst
 
 cloud-ops                              = /cloud-ops/index.rst
 
@@ -227,12 +227,12 @@ moreinfo_CLI                           = /cloud-interfaces/CLI/moreinfo_CLI.rst
 
 moreinfo_GUI                           = /cloud-interfaces/GUI/moreinfo_GUI.rst
 
-network_cloud_servers                  = /cloud-config/network/cloud_networks_product_concepts/network_cloud_servers.rst
-network_cloud_servers-working          = /cloud-config/network/cloud_networks_product_concepts/network_cloud_servers.rst
+network_cloud_servers                  = /cloud-config/network/cloud-networks-product-concepts/network_cloud_servers.rst
+network_cloud_servers-working          = /cloud-config/network/cloud-networks-product-concepts/network_cloud_servers.rst
 
-network_onmetal_servers                = /cloud-config/network/cloud_networks_product_concepts/network_onmetal_servers.rst
+network_onmetal_servers                = /cloud-config/network/cloud-networks-product-concepts/network_onmetal_servers.rst
 
-network_rackconnect                    = /cloud-config/network/cloud_networks_product_concepts/network_rackconnect.rst
+network_rackconnect                    = /cloud-config/network/cloud-networks-product-concepts/network_rackconnect.rst
 
 neutron                                = /cloud-interfaces/CLI/neutron.rst
 
@@ -246,7 +246,7 @@ patching_base_images                   = /cloud-config/compute/cloud-images-prod
 
 personality_boot                       = /cloud-config/compute/cloud-servers-product-concepts/boot/personality_boot.rst
 
-publicnet                              = /cloud-config/network/cloud_networks_product_concepts/publicnet.rst
+publicnet                              = /cloud-config/network/cloud-networks-product-concepts/publicnet.rst
 
 scaling                                = /cloud-preprod/scaling.rst
 
@@ -260,7 +260,7 @@ server_events                          = /cloud-config/compute/cloud-servers-pro
 
 server_region                          = /cloud-config/compute/cloud-servers-product-concepts/server_region.rst
 
-servicenet                             = /cloud-config/network/cloud_networks_product_concepts/servicenet.rst
+servicenet                             = /cloud-config/network/cloud-networks-product-concepts/servicenet.rst
 
 set_metadata                           = /cloud-config/compute/cloud-servers-product-concepts/metadata/set_metadata.rst
 

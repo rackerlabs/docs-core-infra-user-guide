@@ -3,11 +3,11 @@
 ^^^^^^^^^^^^^^
 Sharing images
 ^^^^^^^^^^^^^^
-Cloud Images can be created as snapshots of a Cloud Server. They can
+Cloud images can be created as snapshots of a cloud server. They can
 also be imported using the Cloud Images Import feature.
 
-No matter how you create a Cloud Image, you can share it from one
-Rackspace Cloud account to another, on an on-demand basis. This can be
+No matter how you create an image, you can share it from one
+Rackspace cloud account to another, on an on-demand basis. This can be
 useful for many scenarios:
 
 * Share an image of a new server you have created or customized to a
@@ -28,7 +28,7 @@ or more image members.
 
 Exporting shared images
 -----------------------
-If a consumer has created a Cloud Server image/snapshot from a shared
+If a consumer has created a cloud server image/snapshot from a shared
 image, they should consider the following concerns if they choose to
 export that image:
 
@@ -44,7 +44,7 @@ Preparing to share an image
 Before you can share an image to one (or more) users, you will need to
 complete some preparatory steps:
 
-1. Create a snapshot of a Cloud Server, or import an image that you will
+1. Create a snapshot of a cloud server, or import an image that you will
    be sharing.
 
 2. Obtain the UUID (also known as *image ID*) of the image that you will
@@ -53,7 +53,7 @@ complete some preparatory steps:
 
 3. Gather the tenant ID(s) (also known as *DDI* or *customer number*) of
    the consumer(s) to whom you will be sharing. This is a numeric ID
-   that the consumer can find in their Control Panel or using their API.
+   that the consumer can find in their Cloud Control Panel or using their API.
    
    .. NOTE::
       The target consumer must provide their tenant ID to you; 

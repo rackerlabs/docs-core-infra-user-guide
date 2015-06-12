@@ -1,10 +1,10 @@
 .. _cloud_images_sharing_models:
 
 ------------------------------
-Models of sharing Cloud Images
+Models of sharing images
 ------------------------------
-When you share a Cloud Image, 
-you create direct, unique relationship with each
+When you share an image, 
+you create a direct, unique relationship with each
 consumer of the image.
 The relationship between the producer of an image 
 and each consumer of the image 
@@ -33,7 +33,7 @@ Because every sharing relationship is independent:
 
 * The image is available only to the specific consumer to whom you
   have shared it. It is not one-to-many sharing, where you are able to
-  share an image to *all* other Cloud users.
+  share an image to *all* other cloud users.
 
 Handshaking
 '''''''''''

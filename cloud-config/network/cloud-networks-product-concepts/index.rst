@@ -20,9 +20,9 @@ Contents:
 
    cloudnetworks-usecases
    cloudnetworks-benefits
-   network_cloud_servers
-   network_onmetal_servers
-   network_rackconnect
+   network-cloud-servers
+   network-onmetal-servers
+   network-rackconnect
    publicnet
    servicenet
    DNS

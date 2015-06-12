@@ -6,10 +6,10 @@ Virtualization modes: PV and PVHVM
 You can choose between two virtualization modes to be used by the
 hypervisor that runs your Cloud Server:
 
-* paravirtualized (PV), in which the guest operating system is aware of
+* Paravirtualized (PV), in which the guest operating system is aware of
   the virtual environment
 
-* hardware virtualized with paravirtualized drivers (PVHVM), in which
+* Hardware virtualized with paravirtualized drivers (PVHVM), in which
   the guest operating system includes paravirtualized drivers and works
   with hardware virtualization
 

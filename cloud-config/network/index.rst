@@ -1,4 +1,4 @@
-.. _cloud_config_network:
+.. _cloud-config-network:
 
 ===========================================
 Core infrastructure in the Network category

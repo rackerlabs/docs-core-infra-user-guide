@@ -1,4 +1,4 @@
-.. _cloud_images_sharing:
+.. _cloud-images-sharing:
 
 ^^^^^^^^^^^^^^
 Sharing images

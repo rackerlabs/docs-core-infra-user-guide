@@ -1,4 +1,4 @@
-.. _cloud_images_sharing_models:
+.. _cloud-images-sharing-models:
 
 ------------------------------
 Models of sharing images

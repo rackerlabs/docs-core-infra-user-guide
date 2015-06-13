@@ -1,4 +1,4 @@
-.. _cloud_config_compute:
+.. _cloud-config-compute:
 
 ===========================================
 Core infrastructure in the Compute category

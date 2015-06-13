@@ -1,4 +1,4 @@
-.. _cloud_block_storage_product_concepts:
+.. _cloud-block-storage-product-concepts:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Understanding Cloud Block Storage

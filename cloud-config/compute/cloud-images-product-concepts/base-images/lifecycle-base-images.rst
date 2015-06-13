@@ -1,4 +1,4 @@
-.. lifecycle_base_images:
+.. _lifecycle-base-images:
 
 ^^^^^^^^^^^^^^^^^^^^^^
 Base images life cycle

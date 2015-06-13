@@ -1,4 +1,4 @@
-.. _base_images:
+.. _base-images:
 
 ---------------------------------------
 Creating cloud servers from base images

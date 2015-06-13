@@ -180,7 +180,7 @@ Backup method: Cloud Block Storage
 You can use Cloud Block Storage to create and manage disk images that
 are portable among your Cloud Servers. Cloud Block storage is part of
 our core infrastructure; learn more about it at 
-:ref:`cloud_block_storage_product_concepts`. 
+:ref:`cloud-block-storage-product-concepts`. 
 
 Backup methods: custom
 ''''''''''''''''''''''

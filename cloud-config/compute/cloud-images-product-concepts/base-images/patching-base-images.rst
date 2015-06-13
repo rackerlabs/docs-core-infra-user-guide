@@ -1,4 +1,4 @@
-.. patching_base_images:
+.. _patching-base-images:
 
 ^^^^^^^^^^^^^^^^^^^^
 Patching base images

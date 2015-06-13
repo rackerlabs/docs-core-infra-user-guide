@@ -1,4 +1,4 @@
-.. _check_region_flavor_class:
+.. _check-region-flavor-class:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Checking for regional availability of flavor classes

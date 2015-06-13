@@ -1,4 +1,4 @@
-.. default_base_images:
+.. _default-base-images:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Default base image configurations

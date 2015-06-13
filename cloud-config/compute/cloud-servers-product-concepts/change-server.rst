@@ -1,4 +1,4 @@
-.. _change_server:
+.. _change-server:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changing the characteristics of a Cloud Server

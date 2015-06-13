@@ -1,4 +1,4 @@
-.. _cloud_config_storage:
+.. _cloud-config-storage:
 
 ===========================================
 Core infrastructure in the Storage category

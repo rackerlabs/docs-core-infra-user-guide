@@ -73,21 +73,21 @@ block-storage                          = /cloud-config/storage/cloud-block-stora
 
 boot                                   = /cloud-config/compute/cloud-servers-product-concepts/boot/index.rst
 
-change_server                          = /cloud-config/compute/cloud-servers-product-concepts/change-server.rst
+change-server                          = /cloud-config/compute/cloud-servers-product-concepts/change-server.rst
 
-check_region_flavor_class              = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/check-region-flavor-class.rst
+check-region-flavor-class              = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/check-region-flavor-class.rst
 
-choose_flavor_class                    = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/choose-flavor-class.rst
+choose-flavor-class                    = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/choose-flavor-class.rst
 
 cinder                                 = /cloud-interfaces/CLI/cinder.rst
 
 cloud-config                           = /cloud-config/index.rst
 
-cloud-config_compute                   = /cloud-config/compute/index.rst
+cloud-config-compute                   = /cloud-config/compute/index.rst
 
-cloud-config_network                   = /cloud-config/network/index.rst
+cloud-config-network                   = /cloud-config/network/index.rst
 
-cloud-config_storage                   = /cloud-config/storage/index.rst
+cloud-config-storage                   = /cloud-config/storage/index.rst
 
 cloud-block-storage-product-actions    = /cloud-config/storage/cloud-block-storage-product-actions/index.rst
 

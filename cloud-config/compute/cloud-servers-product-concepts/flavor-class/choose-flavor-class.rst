@@ -1,4 +1,4 @@
-.. _choose_flavor_class:
+.. _choose-flavor-class:
 
 ^^^^^^^^^^^^^^^^^^^^^^^
 Choosing a flavor class

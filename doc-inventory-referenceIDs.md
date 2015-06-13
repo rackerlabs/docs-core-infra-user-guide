@@ -99,15 +99,15 @@ cloud-images-product-actions           = /cloud-config/compute/cloud-images-prod
  
 cloud-images-product-concepts          = /cloud-config/compute/cloud-images-product-concepts/index.rst
 
-cloud_images_sharing                   = /cloud-config/compute/cloud-images-product-concepts/sharing-images/index.rst
+cloud-images-sharing                   = /cloud-config/compute/cloud-images-product-concepts/sharing-images/index.rst
 
 cloud-images-sharing-planning          = /cloud-config/compute/cloud-images-product-concepts/sharing-images/planning.rst
 
 cloud-images-sharing-support           = /cloud-config/compute/cloud-images-product-concepts/sharing-images/support.rst
 
-cloud_images_sharing_models            = /cloud-config/compute/cloud-images-product-concepts/sharing-images/models.rst
+cloud_images-sharing-models            = /cloud-config/compute/cloud-images-product-concepts/sharing-images/models.rst
 
-cloud-init_boot                        = /cloud-config/compute/cloud-servers-product-concepts/boot/cloud-init_boot.rst
+cloud-init-boot                        = /cloud-config/compute/cloud-servers-product-concepts/boot/cloud-init_boot.rst
 
 cloud-interfaces                       = /cloud-interfaces/index.rst
 
@@ -201,7 +201,7 @@ diskconfig                             = /cloud-config/compute/cloud-servers-pro
 
 document_history                       = /cloud-guide-intro/document-history.rst
 
-drive_boot                             = /cloud-config/compute/cloud-servers-product-concepts/boot/drive-boot.rst
+drive-boot                             = /cloud-config/compute/cloud-servers-product-concepts/boot/drive-boot.rst
 
 glance                                 = /cloud-interfaces/CLI/glance.rst
 
@@ -246,7 +246,7 @@ on-demand_images                       = /cloud-config/compute/cloud-images-prod
 
 patching-base-images                   = /cloud-config/compute/cloud-images-product-concepts/base-images/patching-base-images.rst
 
-personality_boot                       = /cloud-config/compute/cloud-servers-product-concepts/boot/personality-boot.rst
+personality-boot                       = /cloud-config/compute/cloud-servers-product-concepts/boot/personality-boot.rst
 
 publicnet                              = /cloud-config/network/cloud-networks-product-concepts/publicnet.rst
 

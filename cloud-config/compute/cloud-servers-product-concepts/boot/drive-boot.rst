@@ -1,4 +1,4 @@
-.. drive_boot:
+.. drive-boot:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Controlling boot behavior with a config drive

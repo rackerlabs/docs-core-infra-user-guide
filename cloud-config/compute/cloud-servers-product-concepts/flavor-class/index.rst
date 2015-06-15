@@ -28,7 +28,6 @@ memory, general purpose, or standard resources:
 * **I/O** is optimized for applications demanding high disk I/O and
   consistent performance, such as large relational databases and
   NoSQL data stores. Storage is RAID 10-protected SSD.
-  *Replaces Performance 2*.
 
 * **Memory** is optimized for applications demanding low-latency access
   to large amounts of RAM, like caching servers, in-memory analytics
@@ -39,7 +38,6 @@ memory, general purpose, or standard resources:
   network appliances, small databases, and most general purpose
   computing workloads. Storage is high-performance, RAID 10-protected
   SSD.
-  *Replaces Performance 1*.
 
 * **Standard** scales resources like CPU, memory, and storage depending
   on your needs. All storage is located on RAID 10-protected SATA hard

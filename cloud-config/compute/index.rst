@@ -21,9 +21,9 @@ workload.
 * To learn how to perform Cloud Servers actions using your choice of interface, 
   begin at 
 
-  * :ref:`cloudservers_GUI`
-  * :ref:`cloudservers_CLI`
-  * :ref:`cloudservers_API`
+  * :ref:`cloudservers-GUI`
+  * :ref:`cloudservers-CLI`
+  * :ref:`cloudservers-API`
 
 ----
 

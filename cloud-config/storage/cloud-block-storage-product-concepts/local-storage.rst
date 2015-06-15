@@ -1,24 +1,24 @@
 .. _local-storage:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Local storage for Cloud Servers
+Local storage for cloud servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Cloud Servers are generally created with a given amount of local storage
+Cloud servers are generally created with a given amount of local storage
 available to them in the form of one or more virtual hard disks. To best
 utilize this local storage, you should understand the different types of
 storage that are available.
 
 Local storage technologies & terminology
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The virtual hard disks allocated to a Cloud Server are backed by one of
+The virtual hard disks allocated to a cloud server are backed by one of
 several different physical technologies, depending upon how you choose
-to configure your Cloud Server. Each storage technology has specific
+to configure your server. Each storage technology has specific
 performance and cost characteristics.
 
 Here is a high-level comparison of the technologies:
 
 +-----------------------------------+-------------+-----------------------+
-| **Server Type**                   | **Speed**   | **Cost (relative)**   |
+| **Server type**                   | **Speed**   | **Cost (relative)**   |
 +===================================+=============+=======================+
 | SATA (Standard Cloud Servers)     | Average     | Lowest                |
 +-----------------------------------+-------------+-----------------------+
@@ -62,10 +62,10 @@ In a white paper on
 performance quadrupled using Cloud Block Storage with SSD 
 as compared to Cloud Block Storage with SATA. 
 
-Local storage types associated with Cloud Server flavors
+Local storage types associated with Cloud Servers flavors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Choosing a flavor class for your Cloud Server also means choosing what
-kind of local storage is available to that Cloud Server.
+Choosing a flavor class for your server also means choosing what
+kind of local storage is available to that server.
 
 * In Compute and Memory flavor classes, storage is entirely backed by
    Cloud Block Storage.
@@ -111,7 +111,7 @@ OnMetal Cloud Servers offer the benefits of two kinds of configuration:
 
 * The consistent performance of colocated hosting
 
-When you create a Cloud Server, if you make it an OnMetal Cloud Server,
+When you create a server, if you make it an OnMetal server,
 you can choose one of three flavor classes designed to support specific
 workloads:
 
@@ -121,7 +121,7 @@ workloads:
 
 * OnMetal Compute, optimized for CPU-intensive workloads
 
-Every OnMetal flavor class provides 32GB for system disk. The OnMetal
+Every OnMetal flavor class provides 32 GB for the system disk. The OnMetal
 I/O flavor class also provides Dual 1.6 TB PCIe flash cards for data
 disk.
 
@@ -137,10 +137,10 @@ You can learn more about OnMetal at:
 
 Protecting local storage
 ^^^^^^^^^^^^^^^^^^^^^^^^
-The virtual storage presented to your Cloud Server is backed by physical
+The virtual storage presented to your cloud server is backed by physical
 hardware in RAID 10 configurations. RAID 10 means that multiple physical
 disks in the same physical host would have to fail before there would be
-a chance of data loss on your Cloud Server. Extensive hardware failure
+a chance of data loss on your server. Extensive hardware failure
 of this nature is extremely unlikely, especially within the protective
 environment of Rackspace data centers, but you may still be at risk for
 data loss caused by human errors or human malice.
@@ -149,14 +149,14 @@ Rackspace **strongly recommends** that you use one or more of the
 methods below to create and manage backup copies 
 of your system and data
 disks, providing an extra layer of protection and recoverability for
-your Cloud Servers.
+your cloud servers.
 
-Backup method: snapshots
+Backup method: Snapshots
 ''''''''''''''''''''''''
 Snapshots (also known as saved images or server images) can be
-created using the API or Control Panel, and will save a complete copy of
+created using the API or Cloud Control Panel, and will save a complete copy of
 your system disk. The image will be saved in your account and you will
-be able to build a new Cloud Server from the image should the need
+be able to build a new cloud server from the image should the need
 arise.
 
 **Data disks are not captured when creating snapshots**. 
@@ -168,21 +168,21 @@ disks hold critical data that must be protected.
 Backup method: Cloud Backup
 '''''''''''''''''''''''''''
 Cloud Backup is a file-based backup application that lets you choose
-which files and folders to backup from your Cloud Server. If you have
+which files and folders to backup from your server. If you have
 created a backup copy of your data, you can choose to restore all your
 folders and files from the backup, or you can restore individual files
-or folders from a given date, or restore to an entirely different Cloud
-Server. For more about Cloud Backup, begin at
+or folders from a given date, or restore to an entirely different
+server. For more about Cloud Backup, begin at
 `Rackspace Cloud Backup - Overview <http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-overview>`__.
 
 Backup method: Cloud Block Storage
 ''''''''''''''''''''''''''''''''''
 You can use Cloud Block Storage to create and manage disk images that
-are portable among your Cloud Servers. Cloud Block storage is part of
+are portable among your cloud servers. Cloud Block Storage is part of
 our core infrastructure; learn more about it at 
 :ref:`cloud-block-storage-product-concepts`. 
 
-Backup methods: custom
+Backup methods: Custom
 ''''''''''''''''''''''
 You can establish a custom backup process using a utility such as
 `rsync <https://rsync.samba.org/>`__, an open-source utility that

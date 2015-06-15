@@ -3,7 +3,7 @@
 ========================
 Actions for Cloud Images
 ========================
-The following actions can be performed to create and manage Cloud Images. 
+The following actions can be performed to create and manage cloud images. 
 Actions can relate to an image, image sharing, image tags, image tasks, and image schemas.
 
 .. NOTE::

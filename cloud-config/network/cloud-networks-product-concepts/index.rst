@@ -3,7 +3,7 @@
 ============================
 Understanding Cloud Networks
 ============================
-Your Cloud Server configuration can include several kinds of networks,
+Your cloud server configuration can include several kinds of networks,
 connected as appropriate for your needs.
 
 Using Cloud Networks, you can connect 

@@ -3,9 +3,9 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Creating custom images from servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The first time you boot a Cloud Server, you’ll probably use an image
+The first time you boot a cloud server, you’ll probably use an image
 supplied by Rackspace. We supply images of many different operating
-systems, all configured to run optimally in the Rackspace Cloud.
+systems, all configured to run optimally in the Rackspace cloud.
 
 Since the images supplied by Rackspace need to appeal to a wide range of
 customers with varying use cases, you’ll probably find that there are
@@ -34,14 +34,14 @@ There are two general approaches you can take for this task:
 There are advantages and disadvantages to each of these approaches.
 Which you pick really depends on your application and workflow needs.
 
-* With bootstrapping, your Cloud Server is likely to boot quickly;
+* With bootstrapping, your cloud server is likely to boot quickly;
   since so many users utilize the Rackspace base images, they tend to
   be cached close to most hypervisors, and download quickly. After the
   Cloud Server initializes, you need to run your configuration
   management tool to install the software and modify the server before
   it is ready for your application.
 
-* With baking, as soon as your Cloud Server initializes, everything is
+* With baking, as soon as your cloud server initializes, everything is
   installed and configured, so your application should be ready to go.
   Since you’re using your own private virtual machine image, however,
   it’s unlikely that the image will be cached anywhere, and it will may

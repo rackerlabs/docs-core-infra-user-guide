@@ -1,4 +1,4 @@
-.. _on-demand_images:
+.. _on-demand-images:
 
 ''''''''''''''''
 On-demand images

@@ -1,4 +1,4 @@
-.. _cloudblockstorage_GUI:
+.. _cloudblockstorage-GUI:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cloud Block Storage and the Cloud Control Panel

@@ -1,4 +1,4 @@
-.. _disk_storage:
+.. _disk-storage:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 System and data disks for Cloud Servers

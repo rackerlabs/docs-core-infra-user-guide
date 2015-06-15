@@ -1,4 +1,4 @@
-.. _tour_data_services:
+.. _tour-data-services:
 
 -------------
 Data services

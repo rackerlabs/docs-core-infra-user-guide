@@ -1,4 +1,4 @@
-.. _cloud_networks_DNS:
+.. _cloud-networks-DNS:
 
 ^^^^^^^^^^^^^^^^
 DNS in the Cloud

@@ -1,4 +1,4 @@
-.. _tour_network_services:
+.. _tour-network-services:
 
 ----------------
 Network services

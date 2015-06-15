@@ -1,4 +1,4 @@
-.. _host_issues:
+.. _host-issues:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Handling host-related issues

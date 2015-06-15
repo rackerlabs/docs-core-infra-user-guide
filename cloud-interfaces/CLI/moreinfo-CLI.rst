@@ -1,4 +1,4 @@
-.. _moreinfo_CLI:
+.. _moreinfo-CLI:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Learning more about CLIs

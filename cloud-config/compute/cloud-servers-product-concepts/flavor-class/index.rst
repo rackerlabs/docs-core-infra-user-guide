@@ -1,4 +1,4 @@
-.. _cloud_servers_flavor_class:
+.. _cloud-servers-flavor-class:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Understanding flavor classes

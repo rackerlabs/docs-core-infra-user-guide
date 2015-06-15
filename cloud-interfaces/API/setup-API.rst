@@ -1,4 +1,4 @@
-.. _setup_API:
+.. _setup-API:
 
 ------------------------------
 Preparing to use SDKs and APIs
@@ -21,7 +21,7 @@ The basic process is the same for all Rackspace APIs:
 
 Beyond this general process, the details vary depending on which service you are working with. For product-specific introductions to the SDKs and APIs relevant to specific core infrastructure products, see
 
-* :ref:`cloudservers_API`
-* :ref:`cloudnetworks_API`
-* :ref:`cloudimages_API`
-* :ref:`cloudblockstorage_API`
+* :ref:`cloudservers-API`
+* :ref:`cloudnetworks-API`
+* :ref:`cloudimages-API`
+* :ref:`cloudblockstorage-API`

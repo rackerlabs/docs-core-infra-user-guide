@@ -1,4 +1,4 @@
-.. _create_server:
+.. _create-server:
 
 ---------------------------------------------
 Using flavors to configure a new cloud server

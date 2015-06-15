@@ -1,4 +1,4 @@
-.. _cloud_servers_product_actions:
+.. _cloud-servers-product-actions:
 
 =========================
 Actions for Cloud Servers
@@ -13,9 +13,9 @@ Cloud Control Panel and the API.
 To learn how to perform Cloud Servers actions using your choice of interface, 
 begin at 
 
-* :ref:`cloudservers_GUI`
-* :ref:`cloudservers_CLI`
-* :ref:`cloudservers_API`
+* :ref:`cloudservers-GUI`
+* :ref:`cloudservers-CLI`
+* :ref:`cloudservers-API`
 
 Rebuild
 -------

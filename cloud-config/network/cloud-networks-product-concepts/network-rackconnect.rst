@@ -1,4 +1,4 @@
-.. _network_rackconnect:
+.. _network-rackconnect:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Networking considerations for RackConnect

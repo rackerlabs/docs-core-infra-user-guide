@@ -1,4 +1,4 @@
-.. _network_onmetal_servers:
+.. _network-onmetal-servers:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Networking considerations for OnMetal servers

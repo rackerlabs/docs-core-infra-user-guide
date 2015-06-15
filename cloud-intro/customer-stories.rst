@@ -1,4 +1,4 @@
-.. _customer_stories:
+.. _customer-stories:
 
 ----------------
 Customer stories

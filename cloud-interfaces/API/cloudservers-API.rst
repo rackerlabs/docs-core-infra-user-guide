@@ -1,4 +1,4 @@
-.. _cloudservers_API:
+.. _cloudservers-API:
 
 -------------------------------
 Cloud Servers and SDKs and APIs
@@ -10,7 +10,7 @@ how Cloud Servers works
 in the Cloud Control Panel 
 and how SDKs and APIs are documented at Rackspace.
 
-.. _cloudservers_APIinvestigation:
+.. _cloudservers-APIinvestigation:
 
 +++++++++++++++++++++++++++++++
 Cloud Servers API investigation
@@ -81,13 +81,13 @@ available within the broader Rackspace portfolio include:
 * `Rackspace Marketplace <https://marketplace.rackspace.com/listing?p=1&default=true&q#!/list/page/1/>`__
 * `Rackspace Knowledge Center <http://www.rackspace.com/knowledge_center/>`__
 
-.. _cloudservers_APIdemonstration:
+.. _cloudservers-APIdemonstration:
 
 +++++++++++++++++++++++++++++++
 Cloud Servers API demonstration
 +++++++++++++++++++++++++++++++
 Using the process suggested at 
-:ref:`cloudservers_APIinvestigation`, 
+:ref:`cloudservers-APIinvestigation`, 
 here is an example of how you can plan 
 and then write your own software to perform one simple task: 
 list all your cloud servers. 

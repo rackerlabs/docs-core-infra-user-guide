@@ -1,4 +1,4 @@
-.. _import_export_images:
+.. _import-export-images:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Importing and exporting images

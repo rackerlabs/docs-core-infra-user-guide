@@ -1,4 +1,4 @@
-.. _tour_storage_services:
+.. _tour-storage-services:
 
 -------------------------------------
 Storage and content delivery services

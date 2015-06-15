@@ -1,4 +1,4 @@
-.. _cloud_images_product_concepts:
+.. _cloud-images-product-concepts:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Understanding Cloud Images

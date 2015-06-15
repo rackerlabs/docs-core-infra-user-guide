@@ -1,4 +1,4 @@
-.. custom_images:
+.. custom-images:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Creating custom images from servers

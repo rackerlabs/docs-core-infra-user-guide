@@ -1,4 +1,4 @@
-.. _show_metadata:
+.. _show-metadata:
 
 ^^^^^^^^^^^^^^^^
 Showing metadata
@@ -23,7 +23,7 @@ the desired server ID::
 
 The ``metadata`` property shows user-defined metadata associated 
 with this server. 
-:ref:`set_metadata` shows how you can create or delete metadata. 
+:ref:`set-metadata` shows how you can create or delete metadata. 
 
 Some metadata are set by Rackspace and not available to be changed by
 the user; generally these fields are used by automation and

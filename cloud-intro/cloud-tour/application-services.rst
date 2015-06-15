@@ -1,4 +1,4 @@
-.. _tour_application_services:
+.. _tour-application-services:
 
 --------------------
 Application services

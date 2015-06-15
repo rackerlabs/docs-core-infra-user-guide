@@ -1,4 +1,4 @@
-.. _setup_CLI:
+.. _setup-CLI:
 
 ----------------------
 Preparing to use a CLI
@@ -6,9 +6,9 @@ Preparing to use a CLI
 To interact with the Rackspace cloud at the command line,  
 you must have some of the same things you would need 
 if you wished to interact by choosing options on a Web page 
-(:ref:`the Cloud Control Panel <cloud_interfaces_GUI>`) 
+(:ref:`the Cloud Control Panel <cloud-interfaces-GUI>`) 
 or by writing software 
-(:ref:`SDK or API <cloud_interfaces_API>`):
+(:ref:`SDK or API <cloud-interfaces-API>`):
 
 * A Rackspace cloud account
 * Credentials enabling access to that account
@@ -23,7 +23,7 @@ with an API:
 * The endpoint for the cloud service with which you want to interact
 
 .. note::
-   :ref:`setup_API` provides more detail about these prerequisites.
+   :ref:`setup-API` provides more detail about these prerequisites.
 
 Beyond what you would need to use with the Control Panel or an API, 
 you must have two additional tools to enable you to interact with 
@@ -65,7 +65,7 @@ For product-specific introductions to
 the CLIs relevant to specific 
 core infrastructure products, see
 
-* :ref:`cloudservers_CLI`
-* :ref:`cloudnetworks_CLI`
-* :ref:`cloudimages_CLI`
-* :ref:`cloudblockstorage_CLI`
+* :ref:`cloudservers-CLI`
+* :ref:`cloudnetworks-CLI`
+* :ref:`cloudimages-CLI`
+* :ref:`cloudblockstorage-CLI`

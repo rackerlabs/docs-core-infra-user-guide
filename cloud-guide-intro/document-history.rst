@@ -1,4 +1,4 @@
-.. _document_history:
+.. _document-history:
 
 ================
 Document history

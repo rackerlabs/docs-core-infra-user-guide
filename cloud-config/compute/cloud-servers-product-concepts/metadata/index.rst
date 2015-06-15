@@ -1,4 +1,4 @@
-.. _cloud_servers_metadata:
+.. _cloud-servers-metadata:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Describing a Cloud Server with metadata

@@ -23,6 +23,6 @@ and maintaining uninterrupted availability.
 
 **High availability**
 
-  Because multiple Cloud Servers can share the same IP address, you can
+  Because multiple servers can share the same IP address, you can
   use fast IP address failover to enable high availability without making
   a separate API call.

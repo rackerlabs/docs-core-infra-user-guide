@@ -8,7 +8,7 @@ be useful within your Cloud Servers configuration:
 
 * **Isolate your servers**
 
-    You can create Cloud Servers without public or 
+    You can create servers without public or 
     private (ServiceNet) network interfaces, 
     making them accessible only through Cloud Networks.
 
@@ -27,7 +27,7 @@ be useful within your Cloud Servers configuration:
 
     Via the Cloud Networks API, 
     you can develop custom software to automatically 
-    create networks and attach or detach Cloud Servers 
+    create networks and attach or detach servers 
     based on workload requirements.
 
 * **Support complex topologies**
@@ -35,9 +35,9 @@ be useful within your Cloud Servers configuration:
     You can combine Cloud Networks with 
     `Brocade Vyatta Routers <http://www.rackspace.com/cloud/servers/vrouter/>`__ 
     to create complex topologies that route traffic 
-    between Cloud Networks or to external data centers over VPN.
+    between cloud networks or to external data centers over VPN.
 
 * **Scale networks as you grow** 
 
-    Up to 250 Cloud Servers can be attached to a single cloud network.
+    Up to 250 servers can be attached to a single cloud network.
     You can have up to 10 cloud networks per region. 

@@ -1,4 +1,4 @@
-.. _cloudimages_GUI:
+.. _cloudimages-GUI:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cloud Images and the Cloud Control Panel

@@ -1,4 +1,4 @@
-.. _cloud_servers_product_concepts:
+.. _cloud-servers-product-concepts:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Understanding Cloud Servers

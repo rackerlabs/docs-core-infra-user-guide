@@ -1,4 +1,4 @@
-.. _local_storage:
+.. _local-storage:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Local storage for Cloud Servers

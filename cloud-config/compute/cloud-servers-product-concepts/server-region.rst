@@ -1,4 +1,4 @@
-.. _server _region:
+.. _server-region:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Creating a cloud server in a region

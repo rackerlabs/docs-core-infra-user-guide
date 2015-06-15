@@ -1,4 +1,4 @@
-.. _server_events:
+.. _server-events:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Monitoring events on your cloud server

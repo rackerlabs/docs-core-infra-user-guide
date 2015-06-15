@@ -1,4 +1,4 @@
-.. _virtualization_modes:
+.. _virtualization-modes:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Virtualization modes: PV and PVHVM

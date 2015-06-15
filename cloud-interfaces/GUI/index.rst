@@ -1,4 +1,4 @@
-.. _cloud_interfaces_GUI:
+.. _cloud-interfaces-GUI:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 GUI: Rackspace Cloud Control Panel
@@ -18,7 +18,7 @@ first tasks:
 
 * `Obtain your API key <http://www.rackspace.com/knowledge_center/article/view-and-reset-your-api-key>`__
   for use with 
-  :ref:`CLIs <cloud_interfaces_CLI>`, 
+  :ref:`CLIs <cloud-interfaces-CLI>`, 
   :ref:`SDKs <SDK>`, 
   and 
   :ref:`APIs <APIdirect>`

@@ -1,4 +1,4 @@
-.. _software_RAID:
+.. _software-RAID:
 
 ^^^^^^^^^^^^^^^^^^^^^
 Software RAID for CBS

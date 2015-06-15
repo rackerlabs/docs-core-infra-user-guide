@@ -1,4 +1,4 @@
-.. _cloud_networks_product_concepts:
+.. _cloud-networks-product-concepts:
 
 ============================
 Understanding Cloud Networks

@@ -1,4 +1,4 @@
-.. _cloudnetworks_GUI:
+.. _cloudnetworks-GUI:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cloud Networks and the Cloud Control Panel

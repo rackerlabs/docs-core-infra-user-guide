@@ -1,4 +1,4 @@
-.. _tour_support_services:
+.. _tour-support-services:
 
 --------------------------------
 Security and supporting services

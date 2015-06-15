@@ -1,4 +1,4 @@
-.. _cloudnetworks_API:
+.. _cloudnetworks-API:
 
 --------------------------------
 Cloud Networks and SDKs and APIs
@@ -10,7 +10,7 @@ how Cloud Networks works
 in the Cloud Control Panel 
 and how SDKs and APIs are documented at Rackspace.
 
-.. _cloudnetworks_APIinvestigation:
+.. _cloudnetworks-APIinvestigation:
 
 ++++++++++++++++++++++++++++++++
 Cloud Networks API investigation
@@ -54,13 +54,13 @@ in your favorite programming language.
 Awareness of both API and SDK capabilities 
 can help you to plan the easiest way to develop your software.
 
-.. _cloudnetworks_APIdemonstration:
+.. _cloudnetworks-APIdemonstration:
 
 ++++++++++++++++++++++++++++++++
 Cloud Networks API demonstration
 ++++++++++++++++++++++++++++++++
 Using the process suggested at 
-:ref:`cloudnetworks_APIinvestigation`, 
+:ref:`cloudnetworks-APIinvestigation`, 
 here is an example of how you can plan 
 and then write your own software to perform one simple task: 
 list all your cloud networks. 

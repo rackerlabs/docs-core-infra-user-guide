@@ -1,4 +1,4 @@
-.. _cloudservers_CLI:
+.. _cloudservers-CLI:
 
 ------------------------------------------
 Cloud Servers and CLIs: nova and supernova

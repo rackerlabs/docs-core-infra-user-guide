@@ -1,4 +1,4 @@
-.. _tour_compute_services:
+.. _tour-compute-services:
 
 ----------------
 Compute services

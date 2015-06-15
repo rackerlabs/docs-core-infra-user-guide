@@ -1,4 +1,4 @@
-.. _set_metadata:
+.. _set-metadata:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Setting and updating metadata

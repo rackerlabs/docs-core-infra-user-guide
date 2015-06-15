@@ -1,4 +1,4 @@
-.. _data_immutability:
+.. _data-immutability:
 
 ^^^^^^^^^^^^^^^^^
 Data immutability

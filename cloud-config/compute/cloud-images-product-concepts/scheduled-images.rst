@@ -1,4 +1,4 @@
-.. scheduled_images:
+.. scheduled-images:
 
 ''''''''''''''''
 Scheduled images

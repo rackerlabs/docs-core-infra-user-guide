@@ -1,4 +1,4 @@
-.. _network_cloud_servers:
+.. _network-cloud-servers:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cloud Networks: internal-use connections for Cloud Servers
@@ -47,7 +47,7 @@ performance characteristics:
 
    * Performance2-120: 10,000Mbps
 
-.. _network_cloud_servers-working:
+.. _network-cloud-servers-working:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Working with networked Cloud Servers

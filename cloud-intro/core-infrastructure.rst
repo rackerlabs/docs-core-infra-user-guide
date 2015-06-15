@@ -1,4 +1,4 @@
-.. _core_infrastructure:
+.. _core-infrastructure:
 
 -----------------------------------------------
 Rackspace cloud core infrastructure at a glance

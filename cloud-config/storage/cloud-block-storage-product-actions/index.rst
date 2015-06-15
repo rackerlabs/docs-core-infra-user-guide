@@ -8,9 +8,9 @@ You can use Cloud Block Storage to perform the actions described below.
 To learn how to perform Cloud Block Storage actions using your choice of interface, 
 begin at 
 
-* :ref:`cloudblockstorage_GUI`
-* :ref:`cloudblockstorage_CLI`
-* :ref:`cloudblockstorage_API`
+* :ref:`cloudblockstorage-GUI`
+* :ref:`cloudblockstorage-CLI`
+* :ref:`cloudblockstorage-API`
 
 ----
 

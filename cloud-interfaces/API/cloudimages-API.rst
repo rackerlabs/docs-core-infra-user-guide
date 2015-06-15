@@ -1,4 +1,4 @@
-.. _cloudimages_API:
+.. _cloudimages-API:
 
 ------------------------------
 Cloud Images and SDKs and APIs
@@ -10,7 +10,7 @@ how Cloud Images works
 in the Cloud Control Panel 
 and how SDKs and APIs are documented at Rackspace.
 
-.. _cloudimages_APIinvestigation:
+.. _cloudimages-APIinvestigation:
 
 ++++++++++++++++++++++++++++++
 Cloud Images API investigation
@@ -54,13 +54,13 @@ in your favorite programming language.
 Awareness of both API and SDK capabilities 
 can help you to plan the easiest way to develop your software.
 
-.. _cloudimages_APIdemonstration:
+.. _cloudimages-APIdemonstration:
 
 ++++++++++++++++++++++++++++++
 Cloud Images API demonstration
 ++++++++++++++++++++++++++++++
 Using the process suggested at 
-:ref:`cloudimages_APIinvestigation`, 
+:ref:`cloudimages-APIinvestigation`, 
 here is an example of how you can plan 
 and then write your own software to perform one simple task: 
 list all your cloud images. 

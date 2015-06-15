@@ -34,10 +34,16 @@ within the range available to it.
    :alt: In the Cloud Control Panel, 
          use the slider to change network speed  
          and other characteristics.
+         For virtual cloud servers, the 
+         "Comparison Chart" link provides a detailed comparison of 
+         the configuration available for each flavor.
    
    *In the Cloud Control Panel, 
    use the slider to change network speed
-   and other characteristics.*
+   and other characteristics. 
+   For virtual cloud servers, the 
+   "Comparison Chart" link provides a detailed comparison of 
+   the configuration available for each flavor.*
 
 You can read more about how choosing a flavor class influences 
 your cloud server's configuration at 

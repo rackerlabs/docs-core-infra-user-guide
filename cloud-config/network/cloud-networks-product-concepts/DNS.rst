@@ -1,9 +1,9 @@
 .. _cloud-networks-DNS:
 
 ^^^^^^^^^^^^^^^^
-DNS in the Cloud
+DNS in the cloud
 ^^^^^^^^^^^^^^^^
-When you create a Cloud Server, it is assigned an IP address. You can
+When you create a cloud server, it is assigned an IP address. You can
 access the server by its IP address, but you may prefer to associate the
 IP address with a domain name such as ``www.example.com`` 
 and access the
@@ -21,10 +21,10 @@ Most DNS lookups are forward DNS lookups, in which a search is based on
 the DNS name of another computer as it is stored in a host (A) resource
 record. For example, when you ask your web browser to display
 ``www.example.com``, you are asking for a forward DNS lookup. To enable
-users to locate your Cloud Server by forward DNS lookup, register a
+users to locate your cloud server by forward DNS lookup, register a
 domain name, using the registrar of your choice. Then associate the
-domain name with the Cloud Server's IP address. You can use Cloud DNS to
-associate a domain name with a Cloud Server. In the Cloud Control Panel,
+domain name with the server's IP address. You can use Cloud DNS to
+associate a domain name with a cloud server. In the Cloud Control Panel,
 select Networking > Cloud DNS > Create Domain:
 
 .. figure:: /_images/CloudDNSCreateDomain.png
@@ -42,7 +42,7 @@ programmatically. Begin reading about that in the
 
 Reverse DNS
 '''''''''''
-For each Cloud Server you create, you can assign a reverse DNS record. 
+For each cloud server you create, you can assign a reverse DNS record. 
 A reverse DNS record, also known as a PTR record, 
 is used to
 assist in the resolution of a specific IP to a fully-qualified domain
@@ -58,7 +58,7 @@ which domain is associated with the IP address.
 Reverse DNS importance with hosted mail servers
 ----------------------------------------------- 
 Reverse DNS is especially important if you are running an application
-like a mail server on your Cloud Server, as many recipient servers
+like a mail server on your cloud server, as many recipient servers
 reject, or mark as spam, all email that originates from an
 "unauthenticated" server.
 
@@ -78,14 +78,14 @@ then it is classed as
    are often rejected
    out of hand, but rejection can occur for other reasons.
 
-Creating a Reverse DNS record for your Cloud Server
+Creating a reverse DNS record for your cloud server
 --------------------------------------------------- 
-You can set up a reverse DNS through the Rackspace Cloud Control
+You can set up a reverse DNS record through the Rackspace Cloud Control
 Panel by performing these steps:
 
 1. Log in to your Rackspace account.
 
-2. On the Servers tab, click the link for your Cloud Server from your
+2. On the Servers tab, click the link for your cloud server from your
    Servers List.
 
 3. On the Server Details screen, click Add Record next to the Reverse

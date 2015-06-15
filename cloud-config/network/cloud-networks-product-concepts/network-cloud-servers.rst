@@ -9,20 +9,20 @@ application servers.
 
 Cloud Networks can be provisioned as either IPv4 or IPv6.
 
-Cloud Networks are recommended for all inter-server communication. Even
+Cloud Networks is recommended for all inter-server communication. Even
 though ServiceNet can also be used for server east-west (backend)
 connectivity, ServiceNet is not recommended for that purpose since,
 unlike Cloud Networks, ServiceNet is multi-tenant.
 
 Up to 10 cloud networks are supported per region with 250 hosts/network.
-Cloud Networks can be attached and detached from live servers, making it
-possible to change the network while rebuilding Cloud Servers. Cloud
+Cloud networks can be attached to  and detached from live servers, making it
+possible to change the network while rebuilding cloud servers. Cloud
 Networks also includes full support for broadcasting and multicasting
 required for some clustering technologies.
 
 Aggregate outbound bandwidth limits across all attached network
 interfaces (PublicNet, ServiceNet, Cloud Networks) 
-are defined for each Cloud Server based on its 
+are defined for each cloud server based on its 
 performance characteristics:
 
 * Performance1:
@@ -50,9 +50,9 @@ performance characteristics:
 .. _network-cloud-servers-working:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Working with networked Cloud Servers
+Working with networked cloud servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-As with physical servers, networked Cloud Servers are subject to
+As with physical servers, networked cloud servers are subject to
 relevant limitations and requirements.
 
 Network limits
@@ -63,7 +63,7 @@ No such limits are applicable to ServiceNet or Cloud Networks.
 
 Inbound PublicNet traffic is not limited.
 
-Host networking on Cloud Servers is redundant, with bandwidth delivered
+Host networking on cloud servers is redundant, with bandwidth delivered
 over two separate bonded interfaces, each able to carry 50% of the
 aggregate limit.
 
@@ -72,7 +72,7 @@ throughput.
 
 Attaching or detaching networks from a server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You can attach or detach networks from a Cloud Server through
+You can attach to or detach networks from a cloud server through
 the 
 `Rackspace Cloud Control Panel <https://mycloud.rackspace.com/>`__
 or an API.
@@ -90,10 +90,10 @@ If a server is built without PublicNet or ServiceNet, it cannot access
 certain Rackspace products and services.
 
 As shown in the figure below, PublicNet and ServiceNet are essential to
-a fully-functional cloud configuration. PublicNet provides a Cloud
-Server with access to the Web as well as Cloud Monitoring, Cloud Backup,
+a fully-functional cloud configuration. PublicNet provides a
+server with access to the Web as well as Cloud Monitoring, Cloud Backup,
 Managed Cloud Support, and operating system updates. ServiceNet provides
-a Cloud Server with access to Cloud Databases, Cloud Load Balancers,
+a server with access to Cloud Databases, Cloud Load Balancers,
 Cloud Files, Cloud Backup, RackConnect, and Windows activation.
 
 .. figure:: /_images/CloudServerNetworkRemovalResults.png
@@ -101,9 +101,9 @@ Cloud Files, Cloud Backup, RackConnect, and Windows activation.
    
    *PublicNet and ServiceNet enable full Cloud Servers functionality.*
 
-Adding IPv4 addresses to Cloud Servers
+Adding IPv4 addresses to cloud servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Rackspace offers the ability to add IPv4 addresses to Cloud Servers for
+Rackspace offers the ability to add IPv4 addresses to cloud servers for
 a fee.
 
 Due to the global shortage of IPv4 address space, Rackspace only offers
@@ -119,7 +119,7 @@ Control Panel <https://mycloud.rackspace.com/>`__ to get policy details
 and request approval.
 
 After you are approved for an additional IPv4 address to support SSL on
-a Cloud Server, we will ask you to provide the following information:
+a cloud server, we will ask you to provide the following information:
 
 * The name of the server for which you would like to add the IP address.
 
@@ -142,6 +142,6 @@ information:
   acceptable maintenance window during which we can perform the change.
 
 We cannot allocate more than 4 additional IPv4 addresses to a single
-Cloud Server or to a Brocade Vyatta vRouter. This gives each Cloud
-Server or Brocade Vyatta vRouter a maximum capacity of five (5) IPv4
+server or to a Brocade Vyatta vRouter. This gives each cloud
+server or Brocade Vyatta vRouter a maximum capacity of five (5) IPv4
 addresses, including the originally-assigned public IP address.

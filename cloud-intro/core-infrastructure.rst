@@ -19,7 +19,7 @@ of the same functions as hardware devices in our data centers:
   transferred from one cloud server to another.
 
 * Cloud Images preserves a consistent starting point for new Cloud
-  Server instances.
+  Servers instances.
 
 * Additional services enable specific activities such as user
   authentication, load balancing, and event monitoring.

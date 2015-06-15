@@ -4,8 +4,8 @@
 On-demand images
 ''''''''''''''''
 When you use the Cloud Control Panel or the Cloud Servers API to create
-an image of one of your Cloud Servers, you get a copy of your Cloud
-Server's system disk. The image does not include any server state stored
+an image of one of your servers, you get a copy of your
+server's system disk. The image does not include any server state stored
 in memory, and for flavors containing more than one disk, it will not
 include the data disk(s). Thus an on-demand image is not really a server
 backup. It is more of a template that you can use to stamp out other

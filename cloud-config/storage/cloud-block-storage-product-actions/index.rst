@@ -29,26 +29,26 @@ part of the volume creation call, you can specify
 
 Immediately after a volume is created, it cannot have any data written
 to it. To make the volume available for further operations, attach it to
-a Cloud Server.
+a cloud server.
 
-Attach a volume to a Cloud Server 
+Attach a volume to a cloud server 
 '''''''''''''''''''''''''''''''''
 Instructs the Nova API to create an iSCSI connection between the storage
-node on which the CBS volume resides and the hypervisor of the Cloud
-Server specified in the attachment call.
+node on which the CBS volume resides and the hypervisor of the cloud
+server specified in the attachment call.
 
-After attaching the volume to a Cloud Server, you must partition,
+After attaching the volume to a cloud server, you must partition,
 format, and mount it prior to use. A volume can only be attached to a
-Cloud Server that resides in the same region as the volume.
+cloud server that resides in the same region as the volume.
 
-Detach a volume from a Cloud Server
+Detach a volume from a cloud server
 '''''''''''''''''''''''''''''''''''
 Instructs the Nova API to:
 
 * Release the iSCSI connection between the CBS storage node and the
-  Cloud Server hypervisor
+  cloud server hypervisor
 
-* Logically remove the volume as a usable disk for the Cloud Server
+* Logically remove the volume as a usable disk for the cloud server
 
 The detach call can succeed only if the volume is:
 
@@ -90,7 +90,7 @@ Create a volume from a snapshot
 New volumes can be created using existing snapshots as the source data.
 Upon creation of a volume from a snapshot, you can switch the storage
 type (SATA or SSD) and increase the volume size. If you increase the
-volume size, you must also resize the Cloud Server filesystem (if
+volume size, you must also resize the cloud server filesystem (if
 supported).
 
 Volumes can only be created from snapshots that reside in the same
@@ -112,7 +112,7 @@ as the intermediary and copies volumes directly between storage nodes.
 This provides the ability make faster copies of volumes. Additionally,
 clones are attachable volumes and thus are immediately usable upon
 creation. Clones differ from snapshots in this way, since a snapshot
-must be restored to a volume before it can be attached to a Cloud Server
+must be restored to a volume before it can be attached to a cloud server
 for use.
 
 Delete a volume
@@ -123,6 +123,6 @@ deleted, the volume receives a single-pass wipe with zeros before the
 blocks are returned to the storage pool and made available for other
 customers to use.
 
-A volume cannot be deleted if it is currently attached to a Cloud Server
+A volume cannot be deleted if it is currently attached to a cloud server
 or has a dependent snapshot.
 

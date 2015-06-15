@@ -51,7 +51,7 @@ Best practices for orchestration
 
 Best practices for security
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-*  Sending a high volume of email from your Cloud Server can downgrade
+*  Sending a high volume of email from your cloud server can downgrade
    its IP reputation; use Mailgun instead, 
    as described at 
    `Mailgun Quickstart <https://documentation.mailgun.com/quickstart-sending.html#how-to-start-sending-email>`_.

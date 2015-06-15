@@ -5,7 +5,7 @@ Automating growth
 ------------------
 The cloud gives you room to grow. Before growth surprises you, you can
 establish some policies for handling it, using Auto Scale to add new
-Cloud Servers when they're needed. Auto scaling policies are easy to
+cloud servers when they're needed. Auto scaling policies are easy to
 change as you become more familiar with the peaks and patterns in your
 workload.
 

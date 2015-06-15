@@ -9,11 +9,11 @@ legitimate work. You may have to do some research to identify the
 specific steps required to secure your configuration, but the steps
 should be similar to those shown in
 `Basic Cloud Server Security <http://www.rackspace.com/knowledge_center/article/basic-cloud-server-security>`__,
-which demonstrates the process of securing a Cloud Server running
-Ubuntu. For that Cloud Server, the steps are:
+which demonstrates the process of securing a cloud server running
+Ubuntu. For that server, the steps are:
 
 *  Edit the SSH known\_hosts file and remove entries that point to your
-   Cloud Server's IP address.
+   server's IP address.
 
 *  Change your root password.
 
@@ -33,7 +33,7 @@ Ubuntu. For that Cloud Server, the steps are:
 
 *  Create a script to active the firewall after every restart.
 
-Similar steps for securing Cloud Servers running operating systems 
+Similar steps for securing cloud servers running operating systems 
 based on Debian and RedHat
 Package Manager (RPM) are described in the Cloud Launch Guide 
 tutorial for
@@ -41,10 +41,10 @@ tutorial for
 
 .. TIP::
    Because security configuration can be time-consuming, it's a good idea
-   to save a copy of a clean, securely-configured Cloud Server that works
+   to save a copy of a clean, securely-configured cloud server that works
    well for your purpose. 
    You can use Cloud Images to maintain a consistent starting point 
-   for future Cloud Servers you create.
+   for future servers you create.
 
 Security-related offerings from Rackspace partners are listed in the 
 `Rackspace Marketplace <https://marketplace.rackspace.com/home#!category/41>`__.

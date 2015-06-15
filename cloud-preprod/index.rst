@@ -3,7 +3,7 @@
 ==========================
 Preparing for productivity
 ==========================
-Before you begin performing useful work on a Cloud Server or any server,
+Before you begin performing useful work on a cloud server or any server,
 your first activities on that server should make sure it is
 secure, running necessary software, and regularly backed up. These are
 good practices in or out of the cloud. Because you probably chose to use

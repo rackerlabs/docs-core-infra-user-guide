@@ -1,10 +1,10 @@
 .. _block-storage:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Block storage for Cloud Servers
+Block storage for cloud servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Using Cloud Block Storage, you can add disk space to your Cloud
-Servers by attaching storage volumes.
+Using Cloud Block Storage, you can add disk space to your cloud
+servers by attaching storage volumes.
 
 Cloud Block Storage offers volumes in two flavors:
 

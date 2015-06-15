@@ -5,8 +5,8 @@ Managing your Rackspace account
 -------------------------------
 When you log into your `Cloud Control
 Panel <https://mycloud.rackspace.com/>`__, you can examine and change
-your managed cloud configuration. For example, you can create a Cloud
-Server or delete a block storage volume. 
+your managed cloud configuration. For example, you can create a cloud
+server or delete a block storage volume. 
 You can also examine and change
 your account itself in several areas:
 
@@ -53,7 +53,7 @@ configuration. You can see suggested role configurations at
 Managing expenses by limiting workload
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Enforcing limits on some activities makes it easier to control costs.
-Because you pay for only what you use in the Rackspace managed cloud,
+Because you pay for only what you use in the Rackspace Managed Cloud,
 limits mean you will not be surprised by a sudden spike in billable
 activity. Limits can also protect you from workloads beyond the capacity
 of your configuration.
@@ -92,13 +92,13 @@ documentation for more examples and complete details.
 +-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
 | **Service**           | **Absolute limit example**                                                                                             | **Rate limit example**                                                                                            |
 +=======================+========================================================================================================================+===================================================================================================================+
-| Cloud Block Storage   | `10 TB in config <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>`__         | no limits                                                                                                         |
+| Cloud Block Storage   | `10 TB in config <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>`__         | No limits                                                                                                         |
 +-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
 | Cloud Servers         | `100 servers in config <http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html>`__   | `100 POSTs per minute <http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Rate_Limits-d1e862.html>`__   |
 +-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
-| Cloud Images          | no limits                                                                                                              | no limits                                                                                                         |
+| Cloud Images          | No limits                                                                                                              | No limits                                                                                                         |
 +-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
-| Cloud Networks        | no limits                                                                                                              | no limits                                                                                                         |
+| Cloud Networks        | No limits                                                                                                              | No limits                                                                                                         |
 +-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
 
 The services mentioned here are not the only ones with absolute limits

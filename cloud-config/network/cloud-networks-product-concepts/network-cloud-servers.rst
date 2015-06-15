@@ -23,29 +23,32 @@ required for some clustering technologies.
 Aggregate outbound bandwidth limits across all attached network
 interfaces (PublicNet, ServiceNet, Cloud Networks) 
 are defined for each cloud server based on its 
-performance characteristics:
+performance characteristics. 
 
-* Performance1:
+By choosing a flavor class and then a specific flavor
+within that class, 
+you can configure your cloud server's network speed 
+within the range available to it.
 
-   * Performance1-1: 200Mbps
+.. figure:: /_images/flavorclass-network-speed.png
+   :alt: In the Cloud Control Panel, 
+         use the slider to change network speed  
+         and other characteristics.
+         For virtual cloud servers, the 
+         "Comparison Chart" link provides a detailed comparison of 
+         the configuration available for each flavor.
+   
+   *In the Cloud Control Panel, 
+   use the slider to change network speed
+   and other characteristics. 
+   For virtual cloud servers, the 
+   "Comparison Chart" link provides a detailed comparison of 
+   the configuration available for each flavor.*
 
-   * Performance1-2: 400Mbps
+You can read more about how choosing a flavor class influences 
+your cloud server's configuration at 
+:ref:`cloud-servers-flavor-class`.
 
-   * Performance1-4: 800Mbps
-
-   * Performance1-8: 1,600Mbps
-
-* Performance2:
-
-   * Performance2-15: 1.250Mbps
-
-   * Performance2-30 2,500Mbps
-
-   * Performance2-60: 5,000Mbps
-
-   * Performance2-90: 7,500Mbps
-
-   * Performance2-120: 10,000Mbps
 
 .. _network-cloud-servers-working:
 

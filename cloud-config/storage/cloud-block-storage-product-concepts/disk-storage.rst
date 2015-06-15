@@ -1,24 +1,24 @@
 .. _disk-storage:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-System and data disks for Cloud Servers
+System and data disks for cloud servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Different flavors of Cloud Servers are allocated different sizes and
+Different flavors of cloud servers are allocated different sizes and
 numbers of system and data disks.
 
 To see what disk configuration is associated with each flavor, use the
 Cloud Control Panel to display the options available to you when you
 create a server.
 
-For example, compare the disk configuration offered for a Cloud Server
-with 60GB RAM in two different flavor classes:
+For example, compare the disk configuration offered for a server
+with 60 GB RAM in two different flavor classes:
 
-* In the *I/O* flavor class, the configuration for this Cloud Server
+* In the *I/O* flavor class, the configuration for this server
   includes 40 GB system disk and 600 GB data disk 
   (addressable as two disks).
 
-* In the *Compute* flavor class, the configuration for this Cloud
-  Server includes 50 GB system disk and no data disk.
+* In the *Compute* flavor class, the configuration for this
+  server includes 50 GB system disk and no data disk.
 
 System disk
 ^^^^^^^^^^^
@@ -38,8 +38,8 @@ it may have less capacity than any attached data disks.
 
 Data disks
 ^^^^^^^^^^
-Data disk space is in addition to the system disk. Some Cloud Server
-flavors do not have data disks assigned to them. If your Cloud Server
+Data disk space is in addition to the system disk. Some Cloud Servers
+flavors do not have data disks assigned to them. If your server
 has a data disk, it is available to use for your application data,
 caching, or other purposes.
 
@@ -48,8 +48,8 @@ you maximum flexibility in how you use them. Before you can use a data
 disk, you may need to format it, partition it, or group it into a
 software RAID group.
 
-To prepare a data disk for use on a Cloud Server, follow the steps
-appropriate for that Cloud Server's operating system:
+To prepare a data disk for use on a cloud server, follow the steps
+appropriate for that server's operating system:
 
 * For Linux,
   see 

@@ -3,7 +3,7 @@
 ==========================
 Actions for Cloud Networks
 ==========================
-The actions described below can be performed to create and manage Cloud Networks. 
+The actions described below can be performed to create and manage cloud networks. 
 Actions can relate to a network, a subnet, or a port.
 
 .. NOTE:: 

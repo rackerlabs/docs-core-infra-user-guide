@@ -1,10 +1,10 @@
 .. _software-RAID:
 
 ^^^^^^^^^^^^^^^^^^^^^
-Software RAID for CBS
+Software RAID for Cloud Block Storage
 ^^^^^^^^^^^^^^^^^^^^^
 A redundant array of independent disks (RAID) enables expansion of
-storage capacity by combining many small disks rather than few large
+storage capacity by combining many small disks rather than a few large
 disks. RAID is generally not necessary for baseline performance and
 availability, but it may provide advantages in configurations that
 require extreme protection of in-flight data.

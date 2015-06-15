@@ -18,13 +18,13 @@ horizontally scalable and free from monolithic failure scenarios.
 
 Cloud Block Storage volumes can be provisioned in 1 GB increments,
 ranging from 100 GB to 1 TB in size. You can attach up to 10 CBS volumes
-per Cloud Server. Volumes are exposed to the hypervisor via iSCSI over a
-logical network and are presented to Cloud Servers as virtual devices
-(local disks). After a volume is attached to a Cloud Server, you must
+per cloud server. Volumes are exposed to the hypervisor via iSCSI over a
+logical network and are presented to servers as virtual devices
+(local disks). After a volume is attached to a server, you must
 prepare the volume for use by partitioning, formatting, and mounting it
-through the Cloud Server operating system.
+through the server operating system.
 
-Most Cloud Servers can boot from a network-attached Cloud Block Storage
+Most servers can boot from a network-attached Cloud Block Storage
 volume. You can create a bootable CBS volume and launch a server
 instance from that volume. Booting from a CBS volume enables disk-less
 servers, new server configurations such as high RAM/low storage, and

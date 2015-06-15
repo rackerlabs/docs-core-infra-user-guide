@@ -5,7 +5,7 @@ Core infrastructure in the Storage category
 ===========================================
 Cloud Block Storage is a core infrastructure product in the Storage category.
 
-When you create a Cloud Server, storage of several kinds is allocated to
+When you create a cloud server, storage of several kinds is allocated to
 that server based on the choices you make.
 
 Cloud Servers handles initial storage allocations; 

@@ -3,8 +3,8 @@
 ~~~~~~~~~~~~~~~~~~~~~~
 PublicNet in the cloud
 ~~~~~~~~~~~~~~~~~~~~~~
-Rackspace PublicNet connects cloud infrastructure components such as Cloud
-Servers, Cloud Load Balancers, and network appliances to the internet.
+Rackspace PublicNet connects cloud infrastructure components such as cloud
+servers, cloud load balancers, and network appliances to the internet.
 
 PublicNet is optimized for traffic flowing to and
 from the internet (north-south traffic). It follows a direct addressing model, 

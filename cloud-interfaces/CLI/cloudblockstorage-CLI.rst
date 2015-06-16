@@ -67,7 +67,7 @@ API documentation, under
 * cinder users send a short command, 
   reusing details provided when the cinder client was configured::
    
-    ``cinder quota-usage yourAccountID``
+    cinder quota-usage yourAccountID
   
 * cURL users send a long command or series of commands, 
   specifying details required to perform the API request::

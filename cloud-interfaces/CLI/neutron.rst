@@ -3,10 +3,6 @@
 +++++++++++
 neutron CLI
 +++++++++++ 
-Rackspace implemented 
-the OpenStack project named "neutron" 
-as our Cloud Networks product.
-
 The OpenStack tool primarily used for 
 managing Cloud Networks is written
 in Python and called *neutron*. 
@@ -18,7 +14,7 @@ We recommend that you use the
 to install neutronclient, as it will handle installing dependencies and
 required packages for you.
 
-Alternatively, you can download the rackspace-neutronclient package from 
+Alternatively, you can download the ``rackspace-neutronclient`` package from 
 the 
 `GitHub repository for rackspace-neutronclient <https://github.com/rackerlabs/rackspace-neutronclient>`__.
 

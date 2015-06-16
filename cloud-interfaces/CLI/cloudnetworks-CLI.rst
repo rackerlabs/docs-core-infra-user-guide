@@ -53,7 +53,7 @@ The
 `API cross-reference <http://api.rackspace.com/api-ref-networks.html>`__ 
 lists those requests for Cloud Networks. 
 
-The Getting Started Guide for the Cloud Networks API 
+The *Getting Started Guide for the Cloud Networks API* 
 includes detailed, parallel examples showing how you can use 
 either
 cURL or neutron to perform the same functions. 

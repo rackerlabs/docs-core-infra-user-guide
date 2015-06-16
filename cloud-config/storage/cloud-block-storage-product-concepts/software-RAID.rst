@@ -59,9 +59,9 @@ in Microsoft's
 
 Windows Server 2008 provides two ways to interact with RAID devices:
 
-* GUI via Diskmgmt.msc
+* GUI via ``Diskmgmt.msc``
 
-* CLI via Diskpart.exe
+* CLI via ``Diskpart.exe``
 
 You can read about both Diskmgmt and Diskpart
 in Microsoft's 

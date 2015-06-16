@@ -43,10 +43,10 @@ cURL.
 .. figure:: /_images/quickstart-shell.png
    :scale: 80%
    :alt: To see samples usable with cURL, 
-         click **Shell**.
+         click Shell.
          
    *To see samples usable with cURL, 
-   click **Shell**.*
+   click "Shell".*
 
 You may also be interested in exploring some 
 `alternatives to cURL <https://community.rackspace.com/developers/f/7/t/249>`__.

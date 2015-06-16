@@ -81,7 +81,7 @@ and then click **Networks**.
          
    *To move from Cloud Servers to 
    Cloud Networks details, 
-   click **Networking** and then click **Networks**.*
+   click "Networking" and then click "Networks".*
          
 By default, the list is focused on your account's home region, 
 showing all networks in that region; 

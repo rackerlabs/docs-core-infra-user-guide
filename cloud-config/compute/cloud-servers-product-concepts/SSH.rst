@@ -9,7 +9,7 @@ a server at build from the API or the Cloud Control Panel.
 Key names are associated with a public and private key pair in the API
 and the control panel. A key pair may be created or an existing public
 key uploaded and associated with a key name. If a new key pair is
-created the private key will be saved as a *.pem* suffixed file.
+created the private key will be saved as a ``.pem`` suffixed file.
 
 SSH keys are stored per region. For example, a key stored in DFW will
 not be usable in IAD unless it is also added there. SSH keys may be

@@ -17,7 +17,7 @@ between you and one or more additional users that gives those users
 rights to see and use the image. Those users become members of that
 relationship.
 
-This model is known as One-to-one sharing because, even though you can
+This model is known as *one-to-one sharing* because, even though you can
 share an image to multiple people, you are actually creating one
 relationship for each user. For example, if Producer A shares an image
 to Consumer A and Consumer B, the relationships that are created are:

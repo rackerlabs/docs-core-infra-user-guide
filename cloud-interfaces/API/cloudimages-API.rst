@@ -81,7 +81,7 @@ and then click **Saved Images**.
    
    *To move from Cloud Servers to 
    Cloud Images details, 
-   click **Servers** and then click **Saved Images**.*
+   click "Servers" and then click "Saved Images".*
      
 By default, the list is focused on your account's home region, 
 showing all images in that region; 

@@ -81,7 +81,7 @@ and then click **Block Storage Volumes**.
 
    *To move from Cloud Servers to 
    Cloud Block Storage details, 
-   click **Storage** and then click **Block Storage Volumes**.*
+   click "Storage" and then click "Block Storage Volumes".*
 
 By default, the list is focused on your account's home region, 
 showing all volumes in that region; 

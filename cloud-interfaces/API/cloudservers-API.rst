@@ -156,8 +156,8 @@ the request parameters named ``status``, ``image``, and ``flavor``
 correspond to the filters available on the Cloud Control Panel. 
 
 In the 
-*`Getting Started Guide for the Cloud Servers API <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/>`*__, 
-you can follow a 12-step tutorial to perform an essential task: 
+`Getting Started Guide for the Cloud Servers API <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/>`__, 
+you can follow a 12-step tutorial to perform an essential task:
 create a cloud server. 
 The 
 `tutorial <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__

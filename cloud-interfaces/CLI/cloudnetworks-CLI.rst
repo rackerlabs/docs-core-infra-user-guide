@@ -69,7 +69,7 @@ you can see that:
 * neutron users send a short command, 
   reusing details provided when the neutron client was configured::
    
-    ``neutron net-create Rackernet``
+    neutron net-create Rackernet
   
 * cURL users send a long command or series of commands, 
   specifying details required to perform the API request::

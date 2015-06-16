@@ -70,8 +70,8 @@ Learn about Cloud Block Storage in the Cloud Control Panel
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
 your session begins with information about your Cloud Servers.
-To see your Cloud Block Storage information, click ``Storage`` 
-and then click ``Block Storage Volumes``. 
+To see your Cloud Block Storage information, click **Storage** 
+and then click **Block Storage Volumes**. 
 
 .. figure:: /_images/StorageBlockStorageVolumes.png
    :scale: 80%
@@ -81,7 +81,7 @@ and then click ``Block Storage Volumes``.
 
    *To move from Cloud Servers to 
    Cloud Block Storage details, 
-   click Storage and then click Block Storage Volumes.*
+   click **Storage** and then click **Block Storage Volumes**.*
 
 By default, the list is focused on your account's home region, 
 showing all volumes in that region; 
@@ -147,7 +147,7 @@ you can see that:
    
    *The API cross-reference lists all API operations.*
 
-On the first ``GET`` line, click *detail* to see 
+On the first ``GET`` line, click **detail** to see 
 more about how the API handles this request.  
 The request parameters and sample response shown here can 
 help you formulate a basic *List volumes* request to the API 

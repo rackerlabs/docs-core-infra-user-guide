@@ -103,7 +103,7 @@ Panel by performing these steps:
 4. In the resulting window:
 
 * Enter your domain name (for example **mail.example.com**) in the
-   **Hostname** field.
+  **Hostname** field.
 
 * Set the Time to Live (TTL) for the record.
 

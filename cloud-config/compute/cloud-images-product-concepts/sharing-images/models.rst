@@ -26,6 +26,13 @@ to Consumer A and Consumer B, the relationships that are created are:
 
 * Producer A > shared image > Consumer B
 
+.. figure:: /_images/CloudImageSharing.png
+   :alt: The producer Jan has an independent
+	 relationship with each consumer.
+   
+   *The producer Jan has an independent
+   relationship with each consumer.*
+
 Because every sharing relationship is independent:
 
 * You can revoke the rights to the shared image from one consumer

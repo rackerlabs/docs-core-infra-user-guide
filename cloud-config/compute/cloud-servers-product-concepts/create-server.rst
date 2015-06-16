@@ -120,7 +120,7 @@ on your Cloud Server.
 For more information on the different networks 
 available to your Cloud Server, 
 see 
-:ref:`network_cloud_servers-working`.
+:ref:`network-cloud-servers-working`.
 
 Maximum outbound public bandwidth is limited to 40% 
 of the aggregate, while inbound traffic is not limited. 

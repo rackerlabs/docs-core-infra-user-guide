@@ -8,7 +8,7 @@ selecting from the available *flavors*; similar flavors are grouped as
 *flavor classes*.
 
 A flavor is the definition of the characteristics and resources that are
-assigned to a Cloud Server when it is created.
+assigned to a cloud server when it is created.
 
 For example, you can create a 1 GB server by selecting the
 **General Purpose** flavor class and the **1 GB General Purpose v1**

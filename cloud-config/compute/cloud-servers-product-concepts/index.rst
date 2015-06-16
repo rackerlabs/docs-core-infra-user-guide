@@ -40,7 +40,7 @@ This is an architectural overview of OnMetal™ servers:
    They are highly optimized for specific workloads. 
    OnMetal Compute is optimized for high traffic web servers, 
    application servers, load balancers, and queue processing. 
-   On Metal Memory is optimized for large scale caches, index searches, 
+   OnMetal Memory is optimized for large scale caches, index searches, 
    and in-memory analytics. 
    OnMetal I/O is optimized for large relational databases 
    and Online Transaction Processing (OLTP) applications.*

@@ -6,9 +6,9 @@ Cloud Block Storage and the Cloud Control Panel
 The Cloud Control Panel groups the core infrastructure services 
 as described at :ref:`cloud_tour`, 
 with 
-Cloud Block Storage (labeled *Block Storage Volumes*) 
+Cloud Block Storage (labeled **Block Storage Volumes**) 
 available 
-under *Storage*. 
+under **Storage**. 
 
 .. figure:: /_images/StorageGroup.png
    :scale: 80%

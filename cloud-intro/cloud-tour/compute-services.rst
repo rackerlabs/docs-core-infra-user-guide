@@ -18,7 +18,7 @@ Cloud Servers at a glance
   `OpenStack Nova <http://docs.openstack.org/developer/nova/>`__
 
 .. TIP::
-   **Cloud Servers** is part of the 
+   Cloud Servers is part of the 
    core infrastructure of the Rackspace cloud, 
    the focus of this guide. 
    
@@ -35,7 +35,7 @@ Cloud Images at a glance
   `OpenStack Glance <http://docs.openstack.org/developer/glance/>`__
   
 .. TIP::
-   **Cloud Images** is part of the 
+   Cloud Images is part of the 
    core infrastructure of the Rackspace cloud, 
    the focus of this guide. 
    

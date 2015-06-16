@@ -3,10 +3,6 @@
 ++++++++++
 cinder CLI
 ++++++++++ 
-Rackspace implemented 
-the OpenStack project named "cinder" 
-as our Cloud Block Storage product.
-
 The OpenStack tool primarily used for 
 managing Cloud Block Storage is written
 in Python and called *cinder*. 

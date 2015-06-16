@@ -13,7 +13,7 @@
    * In Chrome, login to your 
      `Cloud Control Panel <https://mycloud.rackspace.com>`__
      account. 
-   * From Chrome's menu, select View > Developer > Developer Tools.
+   * From Chrome's menu, select **View > Developer > Developer Tools**.
    * Experiment in the Cloud Control Panel and observe 
      behind the scenes in Chrome's developer view. 
     

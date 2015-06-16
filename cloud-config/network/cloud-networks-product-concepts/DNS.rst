@@ -92,9 +92,13 @@ Panel by performing these steps:
    DNS** option.
 
 .. figure:: /_images/CloudDNSAddReverse.png
-   :alt: Servers > Server Details > Add Record
+   :alt: While displaying details for a server,
+         click Add Record to begin defining a 
+         reverse DNS record.
    
-   **Servers > Server Details > Add Record**
+   *While displaying details for a server,
+   click Add Record to begin defining a 
+   reverse DNS record.*
 
 4. In the resulting window:
 
@@ -105,14 +109,25 @@ Panel by performing these steps:
 
 * Click **Save Record**.
 
-After you have done this, on the Server Details screen, you will see
-one record listed next to the Reverse DNS option. Clicking this link
-displays the details for the reverse DNS you just added.
+After you have done this, look again at the Server Details screen.
+If you previously had no DNS records associated with this server, 
+to the left of the **Add Record** link you had an inactive 
+**0 Records** link.
+Now that you have added a reverse DNS record, 
+that location contains an active **1 Record** link. 
+Clicking this link
+displays the details for the reverse DNS you just added, 
+confirming the association of the domain name and 
+the server's IP address.
 
 .. figure:: /_images/CloudDNSAddReverseDetails.png
-   :alt: Servers > Server Details > Add Record
+   :alt: After adding a reverse DNS record to a server,
+         click 1 Record to confirm the association between 
+         the domain name and the server's IP address.
    
-   **Servers > Server Details** 
+   *After adding a reverse DNS record to a server,
+   click 1 Record to confirm the association between 
+   the domain name and the server's IP address.*
 
 Troubleshooting your reverse DNS record
 ---------------------------------------

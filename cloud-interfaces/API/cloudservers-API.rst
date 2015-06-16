@@ -171,7 +171,7 @@ demonstrates
 Learn about Cloud Servers in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the 
-*`SDK QuickStart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`*__,
+`SDK QuickStart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`__,
 you can see some of the same steps that are documented in 
 the API's Getting Started Guide. 
 For example, both the API-focused and SDK-focused documents 
@@ -188,7 +188,7 @@ To see examples in a specific language,
 click that language's name in the list across the top of the page. 
 For example, to see Cloud Servers code samples coded in python, 
 go to the 
-*`SDK QuickStart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`*__ 
+`SDK QuickStart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`__ 
 and click **PYTHON**. 
 
 .. figure:: /_images/CloudServersSDKpython.png

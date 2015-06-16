@@ -32,8 +32,8 @@ this multi-step process:
 For many popular software packages and their enabling stacks, Rackspace
 offers an easier way. When you create a cloud server, you can choose to
 install specific software in addition to the operating system. To do
-that through the Cloud Control Panel, choose "Create Stack" rather than
-"Create Server", then choose a template describing the software you want
+that through the Cloud Control Panel, choose **Create Stack** rather than
+**Create Server**, then choose a template describing the software you want
 to install. We frequently expand the list of templates; as of April
 20, 2015, these templates are available:
 

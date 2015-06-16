@@ -3,10 +3,6 @@
 ++++++++++
 glance CLI
 ++++++++++ 
-Rackspace implemented 
-the OpenStack project named "glance" 
-as our Cloud Images product.
-
 The OpenStack tool primarily used for 
 managing Cloud Images is written
 in Python and called *glance*. 

@@ -13,16 +13,16 @@ create a server.
 For example, compare the disk configuration offered for a server
 with 60 GB RAM in two different flavor classes:
 
-* In the *I/O* flavor class, the configuration for this server
+* In the I/O flavor class, the configuration for this server
   includes 40 GB system disk and 600 GB data disk 
   (addressable as two disks).
 
-* In the *Compute* flavor class, the configuration for this
+* In the Compute flavor class, the configuration for this
   server includes 50 GB system disk and no data disk.
 
 System disk
 ^^^^^^^^^^^
-The system disk, also called boot disk, is the first disk the server
+The *system disk*, also called *boot disk*, is the first disk the server
 will attempt to access and boot from, 
 much like the first physical hard
 drive plugged into a physical computer. 

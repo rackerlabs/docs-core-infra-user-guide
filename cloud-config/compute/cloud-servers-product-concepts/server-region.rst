@@ -37,7 +37,7 @@ Panel to describe the resources needed for a 1 GB standard instance of a
 cloud server in the Standard flavor class, running Ubuntu in the DFW
 region.
 
-***Step 1: Server Details***
+**Step 1: Server Details**
 
 Choose a region that is near many of your users, reducing their network
 transfer time.
@@ -49,7 +49,7 @@ transfer time.
    *Choose a region. 
    Your choice can affect network delivery speed.*
 
-***Step 2: Image***
+**Step 2: Image**
 
 Choose an image that supports the applications you intend to run.
 
@@ -60,7 +60,7 @@ Choose an image that supports the applications you intend to run.
    *Choose an operating system. 
    Your choice can affect your cost.*
 
-***Step 3: Flavor***
+**Step 3: Flavor**
 
 Choose a flavor that offers adequate capacity and the price you want to
 pay. Moving the blue slider up and down changes initial resource sizes;
@@ -77,9 +77,9 @@ After you submit your request, nova-scheduler, the component responsible
 for appropriately assigning a new Cloud Server to a physical host,
 compares two sources of information:
 
-* your detailed server-creation request
+* Your detailed server-creation request
 
-* details describing the current capacity of physical hosts available
+* Details describing the current capacity of physical hosts available
   in the region you selected
 
 Nova-scheduler then places your server on a physical host capable of
@@ -89,5 +89,5 @@ By default, nova-scheduler does not place multiple cloud servers
 belonging to the same account on the same physical host. However, it is
 possible to override this default in some circumstances. Every
 server has a *Host ID*, identifying its physical host; by examining the
-*Host ID* for each Cloud Server, you can determine whether any of your
+Host ID for each Cloud Server, you can determine whether any of your
 Cloud Servers have been placed on the same physical host.

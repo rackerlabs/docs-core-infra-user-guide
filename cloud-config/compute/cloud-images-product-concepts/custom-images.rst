@@ -17,14 +17,14 @@ there’s a good chance that your applications are the type that you may
 need to scale horizontally by creating more servers of the same kind.
 
 There are two general approaches you can take for this task:
-“bootstrapping” or “baking”.
+*bootstrapping* or *baking*.
 
-* ***Bootstrapping***: Whenever you need a new server, use a Rackspace
+* **Bootstrapping**: Whenever you need a new server, use a Rackspace
   base image to boot your server and then use a configuration
   management tool such as Chef or Puppet to install the extra packages
   and make the appropriate configuration changes.
 
-* ***Baking***: Use a Rackspace base image to boot your first server.
+* **Baking**: Use a Rackspace base image to boot your first server.
   Then install your packages on the server, make the appropriate
   configuration changes, and when you’re sure that everything is set up
   properly, create an image of the server. Then when you need to scale

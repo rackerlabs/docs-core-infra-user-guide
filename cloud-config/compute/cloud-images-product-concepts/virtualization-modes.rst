@@ -51,5 +51,5 @@ Boot loader
 Disk config
 '''''''''''
 * Automatic disk configuration can be used with PV images but fails
-   with PVHVM images. The error message looks as follows: ERROR:
-   Requested image $UUID has automatic disk resize disabled. (HTTP 400)
+   with PVHVM images. The error message looks as follows: ``ERROR:
+   Requested image $UUID has automatic disk resize disabled. (HTTP 400)``

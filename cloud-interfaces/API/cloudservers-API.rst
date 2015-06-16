@@ -141,7 +141,7 @@ you can see that:
    
    *The API cross-reference lists all API operations*
 
-On the first ``GET`` line, click *detail* to see 
+On the first ``GET`` line, click **detail** to see 
 more about how the API handles this request.  
 The request parameters and sample response shown here can 
 help you formulate a basic *List servers* request to the API 
@@ -151,16 +151,15 @@ response.
 You can use request parameters to construct a request that returns 
 a list of only the Cloud Servers 
 that meet specific criteria.  
-In the sample response, 
-The request parameters named ``status``, ``image``, and ``flavor`` 
+In the sample response,
+the request parameters named ``status``, ``image``, and ``flavor`` 
 correspond to the filters available on the Cloud Control Panel. 
 
 In the 
 `Getting Started Guide for the Cloud Servers API <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/>`__, 
-you can follow a 12-step tutorial to perform an essential task: 
+you can follow a 12-step tutorial to perform an essential task:
 create a cloud server. 
-In the Getting Started Guide, 
-the 
+The 
 `tutorial <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`__
 begins with instructions on creating a Rackspace account 
 and concludes with deleting the Cloud Server that was created. 
@@ -190,7 +189,7 @@ click that language's name in the list across the top of the page.
 For example, to see Cloud Servers code samples coded in python, 
 go to the 
 `SDK QuickStart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`__ 
-and click *python*. 
+and click **PYTHON**. 
 
 .. figure:: /_images/CloudServersSDKpython.png
    :scale: 80%
@@ -216,7 +215,7 @@ For example, if you code in python,
 
 * Follow the installation instructions to give yourself 
   a local copy of the pyrax (python for Rackspace) SDK. 
-* Click *documentation* to open the 
+* Click **documentation** to open the 
   `GitHub repository for the pyrax SDK <https://github.com/rackspace/pyrax/>`__. 
 * In that pyrax repository, at 
   `/docs/cloud_servers.md <https://github.com/rackspace/pyrax/blob/master/docs/cloud_servers.md>`__,

@@ -20,7 +20,7 @@ Cloud Block Storage at a glance
   `OpenStack Cinder <http://docs.openstack.org/developer/cinder/>`__  
 
 .. TIP::
-   **Cloud Block Storage** is part of the 
+   Cloud Block Storage is part of the 
    core infrastructure of the Rackspace cloud, 
    the focus of this guide. 
    

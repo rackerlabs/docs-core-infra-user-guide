@@ -3,10 +3,6 @@
 ++++++++
 nova CLI
 ++++++++ 
-Rackspace implemented 
-the OpenStack project named "nova" 
-as our Next Gen Cloud Servers product.
-
 The OpenStack tool primarily used for managing Cloud Servers is written
 in Python and called *nova*. 
 It is also known as *novaclient* or
@@ -15,8 +11,8 @@ It is also known as *novaclient* or
 Rackspace provides some additional functionality on top of the base
 OpenStack environment through OpenStack extensions. 
 To have the
-best experience when using the *novaclient* with Rackspace, you should
-install the *rackspace-novaclient* package. It will conveniently
+best experience when using the novaclient with Rackspace, you should
+install the ``rackspace-novaclient`` package. It will conveniently
 install not only the required novaclient componnents, but also any
 necessary or useful extensions and plugins that are applicable to the
 Rackspace cloud.
@@ -26,7 +22,7 @@ We recommend that you use the
 to install novaclient, as it will handle installing dependencies and
 required packages for you.
 
-Alternatively, you can download the rackspace-novaclient package from
+Alternatively, you can download the ``rackspace-novaclient`` package from
 the 
 `GitHub repository for rackspace-novaclient <https://github.com/rackerlabs/rackspace-novaclient>`__.
 

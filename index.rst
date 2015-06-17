@@ -12,9 +12,9 @@ at the heart of the Rackspace cloud:
 +----------------------------------------------+-----------------------------------------------+
 | **Cloud Servers**                            | * :ref:`cloud-servers-product-concepts`       |
 |                                              | * :ref:`cloud-servers-product-actions`        |
-| .. image::                                   | * :ref:`cloudservers-GUI`                     |
-|    /_images/logo-cloudservers-50x50.png      | * :ref:`cloudservers-CLI`                     |
-|   :alt: Cloud Servers provides               | * :ref:`cloudservers-API`                     |
+| .. image::                                   | * :ref:`cloudservers-gui`                     |
+|    /_images/logo-cloudservers-50x50.png      | * :ref:`cloudservers-cli`                     |
+|   :alt: Cloud Servers provides               | * :ref:`cloudservers-api`                     |
 |         computing power.                     |                                               |
 |   :align: center                             |                                               |
 |                                              |                                               |
@@ -24,9 +24,9 @@ at the heart of the Rackspace cloud:
 +----------------------------------------------+-----------------------------------------------+
 | **Cloud Networks**                           | * :ref:`cloud-networks-product-concepts`      |
 |                                              | * :ref:`cloud-networks-product-actions`       |
-| .. image::                                   | * :ref:`cloudnetworks-GUI`                    |
-|    /_images/logo-cloudnetworks-50x50.png     | * :ref:`cloudnetworks-CLI`                    |
-|   :alt: Cloud Networks connects              | * :ref:`cloudnetworks-API`                    |
+| .. image::                                   | * :ref:`cloudnetworks-gui`                    |
+|    /_images/logo-cloudnetworks-50x50.png     | * :ref:`cloudnetworks-cli`                    |
+|   :alt: Cloud Networks connects              | * :ref:`cloudnetworks-api`                    |
 |         Cloud Servers.                       |                                               |
 |   :align: center                             |                                               |
 |                                              |                                               |
@@ -36,9 +36,9 @@ at the heart of the Rackspace cloud:
 +----------------------------------------------+-----------------------------------------------+
 | **Cloud Images**                             | * :ref:`cloud-images-product-concepts`        |
 |                                              | * :ref:`cloud-images-product-actions`         |
-| .. image::                                   | * :ref:`cloudimages-GUI`                      |
-|    /_images/logo-cloudimages-50x50.png       | * :ref:`cloudimages-CLI`                      |
-|   :alt: Cloud Images standardizes            | * :ref:`cloudimages-API`                      |
+| .. image::                                   | * :ref:`cloudimages-gui`                      |
+|    /_images/logo-cloudimages-50x50.png       | * :ref:`cloudimages-cli`                      |
+|   :alt: Cloud Images standardizes            | * :ref:`cloudimages-api`                      |
 |         cloud server creation.               |                                               |
 |   :align: center                             |                                               |
 |                                              |                                               |
@@ -48,9 +48,9 @@ at the heart of the Rackspace cloud:
 +----------------------------------------------+-----------------------------------------------+
 | **Cloud Block Storage**                      | * :ref:`cloud-block-storage-product-concepts` |
 |                                              | * :ref:`cloud-block-storage-product-actions`  |
-| .. image::                                   | * :ref:`cloudblockstorage-GUI`                |
-|    /_images/logo-cloudblockstorage-50x50.png | * :ref:`cloudblockstorage-CLI`                |
-|   :alt: Cloud Block Storage adds             | * :ref:`cloudblockstorage-API`                |
+| .. image::                                   | * :ref:`cloudblockstorage-gui`                |
+|    /_images/logo-cloudblockstorage-50x50.png | * :ref:`cloudblockstorage-cli`                |
+|   :alt: Cloud Block Storage adds             | * :ref:`cloudblockstorage-api`                |
 |         cloud server storage.                |                                               |
 |   :align: center                             |                                               |
 |                                              |                                               |

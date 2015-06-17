@@ -1,4 +1,4 @@
-.. _cloud-interfaces-GUI:
+.. _cloud-interfaces-gui:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 GUI: Rackspace Cloud Control Panel

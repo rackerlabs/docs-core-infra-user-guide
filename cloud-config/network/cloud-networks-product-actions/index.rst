@@ -13,9 +13,9 @@ Actions can relate to a network, a subnet, or a port.
 To learn how to perform Cloud Networks actions using your choice of interface, 
 begin at 
 
-  * :ref:`cloudnetworks-GUI`
-  * :ref:`cloudnetworks-CLI`
-  * :ref:`cloudnetworks-API`
+  * :ref:`cloudnetworks-gui`
+  * :ref:`cloudnetworks-cli`
+  * :ref:`cloudnetworks-api`
 
 Network actions
 ---------------

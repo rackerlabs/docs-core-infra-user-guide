@@ -1,4 +1,4 @@
-.. _cloud-interfaces-CLI:
+.. _cloud-interfaces-cli:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 CLI: command-line interfaces and tools

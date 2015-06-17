@@ -1,4 +1,4 @@
-.. _moreinfo-API:
+.. _moreinfo-api:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Learning more about SDKs and APIs

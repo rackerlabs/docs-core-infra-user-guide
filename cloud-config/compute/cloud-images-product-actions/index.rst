@@ -13,9 +13,9 @@ Actions can relate to an image, image sharing, image tags, image tasks, and imag
 To learn how to perform Cloud Images actions using your choice of interface, 
 begin at 
 
-* :ref:`cloudimages-GUI`
-* :ref:`cloudimages-CLI`
-* :ref:`cloudimages-API`
+* :ref:`cloudimages-gui`
+* :ref:`cloudimages-cli`
+* :ref:`cloudimages-api`
 
 Image actions
 -------------

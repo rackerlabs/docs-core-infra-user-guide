@@ -63,7 +63,7 @@ performance quadrupled using Cloud Block Storage with SSD
 as compared to Cloud Block Storage with SATA. 
 
 Local storage types associated with Cloud Servers flavors
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Choosing a flavor class for your server also means choosing what
 kind of local storage is available to that server.
 

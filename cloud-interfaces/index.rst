@@ -49,6 +49,6 @@ based on personal preference or business needs.
 .. toctree:: :hidden:
    :maxdepth: 6
 
-   GUI/index
-   CLI/index
-   API/index
+   gui/index
+   cli/index
+   api/index

@@ -14,9 +14,9 @@ in some cases, supported by Rackspace.
 .. toctree:: :hidden:
    :maxdepth: 2
 
-   setup-CLI
-   cloudservers-CLI
-   cloudnetworks-CLI
-   cloudimages-CLI
-   cloudblockstorage-CLI
-   moreinfo-CLI
+   setup-cli
+   cloudservers-cli
+   cloudnetworks-cli
+   cloudimages-cli
+   cloudblockstorage-cli
+   moreinfo-cli

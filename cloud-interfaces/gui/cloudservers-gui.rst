@@ -4,7 +4,7 @@
 Cloud Servers and the Cloud Control Panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The Cloud Control Panel groups the core infrastructure services 
-as described at :ref:`cloud_tour`, 
+as described at :ref:`cloud-tour`, 
 with 
 Cloud Servers (labeled **Cloud Servers**) 
 and Cloud Images (labeled **Saved Images**) both available 

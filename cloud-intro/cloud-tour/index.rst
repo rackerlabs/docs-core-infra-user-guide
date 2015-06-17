@@ -1,4 +1,4 @@
-.. _cloud_tour:
+.. _cloud-tour:
 
 -----------------------------------------------
 Touring the Rackspace cloud, service by service

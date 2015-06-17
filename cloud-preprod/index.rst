@@ -24,9 +24,9 @@ your configuration to grow as needed.
    to perform some test interactions, 
    click the name of one of the data centers shown on that page.  
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 6
 
    security

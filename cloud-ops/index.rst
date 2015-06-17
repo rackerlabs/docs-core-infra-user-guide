@@ -29,9 +29,9 @@ trouble can happen,
 and 
 you may sometimes need help. 
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 6
 
    limits

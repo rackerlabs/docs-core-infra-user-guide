@@ -73,9 +73,9 @@ or compute resources:
    10 Gb/s network, OnMetal Compute is perfect for rendering
    web pages or pushing packets.
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    choose-flavor-class

@@ -89,9 +89,9 @@ image. The image producer can and should delete these members from the
 image if they no longer have reason to be included.
 
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    models

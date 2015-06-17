@@ -71,9 +71,9 @@ API documentation, under
   -H "Accept: application/json" \
   -H "X-Auth-Token: yourAuthToken"``
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2  
 
    cinder

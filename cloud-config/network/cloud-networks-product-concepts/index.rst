@@ -13,9 +13,9 @@ and, with RackConnect,
 with dedicated servers operating outside the cloud. 
 
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    cloudnetworks-usecases

@@ -8,9 +8,9 @@ Cloud Images, Cloud Block Storage--to create the core of your cloud
 configuration. After you've done that, take further action to make your cloud
 configuration secure, recoverable, and manageable.
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 6
 
    compute/index

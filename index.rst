@@ -69,10 +69,7 @@ We want to hear what you think about this guide.
 If you have a suggestion regarding the content,
 please :ref:`contactus`.
 
-
-Contents:
-
-.. toctree::
+.. toctree:: :hidden:
    :maxdepth: 2
 
    cloud-guide-intro/index

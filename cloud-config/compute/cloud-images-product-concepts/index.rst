@@ -10,9 +10,9 @@ images in the Virtual Hard Disk (VHD) format. The VHD format was
 developed by Microsoft and is used by the Microsoft Hyper-V and Citrix
 XenServer hypervisors, among others.
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    image-properties

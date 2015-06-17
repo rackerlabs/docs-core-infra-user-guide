@@ -22,9 +22,9 @@ Cloud Networks is a core infrastructure product in the Network category.
 
 ----
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    cloud-networks-product-concepts/index

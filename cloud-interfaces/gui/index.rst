@@ -77,9 +77,9 @@ cloud resources.
 .. toctree:: :hidden:
    :maxdepth: 2
 
-   setup-GUI
-   cloudservers-GUI
-   cloudnetworks-GUI
-   cloudimages-GUI
-   cloudblockstorage-GUI
-   moreinfo-GUI
+   setup-gui
+   cloudservers-gui
+   cloudnetworks-gui
+   cloudimages-gui
+   cloudblockstorage-gui
+   moreinfo-gui

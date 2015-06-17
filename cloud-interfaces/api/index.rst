@@ -30,11 +30,11 @@ designed for this purpose.
    :maxdepth: 2
 
    devopstools
-   SDK
-   APIdirect
-   setup-API
-   cloudservers-API
-   cloudnetworks-API
-   cloudimages-API
-   cloudblockstorage-API
-   moreinfo-API
+   sdk
+   direct-api-access
+   setup-api
+   cloudservers-api
+   cloudnetworks-api
+   cloudimages-api
+   cloudblockstorage-api
+   moreinfo-api

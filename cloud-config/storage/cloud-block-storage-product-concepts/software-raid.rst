@@ -1,4 +1,4 @@
-.. _software-RAID:
+.. _software-raid:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software RAID for Cloud Block Storage

@@ -1,4 +1,4 @@
-.. _SSH:
+.. _ssh:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Managing access with SSH keys

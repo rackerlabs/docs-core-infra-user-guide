@@ -25,4 +25,4 @@ with dedicated servers operating outside the cloud.
    network-rackconnect
    publicnet
    servicenet
-   DNS
+   dns

@@ -57,7 +57,7 @@ This is an architectural overview of OnMetal™ servers:
    metadata/index
    boot/index
    nova-agent
-   SSH
+   ssh
    diskconfig
    host-issues
    time

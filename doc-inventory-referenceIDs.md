@@ -59,8 +59,6 @@ Link to a page within the site by using its reference ID.
 
 **Inventory**
 
-APIdirect                              = /cloud-interfaces/API/APIdirect.rst
-
 assumptions                            = /cloud-guide-intro/assumptions.rst
 
 backups                                = /cloud-preprod/backups.rst
@@ -79,7 +77,7 @@ check-region-flavor-class              = /cloud-config/compute/cloud-servers-pro
 
 choose-flavor-class                    = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/choose-flavor-class.rst
 
-cinder                                 = /cloud-interfaces/CLI/cinder.rst
+cinder                                 = /cloud-interfaces/cli/cinder.rst
 
 cloud-config                           = /cloud-config/index.rst
 
@@ -111,15 +109,13 @@ cloud-init-boot                        = /cloud-config/compute/cloud-servers-pro
 
 cloud-interfaces                       = /cloud-interfaces/index.rst
 
-cloud-interfaces-API                   = /cloud-interfaces/API/index.rst
+cloud-interfaces-api                   = /cloud-interfaces/api/index.rst
 
-cloud-interfaces-CLI                   = /cloud-interfaces/CLI/index.rst
+cloud-interfaces-cli                   = /cloud-interfaces/cli/index.rst
 
-cloud-interfaces-GUI                   = /cloud-interfaces/GUI/index.rst
+cloud-interfaces-gui                   = /cloud-interfaces/gui/index.rst
 
 cloud-intro                            = /cloud-intro/index.rst
-
-cloud-networks-DNS                     = /cloud-config/network/cloud-networks-product-concepts/DNS.rst
 
 cloud-networks-product-actions         = /cloud-config/network/cloud-networks-product-actions/index.rst
 
@@ -143,37 +139,37 @@ cloud-servers-product-concepts         = /cloud-config/compute/cloud-servers-pro
 
 cloud-tour                             = /cloud-intro/cloud-tour/index.rst
 
-cloudblockstorage-API                  = /cloud-interfaces/API/cloudblockstorage-API.rst
-cloudblockstorage-APIdemonstration     = /cloud-interfaces/API/cloudblockstorage-API.rst
-cloudblockstorage-APIinvestigation     = /cloud-interfaces/API/cloudblockstorage-API.rst
+cloudblockstorage-api                  = /cloud-interfaces/api/cloudblockstorage-api.rst
+cloudblockstorage-apidemonstration     = /cloud-interfaces/api/cloudblockstorage-api.rst
+cloudblockstorage-apiinvestigation     = /cloud-interfaces/api/cloudblockstorage-api.rst
 
-cloudblockstorage-CLI                  = /cloud-interfaces/CLI/cloudblockstorage-CLI.rst
+cloudblockstorage-cli                  = /cloud-interfaces/cli/cloudblockstorage-cli.rst
 
-cloudblockstorage-GUI                  = /cloud-interfaces/GUI/cloudblockstorage-GUI.rst
+cloudblockstorage-gui                  = /cloud-interfaces/gui/cloudblockstorage-gui.rst
 
-cloudimages-API                        = /cloud-interfaces/API/cloudimages-API.rst
-cloudimages-APIdemonstration           = /cloud-interfaces/API/cloudimages-API.rst
-cloudimages-APIinvestigation           = /cloud-interfaces/API/cloudimages-API.rst
+cloudimages-api                        = /cloud-interfaces/api/cloudimages-api.rst
+cloudimages-apidemonstration           = /cloud-interfaces/api/cloudimages-api.rst
+cloudimages-apiinvestigation           = /cloud-interfaces/api/cloudimages-api.rst
 
-cloudimages-CLI                        = /cloud-interfaces/CLI/cloudimages-CLI.rst
+cloudimages-cli                        = /cloud-interfaces/cli/cloudimages-cli.rst
 
-cloudimages-GUI                        = /cloud-interfaces/GUI/cloudimages-GUI.rst
+cloudimages-gui                        = /cloud-interfaces/gui/cloudimages-gui.rst
 
-cloudnetworks-API                      = /cloud-interfaces/API/cloudnetworks-API.rst
-cloudnetworks-APIdemonstration         = /cloud-interfaces/API/cloudnetworks-API.rst
-cloudnetworks-APIinvestigation         = /cloud-interfaces/API/cloudnetworks-API.rst
+cloudnetworks-api                      = /cloud-interfaces/api/cloudnetworks-api.rst
+cloudnetworks-apidemonstration         = /cloud-interfaces/api/cloudnetworks-api.rst
+cloudnetworks-apiinvestigation         = /cloud-interfaces/api/cloudnetworks-api.rst
 
-cloudnetworks-CLI                      = /cloud-interfaces/CLI/cloudnetworks-CLI.rst
+cloudnetworks-cli                      = /cloud-interfaces/cli/cloudnetworks-cli.rst
 
-cloudnetworks-GUI                      = /cloud-interfaces/GUI/cloudnetworks-GUI.rst
+cloudnetworks-gui                      = /cloud-interfaces/gui/cloudnetworks-gui.rst
 
-cloudservers-API                       = /cloud-interfaces/API/cloudservers-API.rst
-cloudservers-APIdemonstration          = /cloud-interfaces/API/cloudservers-API.rst
-cloudservers-APIinvestigation          = /cloud-interfaces/API/cloudservers-API.rst
+cloudservers-api                       = /cloud-interfaces/api/cloudservers-api.rst
+cloudservers-apidemonstration          = /cloud-interfaces/api/cloudservers-api.rst
+cloudservers-apiinvestigation          = /cloud-interfaces/api/cloudservers-api.rst
 
-cloudservers-CLI                       = /cloud-interfaces/CLI/cloudservers-CLI.rst
+cloudservers-cli                       = /cloud-interfaces/cli/cloudservers-cli.rst
 
-cloudservers-GUI                       = /cloud-interfaces/GUI/cloudservers-GUI.rst
+cloudservers-gui                       = /cloud-interfaces/gui/cloudservers-gui.rst
 
 contactus                              = /cloud-guide-intro/contactus.rst
 
@@ -183,7 +179,7 @@ core-infrastructure                    = /cloud-intro/core-infrastructure.rst
 
 create-server                          = /cloud-config/compute/cloud-servers-product-concepts/create-server.rst
 
-curl                                   = /cloud-interfaces/CLI/curl.rst
+curl                                   = /cloud-interfaces/cli/curl.rst
 
 custom-images                          = /cloud-config/compute/cloud-images-product-concepts/custom-images.rst
 
@@ -193,17 +189,21 @@ data-immutability                      = /cloud-config/compute/cloud-images-prod
 
 default-base-images                    = /cloud-config/compute/cloud-images-product-concepts/base-images/default-base-images.rst
 
-devopstools                            = /cloud-interfaces/API/devopstools.rst
+devopstools                            = /cloud-interfaces/api/devopstools.rst
+
+direct-api-access                      = /cloud-interfaces/api/direct-api-access.rst
 
 disk-storage                           = /cloud-config/storage/cloud-block-storage-product-concepts/disk-storage.rst
 
 diskconfig                             = /cloud-config/compute/cloud-servers-product-concepts/diskconfig.rst
 
+dns                                    = /cloud-config/network/cloud-networks-product-concepts/dns.rst
+
 document-history                       = /cloud-guide-intro/document-history.rst
 
 drive-boot                             = /cloud-config/compute/cloud-servers-product-concepts/boot/drive-boot.rst
 
-glance                                 = /cloud-interfaces/CLI/glance.rst
+glance                                 = /cloud-interfaces/cli/glance.rst
 
 host-issues                            = /cloud-config/compute/cloud-servers-product-concepts/host-issues.rst
 
@@ -223,11 +223,11 @@ monitoring                             = /cloud-preprod/monitoring.rst
 
 moreinfo                               = /cloud-guide-intro/moreinfo.rst
 
-moreinfo-API                           = /cloud-interfaces/API/moreinfo-API.rst
+moreinfo-api                           = /cloud-interfaces/api/moreinfo-api.rst
 
-moreinfo-CLI                           = /cloud-interfaces/CLI/moreinfo-CLI.rst
+moreinfo-cli                           = /cloud-interfaces/cli/moreinfo-cli.rst
 
-moreinfo-GUI                           = /cloud-interfaces/GUI/moreinfo-GUI.rst
+moreinfo-gui                           = /cloud-interfaces/gui/moreinfo-gui.rst
 
 network-cloud-servers                  = /cloud-config/network/cloud-networks-product-concepts/network-cloud-servers.rst
 network-cloud-servers-working          = /cloud-config/network/cloud-networks-product-concepts/network-cloud-servers.rst
@@ -236,9 +236,9 @@ network-onmetal-servers                = /cloud-config/network/cloud-networks-pr
 
 network-rackconnect                    = /cloud-config/network/cloud-networks-product-concepts/network-rackconnect.rst
 
-neutron                                = /cloud-interfaces/CLI/neutron.rst
+neutron                                = /cloud-interfaces/cli/neutron.rst
 
-nova                                   = /cloud-interfaces/CLI/nova.rst
+nova                                   = /cloud-interfaces/cli/nova.rst
 
 nova-agent                             = /cloud-config/compute/cloud-servers-product-concepts/nova-agent.rst
 
@@ -252,7 +252,7 @@ publicnet                              = /cloud-config/network/cloud-networks-pr
 
 scaling                                = /cloud-preprod/scaling.rst
 
-SDK                                    = /cloud-interfaces/API/SDK.rst
+sdk                                   = /cloud-interfaces/api/sdk.rst
 
 security                               = /cloud-preprod/security.rst
 
@@ -266,23 +266,23 @@ servicenet                             = /cloud-config/network/cloud-networks-pr
 
 set-metadata                           = /cloud-config/compute/cloud-servers-product-concepts/metadata/set-metadata.rst
 
-setup-API                              = /cloud-interfaces/API/setup-API.rst
+setup-api                              = /cloud-interfaces/api/setup-api.rst
 
-setup-CLI                              = /cloud-interfaces/CLI/setup-CLI.rst
+setup-cli                              = /cloud-interfaces/cli/setup-cli.rst
 
-setup-GUI                              = /cloud-interfaces/GUI/setup-GUI.rst
+setup-gui                              = /cloud-interfaces/gui/setup-gui.rst
 
 show-metadata                          = /cloud-config/compute/cloud-servers-product-concepts/metadata/show-metadata.rst
 
-software-RAID                          = /cloud-config/storage/cloud-block-storage-product-concepts/software-RAID.rst
+software-raid                          = /cloud-config/storage/cloud-block-storage-product-concepts/software-raid.rst
 
 somethingnew                           = /cloud-ops/somethingnew.rst
 
-SSH                                    = /cloud-config/compute/cloud-servers-product-concepts/SSH.rst
+ssh                                    = /cloud-config/compute/cloud-servers-product-concepts/ssh.rst
 
 stack                                  = /cloud-preprod/stack.rst 
 
-supernova                              = /cloud-interfaces/CLI/supernova.rst
+supernova                              = /cloud-interfaces/cli/supernova.rst
 
 support                                = /cloud-ops/support.rst
 

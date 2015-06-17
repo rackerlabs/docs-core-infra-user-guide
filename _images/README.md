@@ -156,16 +156,16 @@ To include any image in the guide:
 **Inventory of screenshots**
 
 * **AccountResourceLimits.png** 
-  * used at /cloud-interfaces/GUI/index.html
+  * used at /cloud-interfaces/gui/index.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-18
   * contributed by Rose Coste
 
 * **ChromeViewDeveloper.png** 
-  * used at /cloud-interfaces/API/cloudservers-API.html
-  * used at /cloud-interfaces/API/cloudnetworks-API.html
-  * used at /cloud-interfaces/API/cloudimages-API.html
-  * used at /cloud-interfaces/API/cloudblockstorage-API.html
+  * used at /cloud-interfaces/API/cloudservers-api.html
+  * used at /cloud-interfaces/API/cloudnetworks-api.html
+  * used at /cloud-interfaces/API/cloudimages-api.html
+  * used at /cloud-interfaces/API/cloudblockstorage-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-15
   * contributed by Rose Coste
@@ -177,79 +177,79 @@ To include any image in the guide:
   * contributed by Rose Coste
 
 * **CloudBlockStorage0volumes.png** 
-  * used at /cloud-interfaces/API/cloudblockstorage-API.html
+  * used at /cloud-interfaces/API/cloudblockstorage-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-04-30
   * contributed by Rose Coste
   
 * **CloudBlockStorage1volume.png** 
-  * used at /cloud-interfaces/API/cloudblockstorage-API.html
+  * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-04-30
   * contributed by Rose Coste
   
  * **CloudBlockStorageListVolumesGET.png** 
-  * used at /cloud-interfaces/API/cloudblockstorage-API.html
+  * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from http://api.rackspace.com/ 
   * collection date 2015-04-30
   * contributed by Rose Coste 
 
 * **CloudBlockStorageSDKPHP.png** 
-  * used at /cloud-interfaces/API/cloudblockstorage-API.html
+  * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from https://developer.rackspace.com/docs/cloud-block-storage/getting-started/ 
   * collection date 2015-04-30
   * contributed by Rose Coste
 
 * **CloudDNSAddReverse.png** 
-  * used at /cloud-config/network/cloud-networks-product-concepts/DNS.html
+  * used at /cloud-config/network/cloud-networks-product-concepts/dns.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-06-16 
   * contributed by Rose Coste 
   
 * **CloudDNSAddReverseDetails.png** 
-  * used at /cloud-config/network/cloud-networks-product-concepts/DNS.html
+  * used at /cloud-config/network/cloud-networks-product-concepts/dns.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-06-16
   * contributed by Rose Coste 
   
 * **CloudDNSCreateDomain.png** 
-  * used at /cloud-config/network/cloud-networks-product-concepts/DNS.html
+  * used at /cloud-config/network/cloud-networks-product-concepts/dns.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-03-01 
   * contributed by Rose Coste
   
 * **CloudImagesListAll.png** 
-  * used at /cloud-interfaces/API/cloudimages-API.html
+  * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-11
   * contributed by Rose Coste 
   
 * **CloudImagesListImagesGET.png** 
-  * used at /cloud-interfaces/API/cloudimages-API.html
+  * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from http://api.rackspace.com/ 
   * collection date 2015-05-11
   * contributed by Rose Coste 
   
 * **CloudImagesSDKpython.png** 
-  * used at /cloud-interfaces/API/cloudimages-API.html
+  * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from https://developer.rackspace.com/docs/cloud-images/getting-started/ 
   * collection date 2015-05-11
   * contributed by Rose Coste 
   
 * **CloudNetworksListAll.png** 
-  * used at /cloud-interfaces/API/cloudnetworks-API.html
+  * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-07
   * contributed by Rose Coste 
   
 * **CloudNetworksListNetworksGET.png** 
-  * used at /cloud-interfaces/API/cloudnetworks-API.html
+  * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from http://api.rackspace.com/ 
   * collection date 2015-05-07
   * contributed by Rose Coste 
   
 * **CloudNetworksSDKjava.png** 
-  * used at /cloud-interfaces/API/cloudnetworks-API.html
+  * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from https://developer.rackspace.com/docs/cloud-networks/getting-started/ 
   * collection date 2015-05-07
   * contributed by Rose Coste 
@@ -291,25 +291,25 @@ To include any image in the guide:
   * contributed by Rose Coste
   
 * **CloudServersListAll.png** 
-  * used at /cloud-interfaces/API/cloudservers-API.html
+  * used at /cloud-interfaces/api/cloudservers-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-04-28
   * contributed by Rose Coste
   
 * **CloudServersListServersGET.png** 
-  * used at /cloud-interfaces/API/cloudservers-API.html
+  * used at /cloud-interfaces/api/cloudservers-api.html
   * collected from http://api.rackspace.com/ 
   * collection date 2015-04-29
   * contributed by Rose Coste
 
 * **CloudServersSDKpython.png** 
-  * used at /cloud-interfaces/API/cloudservers-API.html
+  * used at /cloud-interfaces/api/cloudservers-api.html
   * collected from https://developer.rackspace.com/docs/cloud-servers/getting-started/ 
   * collection date 2015-04-28
   * contributed by Rose Coste
 
 * **CreateTicketServersResourceLimit.png** 
-  * used at /cloud-interfaces/GUI/index.html
+  * used at /cloud-interfaces/gui/index.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-18
   * contributed by Rose Coste
@@ -322,56 +322,56 @@ To include any image in the guide:
   * contributed by Rose Coste
 
 * **NetworkingGroup.png** 
-  * used at /cloud-interfaces/GUI/cloudnetworks-GUI.html
+  * used at /cloud-interfaces/gui/cloudnetworks-gui.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-13
   * contributed by Rose Coste
   
 * **NetworkingNetworks.png** 
-  * used at /cloud-interfaces/API/cloudnetworks-API.html
+  * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-07
   * contributed by Rose Coste  
   
 * **quickstart-shell.png** 
-  * used at /cloud-interfaces/CLI/curl.html
+  * used at /cloud-interfaces/cli/curl.html
   * collected from https://developer.rackspace.com/docs/cloud-block-storage/getting-started/ 
   * collection date 2015-05-26
   * contributed by Rose Coste
   
-* **ReleaseNotesFeed-API.png** 
-  * used at /cloud-interfaces/API/moreinfo-API.html
+* **ReleaseNotesFeed-api.png** 
+  * used at /cloud-interfaces/API/moreinfo-api.html
   * collected from http://docs.rackspace.com/cbs/api/v1.0/cbs-releasenotes/ 
   * collection date 2015-05-19
   * contributed by Rose Coste 
 
 * **ReleaseNotesFeed-SDK.png** 
-  * used at /cloud-interfaces/API/moreinfo-API.html
+  * used at /cloud-interfaces/api/moreinfo-api.html
   * collected from https://developer.rackspace.com/sdks/ 
   * collection date 2015-05-19
   * contributed by Rose Coste 
 
 * **ServersGroup.png** 
-  * used at /cloud-interfaces/API/cloudimages-API.html
+  * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-12
   * contributed by Rose Coste 
   
 * **ServersSavedImages.png** 
-  * used at /cloud-interfaces/GUI/cloudservers-GUI.html
-  * used at /cloud-interfaces/GUI/cloudimages-GUI.html
+  * used at /cloud-interfaces/gui/cloudservers-gui.html
+  * used at /cloud-interfaces/gui/cloudimages-gui.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-12
   * contributed by Rose Coste 
   
 * **StorageGroup.png** 
-  * used at /cloud-interfaces/GUI/cloudblockstorage-GUI.html
+  * used at /cloud-interfaces/gui/cloudblockstorage-gui.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-13
   * contributed by Rose Coste
 
 * **StorageBlockStorageVolumes.png** 
-  * used at /cloud-interfaces/API/cloudblockstorage-API.html
+  * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-04-30
   * contributed by Rose Coste

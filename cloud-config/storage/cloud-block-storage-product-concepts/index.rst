@@ -48,4 +48,4 @@ at
    disk-storage
    local-storage
    block-storage
-   software-RAID
+   software-raid

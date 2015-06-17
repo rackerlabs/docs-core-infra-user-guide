@@ -1,4 +1,4 @@
-.. _cloudblockstorage-CLI:
+.. _cloudblockstorage-cli:
 
 ------------------------------------
 Cloud Block Storage and CLIs: cinder
@@ -15,7 +15,7 @@ the command-line tools that work well with Cloud Servers
 also work well with Cloud Block Storage. 
 
 You can read about these as a group at 
-:ref:`cloudservers-CLI` 
+:ref:`cloudservers-cli` 
 or you can go directly to the tool that interests you:
 
 * :ref:`nova`

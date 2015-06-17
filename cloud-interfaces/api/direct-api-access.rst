@@ -1,4 +1,4 @@
-.. _APIdirect:
+.. _direct-api-access:
 
 -----------------
 Direct API access
@@ -66,4 +66,4 @@ However, REST is widely used and introductory material is
 readily available. 
 If you wish to work with our APIs and this would be your first
 experience with RESTful APIs, 
-begin with :ref:`setup-API`.
+begin with :ref:`setup-api`.

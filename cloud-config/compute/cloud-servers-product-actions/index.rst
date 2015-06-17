@@ -13,9 +13,9 @@ Cloud Control Panel and the API.
 To learn how to perform Cloud Servers actions using your choice of interface, 
 begin at 
 
-* :ref:`cloudservers-GUI`
-* :ref:`cloudservers-CLI`
-* :ref:`cloudservers-API`
+* :ref:`cloudservers-gui`
+* :ref:`cloudservers-cli`
+* :ref:`cloudservers-api`
 
 Rebuild
 -------

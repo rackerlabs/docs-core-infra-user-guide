@@ -1,4 +1,4 @@
-.. _moreinfo-GUI:
+.. _moreinfo-gui:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Learning more about the Cloud Control Panel

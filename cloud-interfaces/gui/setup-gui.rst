@@ -1,4 +1,4 @@
-.. _setup-GUI:
+.. _setup-gui:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Preparing to use the Cloud Control Panel

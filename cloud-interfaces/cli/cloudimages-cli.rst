@@ -1,4 +1,4 @@
-.. _cloudimages-CLI:
+.. _cloudimages-cli:
 
 -----------------------------
 Cloud Images and CLIs: glance
@@ -15,7 +15,7 @@ the command-line tools that work well with Cloud Servers
 also work well with Cloud Images. 
 
 You can read about these as a group at 
-:ref:`cloudservers-CLI` 
+:ref:`cloudservers-cli` 
 or you can go directly to the tool that interests you:
 
 * :ref:`nova`

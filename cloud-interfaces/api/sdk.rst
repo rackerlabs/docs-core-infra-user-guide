@@ -1,4 +1,4 @@
-.. _SDK:
+.. _sdk:
 
 --------------------------------
 Software Development Kits (SDKs)

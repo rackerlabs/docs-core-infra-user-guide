@@ -1,4 +1,4 @@
-.. _cloudservers-GUI:
+.. _cloudservers-gui:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cloud Servers and the Cloud Control Panel

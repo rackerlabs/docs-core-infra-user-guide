@@ -18,10 +18,10 @@ first tasks:
 
 * `Obtain your API key <http://www.rackspace.com/knowledge_center/article/view-and-reset-your-api-key>`__
   for use with 
-  :ref:`CLIs <cloud-interfaces-CLI>`, 
-  :ref:`SDKs <SDK>`, 
+  :ref:`CLIs <cloud-interfaces-cli>`, 
+  :ref:`SDKs <sdk>`, 
   and 
-  :ref:`APIs <APIdirect>`
+  :ref:`APIs <direct-api-access>`
 
 * `Create additional account users <http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac>`__ 
   and give them 

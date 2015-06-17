@@ -1,4 +1,4 @@
-.. _APIdirect:
+.. _direct-api-access:
 
 -----------------
 Direct API access

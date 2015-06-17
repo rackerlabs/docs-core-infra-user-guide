@@ -278,7 +278,7 @@ software-RAID                          = /cloud-config/storage/cloud-block-stora
 
 somethingnew                           = /cloud-ops/somethingnew.rst
 
-SSH                                    = /cloud-config/compute/cloud-servers-product-concepts/SSH.rst
+ssh                                    = /cloud-config/compute/cloud-servers-product-concepts/ssh.rst
 
 stack                                  = /cloud-preprod/stack.rst 
 

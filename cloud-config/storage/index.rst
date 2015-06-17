@@ -22,9 +22,9 @@ use Cloud Block Storage to add more storage to your core infrastructure.
 * To learn how to perform Cloud Block Storage actions using your choice of interface, 
   begin at 
 
-  * :ref:`cloudblockstorage-GUI`
-  * :ref:`cloudblockstorage-CLI`
-  * :ref:`cloudblockstorage-API`
+  * :ref:`cloudblockstorage-gui`
+  * :ref:`cloudblockstorage-cli`
+  * :ref:`cloudblockstorage-api`
 
 ----
 

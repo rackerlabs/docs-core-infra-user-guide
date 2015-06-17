@@ -1,4 +1,4 @@
-.. _cloudblockstorage-API:
+.. _cloudblockstorage-api:
 
 -------------------------------------
 Cloud Block Storage and SDKs and APIs
@@ -10,7 +10,7 @@ how Cloud Block Storage works
 in the Cloud Control Panel 
 and how SDKs and APIs are documented at Rackspace.
 
-.. _cloudblockstorage-APIinvestigation:
+.. _cloudblockstorage-api-investigation:
 
 +++++++++++++++++++++++++++++++++++++
 Cloud Block Storage API investigation
@@ -54,13 +54,13 @@ in your favorite programming language.
 Awareness of both API and SDK capabilities 
 can help you to plan the easiest way to develop your software. 
 
-.. _cloudblockstorage-APIdemonstration:
+.. _cloudblockstorage-api-demonstration:
 
 +++++++++++++++++++++++++++++++++++++
 Cloud Block Storage API demonstration
 +++++++++++++++++++++++++++++++++++++
 Using the process suggested at 
-:ref:`cloudblockstorage-APIinvestigation`, 
+:ref:`cloudblockstorage-api-investigation`, 
 here is an example of how you can plan 
 and then write your own software to perform one simple task: 
 list all your Cloud Block Storage volumes. 

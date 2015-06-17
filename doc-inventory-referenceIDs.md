@@ -199,6 +199,8 @@ disk-storage                           = /cloud-config/storage/cloud-block-stora
 
 diskconfig                             = /cloud-config/compute/cloud-servers-product-concepts/diskconfig.rst
 
+dns                                    = /cloud-config/network/cloud-networks-product-concepts/dns.rst
+
 document-history                       = /cloud-guide-intro/document-history.rst
 
 drive-boot                             = /cloud-config/compute/cloud-servers-product-concepts/boot/drive-boot.rst
@@ -274,7 +276,7 @@ setup-GUI                              = /cloud-interfaces/GUI/setup-GUI.rst
 
 show-metadata                          = /cloud-config/compute/cloud-servers-product-concepts/metadata/show-metadata.rst
 
-software-RAID                          = /cloud-config/storage/cloud-block-storage-product-concepts/software-RAID.rst
+software-raid                          = /cloud-config/storage/cloud-block-storage-product-concepts/software-raid.rst
 
 somethingnew                           = /cloud-ops/somethingnew.rst
 

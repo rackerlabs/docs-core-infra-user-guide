@@ -42,9 +42,9 @@ workload.
 
 ----
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    cloud-servers-product-concepts/index

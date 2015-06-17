@@ -58,7 +58,7 @@ are grouped so that closely-related products are likely to be discussed together
 We follow that convention here, introducing several categories of cloud products 
 available as services in the Rackspace cloud.
 
-Contents:
+
  
 .. toctree:: 
    :maxdepth: 2 

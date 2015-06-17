@@ -40,9 +40,9 @@ at
 `Cloud Block Storage support <http://www.rackspace.com/knowledge_center/product-page/cloud-block-storage>`__.
 
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    disk-storage

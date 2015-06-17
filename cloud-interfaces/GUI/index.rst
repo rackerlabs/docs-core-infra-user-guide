@@ -72,9 +72,9 @@ cloud resources.
    follow its instructions as soon as you can. 
 
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    setup-GUI

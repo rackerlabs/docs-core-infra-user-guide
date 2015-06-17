@@ -28,9 +28,9 @@ use Cloud Block Storage to add more storage to your core infrastructure.
 
 ----
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    cloud-block-storage-product-concepts/index

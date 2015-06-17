@@ -45,9 +45,9 @@ This is an architectural overview of OnMetal™ servers:
    OnMetal I/O is optimized for large relational databases 
    and Online Transaction Processing (OLTP) applications.*
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    create-server

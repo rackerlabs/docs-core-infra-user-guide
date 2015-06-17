@@ -9,9 +9,9 @@ you can use command-line interfaces (CLIs)
 provided by OpenStack and, 
 in some cases, supported by Rackspace. 
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    setup-CLI

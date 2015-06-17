@@ -27,12 +27,12 @@ what is possible in the cloud.
 * :ref:`customer-stories` suggests some of the ways in which 
   Rackspace customers have put the Rackspace cloud to work for them.
 
-Contents:
- 
-.. toctree:: 
-   :maxdepth: 6 
- 
-   core-infrastructure 
-   context 
+
+
+.. toctree:: :hidden:
+   :maxdepth: 6
+
+   core-infrastructure
+   context
    cloud-tour/index
    customer-stories

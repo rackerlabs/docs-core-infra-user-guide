@@ -24,9 +24,9 @@ used for cloud software development,
 you may want to investigate DevOps tools 
 designed for this purpose. 
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    devopstools

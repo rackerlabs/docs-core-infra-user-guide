@@ -9,9 +9,9 @@ or you can create it from an image that Rackspace created.
 We maintain the images that we create; 
 you are responsible for maintaining the images that you create.
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2
 
    default-base-images

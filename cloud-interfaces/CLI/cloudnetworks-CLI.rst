@@ -82,9 +82,9 @@ you can see that:
     -H "X-Auth-Token: $token" \
     -d '{"network": {"name": "Rackernet"}}' | python -m json.tool 
 
-Contents:
 
-.. toctree::
+
+.. toctree:: :hidden:
    :maxdepth: 2  
 
    neutron  

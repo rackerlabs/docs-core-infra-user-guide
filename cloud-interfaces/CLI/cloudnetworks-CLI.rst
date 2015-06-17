@@ -53,7 +53,7 @@ The
 `API cross-reference <http://api.rackspace.com/api-ref-networks.html>`__ 
 lists those requests for Cloud Networks. 
 
-The Getting Started Guide for the Cloud Networks API 
+The *Getting Started Guide for the Cloud Networks API* 
 includes detailed, parallel examples showing how you can use 
 either
 cURL or neutron to perform the same functions. 
@@ -66,14 +66,21 @@ and
 `Create a network (cURL) <http://docs.rackspace.com/networks/api/v2/cn-gettingstarted/content/neutron_create_network_chr_curl.html>`__  
 you can see that:
 
-* neutron  users send ``neutron net-create Rackernet``
-* cURL users send ``$ curl -s https://dfw.networks.api.rackspacecloud.com/v2.0/networks \
-  -X POST \
-  -H "Content-Type: application/json" \
-  -H "User-Agent: python-novaclient" \
-  -H "Accept: application/json" \
-  -H "X-Auth-Token: $token" \
-  -d '{"network": {"name": "Rackernet"}}' | python -m json.tool`` 
+* neutron users send a short command, 
+  reusing details provided when the neutron client was configured::
+   
+    neutron net-create Rackernet
+  
+* cURL users send a long command or series of commands, 
+  specifying details required to perform the API request::
+
+    curl -s https://dfw.networks.api.rackspacecloud.com/v2.0/networks \
+    -X POST \
+    -H "Content-Type: application/json" \
+    -H "User-Agent: python-novaclient" \
+    -H "Accept: application/json" \
+    -H "X-Auth-Token: $token" \
+    -d '{"network": {"name": "Rackernet"}}' | python -m json.tool 
 
 
 

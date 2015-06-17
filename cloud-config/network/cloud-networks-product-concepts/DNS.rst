@@ -5,7 +5,7 @@ DNS in the cloud
 ^^^^^^^^^^^^^^^^
 When you create a cloud server, it is assigned an IP address. You can
 access the server by its IP address, but you may prefer to associate the
-IP address with a domain name such as ``www.example.com`` 
+IP address with a domain name such as **www.example.com** 
 and access the
 server by that name. 
 You can connect and IP address and a domain name in
@@ -20,12 +20,12 @@ Forward DNS
 Most DNS lookups are forward DNS lookups, in which a search is based on
 the DNS name of another computer as it is stored in a host (A) resource
 record. For example, when you ask your web browser to display
-``www.example.com``, you are asking for a forward DNS lookup. To enable
+**www.example.com**, you are asking for a forward DNS lookup. To enable
 users to locate your cloud server by forward DNS lookup, register a
 domain name, using the registrar of your choice. Then associate the
 domain name with the server's IP address. You can use Cloud DNS to
 associate a domain name with a cloud server. In the Cloud Control Panel,
-select Networking > Cloud DNS > Create Domain:
+select **Networking > Cloud DNS > Create Domain**:
 
 .. figure:: /_images/CloudDNSCreateDomain.png
    :alt: Networking > Cloud DNS > Create Domain
@@ -46,7 +46,7 @@ For each cloud server you create, you can assign a reverse DNS record.
 A reverse DNS record, also known as a PTR record, 
 is used to
 assist in the resolution of a specific IP to a fully-qualified domain
-name (FQDN) such as ``mail.example.com``.
+name (FQDN) such as **mail.example.com**.
 
 When you enter a domain name into your browser, the DNS system finds the
 IP address of the server the domain is associated with.
@@ -85,34 +85,49 @@ Panel by performing these steps:
 
 1. Log in to your Rackspace account.
 
-2. On the Servers tab, click the link for your cloud server from your
+2. On the **Servers** tab, click the link for your cloud server from your
    Servers List.
 
-3. On the Server Details screen, click Add Record next to the Reverse
-   DNS option.
+3. On the **Server Details** screen, click **Add Record** next to the **Reverse
+   DNS** option.
 
 .. figure:: /_images/CloudDNSAddReverse.png
-   :alt: Servers > Server Details > Add Record
+   :alt: While displaying details for a server,
+         click Add Record to begin defining a 
+         reverse DNS record.
    
-   *Servers > Server Details > Add Record*
+   *While displaying details for a server,
+   click Add Record to begin defining a 
+   reverse DNS record.*
 
 4. In the resulting window:
 
-* Enter your domain name (for example ``mail.example.com``) in the
-   Hostname field.
+* Enter your domain name (for example **mail.example.com**) in the
+  **Hostname** field.
 
 * Set the Time to Live (TTL) for the record.
 
-* Click *Save Record*.
+* Click **Save Record**.
 
-After you have done this, on the Server Details screen, you will see
-one record listed next to the Reverse DNS option. Clicking this link
-displays the details for the reverse DNS you just added.
+After you have done this, look again at the Server Details screen.
+If you previously had no DNS records associated with this server, 
+to the left of the **Add Record** link you had an inactive 
+**0 Records** link.
+Now that you have added a reverse DNS record, 
+that location contains an active **1 Record** link. 
+Clicking this link
+displays the details for the reverse DNS you just added, 
+confirming the association of the domain name and 
+the server's IP address.
 
 .. figure:: /_images/CloudDNSAddReverseDetails.png
-   :alt: Servers > Server Details > Add Record
+   :alt: After adding a reverse DNS record to a server,
+         click 1 Record to confirm the association between 
+         the domain name and the server's IP address.
    
-   *Servers > Server Details* 
+   *After adding a reverse DNS record to a server,
+   click 1 Record to confirm the association between 
+   the domain name and the server's IP address.*
 
 Troubleshooting your reverse DNS record
 ---------------------------------------

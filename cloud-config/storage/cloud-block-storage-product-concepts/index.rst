@@ -8,7 +8,7 @@ volumes for use with Rackspace Standard and Performance Cloud Servers.
 CBS allows customers to scale their storage independently of their
 compute resources. 
 
-Cloud Block Storage is based on OpenStack Cinder and leverages
+Cloud Block Storage is based on OpenStack cinder and leverages
 open-source software and commodity hardware components to provide a
 low-cost alternative to traditional third-party SAN (storage area
 network) vendors. The underlying hardware consists of individual storage

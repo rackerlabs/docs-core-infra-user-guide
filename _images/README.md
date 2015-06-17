@@ -202,15 +202,15 @@ To include any image in the guide:
 
 * **CloudDNSAddReverse.png** 
   * used at /cloud-config/network/cloud-networks-product-concepts/DNS.html
-  * collected from http://www.rackspace.com/knowledge-center/article/create-a-reverse-dns-record-0 
-  * collection date 2015-03-01 (KC article dated 2015-02-02)
-  * contributed by Rose Coste (KC article author listed as "Rackspace Support")
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-06-16 
+  * contributed by Rose Coste 
   
 * **CloudDNSAddReverseDetails.png** 
   * used at /cloud-config/network/cloud-networks-product-concepts/DNS.html
-  * collected from http://www.rackspace.com/knowledge-center/article/create-a-reverse-dns-record-0 
-  * collection date 2015-03-01 (KC article dated 2015-02-02)
-  * contributed by Rose Coste (KC article author listed as "Rackspace Support")
+  * collected from https://mycloud.rackspace.com/ 
+  * collection date 2015-06-16
+  * contributed by Rose Coste 
   
 * **CloudDNSCreateDomain.png** 
   * used at /cloud-config/network/cloud-networks-product-concepts/DNS.html

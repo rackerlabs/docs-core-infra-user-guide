@@ -8,7 +8,7 @@ selecting from the available *flavors*; similar flavors are grouped as
 *flavor classes*.
 
 A flavor is the definition of the characteristics and resources that are
-assigned to a Cloud Server when it is created.
+assigned to a cloud server when it is created.
 
 For example, you can create a 1 GB server by selecting the
 **General Purpose** flavor class and the **1 GB General Purpose v1**
@@ -120,7 +120,7 @@ on your Cloud Server.
 For more information on the different networks 
 available to your Cloud Server, 
 see 
-:ref:`network_cloud_servers-working`.
+:ref:`network-cloud-servers-working`.
 
 Maximum outbound public bandwidth is limited to 40% 
 of the aggregate, while inbound traffic is not limited. 

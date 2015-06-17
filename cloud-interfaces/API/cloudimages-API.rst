@@ -70,8 +70,8 @@ Learn about Cloud Images in the Cloud Control Panel
 When you login to the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__, 
 your session begins with information about your servers.
-To see your Cloud Images information, click ``Servers`` 
-and then click ``Saved Images``. 
+To see your Cloud Images information, click **Servers** 
+and then click **Saved Images**. 
 
 .. figure:: /_images/ServersSavedImages.png
    :scale: 80%
@@ -81,7 +81,7 @@ and then click ``Saved Images``.
    
    *To move from Cloud Servers to 
    Cloud Images details, 
-   click Servers and then click Saved Images.*
+   click "Servers" and then click "Saved Images".*
      
 By default, the list is focused on your account's home region, 
 showing all images in that region; 
@@ -132,7 +132,7 @@ you can see that:
    
    *The API cross-reference lists all API operations.*
 
-On the first ``GET`` line, click *detail* to see 
+On the first ``GET`` line, click **detail** to see 
 more about how the API handles this request.  
 The request parameters and sample response shown here can 
 help you formulate a basic *List images* request to the API 
@@ -170,7 +170,7 @@ click that language's name in the list across the top of the page.
 For example, to see Cloud Images code samples coded in python, 
 go to the 
 `SDK QuickStart for Cloud Images <https://developer.rackspace.com/docs/cloud-images/getting-started/>`__ 
-and click *python*.
+and click **PYTHON**.
 
 .. figure:: /_images/CloudImagesSDKpython.png
    :scale: 80%
@@ -196,7 +196,7 @@ For example, if you code in python,
 
 * Follow the installation instructions to give yourself 
   a local copy of the pyrax (python for Rackspace) SDK. 
-* Click *documentation* to open the 
+* Click **documentation** to open the 
   `GitHub repository for the pyrax SDK <https://github.com/rackspace/pyrax/>`__. 
 * In that pyrax repository, at 
   `/docs/ <https://github.com/rackspace/pyrax/tree/master/docs>`__,

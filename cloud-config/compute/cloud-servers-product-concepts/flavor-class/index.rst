@@ -9,7 +9,7 @@ available resources or pricing models.
 
 Flavor classes for virtual servers
 ''''''''''''''''''''''''''''''''''
-To create your Cloud Server as a virtual server, open the Virtual Server
+To create your Cloud Server as a virtual server, open the **Virtual Server**
 tab from the Cloud Control Panel.
 
 .. figure:: /_images/CloudServerCreateVirtual.png
@@ -45,8 +45,8 @@ memory, general purpose, or standard resources:
 
 Flavor classes for OnMetal servers
 ''''''''''''''''''''''''''''''''''
-To create your Cloud Server as an OnMetal™ server, open the OnMetal™
-Server tab from the Cloud Control Panel.
+To create your Cloud Server as an OnMetal™ server, open the **OnMetal™
+Server** tab from the Cloud Control Panel.
 
 .. figure:: /_images/CloudServerCreateOnMetal.png
    :alt: Click the OnMetal Server tab 
@@ -64,13 +64,13 @@ or compute resources:
 
 -  **OnMetal Memory** is optimized for caching. OnMetal Memory servers
    are designed for memory-intensive workloads such as Memcached or
-   Redis. 512 GB servers and low-latency 10 Gb / s network enable modern
+   Redis. 512 GB servers and low-latency 10 GB / s network enable modern
    architectures with the entire working set in RAM.
 
 -  **OnMetal Compute** is optimized for web servers. OnMetal Compute
    servers are designed for connection handling and CPU-heavy workloads
    such as web serving. With high speeds, plenty of cores and a low-latency
-   10 Gb/s network, OnMetal Compute is perfect for rendering
+   10 GB/s network, OnMetal Compute is perfect for rendering
    web pages or pushing packets.
 
 

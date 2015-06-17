@@ -27,7 +27,7 @@ IP addressing (IPv4 or IPv6),
 and which Cloud Servers are connected to the network.
 
 .. TIP::
-   **Cloud Networks** is part of the 
+   Cloud Networks is part of the 
    core infrastructure of the Rackspace cloud, 
    the focus of this guide. 
    

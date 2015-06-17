@@ -64,12 +64,19 @@ You can see both methods demonstrated in the Cloud Block Storage
 API documentation, under 
 `Cloud Block Storage quotas <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/serviceQuotas-d1e01.html>`_.
 
-* cinder users send ``cinder quota-usage yourAccountID``
-* cURL users send ``curl -i -X GET https://dfw.blockstorage.api.rackspacecloud.com/v1/yourAccountID/os-quota-sets/yourAccountID?usage=True \
-  -H "X-Auth-Project-Id: yourAccountID" \
-  -H "User-Agent: python-cinderclient" \
-  -H "Accept: application/json" \
-  -H "X-Auth-Token: yourAuthToken"``
+* cinder users send a short command, 
+  reusing details provided when the cinder client was configured::
+   
+    cinder quota-usage yourAccountID
+  
+* cURL users send a long command or series of commands, 
+  specifying details required to perform the API request::
+
+    curl -i -X GET https://dfw.blockstorage.api.rackspacecloud.com/v1/yourAccountID/os-quota-sets/yourAccountID?usage=True \
+    -H "X-Auth-Project-Id: yourAccountID" \
+    -H "User-Agent: python-cinderclient" \
+    -H "Accept: application/json" \
+    -H "X-Auth-Token: yourAuthToken"
 
 
 

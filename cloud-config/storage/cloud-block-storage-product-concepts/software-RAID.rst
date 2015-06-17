@@ -1,8 +1,8 @@
 .. _software-RAID:
 
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software RAID for Cloud Block Storage
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A redundant array of independent disks (RAID) enables expansion of
 storage capacity by combining many small disks rather than a few large
 disks. RAID is generally not necessary for baseline performance and
@@ -59,9 +59,9 @@ in Microsoft's
 
 Windows Server 2008 provides two ways to interact with RAID devices:
 
-* GUI via Diskmgmt.msc
+* GUI via ``Diskmgmt.msc``
 
-* CLI via Diskpart.exe
+* CLI via ``Diskpart.exe``
 
 You can read about both Diskmgmt and Diskpart
 in Microsoft's 

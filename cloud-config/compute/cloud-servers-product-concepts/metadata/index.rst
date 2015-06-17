@@ -30,7 +30,7 @@ Currently, the OpenStack command-line nova utility or API must be used
 to view, set, or delete metadata on a cloud server. For more information
 on using the API to work with server metadata, see
 `Metadata <http://docs.rackspace.com/servers/api/v2/cs-devguide/content/MetadataSection.html>`__ 
-in the Next Gen Cloud Servers API Developer Guide.
+in the *Next Gen Cloud Servers API Developer Guide*.
 
 
 

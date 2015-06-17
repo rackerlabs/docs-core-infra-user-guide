@@ -46,11 +46,11 @@ first tasks:
      *Use the Control Panel to see your current
      limits and to ask to change them.*
          
-  If you click the *Request Limit Increase* link, the system will
+  If you click the **Request Limit Increase** link, the system will
   generate a ticket with details of your current limits filled in. 
   Making a change requires describing the change you want and 
   submitting the ticket for processing. Update the ticket to 
-  describe the change you want; then click *Submit Ticket*. 
+  describe the change you want; then click **Submit Ticket**. 
  
   .. figure:: /_images/CreateTicketServersResourceLimit.png
      :scale: 80%

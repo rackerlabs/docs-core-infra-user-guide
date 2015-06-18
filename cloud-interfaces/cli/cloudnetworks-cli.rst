@@ -24,7 +24,7 @@ or you can go directly to the tool that interests you:
 
 You can also use the 
 :ref:`neutron`, 
-focused on Cloud Images.
+focused on Cloud Networks.
 
 In working with Cloud Networks, 
 you may find that you need to use nova for some functions 

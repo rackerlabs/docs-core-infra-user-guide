@@ -36,11 +36,8 @@ of the same functions as hardware devices in our data centers:
             
    *Cloud Servers, Cloud Networks, Cloud Images, 
    and Cloud Block Storage are the            
-   Rackspace cloud's core infrastructure.*
-   
-   *From the Cloud Control Panel, 
-   you can send a request to the API for 
-   a cloud service.
+   Rackspace cloud's core infrastructure.From the Cloud Control Panel, 
+   you can send a request to the API for a cloud service.
    The service processes
    your request.*
 

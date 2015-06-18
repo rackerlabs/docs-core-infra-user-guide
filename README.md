@@ -1,6 +1,8 @@
 Docs: Rackspace Cloud Core Infrastructure Services User Guide
 =============================================================
 
+[![Build Status](https://travis-ci.org/rackerlabs/docs-core-infra-user-guide.svg?branch=master)](https://travis-ci.org/rackerlabs/docs-core-infra-user-guide)
+
 This system uses the Python Sphinx tool for structure & building as part of the
 static build process. Included is a Makefile & make.bat file for cross platform
 building (for development/contribution).

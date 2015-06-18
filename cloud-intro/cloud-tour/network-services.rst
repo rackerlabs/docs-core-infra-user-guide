@@ -12,12 +12,17 @@ Services in this category include
 
 Cloud Networks at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <http://www.rackspace.com/cloud/networks>`__
-
-* Free with every cloud account
-
-* Open-source roots: 
-  `OpenStack Neutron <https://wiki.openstack.org/wiki/Neutron>`__
++-------------------------------------------+---------------------------------------------------+
+|                                           |                                                   |
+| .. image::                                | * `Product overview                               |
+|    /_images/logo-cloudnetworks-50x50.png  |   <http://www.rackspace.com/cloud/networks>`__    |
+|    :alt: Cloud Networks connects          | * Free with every cloud account                   |
+|          Cloud Servers.                   | * Open-source roots:                              |
+|    :align: center                         |   `OpenStack Neutron <https://wiki.openstack.org/ |
+|                                           |   wiki/Neutron>`__                                |
+| Cloud Networks connects                   |                                                   |
+| Cloud Servers.                            |                                                   |
++-------------------------------------------+---------------------------------------------------+
 
 Cloud Networks enables customers to create and manage secure, isolated
 networks in the cloud. 

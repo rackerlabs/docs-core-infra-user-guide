@@ -12,12 +12,18 @@ Services in this category include
 
 Cloud Block Storage at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <http://www.rackspace.com/cloud/block-storage>`__
-
-* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
-
-* Open-source roots: 
-  `OpenStack Cinder <http://docs.openstack.org/developer/cinder/>`__  
++-------------------------------------------------+--------------------------------------------------+
+|                                                 |                                                  |
+| .. image::                                      | * `Product overview                              |
+|    /_images/logo-cloudblockstorage-50x50.png    |   <http://www.rackspace.com/cloud/               |
+|    :alt: Cloud Block Storage adds               |   block-storage>`__                              |
+|          cloud server storage.                  | * `Pay only for what you use                     |
+|    :align: center                               |   <http://www.rackspace.com/cloud/               |
+|                                                 |   public-pricing>`__                             |
+| Cloud Block Storage adds                        | * Open-source roots:                             |
+| cloud server storage.                           |   `OpenStack Cinder <http:docs.openstack.org/    |
+|                                                 |   developer/cinder/>`__                          |
++-------------------------------------------------+--------------------------------------------------+
 
 .. TIP::
    Cloud Block Storage is part of the 

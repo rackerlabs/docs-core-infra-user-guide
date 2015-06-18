@@ -162,10 +162,10 @@ To include any image in the guide:
   * contributed by Rose Coste
 
 * **ChromeViewDeveloper.png** 
-  * used at /cloud-interfaces/API/cloudservers-api.html
-  * used at /cloud-interfaces/API/cloudnetworks-api.html
-  * used at /cloud-interfaces/API/cloudimages-api.html
-  * used at /cloud-interfaces/API/cloudblockstorage-api.html
+  * used at /cloud-interfaces/api/cloudservers-api.html
+  * used at /cloud-interfaces/api/cloudnetworks-api.html
+  * used at /cloud-interfaces/api/cloudimages-api.html
+  * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-05-15
   * contributed by Rose Coste
@@ -177,8 +177,7 @@ To include any image in the guide:
   * contributed by Rose Coste
 
 * **CloudBlockStorage0volumes.png** 
-  * used at /cloud-interfaces/API/cloudblockstorage-api.html
-  * collected from https://mycloud.rackspace.com/ 
+  * used at /cloud-interfaces/api/cloud.rackspace.com/ 
   * collection date 2015-04-30
   * contributed by Rose Coste
   
@@ -340,7 +339,7 @@ To include any image in the guide:
   * contributed by Rose Coste
   
 * **ReleaseNotesFeed-api.png** 
-  * used at /cloud-interfaces/API/moreinfo-api.html
+  * used at /cloud-interfaces/api/moreinfo-api.html
   * collected from http://docs.rackspace.com/cbs/api/v1.0/cbs-releasenotes/ 
   * collection date 2015-05-19
   * contributed by Rose Coste 

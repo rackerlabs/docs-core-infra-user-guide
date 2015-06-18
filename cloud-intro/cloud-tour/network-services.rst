@@ -41,15 +41,32 @@ and which Cloud Servers are connected to the network.
 
 Cloud DNS at a glance
 ~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <http://www.rackspace.com/cloud/dns>`__
-
-* Free with every cloud account
++-------------------------------------------+---------------------------------------------------+
+|                                           |                                                   |
+| .. image::                                | * `Product overview                               |
+|    /_images/logo-clouddns-50x50.png       |   <http://www.rackspace.com/cloud/dns>`__         |
+|    :alt: Cloud DNS manages DNS            | * Free with every cloud account                   |
+|          services for domains.            |                                                   |
+|    :align: center                         |                                                   |
+|                                           |                                                   |
+| Cloud DNS manages DNS                     |                                                   |
+| services for domains.                     |                                                   |
++-------------------------------------------+---------------------------------------------------+
 
 Cloud Load Balancers at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <http://www.rackspace.com/cloud/load-balancing>`__
-
-* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
++------------------------------------------------+---------------------------------------------------+
+|                                                |                                                   |
+| .. image::                                     | * `Product overview                               |
+|    /_images/logo-cloudloadbalancers-50x50.png  |   <http://www.rackspace.com/cloud/                |
+|    :alt: Cloud Load Balancers distribute       |   load-balancing>`__                              |
+|          workloads across multiple             | * `Pay only for what you use                      |
+|          servers.                              |   <http://www.rackspace.com/cloud/                |
+|    :align: center                              |   public-pricing>`__                              |
+|                                                |                                                   |
+| Cloud Load Balancers distribute workloads      |                                                   |
+| across multiple servers.                       |                                                   |
++------------------------------------------------+---------------------------------------------------+
 
 RackConnect at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~

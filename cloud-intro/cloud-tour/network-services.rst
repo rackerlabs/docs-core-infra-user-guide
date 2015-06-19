@@ -55,22 +55,31 @@ Cloud DNS at a glance
 
 Cloud Load Balancers at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-+------------------------------------------------+---------------------------------------------------+
-|                                                |                                                   |
-| .. image::                                     | * `Product overview                               |
-|    /_images/logo-cloudloadbalancers-50x50.png  |   <http://www.rackspace.com/cloud/                |
-|    :alt: Cloud Load Balancers distribute       |   load-balancing>`__                              |
-|          workloads across multiple             | * `Pay only for what you use                      |
-|          servers.                              |   <http://www.rackspace.com/cloud/                |
-|    :align: center                              |   public-pricing>`__                              |
-|                                                |                                                   |
-| Cloud Load Balancers distribute workloads      |                                                   |
-| across multiple servers.                       |                                                   |
-+------------------------------------------------+---------------------------------------------------+
++-----------------------------------------------+---------------------------------------------------+
+|                                               |                                                   |
+| .. image::                                    | * `Product overview                               |
+|    /_images/logo-cloudloadbalancers-50x50.png |   <http://www.rackspace.com/cloud/                |
+|    :alt: Cloud Load Balancers distribute      |   load-balancing>`__                              |
+|          workloads across multiple            | * `Pay only for what you use                      |
+|          servers.                             |   <http://www.rackspace.com/cloud/                |
+|    :align: center                             |   public-pricing>`__                              |
+|                                               |                                                   |
+| Cloud Load Balancers distribute workloads     |                                                   |
+| across multiple servers.                      |                                                   |
++-----------------------------------------------+---------------------------------------------------+
 
 RackConnect at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <http://www.rackspace.com/cloud/hybrid/rackconnect>`__
-
-* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
++-------------------------------------------+---------------------------------------------------+
+|                                           |                                                   |
+| .. image::                                | * `Product overview                               |
+|    /_images/logo-rackconnect-50x50.png    |   <http://www.rackspace.com/cloud/hybrid/         |
+|    :alt: RackConnect connects             |   rackconnect>`__                                 |
+|          dedicated servers to             | * `Pay only for what you use                      |
+|          the managed cloud.               |   <http://www.rackspace.com/cloud/                |
+|    :align: center                         |   public-pricing>`__                              |
+|                                           |                                                   |
+| RackConnect connects dedicated            |                                                   |
+| servers to the managed cloud.             |                                                   |
++-------------------------------------------+---------------------------------------------------+
 

@@ -21,7 +21,7 @@ Cloud Block Storage at a glance
 |    :align: center                               |   <http://www.rackspace.com/cloud/               |
 |                                                 |   public-pricing>`__                             |
 | Cloud Block Storage adds                        | * Open-source roots:                             |
-| cloud server storage.                           |   `OpenStack Cinder <http:docs.openstack.org/    |
+| cloud server storage.                           |   `OpenStack Cinder <http://docs.openstack.org/  |
 |                                                 |   developer/cinder/>`__                          |
 +-------------------------------------------------+--------------------------------------------------+
 
@@ -35,9 +35,17 @@ Cloud Block Storage at a glance
 
 Cloud Backup at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <http://www.rackspace.com/cloud/backup>`__
-
-* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
++-------------------------------------------+-------------------------------------------------+
+|                                           |                                                 |
+| .. image::                                | * `Product overview                             |
+|    /_images/logo-cloudbackup-50x50.png    |   <http://www.rackspace.com/cloud/backup>`__    |
+|    :alt: Cloud Backup safeguards          | * `Pay only for what you use                    |
+|          data.                            |   <http://www.rackspace.com/cloud/              |
+|    :align: center                         |   public-pricing>`__                            |
+|                                           |                                                 |
+| Cloud Backup safeguards                   |                                                 |
+| data.                                     |                                                 |
++-------------------------------------------+-------------------------------------------------+
 
 Cloud CDN at a glance
 ~~~~~~~~~~~~~~~~~~~~~
@@ -47,10 +55,15 @@ Cloud CDN at a glance
 
 Cloud Files at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <http://www.rackspace.com/cloud/files>`__
-
-* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
-  
-* Open-source roots: 
-  `OpenStack Swift <http://docs.openstack.org/developer/swift/>`__   
++--------------------------------------------+--------------------------------------------------+
+|                                            |                                                  |
+| .. image::                                 | * `Product overview                              |
+|    /_images/logo-cloudfiles-50x50.png      |   <http://www.rackspace.com/cloud/files>`__      |
+|    :alt: Cloud Files stores                | * `Pay only for what you use                     |
+|          online objects                    |   <http://www.rackspace.com/cloud/               |
+|    :align: center                          |   public-pricing>`__                             |
+|                                            | * Open-source roots:                             |
+| Cloud Files stores                         |   `OpenStack Swift <http://docs.openstack.org/   |
+| online objects.                            |   developer/swift/>`__                           |
++--------------------------------------------+--------------------------------------------------+
 

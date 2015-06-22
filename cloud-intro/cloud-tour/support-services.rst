@@ -26,12 +26,17 @@ You can see *access events* (for example, who changed what server via control pl
 
 Rackspace Identity at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac>`__
-
-* Free with every cloud account
-
-* Open-source roots: 
-  `OpenStack Keystone <http://docs.openstack.org/developer/keystone/>`__
++---------------------------------------------+-------------------------------------------------------+
+|                                             |                                                       |
+| .. image::                                  | * `Product overview                                   |
+|    /_images/logo-cloudidentity-50x50.png    |   <http://www.rackspace.com/knowledge_center/article/ |
+|    :alt: Rackspace Identity                 |   managing-role-based-access-control-rbac>`__         |
+|          manages authentication.            | * Free with every cloud account                       |
+|    :align: center                           | * Open-source roots:                                  |
+|                                             |   `OpenStack Keystone <http://docs.openstack.org/     |
+| Rackspace Identity                          |   developer/keystone/>`__                             |
+| manages authentication.                     |                                                       |
++---------------------------------------------+-------------------------------------------------------+
 
 Rackspace Identity is the authentication and 
 user-administration service. 

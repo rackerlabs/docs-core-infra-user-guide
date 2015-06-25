@@ -18,7 +18,7 @@ WordPress with a Linux+Apache+MySQL+PHP environment
 To learn about
 this multi-step process:  
 
-* Read Rackspace Knowledge Center articles: 
+* Read articles about LAMP stacks: 
   
   * `Install a LAMP stack on Ubuntu or Debian <http://www.rackspace.com/knowledge_center/article/install-a-lamp-stack-on-ubuntu-or-debian>`__ 
  
@@ -34,8 +34,9 @@ offers an easier way. When you create a cloud server, you can choose to
 install specific software in addition to the operating system. To do
 that through the Cloud Control Panel, choose **Create Stack** rather than
 **Create Server**, then choose a template describing the software you want
-to install. We frequently expand the list of templates; as of April
-20, 2015, these templates are available:
+to install. We frequently expand the list of templates; as of 
+June 25, 2015, 
+these templates are available:
 
 .. raw:: html
    :file: stacks-from-control-panel.html

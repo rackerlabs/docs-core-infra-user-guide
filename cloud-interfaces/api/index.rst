@@ -1,8 +1,8 @@
 .. _cloud-interfaces-api:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-API & SDK: Developer and DevOps tools
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+API and SDK: Developer and DevOps tools
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 If you write applications that are tightly integrated with 
 the Rackspace cloud 
 you may find that 

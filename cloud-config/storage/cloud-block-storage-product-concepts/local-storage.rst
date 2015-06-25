@@ -68,7 +68,7 @@ Choosing a flavor class for your server also means choosing what
 kind of local storage is available to that server.
 
 * In Compute and Memory flavor classes, storage is entirely backed by
-   Cloud Block Storage.
+  Cloud Block Storage.
 
 * In I/O and General Purpose flavor classes, storage is RAID 10 SSD.
 

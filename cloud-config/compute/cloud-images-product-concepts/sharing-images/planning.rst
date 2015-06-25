@@ -114,19 +114,3 @@ Any members that *rejected* the share request are technically still
 members, even though they will not have visibility or access to the
 image. The image producer can and should delete these members from the
 image if they no longer have reason to be included.
-
-Getting support for shared images
-'''''''''''''''''''''''''''''''''
-Rackspace supports the images we offer as base images.
-
-In almost all cases, an image that is shared from a producer to
-consumers is one that has been modified from a base Rackspace image or
-is a custom image that has been imported.
-
-This means that providing detailed support for modifications or
-applications in the shared image may be beyond the scope of Rackspace
-support (in either Managed Infrastructure or Managed Operations).
-Rackspace will generally offer best-effort support to verify whether any
-Cloud Servers created from the images have problems booting or other
-issues, but detailed troubleshooting of any specific additional
-functionality may be the responsibility of the image producer.

@@ -1,9 +1,10 @@
 .. _create-server:
 
----------------------------------------------
-Using flavors to configure a new cloud server
----------------------------------------------
-When you create a cloud server, you choose its basic configuration by
+--------------------------------------
+Using flavors to create a cloud server
+--------------------------------------
+When you create a cloud server, you 
+establish its basic configuration by
 selecting from the available *flavors*; similar flavors are grouped as
 *flavor classes*.
 

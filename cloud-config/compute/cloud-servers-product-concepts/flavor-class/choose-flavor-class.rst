@@ -1,8 +1,8 @@
 .. _choose-flavor-class:
 
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 Choosing a flavor class
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 Flavor classes and flavors are often defined and grouped such that they
 provide meaningful guidance in selecting the right choice for your
 workload or application. The process of choosing the right flavor class
@@ -17,31 +17,21 @@ such as web servers and database servers.
 
 Web servers and other horizontally-scaling application tiers
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-As web servers, such as Apache or Nginx, typically derive their
-performance from network bandwidth, and to a lesser extent CPU and RAM,
-versus disk space, choosing a **General Purpose** flavor can often be
-the right decisions It has ample network bandwidth, and CPU and RAM
-allocations that often match today’s highly optimized web server
+Web servers such as Apache and Nginx typically derive their
+performance from network bandwidth, and to a lesser extent CPU and RAM; 
+disk performance is probably not a major factor in 
+the performance of such a server. 
+A **General Purpose** flavor can often be
+the right choice for a web server. 
+These flavors provide ample network bandwidth and their CPU and RAM
+allocations are suited to highly optimized web server
 applications.
 
 Database servers
 ''''''''''''''''
-These servers, whether SQL or NoSQL, often benefit from very fast disk,
+Database servers, such as those running SQL or NoSQL, 
+often benefit from very fast disk 
 and moderate to substantial amounts of RAM and CPU resources. While
 these servers can be both vertically and horizontally scaled in
 different scenarios, the application resources needed can often remain
 significant. In these cases, an **I/O** flavor might be a good choice.
-
-OnMetal servers
-'''''''''''''''
-**OnMetal**\ ™ flavors are ideal for a rapidly growing Internet company.
-OnMetal cloud servers are highly optimized for the following workloads:
-
-* **OnMetal Compute**: High traffic web servers, application servers,
-  load balancers, queue processing
-
-* **OnMetal Memory**: Large scale caches, index searches, in-memory
-  analytics
-
-* **OnMetal I/O**: Large relational databases and noSQL data stores,
-  Online Transaction Processing (OLTP) applications

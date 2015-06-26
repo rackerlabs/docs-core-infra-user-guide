@@ -248,6 +248,8 @@ nova-agent                             = /cloud-config/compute/cloud-servers-pro
 
 on-demand-images                       = /cloud-config/compute/cloud-images-product-concepts/on-demand-images.rst
 
+onmetal-server-flavor-class            = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/onmetal-server-flavor-class.rst
+
 patching-base-images                   = /cloud-config/compute/cloud-images-product-concepts/base-images/patching-base-images.rst
 
 personality-boot                       = /cloud-config/compute/cloud-servers-product-concepts/boot/personality-boot.rst
@@ -305,6 +307,8 @@ tour-storage-services                  = /cloud-intro/cloud-tour/storage-service
 tour-support-services                  = /cloud-intro/cloud-tour/support-services.rst
 
 troubleshoot                           = /cloud-ops/troubleshoot.rst
+
+virtual-server-flavor-class            = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/virtual-server-flavor-class.rst
 
 virtualization-modes                   = /cloud-config/compute/cloud-images-product-concepts/virtualization-modes.rst
 

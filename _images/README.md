@@ -278,6 +278,7 @@ To include any image in the guide:
   * contributed by Rose Coste
   
 * **CloudServerCreateRegionDFW.png**
+  * used at /cloud-config/compute/cloud-servers-product-concepts/flavor-class/check-region-flavor-class.html
   * used at /cloud-config/compute/cloud-servers-product-concepts/server-region.html
   * collected from https://mycloud.rackspace.com/ 
   * collection date 2015-03-01

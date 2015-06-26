@@ -1,82 +1,55 @@
 .. _cloud-servers-flavor-class:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 Understanding flavor classes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 A flavor class is a grouping of flavors based on similar
-characteristics. Flavor classes streamline the process of choosing among
-available resources or pricing models.
+characteristics. Flavor classes streamline the process 
+of choosing among
+available resources and pricing models.
 
-Flavor classes for virtual servers
-''''''''''''''''''''''''''''''''''
-To create your Cloud Server as a virtual server, open the **Virtual Server**
-tab from the Cloud Control Panel.
+When you create a cloud server, 
+the server's configuration is based on your 
+answers to several questions:
 
-.. figure:: /_images/CloudServerCreateVirtual.png
-   :alt: Click the Virtual Server tab 
-         to begin creating a virtual server.
-   
-   *Click the Virtual Server tab to begin creating a virtual server.*
+* **Which server technology 
+  (virtual server or an OnMetal™ server) 
+  should the server use?** 
+  
+  Compare :ref:`virtual-server-flavor-class` and 
+  :ref:`onmetal-server-flavor-class` to help you consider 
+  the differences.
+  
+* **In which region will the server be based?**
 
-You can choose Virtual Server flavor classes optimized for compute, I/O,
-memory, general purpose, or standard resources:
+  Most flavor classes are available everywhere, but a few 
+  are available in some regions but not all.
+  :ref:`check-region-flavor-class` shows how to tell 
+  which flavor classes are available in your server's region.
+  
+* **Of the flavor classes available to that server technology, 
+  which is best suited to the workload planned for 
+  the new server?** 
+ 
+* **Of the flavors available within that flavor class, 
+  which provides the right-sized and right-priced 
+  configuration?**
 
-* **Compute** is optimized for web servers, application servers and
-  other CPU-intensive workloads. Storage is entirely backed by Cloud
-  Block Storage, for maximum flexibility.
-
-* **I/O** is optimized for applications demanding high disk I/O and
-  consistent performance, such as large relational databases and
-  NoSQL data stores. Storage is RAID 10-protected SSD.
-
-* **Memory** is optimized for applications demanding low-latency access
-  to large amounts of RAM, like caching servers, in-memory analytics
-  and search indexes. Storage is entirely backed by Cloud Block
-  Storage for maximum flexibility.
-
-* **General Purpose** is great for web servers, batch processing,
-  network appliances, small databases, and most general purpose
-  computing workloads. Storage is high-performance, RAID 10-protected
-  SSD.
-
-* **Standard** scales resources like CPU, memory, and storage depending
-  on your needs. All storage is located on RAID 10-protected SATA hard
-  disk drives.
-
-Flavor classes for OnMetal servers
-''''''''''''''''''''''''''''''''''
-To create your Cloud Server as an OnMetal™ server, open the **OnMetal™
-Server** tab from the Cloud Control Panel.
-
-.. figure:: /_images/CloudServerCreateOnMetal.png
-   :alt: Click the OnMetal Server tab 
-         to begin creating an OnMetal server.
-   
-   *Click the OnMetal Server tab to begin creating an OnMetal server.*
-
-You can choose OnMetal™ Server flavor classes optimized for I/O, memory,
-or compute resources:
-
--  **OnMetal I/O** is optimized for databases. OnMetal I/O servers are
-   designed to support low-latency and extreme throughput to local
-   storage, using a pair of the fastest PCIe flash cards that money can
-   buy.
-
--  **OnMetal Memory** is optimized for caching. OnMetal Memory servers
-   are designed for memory-intensive workloads such as Memcached or
-   Redis. 512 GB servers and low-latency 10 GB / s network enable modern
-   architectures with the entire working set in RAM.
-
--  **OnMetal Compute** is optimized for web servers. OnMetal Compute
-   servers are designed for connection handling and CPU-heavy workloads
-   such as web serving. With high speeds, plenty of cores and a low-latency
-   10 GB/s network, OnMetal Compute is perfect for rendering
-   web pages or pushing packets.
-
+  Choose a flavor class based on your expectations 
+  of the server's primary workload. 
+  For example, you can choose a flavor class optimized for I/O if 
+  you expect the cloud server to support an I/O-intensive workload. 
+  Within the flavor class, you then choose a specific flavor based 
+  on the configuration options you prefer. 
+  You can learn more about this at 
+  :ref:`choose-flavor-class`. 
 
 
 .. toctree:: :hidden:
    :maxdepth: 2
 
-   choose-flavor-class
+   virtual-server-flavor-class
+   onmetal-server-flavor-class
    check-region-flavor-class
+   choose-flavor-class
+   

@@ -25,9 +25,9 @@ even if the producer revokes the shared image.
 
 Preparing to share an image
 '''''''''''''''''''''''''''
-As the image produce, 
-Before you can share an image to one or more image consumers, 
-you will need to
+As the image producer, 
+before you can share an image to one or more image consumers  
+you must
 complete some preparatory steps:
 
 1. Create a snapshot of a Cloud Server or import an image that you will

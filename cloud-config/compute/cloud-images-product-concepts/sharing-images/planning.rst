@@ -1,14 +1,14 @@
 .. cloud-images-sharing-planning:
 
-''''''''''''''''''''''''''''''''''''''''''''''''''''
-Considerations before sharing or using shared images
-''''''''''''''''''''''''''''''''''''''''''''''''''''
+--------------------------------------
+Planning to share or use shared images
+--------------------------------------
 Although it is easy to share a cloud image, it is not always
 appropriate. Consider carefully before creating an image-sharing
 relationship.
 
-Security and legal considerations
----------------------------------                         
+Security and legal considerations for shared images
+''''''''''''''''''''''''''''''''''''''''''''''''''' 
 Before sharing an image to another user, consider whether your image
 includes any confidential or other content you should not share with
 other users. For example, removing any stored passwords, source code, or
@@ -16,33 +16,30 @@ personal information are all good practices before creating and sharing
 an image.
 
 You should also consider whether there is any content in the image that
-could be considered to have legal implications once it is shared to
-another user. Examples can be licensed software, any unintended malware
-or suspicious software, or any copyright-infringing content.
+could be considered to violate confidentiality or other 
+legal agreements if it is shared to
+another user. 
+Be especially careful not to share licensed software, 
+copyright-infringing content, 
+or untrusted software that may be malware.
+
+If an image has been shared to you and you then consider sharing it to 
+your own consumer, consider the following before deciding to
+export that image:
+
+* The image should not contain software not intended to be distributed
+  beyond the image producer and consumer.
+
+* The image will be subject to any limitations on image export that
+  already exist within Rackspace (for example, Windows Server images
+  may not be able to be exported).
 
 If you believe an image has been shared to you in error or with
 malicious intent, contact Rackspace at
 `cloudimageshelp@rackspace.com <mailto:cloudimageshelp%40rackspace.com>`__.
 
-Creating cloud servers from shared images
------------------------------------------                                         
-Once an image is shared to a user, they are free to create servers
-from the shared image; they appear in the user’s image list, just like
-any of their own saved snapshots. After a new server is created from a
-shared image, any subsequent snapshots that are taken of these new cloud
-servers will be available only to that user, not the user that
-originally shared the image.
-
-Any servers or images created from the shared image will still be
-available to the consumer, even if the shared image is revoked.
-
-Image sharing and regions
--------------------------                         
-Images can only be shared to consumers in the same Rackspace cloud
-region.
-
-Costs incurred with shared images
----------------------------------                                 
+Financial considerations for shared images
+''''''''''''''''''''''''''''''''''''''''''
 Only the image producer is charged for the cost of the original shared
 image (the cost to store the image in Cloud Files). Consumers of the
 images do not incur a cost for either the sharing process, or using the
@@ -54,63 +51,17 @@ shared image until they:
 * Take an image of a server created from the shared image, at
   which point the normal Cloud Files pricing to store the image applies
 
-Exporting shared images
------------------------
-If a consumer has created a Cloud Server image/snapshot from a shared
-image, they should consider the following concerns if they choose to
-export that image:
+Regional considerations for shared images
+'''''''''''''''''''''''''''''''''''''''''
+Images can only be directly shared to consumers within 
+the same Rackspace cloud region as the producer.
 
-* The image should not contain software not intended to be distributed
-  beyond the image producer and consumer.
+If you need to use the same image in multiple regions, 
+you can create a copy of the image in each region. 
 
-* The image will be subject to any limitations on image export that
-  already exist within Rackspace (for example, Windows Server images
-  may not be able to be exported).
-
-Preparing to share an image
-'''''''''''''''''''''''''''
-Before you can share an image to one (or more) users, you will need to
-complete some preparatory steps:
-
-1. Create a snapshot of a Cloud Server, or import an image that you will
-   be sharing.
-
-2. Obtain the UUID (also known as *image ID*) of the image that you will
-   be sharing. The UUID is available from the API or the Cloud Control
-   Panel.
-
-3. Gather the tenant ID(s) (also known as *DDI* or *customer number*) of
-   the consumer(s) to whom you will be sharing. This is a numeric ID
-   that the consumer can find in their Control Panel or using their API.
-   
-   .. NOTE::
-      The target consumer must provide their tenant ID to you; 
-      you cannot search, browse, or otherwise discover 
-      their unique ID.
-
-Offering to share an image
-''''''''''''''''''''''''''
-Once the image producer has the proper information, the sharing process
-is very straightforward.
-
-1. The image producer uses the API or tools to issue the image share
-   request to one or more image consumers.
-
-2. The image consumer uses the API or tools to either accept or reject
-   the image, determining whether it will be available in their image
-   list (their “member status”).
-
-The image producer repeats this process for each additional image, and
-for each additional consumer that needs to be added as a member to each
-image.
-
-Removing members from a shared image
-''''''''''''''''''''''''''''''''''''
-An image can have some or all of its members removed using the API or
-tools. The image producer has complete control over this action, and is
-the only one that can delete members from the image.
-
-Any members that *rejected* the share request are technically still
-members, even though they will not have visibility or access to the
-image. The image producer can and should delete these members from the
-image if they no longer have reason to be included.
+`Transferring images between regions of the Rackspace open cloud <http://www.rackspace.com/knowledge_center/article/transferring-images-between-regions-of-the-rackspace-open-cloud>`__ 
+demonstrates a method of placing an image within a Cloud Files 
+container in one region and then retrieving it from the container 
+in another region. This is a complex, multi-step method but it may be 
+worth the effort to master it if you need consistent images 
+in multiple regions. 

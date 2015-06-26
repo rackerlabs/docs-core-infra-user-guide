@@ -26,19 +26,6 @@ An image consumer is also called an image member.
 A shared image is an image that an image owner has made available to one
 or more image members.
 
-Exporting shared images
------------------------
-If a consumer has created a cloud server image/snapshot from a shared
-image, they should consider the following concerns if they choose to
-export that image:
-
-* The image should not contain software not intended to be distributed
-  beyond the image producer and consumer.
-
-* The image will be subject to any limitations on image export that
-  already exist within Rackspace (for example, Windows Server images
-  may not be able to be exported).
-
 Preparing to share an image
 '''''''''''''''''''''''''''
 Before you can share an image to one (or more) users, you will need to
@@ -60,40 +47,11 @@ complete some preparatory steps:
       you cannot search, browse, or otherwise discover 
       their unique ID.
 
-Offering to share an image
-''''''''''''''''''''''''''
-Once the image producer has the proper information, the sharing process
-is very straightforward.
-
-1. The image producer uses the API or tools to issue the image share
-   request to one or more image consumers.
-
-2. The image consumer uses the API or tools to either accept or reject
-   the image, determining whether the image
-   will be available in their image
-   list (their "member status").
-
-The image producer repeats this process for each additional image and
-for each additional consumer that needs to be added as a member to each
-image.
-
-Removing members from a shared image
-''''''''''''''''''''''''''''''''''''
-An image can have some or all of its members removed using the API or
-tools. The image producer has complete control over this action, and is
-the only one that can delete members from the image.
-
-Any members that *rejected* the share request are technically still
-members, even though they will not have visibility or access to the
-image. The image producer can and should delete these members from the
-image if they no longer have reason to be included.
-
-
-
 
 .. toctree:: :hidden:
    :maxdepth: 2
 
    models
    planning
+   managing
    support

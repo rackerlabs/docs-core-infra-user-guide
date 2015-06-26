@@ -1,8 +1,8 @@
 .. _cloud-images-sharing-models:
 
-------------------------------
+------------------------
 Models of sharing images
-------------------------------
+------------------------
 When you share an image, 
 you create a direct, unique relationship with each
 consumer of the image.

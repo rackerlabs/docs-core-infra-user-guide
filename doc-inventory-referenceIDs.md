@@ -103,6 +103,8 @@ cloud-images-sharing-planning          = /cloud-config/compute/cloud-images-prod
 
 cloud-images-sharing-support           = /cloud-config/compute/cloud-images-product-concepts/sharing-images/support.rst
 
+cloud-images-sharing-managing          = /cloud-config/compute/cloud-images-product-concepts/sharing-images/managing.rst
+
 cloud-images-sharing-models            = /cloud-config/compute/cloud-images-product-concepts/sharing-images/models.rst
 
 cloud-init-boot                        = /cloud-config/compute/cloud-servers-product-concepts/boot/cloud-init-boot.rst

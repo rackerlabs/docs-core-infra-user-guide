@@ -23,30 +23,6 @@ they remain
 available to the consumer, 
 even if the producer revokes the shared image.
 
-Preparing to share an image
-'''''''''''''''''''''''''''
-As the image producer, 
-before you can share an image to one or more image consumers  
-you must
-complete some preparatory steps:
-
-1. Create a snapshot of a Cloud Server or import an image that you will
-   be sharing.
-
-2. Obtain the UUID (also known as *image ID*) of the image that you will
-   be sharing. The UUID is available from the API or the Cloud Control
-   Panel.
-
-3. Gather the tenant ID(s) (also known as *DDI* or *customer number*) of
-   the consumer or consumers to whom you will be sharing. 
-   This is a numeric ID
-   that the consumer can find in their Control Panel or using their API.
-   
-   .. NOTE::
-      The target consumer must provide their tenant ID to you; 
-      you cannot search, browse, or otherwise discover 
-      their unique ID.
-
 Offering to share an image
 ''''''''''''''''''''''''''
 Once the image producer has the proper information, the sharing process

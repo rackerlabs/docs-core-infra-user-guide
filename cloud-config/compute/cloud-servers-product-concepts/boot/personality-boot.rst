@@ -1,4 +1,4 @@
-.. personality-boot:
+.. _personality-boot:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Controlling boot behavior with personality

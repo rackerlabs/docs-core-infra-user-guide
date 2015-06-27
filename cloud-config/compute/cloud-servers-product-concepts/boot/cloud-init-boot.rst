@@ -1,4 +1,4 @@
-.. cloud-init-boot:
+.. _cloud-init-boot:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Controlling boot behavior with cloud-init

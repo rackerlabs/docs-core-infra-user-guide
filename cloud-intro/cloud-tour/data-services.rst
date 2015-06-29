@@ -48,12 +48,18 @@ Cloud Databases at a glance
 
 Object Rocket at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <https://objectrocket.com/features>`__
-
-* `Pay only for what you use <https://objectrocket.com/pricing>`__ 
-
-* Open-source roots: 
-  `Object Rocket <https://objectrocket.com/>`__  
++--------------------------------------------+------------------------------------------------+
+|                                            |                                                |
+| .. image::                                 | * `Product overview                            |
+|    /_images/logo-objectrocket-50x50.png    |   <https://objectrocket.com/features>`__       |
+|    :alt: Cloud Databases provides          | * `Pay only for what you use                   |
+|          on-demand provisioning and        |   <https://objectrocket.com/pricing>`__        |
+|          open APIs.                        | * Open-source roots:                           |
+|    :align: center                          |   `Object Rocket                               |
+|                                            |   <https://objectrocket.com/>`__               |
+| Object Rocket provides                     |                                                |
+| managed instances of MongoDB and Redis.    |                                                |
++--------------------------------------------+------------------------------------------------+ 
 
 .. TIP::
    Object Rocket is the right tool for 

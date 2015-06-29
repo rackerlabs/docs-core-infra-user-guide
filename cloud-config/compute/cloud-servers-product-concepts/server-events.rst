@@ -48,8 +48,8 @@ You can interact with Cloud Monitoring and Auto Scale using the same
 methods you use to interact with Cloud Servers:
 
 * The `Cloud Control Panel <https://mycloud.rackspace.com/>`__, as
-  explained in the `Knowledge
-  Center <http://www.rackspace.com/knowledge_center/>`__
+  explained in its 
+  `technical documentation <http://www.rackspace.com/knowledge_center/>`__
 
 * The raxmon command-line interface (CLI)
 

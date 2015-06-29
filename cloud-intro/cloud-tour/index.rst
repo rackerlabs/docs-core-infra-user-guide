@@ -51,8 +51,8 @@ mention them when they are relevant.
 
 In other Rackspace resources such as the 
 `Cloud Control Panel <https://mycloud.rackspace.com/>`__
-and the 
-`Knowledge Center <http://www.rackspace.com/knowledge_center/>`__,
+and  
+`technical documentation <http://www.rackspace.com/knowledge_center/>`__,
 you should notice that Rackspace cloud products
 are grouped so that closely-related products are likely to be discussed together. 
 We follow that convention here, introducing several categories of cloud products 

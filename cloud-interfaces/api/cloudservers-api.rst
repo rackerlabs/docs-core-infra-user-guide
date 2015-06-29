@@ -79,7 +79,7 @@ available within the broader Rackspace portfolio include:
   `Rackspace Cloud Servers powered by OpenStack <http://www.rackspace.com/cloud/servers>`__
 * `Rackspace Community <https://community.rackspace.com/>`__
 * `Rackspace Marketplace <https://marketplace.rackspace.com/listing?p=1&default=true&q#!/list/page/1/>`__
-* `Rackspace Knowledge Center <http://www.rackspace.com/knowledge_center/>`__
+* `Rackspace technical documentation <http://www.rackspace.com/knowledge_center/>`__
 
 .. _cloudservers-api-demonstration:
 

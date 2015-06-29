@@ -12,7 +12,7 @@ meet some of the same challenges you are facing, start at
 Other good places to find
 customer stories include:
 
-* `Case studies and white papers in the Knowledge Center <http://www.rackspace.com/knowledge_center/case-studies-white-papers>`__
+* `Case studies and white papers in technical documentation <http://www.rackspace.com/knowledge_center/case-studies-white-papers>`__
 
 * `Postings in the "Partner & Customer Updates" channel of the Rackspace blog <http://www.rackspace.com/blog/channels/partner-and-customer-updates/>`__
 

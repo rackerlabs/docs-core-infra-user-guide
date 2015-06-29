@@ -31,9 +31,9 @@ first tasks:
   .. note::
      Users who do not have permission to use a feature 
      do not see that feature in the Cloud Control Panel. 
-     Cloud Control Panel screenshots in the
-     `Knowledge Center <http://www.rackspace.com/knowledge_center/>`__ 
-     and elsewhere may show features that are not 
+     Cloud Control Panel screenshots in 
+     `technical documentation <http://www.rackspace.com/knowledge_center/>`__ 
+     may show features that are not 
      available to some users.
 
 * View and change resource limits

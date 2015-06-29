@@ -88,7 +88,7 @@ showing all volumes in that region;
 you can select a different region and you can search for a 
 specific volume.
 
-.. figure:: /_images/CloudBlockStorage0volumes.png
+.. figure:: /_images/cloudblockstorage0volumes.png
    :scale: 80%
    :alt: If you have no Cloud Block Storage volumes, 
          the Cloud Control Panel shows you how to 

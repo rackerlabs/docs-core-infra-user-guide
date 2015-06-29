@@ -124,30 +124,121 @@ To include any image in the guide:
 ----
 **Inventory of logos**
 
+* **logo-autoscale-50x50.png**
+  * used at /cloud-intro/cloud-tour/application-services.html
+  * original size here, logo-autoscale.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * original from Lane Fielder, resized by Rose Coste
+
+* **logo-cloudbigdata-50x50.png**
+  * used at /cloud-intro/cloud-tour/data-services.html
+  * original size here, logo-cloudbigdata.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * SnagIt from http://objectrocket.com/features by Rose Coste
+  
+* **logo-cloudbackup-50x50.png**
+  * used at /index.html
+  * used at /cloud-intro/cloud-tour/storage-services.html
+  * original size here, logo-cloudbackup.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * original from Lane Fielder, resized by Rose Coste
+
 * **logo-cloudblockstorage-50x50.png**
   * used at /index.html
+  * used at /cloud-intro/cloud-tour/storage-services.html
   * original size here, logo-cloudblockstorage.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * original from Lane Fielder, resized by Rose Coste
+  
+* **logo-clouddatabases-50x50.png**
+  * used at /cloud-intro/cloud-tour/data-services.html
+  * original size here, logo-clouddatabases.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * SnagIt from http://objectrocket.com/features by Rose Coste
+  
+* **logo-clouddns-50x50.png**
+  * used at /cloud-intro/cloud-tour/network-services.html
+  * original size here, logo-clouddns.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * original from Lane Fielder, resized by Rose Coste
+  
+* **logo-cloudfiles-50x50.png**
+  * used at /index.html
+  * used at /cloud-intro/cloud-tour/storage-services.html
+  * original size here, logo-cloudfiles.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * original from Lane Fielder, resized by Rose Coste
+  
+* **logo-cloudidentity-50x50.png**
+  * used at /index.html
+  * used at /cloud-intro/cloud-tour/support-services.html
+  * original size here, logo-cloudidentity.png;
     resized to 50px x 50px with SnagIt Editor
   * collection date 2015-06-07
   * original from Lane Fielder, resized by Rose Coste
   
 * **logo-cloudimages-50x50.png**
   * used at /index.html
+  * used at /cloud-intro/cloud-tour/compute-services.html
   * original size here, logo-cloudimages.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * original from Lane Fielder, resized by Rose Coste
+  
+* **logo-cloudloadbalancers-50x50.png**
+  * used at /cloud-intro/cloud-tour/network-services.html
+  * original size here, logo-cloudloadbalancers.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * original from Lane Fielder, resized by Rose Coste
+  
+* **logo-cloudmonitoring-50x50.png**
+  * used at /cloud-intro/cloud-tour/application-services.html
+  * original size here, logo-cloudmonitoring.png;
     resized to 50px x 50px with SnagIt Editor
   * collection date 2015-06-07
   * original from Lane Fielder, resized by Rose Coste
   
 * **logo-cloudnetworks-50x50.png**
   * used at /index.html
+  * used at /cloud-intro/cloud-tour/network-services.html
   * original size here, logo-cloudnetworks.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * original from Lane Fielder, resized by Rose Coste
+  
+* **logo-cloudorchestration-50x50.png**
+  * used at /cloud-intro/cloud-tour/application-services.html
+  * original size here, logo-cloudorchestration.png;
     resized to 50px x 50px with SnagIt Editor
   * collection date 2015-06-07
   * original from Lane Fielder, resized by Rose Coste
   
 * **logo-cloudservers-50x50.png**
   * used at /index.html
+  * used at /cloud-intro/cloud-tour/compute-services.html
   * original size here, logo-cloudservers.png;
+    resized to 50px x 50px with SnagIt Editor
+  * collection date 2015-06-07
+  * original from Lane Fielder, resized by Rose Coste
+  
+* **logo-objectrocket-50x50.png**
+  * used at /cloud-intro/cloud-tour/data-services.html
+  * original size 156x54;
+    resized to 154px x 50px with SnagIt Editor
+  * collection date 2015-06-29
+  * SnagIt from http://objectrocket.com/features by Rose Coste
+  
+* **logo-rackconnect-50x50.png**
+  * used at /cloud-intro/cloud-tour/network-services.html
+  * original size here, logo-rackconnect.png;
     resized to 50px x 50px with SnagIt Editor
   * collection date 2015-06-07
   * original from Lane Fielder, resized by Rose Coste

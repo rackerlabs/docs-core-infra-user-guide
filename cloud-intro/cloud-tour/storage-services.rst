@@ -5,10 +5,10 @@ Storage and content delivery services
 -------------------------------------
 Services in this category include
 
-* Cloud Block Storage 
+* Cloud Block Storage
 * Cloud Backup
 * Cloud CDN
-* Cloud Files 
+* Cloud Files
 
 Cloud Block Storage at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -26,12 +26,12 @@ Cloud Block Storage at a glance
 +-------------------------------------------------+--------------------------------------------------+
 
 .. TIP::
-   Cloud Block Storage is part of the 
-   core infrastructure of the Rackspace cloud, 
-   the focus of this guide. 
-   
+   Cloud Block Storage is part of the
+   core infrastructure of the Rackspace cloud,
+   the focus of this guide.
+
    A good place to begin learning to interact with it is
-   :ref:`cloud_interfaces`. 
+   :ref:`cloud_interfaces`.
 
 Cloud Backup at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,9 +49,17 @@ Cloud Backup at a glance
 
 Cloud CDN at a glance
 ~~~~~~~~~~~~~~~~~~~~~
-* `Product overview <http://www.rackspace.com/cloud/cdn-content-delivery-network>`__
-
-* `Pay only for what you use <http://www.rackspace.com/cloud/public-pricing>`__
++-------------------------------------------+-------------------------------------------------+
+|                                           |                                                 |
+| .. image::                                | * `Product overview                             |
+|    /_images/logo-cloudcdn-50x50.png       |   <http://www.rackspace.com/cloud/              |
+|    :alt: Cloud CDN accelerates            |   cdn-content-delivery-network>`__              |
+|          content delivery.                | * `Pay only for what you use                    |
+|    :align: center                         |   <http://www.rackspace.com/cloud/              |
+|                                           |   public-pricing>`__                            |
+| Cloud CDN accelerates                     |                                                 |
+| content delivery.                         |                                                 |
++-------------------------------------------+-------------------------------------------------+
 
 Cloud Files at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,4 +74,3 @@ Cloud Files at a glance
 | Cloud Files stores                         |   `OpenStack Swift <http://docs.openstack.org/   |
 | online objects.                            |   developer/swift/>`__                           |
 +--------------------------------------------+--------------------------------------------------+
-

@@ -7,12 +7,14 @@ Your cloud server configuration can include several kinds of networks,
 connected as appropriate for your needs.
 
 Using Cloud Networks, you can connect 
-virtual cloud servers with other virtual cloud servers, 
-with OnMetal cloud servers, 
-and, with RackConnect, 
+virtual cloud servers 
+with 
+:ref:`other virtual cloud servers <network-cloud-servers>`, 
+with 
+:ref:`OnMetal cloud servers <network-onmetal-servers>`, 
+and, by using 
+:ref:`RackConnect <network-rackconnect>`, 
 with dedicated servers operating outside the cloud. 
-
-
 
 
 .. toctree:: :hidden:

@@ -1,8 +1,8 @@
 .. _network-cloud-servers:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Cloud Networks: internal-use connections for Cloud Servers
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Networking considerations for cloud servers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cloud Networks are user-defined L2 networks that are fully isolated,
 single-tenant, and offer users a means to securely connect their
 application servers.

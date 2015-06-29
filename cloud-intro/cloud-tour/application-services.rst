@@ -32,10 +32,9 @@ Cloud Metrics at a glance
 |    /_images/logo-cloudmetrics-50x50.png    |   <http://www.rackspace.com/                |
 |    :alt: Cloud Metrics stores and serves   |   knowledge_center/article/                 |
 |          time-series metrics.              |   cloud-metrics-overview>`__                |
-|    :align: center                          |  * Free with every cloud account            |
+|    :align: center                          | * Free with every cloud account             |
 |                                            | * Open-source roots:                        |
-|                                            |   `Blueflood <http://blueflood.io/>`__      |
-| Cloud Metrics stores and serves            |                                             |
+| Cloud Metrics stores and serves            |   `Blueflood <http://blueflood.io/>`__      |
 | time-series metrics.                       |                                             |
 +--------------------------------------------+---------------------------------------------+
 

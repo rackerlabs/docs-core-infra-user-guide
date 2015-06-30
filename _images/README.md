@@ -136,7 +136,7 @@ To include any image in the guide:
   * original size here, logo-cloudbigdata.png;
     resized to 50px x 50px with SnagIt Editor
   * collection date 2015-06-07
-  * SnagIt from http://objectrocket.com/features by Rose Coste
+  * original from Lane Fielder, resized by Rose Coste
 
 * **logo-cloudbackup-50x50.png**
   * used at /index.html
@@ -156,7 +156,7 @@ To include any image in the guide:
 
 * **logo-cloudcdn-50x50.png**
   * used at /cloud-intro/cloud-tour/storage-services.html
-  * resized to 50px x 50px with inkspace editor
+  * resized to 50px x 50px with inkscape editor
   * collection date 2015-06-25
   * original from Margaret Eker, resized by Margaret Eker
 
@@ -165,7 +165,7 @@ To include any image in the guide:
   * original size here, logo-clouddatabases.png;
     resized to 50px x 50px with SnagIt Editor
   * collection date 2015-06-07
-  * SnagIt from http://objectrocket.com/features by Rose Coste
+  * original from Lane Fielder, resized by Rose Coste
 
 * **logo-clouddns-50x50.png**
   * used at /cloud-intro/cloud-tour/network-services.html

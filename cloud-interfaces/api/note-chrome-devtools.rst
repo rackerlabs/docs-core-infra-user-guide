@@ -18,7 +18,7 @@
      behind the scenes in Chrome's developer view. 
     
     
-.. figure:: /_images/ChromeViewDeveloper.png
+.. figure:: /_images/chromeviewdeveloper.png
    :scale: 80%
    :alt: You can use Chrome's developer tools to 
          observe the Cloud Control Panel's API interactions.

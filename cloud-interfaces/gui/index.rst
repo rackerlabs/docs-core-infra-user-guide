@@ -38,7 +38,7 @@ first tasks:
 
 * View and change resource limits
 
-  .. figure:: /_images/AccountResourceLimits.png
+  .. figure:: /_images/accountresourcelimits.png
      :scale: 80%
      :alt: Use the Control Panel to see your current
          limits and to ask to change them.

@@ -71,7 +71,7 @@ hovering over the green circle pops up an explanation of pricing.
          Your choice can affect your cost.
    
    *Choose resource sizes. 
-   Your choice can affect your cost.**
+   Your choice can affect your cost.*
 
 After you submit your request, nova-scheduler, the component responsible
 for appropriately assigning a new Cloud Server to a physical host,

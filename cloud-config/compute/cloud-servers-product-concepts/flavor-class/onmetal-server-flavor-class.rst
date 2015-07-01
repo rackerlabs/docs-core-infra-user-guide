@@ -6,7 +6,7 @@ Flavor classes for OnMetal servers
 To create your Cloud Server as an OnMetal™ server, open the **OnMetal™
 Server** tab from the Cloud Control Panel.
 
-.. figure:: /_images/CloudServerCreateOnMetal.png
+.. figure:: /_images/cloudservercreateonmetal.png
    :alt: Click the OnMetal Server tab 
          to begin creating an OnMetal server.
    

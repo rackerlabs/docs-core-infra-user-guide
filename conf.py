@@ -28,7 +28,11 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.autosummary']
+extensions = [
+     'sphinx.ext.autodoc',
+     'sphinx.ext.autosummary',
+     'sphinx.ext.extlinks'
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -86,6 +90,23 @@ exclude_patterns = ['_build']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
+
+# External link library
+extlinks = {
+    'rax': ('http://www.rackspace.com/%s', ''),
+    'rax-cloud': ('http://www.rackspace.com/cloud/%s', ''),
+    'rax-docs': ('http://docs.rackspace.com/%s', ''),
+    'rax-dev': ('https://developer.rackspace.com/%s', ''),
+    'rax-api': ('http://api.rackspace.com/%s', ''),
+    'kc': ('http://www.rackspace.com/knowledge_center/%s', ''),
+    'kc-article': ('http://www.rackspace.com/knowledge_center/article/%s', ''),
+    'os': ('http://www.openstack.org/%s', ''),
+    'os-docs': ('http://docs.openstack.org/%s', ''),
+    'os-wiki': ('http://wiki.openstack.org/%s', ''),
+    'git-repo': ('https://github.com/rackerlabs/docs-core-infra-user-guide/%s', ''),
+    'rackerlabs': ('https://github.com/rackerlabs/%s', ''),
+    'rocket': ('https://objectrocket.com/%s', '')
+}
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []

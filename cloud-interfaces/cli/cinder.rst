@@ -2,22 +2,22 @@
 
 ++++++++++
 cinder CLI
-++++++++++ 
-The OpenStack tool primarily used for 
+++++++++++
+The OpenStack tool primarily used for
 managing Cloud Block Storage is written
-in Python and called *cinder*. 
-It is also known as 
+in Python and called *cinder*.
+It is also known as
 *python-cinderclient*.
 
-OpenStack documents that may help you install cinderclient 
-and learn to use it include: 
+OpenStack documents that may help you install cinderclient
+and learn to use it include:
 
-* `Install the OpenStack command-line clients <http://docs.openstack.org/user-guide/common/cli_install_openstack_command_line_clients.html>`__
+* :os-docs:`Install the OpenStack command-line clients <user-guide/common/cli_install_openstack_command_line_clients.html>`
 
-* `OpenStack Command-Line Interface Reference <http://docs.openstack.org/cli-reference/content/index.html>`__, 
-  especially at 
-  `Block Storage command-line client <http://docs.openstack.org/cli-reference/content/cinderclient_commands.html>`__ 
+* :os-docs:`OpenStack Command-Line Interface Reference <cli-reference/content/index.html>`,
+  especially at
+  :os-docs:`Block Storage command-line client <cli-reference/content/cinderclient_commands.html>`
 
-* `cinder CLI man page <http://docs.openstack.org/developer/python-cinderclient/man/cinder.html>`__ 
+* :os-docs:`cinder CLI man page <developer/python-cinderclient/man/cinder.html>`
 
-.. include:: note-openstack-username.rst 
+.. include:: note-openstack-username.rst

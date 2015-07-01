@@ -73,7 +73,7 @@ your session begins with information about your Cloud Servers.
 To see your Cloud Block Storage information, click **Storage**
 and then click **Block Storage Volumes**.
 
-.. figure:: /_images/StorageBlockStorageVolumes.png
+.. figure:: /_images/storageblockstoragevolumes.png
    :scale: 80%
    :alt: To move from Cloud Servers to
          Cloud Block Storage details,
@@ -107,7 +107,7 @@ you can see:
 * The type of disk it uses
 * Its size
 
-.. figure:: /_images/CloudBlockStorage1volume.png
+.. figure:: /_images/cloudblockstorage1volume.png
    :scale: 80%
    :alt: The Cloud Control Panel lists all of your
          Cloud Block Storage volumes.
@@ -141,7 +141,7 @@ you can see that:
 * Sending a ``GET`` to the same URI and appending ``/detail``
   requests an expanded list of information about volumes
 
-.. figure:: /_images/CloudBlockStorageListVolumesGET.png
+.. figure:: /_images/cloudblockstoragelistvolumesGET.png
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
 
@@ -187,7 +187,7 @@ go to the
 :rax-dev:`SDK QuickStart for Cloud Block Storage <docs/cloud-block-storage/getting-started>`
 and click *PHP*.
 
-.. figure:: /_images/CloudBlockStorageSDKPHP.png
+.. figure:: /_images/cloudblockstorageSDKPHP.png
    :scale: 80%
    :alt: PHP is one of several languages for which we
          publish an SDK QuickStart.

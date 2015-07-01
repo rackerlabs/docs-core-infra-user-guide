@@ -6,7 +6,7 @@ Flavor classes for virtual servers
 To create your Cloud Server as a virtual server, open the **Virtual Server**
 tab from the Cloud Control Panel.
 
-.. figure:: /_images/CloudServerCreateVirtual.png
+.. figure:: /_images/cloudservercreatevirtual.png
    :alt: Click the Virtual Server tab 
          to begin creating a virtual server.
    

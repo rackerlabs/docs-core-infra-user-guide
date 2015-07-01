@@ -120,7 +120,7 @@ you can see:
 Learn about Cloud Block Storage in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the
-`API cross-reference <http://api.rackspace.com/>`__,
+:rax-api:`API cross-reference <>`,
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Block Storage or Cloud Files)

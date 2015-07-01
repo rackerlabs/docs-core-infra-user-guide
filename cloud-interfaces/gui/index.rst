@@ -3,7 +3,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 GUI: Rackspace Cloud Control Panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The Rackspace Cloud Control Panel at https://mycloud.rackspace.com is
+The Rackspace `Cloud Control Panel <https://mycloud.rackspace.com/>`__ is
 the easiest way to get started with provisioning cloud resources.
 
 The Cloud Control Panel provides a simple, unified web based interface
@@ -52,7 +52,7 @@ first tasks:
   submitting the ticket for processing. Update the ticket to
   describe the change you want; then click **Submit Ticket**.
 
-  .. figure:: /_images/CreateTicketServersResourceLimit.png
+  .. figure:: /_images/createticketserversresourcelimit.png
      :scale: 80%
      :alt: In the generated ticket,
          fill in the details you want to change.

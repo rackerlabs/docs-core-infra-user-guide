@@ -175,7 +175,7 @@ go to the
 :rax-dev:`SDK QuickStart for Cloud Networks <docs/cloud-networks/getting-started>`
 and click *Java*.
 
-.. figure:: /_images/CloudNetworksSDKjava.png
+.. figure:: /_images/cloudnetworkssdkjava.png
    :scale: 80%
    :alt: Java is one of several languages for which we
          publish an SDK QuickStart.

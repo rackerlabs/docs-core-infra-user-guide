@@ -9,10 +9,10 @@ The basic process is the same for all Rackspace APIs:
 
 1. Collect parts needed for the request:
 
-   * Obtain your account credentials (`API key <http://www.rackspace.com/knowledge_center/article/view-and-reset-your-api-key>`__ and account number, also called tenant ID) from the `Cloud Control Panel <https://mycloud.rackspace.com/>`__.
-   * `Use your credentials to authenticate <http://docs.rackspace.com/auth/api/v2.0/auth-client-devguide/content/QuickStart-000.html>`__, receiving a token and a service catalog as proof of success
-   * In the `service catalog <http://docs.rackspace.com/auth/api/v2.0/auth-client-devguide/content/Sample_Request_Response-d1e64.html>`__, find the endpoint for the API to which you want to send a request.
-   * Look up the `syntax of the API request <http://api.rackspace.com/>`__.
+   * Obtain your account credentials (:kc-article:`API key <view-and-reset-your-api-key>` and account number, also called tenant ID) from the `Cloud Control Panel <https://mycloud.rackspace.com/>`__.
+   * :rax-docs:`User your credentials to authenticate <auth/api/v2.0/auth-client-devguide/content/QuickStart-000.html>`, receiving a token and a service catalog as proof of success
+   * In the :rax-docs:`service catelog <auth/api/v2.0/auth-client-devguide/content/Sample_Request_Response-d1e64.html>`, find the endpoint for the API to which you want to send a request.
+   * Look up the :rax-api:`syntax of the API request <>`.
 
 2. Assemble the request from its parts. Plug in the values you collected for your credentials, the API's endpoint, and any details (such as the ID of a server) specific to your configuration and your API request.
 3. Send a well-formed request to the service's API endpoint.

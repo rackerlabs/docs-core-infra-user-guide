@@ -19,7 +19,7 @@ You can create Cloud Servers of two types:
 
 This is an architectural overview of virtual servers:
 
-.. figure:: /_images/CloudServerVirtualArchitecture.png
+.. figure:: /_images/cloudservervirtualarchitecture.png
    :alt: Virtual Cloud Servers are the core of a rich configuration.
    
    *Virtual cloud servers allow for configurations that handle 
@@ -33,7 +33,7 @@ This is an architectural overview of virtual servers:
 
 This is an architectural overview of OnMetal™ servers:
 
-.. figure:: /_images/CloudServerOnMetalArchitecture.png
+.. figure:: /_images/cloudserveronmetalarchitecture.png
    :alt: OnMetal Cloud Servers add a performance boost.
    
    *OnMetal cloud servers are API-driven, which adds a performance boast. 

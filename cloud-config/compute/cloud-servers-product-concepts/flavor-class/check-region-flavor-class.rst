@@ -19,7 +19,7 @@ Other configuration options you can choose for that cloud server
 through the Cloud Control Panel will then be 
 only those that are available in the selected region. 
 
-.. figure:: /_images/CloudServerCreateRegionDFW.png
+.. figure:: /_images/cloudservercreateregiondfw.png
    :alt: Choose a region for the server 
          before choosing any other aspect of its configuration.
    

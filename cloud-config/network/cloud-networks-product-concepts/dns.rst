@@ -27,7 +27,7 @@ domain name with the server's IP address. You can use Cloud DNS to
 associate a domain name with a cloud server. In the Cloud Control Panel,
 select **Networking > Cloud DNS > Create Domain**:
 
-.. figure:: /_images/CloudDNSCreateDomain.png
+.. figure:: /_images/clouddnscreatedomain.png
    :alt: Networking > Cloud DNS > Create Domain
    
    *Networking > Cloud DNS > Create Domain*
@@ -91,7 +91,7 @@ Panel by performing these steps:
 3. On the **Server Details** screen, click **Add Record** next to the **Reverse
    DNS** option.
 
-.. figure:: /_images/CloudDNSAddReverse.png
+.. figure:: /_images/clouddnsaddreverse.png
    :alt: While displaying details for a server,
          click Add Record to begin defining a 
          reverse DNS record.
@@ -120,7 +120,7 @@ displays the details for the reverse DNS you just added,
 confirming the association of the domain name and 
 the server's IP address.
 
-.. figure:: /_images/CloudDNSAddReverseDetails.png
+.. figure:: /_images/clouddnsaddreversedetails.png
    :alt: After adding a reverse DNS record to a server,
          click 1 Record to confirm the association between 
          the domain name and the server's IP address.

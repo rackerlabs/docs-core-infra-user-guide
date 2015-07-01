@@ -14,15 +14,14 @@ Cloud Block Storage at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 +-------------------------------------------------+--------------------------------------------------+
 |                                                 |                                                  |
-| .. image::                                      | * `Product overview                              |
-|    /_images/logo-cloudblockstorage-50x50.png    |   <http://www.rackspace.com/cloud/               |
-|    :alt: Cloud Block Storage adds               |   block-storage>`__                              |
-|          cloud server storage.                  | * `Pay only for what you use                     |
-|    :align: center                               |   <http://www.rackspace.com/cloud/               |
-|                                                 |   public-pricing>`__                             |
-| Cloud Block Storage adds                        | * Open-source roots:                             |
-| cloud server storage.                           |   `OpenStack Cinder <http://docs.openstack.org/  |
-|                                                 |   developer/cinder/>`__                          |
+| .. image::                                      | * :rax-cloud:`Product overview <block-storage>`  |
+|    /_images/logo-cloudblockstorage-50x50.png    | * :rax-cloud:`Pay only for what you use          |
+|    :alt: Cloud Block Storage adds               |   <public-pricing>`                              |
+|          cloud server storage.                  | * Open-source roots:                             |
+|    :align: center                               |   :os-docs:`OpenStack Cinder <developer/cinder>` |
+|                                                 |                                                  |
+| Cloud Block Storage adds                        |                                                  |
+| cloud server storage.                           |                                                  |
 +-------------------------------------------------+--------------------------------------------------+
 
 .. TIP::
@@ -37,11 +36,11 @@ Cloud Backup at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
 +-------------------------------------------+-------------------------------------------------+
 |                                           |                                                 |
-| .. image::                                | * `Product overview                             |
-|    /_images/logo-cloudbackup-50x50.png    |   <http://www.rackspace.com/cloud/backup>`__    |
-|    :alt: Cloud Backup safeguards          | * `Pay only for what you use                    |
-|          data.                            |   <http://www.rackspace.com/cloud/              |
-|    :align: center                         |   public-pricing>`__                            |
+| .. image::                                | * :rax-cloud:`Product overview <backup>`        |
+|    /_images/logo-cloudbackup-50x50.png    | * :rax-cloud:`Pay only for what you use         |
+|    :alt: Cloud Backup safeguards          |   <public-pricing>`                             |
+|          data.                            |                                                 |
+|    :align: center                         |                                                 |
 |                                           |                                                 |
 | Cloud Backup safeguards                   |                                                 |
 | data.                                     |                                                 |
@@ -51,12 +50,12 @@ Cloud CDN at a glance
 ~~~~~~~~~~~~~~~~~~~~~
 +-------------------------------------------+-------------------------------------------------+
 |                                           |                                                 |
-| .. image::                                | * `Product overview                             |
-|    /_images/logo-cloudcdn-50x50.png       |   <http://www.rackspace.com/cloud/              |
-|    :alt: Cloud CDN accelerates            |   cdn-content-delivery-network>`__              |
-|          content delivery.                | * `Pay only for what you use                    |
-|    :align: center                         |   <http://www.rackspace.com/cloud/              |
-|                                           |   public-pricing>`__                            |
+| .. image::                                | * :rax-cloud:`Product overview                  |
+|    /_images/logo-cloudcdn-50x50.png       |   <cdn-content-delivery-network>`               |
+|    :alt: Cloud CDN accelerates            | * :rax-cloud:`Pay only for what you use         |
+|          content delivery.                |   <public-pricing>`                             |
+|    :align: center                         |                                                 |
+|                                           |                                                 |
 | Cloud CDN accelerates                     |                                                 |
 | content delivery.                         |                                                 |
 +-------------------------------------------+-------------------------------------------------+
@@ -65,12 +64,12 @@ Cloud Files at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
 +--------------------------------------------+--------------------------------------------------+
 |                                            |                                                  |
-| .. image::                                 | * `Product overview                              |
-|    /_images/logo-cloudfiles-50x50.png      |   <http://www.rackspace.com/cloud/files>`__      |
-|    :alt: Cloud Files stores                | * `Pay only for what you use                     |
-|          online objects                    |   <http://www.rackspace.com/cloud/               |
-|    :align: center                          |   public-pricing>`__                             |
-|                                            | * Open-source roots:                             |
-| Cloud Files stores                         |   `OpenStack Swift <http://docs.openstack.org/   |
-| online objects.                            |   developer/swift/>`__                           |
+| .. image::                                 | * :rax-cloud:`Produce overview <files>`          |
+|    /_images/logo-cloudfiles-50x50.png      | * :rax-cloud:`Pay only for what you use          |
+|    :alt: Cloud Files stores                |   <public-pricing>`                              |
+|          online objects                    | * Open-source roots:                             |
+|    :align: center                          |   :os-docs:`OpenStack Swift <developer/swift>`   |
+|                                            |                                                  |
+| Cloud Files stores                         |                                                  |
+| online objects.                            |                                                  |
 +--------------------------------------------+--------------------------------------------------+

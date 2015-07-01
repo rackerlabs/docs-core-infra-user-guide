@@ -4,8 +4,8 @@
 Rackspace cloud core infrastructure at a glance
 -----------------------------------------------
 Your Rackspace cloud configuration is backed by the physical
-infrastructure in our 
-`data centers <http://www.rackspace.com/about/datacenters>`__.
+infrastructure in our
+:rax:`data centers <about/datacenters>`. 
 
 The virtual infrastructure of the managed cloud is provided by
 infrastructure-as-a-service (IaaS) software services that perform some
@@ -23,25 +23,25 @@ of the same functions as hardware devices in our data centers:
 
 * Additional services enable specific activities such as user
   authentication, load balancing, and event monitoring.
-  
+
 .. figure:: /_images/core-infrastructure.png
-   :alt: Cloud Servers, Cloud Networks, Cloud Images, 
+   :alt: Cloud Servers, Cloud Networks, Cloud Images,
          and Cloud Block Storage are the
-         Rackspace cloud's core infrastructure. 
-         From the Cloud Control Panel, 
-         you can send a request to the API for 
-         a cloud service. 
+         Rackspace cloud's core infrastructure.
+         From the Cloud Control Panel,
+         you can send a request to the API for
+         a cloud service.
          The service processes
          your request.*
-            
-   *Cloud Servers, Cloud Networks, Cloud Images, 
-   and Cloud Block Storage are the            
-   Rackspace cloud's core infrastructure.From the Cloud Control Panel, 
+
+   *Cloud Servers, Cloud Networks, Cloud Images,
+   and Cloud Block Storage are the
+   Rackspace cloud's core infrastructure.From the Cloud Control Panel,
    you can send a request to the API for a cloud service.
    The service processes
    your request.*
 
-.. :scale: is ignored here; resized the image directly 
+.. :scale: is ignored here; resized the image directly
    to 50% of its natural draw.io size
-   http://docs.readthedocs.org/en/latest/faq.html#image-scaling-doesn-t-work-in-my-documentation 
+   http://docs.readthedocs.org/en/latest/faq.html#image-scaling-doesn-t-work-in-my-documentation
    may explain why scaling doesn't work

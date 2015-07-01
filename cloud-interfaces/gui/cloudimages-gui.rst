@@ -10,7 +10,7 @@ Cloud Servers (labeled **Cloud Servers**)
 and Cloud Images (labeled **Saved Images**) both available
 under **Servers**.
 
-.. figure:: /_images/ServersGroup.png
+.. figure:: /_images/serversgroup.png
    :alt: The Servers group includes Cloud Servers and
          Cloud Images.
 

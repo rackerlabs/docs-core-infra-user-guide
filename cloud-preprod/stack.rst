@@ -49,7 +49,7 @@ For some templates, you can choose a flavor.
 For example, the Rails template is available in 
 single-server and multi-server flavors. 
 
-.. figure:: /_images/CloudOrchestrationRailsFlavors.png
+.. figure:: /_images/cloudorchestrationrailsflavors.png
    :alt: Some templates are offered in multiple flavors.
    
    *Some templates are offered in multiple flavors.*

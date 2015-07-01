@@ -10,7 +10,7 @@ the one shown below, RackConnect\ :sup:`®` enables cloud-based and
 physical resources to cooperate behind the same load balancers and
 firewalls.
 
-.. figure:: /_images/RackConnectEnterpriseConfig.png
+.. figure:: /_images/rackconnectenterpriseconfig.png
    :alt: RackConnect enables cloud servers and physical servers to
          cooperate behind the same load balancer and firewall.
          

@@ -10,7 +10,7 @@ Cloud Networks (labeled **Networks**)
 available
 under **Networking**.
 
-.. figure:: /_images/NetworkingGroup.png
+.. figure:: /_images/networkinggroup.png
    :scale: 80%
    :alt: The Networking group includes Cloud Networks.
 

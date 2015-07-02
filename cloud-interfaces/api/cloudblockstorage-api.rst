@@ -141,7 +141,7 @@ you can see that:
 * Sending a ``GET`` to the same URI and appending ``/detail``
   requests an expanded list of information about volumes
 
-.. figure:: /_images/cloudblockstoragelistvolumesGET.png
+.. figure:: /_images/cloudblockstoragelistvolumesget.png
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
 
@@ -187,7 +187,7 @@ go to the
 :rax-dev:`SDK QuickStart for Cloud Block Storage <docs/cloud-block-storage/getting-started>`
 and click *PHP*.
 
-.. figure:: /_images/cloudblockstorageSDKPHP.png
+.. figure:: /_images/cloudblockstoragesdkphp.png
    :scale: 80%
    :alt: PHP is one of several languages for which we
          publish an SDK QuickStart.

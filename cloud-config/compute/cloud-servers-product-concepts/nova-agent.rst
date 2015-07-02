@@ -34,10 +34,10 @@ Nova-agent is documented as part of the OpenStack nova project. The
 following are some sources of nova-agent documentation provided by
 OpenStack:
 
-* `GuestAgent <https://wiki.openstack.org/wiki/GuestAgent>`__
+* :os-wiki:`GuestAgent <wiki/GuestAgent>`
 
-* `GuestAgent Xenstore Communication <https://wiki.openstack.org/wiki/GuestAgentXenStoreCommunication>`__
+* :os-wiki:`GuestAgent Xenstore Communication <wiki/GuestAgentXenStoreCommunication>`
 
-* `OpenStack Unix Guest Agent <https://github.com/rackerlabs/openstack-guest-agents-unix>`__
+* :rackerlabs:`OpenStack Unix Guest Agent <openstack-guest-agents-unix>`
 
-* `OpenStack Windows Guest Agent for Xenserver <https://github.com/rackerlabs/openstack-guest-agents-windows-xenserver>`__
+* :rackerlabs:`OpenStack Windows Guest Agent for Xenserver <openstack-guest-agents-windows-xenserver>`

@@ -11,7 +11,7 @@ during creation, or at any point during the lifetime of the server. Both
 the key field (sometimes called *name*) and the value field can be up to
 255 characters in length.
 
-Metadata can be useful for adding descriptive tags to your 
+Metadata can be useful for adding descriptive tags to your
 servers,
 storing information about their configuration, and more.
 
@@ -23,13 +23,13 @@ API keys, or confidential company information in metadata.
 
 Metadata can also be created and stored on Cloud Images (such as
 snapshots of your Cloud Server). For more information on working with
-Cloud Images metadata (also known image properties), see 
+Cloud Images metadata (also known image properties), see
 :ref:`image_properties`.
 
 Currently, the OpenStack command-line nova utility or API must be used
 to view, set, or delete metadata on a cloud server. For more information
 on using the API to work with server metadata, see
-`Metadata <http://docs.rackspace.com/servers/api/v2/cs-devguide/content/MetadataSection.html>`__ 
+:rax-docs:`Metadata <servers/api/v2/cs-devguide/content/MetadataSection.html>` 
 in the *Next Gen Cloud Servers API Developer Guide*.
 
 

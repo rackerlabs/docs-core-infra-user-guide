@@ -8,7 +8,7 @@ appropriate. Consider carefully before creating an image-sharing
 relationship.
 
 Security and legal considerations for shared images
-''''''''''''''''''''''''''''''''''''''''''''''''''' 
+'''''''''''''''''''''''''''''''''''''''''''''''''''
 Before sharing an image to another user, consider whether your image
 includes any confidential or other content you should not share with
 other users. For example, removing any stored passwords, source code, or
@@ -16,14 +16,14 @@ personal information are all good practices before creating and sharing
 an image.
 
 You should also consider whether there is any content in the image that
-could be considered to violate confidentiality or other 
+could be considered to violate confidentiality or other
 legal agreements if it is shared to
-another user. 
-Be especially careful not to share licensed software, 
-copyright-infringing content, 
+another user.
+Be especially careful not to share licensed software,
+copyright-infringing content,
 or untrusted software that may be malware.
 
-If an image has been shared to you and you then consider sharing it to 
+If an image has been shared to you and you then consider sharing it to
 your own consumer, consider the following before deciding to
 export that image:
 
@@ -53,15 +53,15 @@ shared image until they:
 
 Regional considerations for shared images
 '''''''''''''''''''''''''''''''''''''''''
-Images can only be directly shared to consumers within 
+Images can only be directly shared to consumers within
 the same Rackspace cloud region as the producer.
 
-If you need to use the same image in multiple regions, 
-you can create a copy of the image in each region. 
+If you need to use the same image in multiple regions,
+you can create a copy of the image in each region.
 
-`Transferring images between regions of the Rackspace open cloud <http://www.rackspace.com/knowledge_center/article/transferring-images-between-regions-of-the-rackspace-open-cloud>`__ 
-demonstrates a method of placing an image within a Cloud Files 
+:kc-article:`Transferring images between regions of the Rackspace open cloud <transferring-images-between-regions-of-the-rackspace-open-cloud>`
+demonstrates a method of placing an image within a Cloud Files
 container in one region and then retrieving it from the container 
-in another region. This is a complex, multi-step method but it may be 
-worth the effort to master it if you need consistent images 
-in multiple regions. 
+in another region. This is a complex, multi-step method but it may be
+worth the effort to master it if you need consistent images
+in multiple regions.

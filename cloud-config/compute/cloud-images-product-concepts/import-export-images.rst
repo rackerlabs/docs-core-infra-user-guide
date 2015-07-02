@@ -19,8 +19,7 @@ open in the following ways:
   hardware.
 
 You can find more information concerning image import and export in the
-`Cloud Images
-FAQ <http://www.rackspace.com/knowledge_center/article/cloud-images-frequently-asked-questions>`__.
+:kc-article:`Cloud Images FAQ <cloud-images-frequently-asked-questions>`.
 
 Exporting an image
 ''''''''''''''''''

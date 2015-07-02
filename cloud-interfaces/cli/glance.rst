@@ -2,27 +2,27 @@
 
 ++++++++++
 glance CLI
-++++++++++ 
-The OpenStack tool primarily used for 
+++++++++++
+The OpenStack tool primarily used for
 managing Cloud Images is written
-in Python and called *glance*. 
-It is also known as 
+in Python and called *glance*.
+It is also known as
 *python-glanceclient*.
 
-We recommend that you use the 
-`Python Package Index (PyPI) <https://pypi.python.org/pypi>`__ 
+We recommend that you use the
+`Python Package Index (PyPI) <https://pypi.python.org/pypi>`__
 to install glanceclient, as it will handle installing dependencies and
 required packages for you.
 
-OpenStack documents that may help you install glanceclient 
-and learn to use it include: 
+OpenStack documents that may help you install glanceclient
+and learn to use it include:
 
-* `Install the OpenStack command-line clients <http://docs.openstack.org/user-guide/common/cli_install_openstack_command_line_clients.html>`__
+* :os-docs:`Install the OpenStack command-line clients <user-guide/common/cli_install_openstack_command_line_clients.html>`
 
-* `OpenStack Command-Line Interface Reference <http://docs.openstack.org/cli-reference/content/index.html>`__, 
-  especially at 
-  `Image service command-line client <http://docs.openstack.org/cli-reference/content/glanceclient_commands.html>`__ 
+* :os-docs:`OpenStack Command-Line Interface Reference <cli-reference/content/index.html>`,
+  especially at
+  :os-docs:`Image service command-line client <cli-reference/content/glanceclient_commands.htl>`
 
-* `glance CLI man page <http://docs.openstack.org/developer/python-glanceclient/man/glance.html>`__ 
+* :os-docs:`glance CLI man page <developer/python-glanceclient/man/glance.html>`
 
 .. include:: note-openstack-username.rst

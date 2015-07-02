@@ -3,66 +3,66 @@
 ----------------------
 Preparing to use a CLI
 ----------------------
-To interact with the Rackspace cloud at the command line,  
-you must have some of the same things you would need 
-if you wished to interact by choosing options on a Web page 
-(:ref:`the Cloud Control Panel <cloud-interfaces-gui>`) 
-or by writing software 
+To interact with the Rackspace cloud at the command line,
+you must have some of the same things you would need
+if you wished to interact by choosing options on a Web page
+(:ref:`the Cloud Control Panel <cloud-interfaces-gui>`)
+or by writing software
 (:ref:`SDK or API <cloud-interfaces-api>`):
 
 * A Rackspace cloud account
 * Credentials enabling access to that account
 
   * Your username and password allow you to login to the Cloud Control Panel.
-  * After you login, you can obtain your API key 
+  * After you login, you can obtain your API key
     and your tenant ID (also called account number).
 
-You also need to know something that you would need to know if working 
-with an API: 
+You also need to know something that you would need to know if working
+with an API:
 
 * The endpoint for the cloud service with which you want to interact
 
 .. note::
    :ref:`setup-api` provides more detail about these prerequisites.
 
-Beyond what you would need to use with the Control Panel or an API, 
-you must have two additional tools to enable you to interact with 
+Beyond what you would need to use with the Control Panel or an API,
+you must have two additional tools to enable you to interact with
 the cloud by typing commands:
 
-* A terminal emulator such as 
-  `iTerm2 <https://www.iterm2.com/>`__ 
-  or 
-  `PuTTY <http://www.chiark.greenend.org.uk/~sgtatham/putty/>`__ 
+* A terminal emulator such as
+  `iTerm2 <https://www.iterm2.com/>`__
+  or
+  `PuTTY <http://www.chiark.greenend.org.uk/~sgtatham/putty/>`__
 
-* A locally-installed client capable of interacting with 
+* A locally-installed client capable of interacting with
   the cloud service you have chosen
-  
-  * You can use 
-    `cURL <http://curl.haxx.se/>`__ 
+
+  * You can use
+    `cURL <http://curl.haxx.se/>`__
     to send commands to any API endpoint
-  * You can use 
-    `OpenStack CLIs <http://docs.openstack.org/cli-reference/content/>`__
+  * You can use
+    :os-docs:`OpenStack CLIs <cli-reference/content>`
     to send commands to specific
     cloud services
 
-In your terminal emulator, 
-you can type commands to the client and, 
-if you are properly authenticated, 
-the client forwards your requests to the cloud service and forwards 
-the service's responses to you. 
+In your terminal emulator,
+you can type commands to the client and,
+if you are properly authenticated,
+the client forwards your requests to the cloud service and forwards
+the service's responses to you.
 
 To preserve a series of commands so that they can be easily
-re-executed, 
-you can place them within a 
-`script <http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html>`__. 
-To schedule automated execution of your script, you can 
-invoke it from a 
-`cron job <http://www.unixgeeks.org/security/newbie/unix/cron-1.html>`__.  
+re-executed,
+you can place them within a
+`script <http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html>`__.
+To schedule automated execution of your script, you can
+invoke it from a
+`cron job <http://www.unixgeeks.org/security/newbie/unix/cron-1.html>`__.
 
-Beyond this general process, the details vary 
-depending on which service you are working with. 
-For product-specific introductions to 
-the CLIs relevant to specific 
+Beyond this general process, the details vary
+depending on which service you are working with.
+For product-specific introductions to
+the CLIs relevant to specific
 core infrastructure products, see
 
 * :ref:`cloudservers-cli`

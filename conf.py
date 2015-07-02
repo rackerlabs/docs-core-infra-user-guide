@@ -98,6 +98,7 @@ extlinks = {
     'rax-docs': ('http://docs.rackspace.com/%s', ''),
     'rax-dev': ('https://developer.rackspace.com/%s', ''),
     'rax-api': ('http://api.rackspace.com/%s', ''),
+    'mycloud': ('https://mycloud.rackspace.com/%s', ''),
     'kc': ('http://www.rackspace.com/knowledge_center/%s', ''),
     'kc-article': ('http://www.rackspace.com/knowledge_center/article/%s', ''),
     'os': ('http://www.openstack.org/%s', ''),

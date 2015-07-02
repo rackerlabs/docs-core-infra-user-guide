@@ -4,7 +4,7 @@
 Learning more about the Cloud Control Panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Every cloud account comes with access to the
-`Cloud Control Panel <https://mycloud.rackspace.com/>`__.
+:mycloud:`Cloud Control Panel <>`.
 Depending on how you use your Rackspace account,
 you may not be interested in changes to specific
 Rackspace cloud products and services.
@@ -21,12 +21,12 @@ help you become a skillful user of the Cloud Control Panel:
 * **Technical documentation**
   focused on the Cloud Control Panel,
   including short tutorials and demonstrations, is
-  published in the :kc:`Rackspace Knowledge Center <>`. 
+  published in the :kc:`Rackspace Knowledge Center <>`.
 
 * **Announcements of major changes**
   are published
   in
-  `Release Notes <https://mycloud.rackspace.com/release_notes>`__.
+  :mycloud:`Release Notes <release_notes>`.
 
   .. note::
      We continuously improve the Cloud Control Panel;

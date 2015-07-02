@@ -2,31 +2,31 @@
 
 +++++++++++
 neutron CLI
-+++++++++++ 
-The OpenStack tool primarily used for 
++++++++++++
+The OpenStack tool primarily used for
 managing Cloud Networks is written
-in Python and called *neutron*. 
-It is also known as 
+in Python and called *neutron*.
+It is also known as
 *python-neutronclient*.
 
-We recommend that you use the 
-`Python Package Index (PyPI) <https://pypi.python.org/pypi>`__ 
+We recommend that you use the
+`Python Package Index (PyPI) <https://pypi.python.org/pypi>`__
 to install neutronclient, as it will handle installing dependencies and
 required packages for you.
 
-Alternatively, you can download the ``rackspace-neutronclient`` package from 
-the 
-`GitHub repository for rackspace-neutronclient <https://github.com/rackerlabs/rackspace-neutronclient>`__.
+Alternatively, you can download the ``rackspace-neutronclient`` package from
+the
+:rackerlabs:`GitHub repository for rackspace-neutronclient <rackspace-neutronclient>`.
 
-OpenStack documents that may help you install neutronclient 
-and learn to use it include: 
+OpenStack documents that may help you install neutronclient
+and learn to use it include:
 
-* `Install the OpenStack command-line clients <http://docs.openstack.org/user-guide/common/cli_install_openstack_command_line_clients.html>`__
+* :os-docs:`Install the OpenStack command-line clients <user-guide/common/cli_install_openstack_command_line_clients.html>`
 
-* `OpenStack Command-Line Interface Reference <http://docs.openstack.org/cli-reference/content/index.html>`__, 
-  especially at 
-  `Networking command-line client <http://docs.openstack.org/cli-reference/content/neutronclient_commands.html>`__ 
+* :os-docs:`OpenStack Command-Line Interface Reference <cli-reference/content/index.html>`,
+  especially at
+  :os-docs:`Networking command-line client <cli-reference/content/neutronclient_commands.html>`
 
-* `Python bindings to the OpenStack Network API <http://docs.openstack.org/developer/python-neutronclient/>`__ 
+* :os-docs:`Python bindings to the OpenStack Network API <developer/python-neutronclient>`
 
 .. include:: note-openstack-username.rst

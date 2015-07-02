@@ -8,7 +8,7 @@ center, begin by configuring it to disable abuse and enable your
 legitimate work. You may have to do some research to identify the
 specific steps required to secure your configuration, but the steps
 should be similar to those shown in
-`Basic Cloud Server Security <http://www.rackspace.com/knowledge_center/article/basic-cloud-server-security>`__,
+:kc-article:`Basic Cloud Server Security <basic-cloud-server-security>`,
 which demonstrates the process of securing a cloud server running
 Ubuntu. For that server, the steps are:
 
@@ -33,20 +33,20 @@ Ubuntu. For that server, the steps are:
 
 *  Create a script to active the firewall after every restart.
 
-Similar steps for securing cloud servers running operating systems 
+Similar steps for securing cloud servers running operating systems
 based on Debian and RedHat
-Package Manager (RPM) are described in the Cloud Launch Guide 
+Package Manager (RPM) are described in the Cloud Launch Guide
 tutorial for
 `Securing a Cloud Server <https://launch.rackspace.com/guides/securing-server>`__.
 
 .. TIP::
    Because security configuration can be time-consuming, it's a good idea
    to save a copy of a clean, securely-configured cloud server that works
-   well for your purpose. 
-   You can use Cloud Images to maintain a consistent starting point 
+   well for your purpose.
+   You can use Cloud Images to maintain a consistent starting point
    for future servers you create.
 
-Security-related offerings from Rackspace partners are listed in the 
+Security-related offerings from Rackspace partners are listed in the
 `Rackspace Marketplace <https://marketplace.rackspace.com/home#!category/41>`__.
 You may find one or more of these that directly addresses your specific
 needs.

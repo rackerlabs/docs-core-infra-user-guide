@@ -45,7 +45,7 @@ Software RAID for Linux
 '''''''''''''''''''''''
 To learn how to set up software RAID on a cloud server running Linux,
 read
-`Configuring a Software RAID on a Linux General Purpose Cloud Server <http://www.rackspace.com/knowledge_center/article/configuring-a-software-raid-on-a-linux-general-purpose-cloud-server>`__.
+:kc-article:`Configuring a Software RAID on a Linux General Purpose Cloud Server <configuring-a-software-raid-on-a-linux-general-purpose-cloud-server>`.
 
 Software RAID for Windows
 '''''''''''''''''''''''''
@@ -54,7 +54,7 @@ Windows.
 
 Windows Server 2012 named its RAID capability *Storage Spaces*. You can
 read about Storage Spaces
-in Microsoft's 
+in Microsoft's
 `Storage Spaces Overview <http://technet.microsoft.com/en-us/library/hh831739.aspx>`__.
 
 Windows Server 2008 provides two ways to interact with RAID devices:
@@ -64,5 +64,5 @@ Windows Server 2008 provides two ways to interact with RAID devices:
 * CLI via ``Diskpart.exe``
 
 You can read about both Diskmgmt and Diskpart
-in Microsoft's 
+in Microsoft's
 `Overview of Disk Management <http://msdn.microsoft.com/en-us/library/dd163558.aspx>`__.

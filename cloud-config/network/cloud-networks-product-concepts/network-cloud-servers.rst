@@ -21,32 +21,32 @@ Networks also includes full support for broadcasting and multicasting
 required for some clustering technologies.
 
 Aggregate outbound bandwidth limits across all attached network
-interfaces (PublicNet, ServiceNet, Cloud Networks) 
-are defined for each cloud server based on its 
-performance characteristics. 
+interfaces (PublicNet, ServiceNet, Cloud Networks)
+are defined for each cloud server based on its
+performance characteristics.
 
 By choosing a flavor class and then a specific flavor
-within that class, 
-you can configure your cloud server's network speed 
+within that class,
+you can configure your cloud server's network speed
 within the range available to it.
 
 .. figure:: /_images/flavorclass-network-speed.png
-   :alt: In the Cloud Control Panel, 
-         use the slider to change network speed  
+   :alt: In the Cloud Control Panel,
+         use the slider to change network speed
          and other characteristics.
-         For virtual cloud servers, the 
-         "Comparison Chart" link provides a detailed comparison of 
+         For virtual cloud servers, the
+         "Comparison Chart" link provides a detailed comparison of
          the configuration available for each flavor.
-   
-   *In the Cloud Control Panel, 
+
+   *In the Cloud Control Panel,
    use the slider to change network speed
-   and other characteristics. 
-   For virtual cloud servers, the 
-   "Comparison Chart" link provides a detailed comparison of 
+   and other characteristics.
+   For virtual cloud servers, the
+   "Comparison Chart" link provides a detailed comparison of
    the configuration available for each flavor.*
 
-You can read more about how choosing a flavor class influences 
-your cloud server's configuration at 
+You can read more about how choosing a flavor class influences
+your cloud server's configuration at
 :ref:`cloud-servers-flavor-class`.
 
 
@@ -76,8 +76,8 @@ throughput.
 Attaching or detaching networks from a server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can attach to or detach networks from a cloud server through
-the 
-`Rackspace Cloud Control Panel <https://mycloud.rackspace.com/>`__
+the
+:mycloud:`Rackspace Cloud Control Panel <>`
 or an API.
 
 Attaching or detaching any single network from a live server results in
@@ -99,9 +99,9 @@ Managed Cloud Support, and operating system updates. ServiceNet provides
 a server with access to Cloud Databases, Cloud Load Balancers,
 Cloud Files, Cloud Backup, RackConnect, and Windows activation.
 
-.. figure:: /_images/CloudServerNetworkRemovalResults.png
+.. figure:: /_images/cloudservernetworkremovalresults.png
    :alt: PublicNet and ServiceNet enable full Cloud Servers functionality.
-   
+
    *PublicNet and ServiceNet enable full Cloud Servers functionality.*
 
 Adding IPv4 addresses to cloud servers
@@ -117,9 +117,8 @@ additional IPv4 addresses for the following purposes:
 * NAT (Network Address Translation) on a Brocade Vyatta vRouter
 
 If you wish to obtain an additional IPv4 address for your server, please
-open a ticket through the Support section of the \ `Rackspace Cloud
-Control Panel <https://mycloud.rackspace.com/>`__ to get policy details
-and request approval.
+open a ticket through the Support section of the \ :mycloud:`Rackspace Cloud
+Control Panel <>` to get policy details and request approval.
 
 After you are approved for an additional IPv4 address to support SSL on
 a cloud server, we will ask you to provide the following information:

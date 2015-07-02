@@ -15,14 +15,14 @@ alert you to unusual events; establish scaling policies to enable
 your configuration to grow as needed.
 
 .. NOTE::
-   Securing your own server and establishing your own backups 
-   provides a layer of protection that you can control, 
+   Securing your own server and establishing your own backups
+   provides a layer of protection that you can control,
    in addition to that provided by Rackspace's reliable infrastructure.
-   You can read about 
-   our infrastructure at 
-   `Global Infrastructure and Uptime Guarantee <http://www.rackspace.com/about/datacenters>`__; 
-   to perform some test interactions, 
-   click the name of one of the data centers shown on that page.  
+   You can read about
+   our infrastructure at
+   :rax:`Global Infrastructure and Uptime Guarantee <about/datacenters>`; 
+   to perform some test interactions,
+   click the name of one of the data centers shown on that page.
 
 
 

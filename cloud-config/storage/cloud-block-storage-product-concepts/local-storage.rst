@@ -29,38 +29,38 @@ Here is a high-level comparison of the technologies:
 
 Measuring local storage performance - IOPS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-One way to compare the performance metrics of storage 
-is by observing  
-Input/Output Operations per Second (IOPS). 
+One way to compare the performance metrics of storage
+is by observing
+Input/Output Operations per Second (IOPS).
 IOPS reports the maximum number of operations per second the
-storage can handle. 
-For the purpose of calculating IOPS, 
+storage can handle.
+For the purpose of calculating IOPS,
 an operation is typically a read or write of data.
 
 Several factors can cause the effective measured IOPS capability of
 a storage medium to fluctuate, including system load, background
 operations, or traffic from other virtual machines residing on the same
-physical disks. Because of this, consider any IOPS 
+physical disks. Because of this, consider any IOPS
 measurements you obtain as describing the upper limit of each
-local storage option's range, identifying 
+local storage option's range, identifying
 the highest possible
 IOPS that the device can process. This gives a picture of the
-performance characteristics, but it is important to remember that 
-many factors can affect the IOPS rate during operation. IOPS is most 
-useful as a basis of comparison 
-if you can control all other factors and run identical workloads 
+performance characteristics, but it is important to remember that
+many factors can affect the IOPS rate during operation. IOPS is most
+useful as a basis of comparison
+if you can control all other factors and run identical workloads
 on systems that differ only in their storage configuration.
 
-You can see the results of a performance experiment  
-comparing Rackspace storage technologies at 
-`Determining Optimal Storage based on IOPS <https://developer.rackspace.com/blog/determining-optimal-storage-based-on-iops/>`__. 
-In that experiment, 
-Cloud Block Storage on SSD performed 
+You can see the results of a performance experiment
+comparing Rackspace storage technologies at
+:rax-dev:`Determining Optimal Storage based on IOPS <blog/determining-optimal-storage-based-on-iops/>`.
+In that experiment,
+Cloud Block Storage on SSD performed
 better than any other option tested.
-In a white paper on 
-`Cloud Block Storage (CBS) Benchmarking <http://www.rackspace.com/knowledge_center/whitepaper/cloud-block-storage-cbs-benchmarking>`__,
-performance quadrupled using Cloud Block Storage with SSD 
-as compared to Cloud Block Storage with SATA. 
+In a white paper on
+:kc:`Cloud Block Storage (CBS) Benchmarking <whitepaper/cloud-block-storage-cbs-benchmarking>`,
+performance quadrupled using Cloud Block Storage with SSD
+as compared to Cloud Block Storage with SATA.
 
 Local storage types associated with Cloud Servers flavors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -77,25 +77,25 @@ kind of local storage is available to that server.
 SATA local storage
 ''''''''''''''''''
 Also known as spinning disk, Serial Advanced Technology Attachment
-(SATA) are the traditional hard drives with physical platters 
+(SATA) are the traditional hard drives with physical platters
 with which
 most people are familiar. Due to efficiencies in engineering and
-manufacturing over time, they can provide large capacities 
+manufacturing over time, they can provide large capacities
 at relatively
 low prices. However, due to the physical spinning platters and moving
-write heads of SATA disks, they are slower than newer technologies 
-such as 
+write heads of SATA disks, they are slower than newer technologies
+such as
 SSD in many situations.
 
 SSD local storage
 '''''''''''''''''
-Solid State Disk (SSD) 
+Solid State Disk (SSD)
 uses persistent RAM technology to store data.
-Because SSD 
+Because SSD
 has no moving parts, locating and reading any given bit of data from the
 disk is extremely fast
-when compared to SATA, which is delayed by the 
-movements of platters and write heads. 
+when compared to SATA, which is delayed by the
+movements of platters and write heads.
 This speed comes at a cost, literally, as SSD
 components are more expensive and thus are priced higher relative to
 SATA components.
@@ -125,15 +125,15 @@ Every OnMetal flavor class provides 32 GB for the system disk. The OnMetal
 I/O flavor class also provides Dual 1.6 TB PCIe flash cards for data
 disk.
 
-You can learn more about OnMetal at: 
+You can learn more about OnMetal at:
 
-* `OnMetal Cloud Servers <http://www.rackspace.com/cloud/servers/onmetal/>`__
+* :rax-cloud:`OnMetal Cloud Servers <servers/onmetal/>`
 
-* `OnMetal: The Right Way To Scale <http://www.rackspace.com/blog/onmetal-the-right-way-to-scale/>`__
+* :rax:`OnMetal: The Right Way To Scale <blog/onmetal-the-right-way-to-scale/>`
 
-* `What is new with OnMetal Cloud Servers <http://www.rackspace.com/knowledge_center/article/what-is-new-with-onmetal-cloud-servers>`__
+* :kc-article:`What is new with OnMetal Cloud Servers <what-is-new-with-onmetal-cloud-servers>`
 
-* `Creating OnMetal Cloud Servers <http://www.rackspace.com/knowledge_center/article/creating-onmetal-cloud-servers>`__
+* :kc-article:`Creating OnMetal Cloud Servers <creating-onmetal-cloud-servers>`
 
 Protecting local storage
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -146,7 +146,7 @@ environment of Rackspace data centers, but you may still be at risk for
 data loss caused by human errors or human malice.
 
 Rackspace **strongly recommends** that you use one or more of the
-methods below to create and manage backup copies 
+methods below to create and manage backup copies
 of your system and data
 disks, providing an extra layer of protection and recoverability for
 your cloud servers.
@@ -159,9 +159,9 @@ your system disk. The image will be saved in your account and you will
 be able to build a new cloud server from the image should the need
 arise.
 
-**Data disks are not captured when creating snapshots**. 
+**Data disks are not captured when creating snapshots**.
 Only the system
-disk is captured. 
+disk is captured.
 You should use additional forms of backup if your data
 disks hold critical data that must be protected.
 
@@ -173,14 +173,14 @@ created a backup copy of your data, you can choose to restore all your
 folders and files from the backup, or you can restore individual files
 or folders from a given date, or restore to an entirely different
 server. For more about Cloud Backup, begin at
-`Rackspace Cloud Backup - Overview <http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-overview>`__.
+:kc-article:`Rackspace Cloud Backup - Overview <rackspace-cloud-backup-overview>`.
 
 Backup method: Cloud Block Storage
 ''''''''''''''''''''''''''''''''''
 You can use Cloud Block Storage to create and manage disk images that
 are portable among your cloud servers. Cloud Block Storage is part of
-our core infrastructure; learn more about it at 
-:ref:`cloud-block-storage-product-concepts`. 
+our core infrastructure; learn more about it at
+:ref:`cloud-block-storage-product-concepts`.
 
 Backup methods: Custom
 ''''''''''''''''''''''
@@ -189,6 +189,6 @@ You can establish a custom backup process using a utility such as
 provides fast incremental file transfer.
 
 Storage-related offerings from Rackspace partners are listed in the
-`Rackspace Marketplace <https://marketplace.rackspace.com/>`__. 
+`Rackspace Marketplace <https://marketplace.rackspace.com/>`__.
 You may find one or more of these
 that directly addresses your specific needs.

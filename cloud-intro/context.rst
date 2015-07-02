@@ -4,7 +4,7 @@
 The managed cloud in context
 ----------------------------
 The Rackspace managed cloud, our public cloud, is built to comply with
-the open-source `OpenStack <http://www.openstack.org/>`__ specification.
+the open-source :os:`OpenStack <>` specification.
 We're a founder of OpenStack and we continue to contribute to its
 ongoing development. When your workload runs in our managed cloud, it's
 managed and supported by Rackers on Rackspace infrastructure in

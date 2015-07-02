@@ -3,10 +3,10 @@
 -------------------------------
 Managing your Rackspace account
 -------------------------------
-When you log into your `Cloud Control
-Panel <https://mycloud.rackspace.com/>`__, you can examine and change
+When you log into your :mycloud:`Cloud Control
+Panel <>`, you can examine and change
 your managed cloud configuration. For example, you can create a cloud
-server or delete a block storage volume. 
+server or delete a block storage volume.
 You can also examine and change
 your account itself in several areas:
 
@@ -41,14 +41,14 @@ your account itself in several areas:
 Managing role-based access to services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Using role-based access control
-(`RBAC <http://www.rackspace.com/knowledge_center/article/overview-role-based-access-control-rbac>`__),
+(:kc-article:`RBAC <overview-role-based-access-control-rbac>`),
 you can divide responsibilities among members of your team, so for
 example you can enable a database administrator to schedule database
 backups and enable a network administrator to expand a load balancing
 group. The roles that make sense for your team are likely to change as
 your workload grows, your team grows, and you add more services to your
-configuration. You can see suggested role configurations at 
-`Managing: Role-Based Access Control (RBAC) <http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac>`__.
+configuration. You can see suggested role configurations at
+:kc-article:`Managing: Role-Based Access Control (RBAC) <managing-role-based-access-control-rbac>`.
 
 Managing expenses by limiting workload
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,11 +70,11 @@ user can possess simultaneously.
 For example, an absolute limit controls the amount of RAM that can be
 assigned in a Cloud Servers configuration.
 
-When you are logged in to the Cloud Control Panel, 
-you can see absolute limits defined for Cloud Servers, 
-along with your current consumption of the limited resources, 
-by clicking your account number and then 
-`Resource Limits <https://mycloud.rackspace.com/account#resource-limits>`__. 
+When you are logged in to the Cloud Control Panel,
+you can see absolute limits defined for Cloud Servers,
+along with your current consumption of the limited resources,
+by clicking your account number and then
+:mycloud:`Resource Limits <account#resource-limits>`.
 
 Rate limits
 ^^^^^^^^^^^
@@ -89,34 +89,34 @@ Limits for specific services
 This table shows some examples of limits, with links to API
 documentation for more examples and complete details.
 
-+-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
-| **Service**           | **Absolute limit example**                                                                                             | **Rate limit example**                                                                                            |
-+=======================+========================================================================================================================+===================================================================================================================+
-| Cloud Block Storage   | `10 TB in config <http://docs.rackspace.com/cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>`__         | No limits                                                                                                         |
-+-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
-| Cloud Servers         | `100 servers in config <http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html>`__   | `100 POSTs per minute <http://docs.rackspace.com/servers/api/v2/cs-devguide/content/Rate_Limits-d1e862.html>`__   |
-+-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
-| Cloud Images          | No limits                                                                                                              | No limits                                                                                                         |
-+-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
-| Cloud Networks        | No limits                                                                                                              | No limits                                                                                                         |
-+-----------------------+------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
++-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+| **Service**           | **Absolute limit example**                                                                           | **Rate limit example**                                                                          |
++=======================+======================================================================================================+=================================================================================================+
+| Cloud Block Storage   | :rax-docs:`10 TB in config <cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>`         | No limits                                                                                       |
++-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+| Cloud Servers         | :rax-docs:`100 servers in config <servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html>`   | :rax-docs:`100 POSTs per minute <servers/api/v2/cs-devguide/content/Rate_Limits-d1e862.html>`   |
++-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+| Cloud Images          | No limits                                                                                            | No limits                                                                                       |
++-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+| Cloud Networks        | No limits                                                                                            | No limits                                                                                       |
++-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
 
 The services mentioned here are not the only ones with absolute limits
 or rate limits. Some services have no limits. We publish the limits
 relevant to any service in that service's API documentation. You can
-find those details by going to 
-`Rackspace Cloud Technical Documentation <http://docs.rackspace.com/>`__ 
+find those details by going to
+:rax-docs:`Rackspace Cloud Technical Documentation <>`
 and searching
 for *limits*.
 
 You can also avoid surprises in your usage-based billing with the help
 of several tools:
 
-*  In the `Cloud Control Panel <https://mycloud.rackspace.com/>`__,
+*  In the :mycloud:`Cloud Control Panel <>`,
    check current usage frequently.
 
 *  Combine Cloud Monitoring and `Cloud
    Intelligence <https://intelligence.rackspace.com/>`__ to help you
    recognize extreme usage peaks.
 
-*  Use Auto Scale to increase resources only when needed. 
+*  Use Auto Scale to increase resources only when needed.

@@ -102,6 +102,7 @@ extlinks = {
     'mycloud': ('https://mycloud.rackspace.com/%s', ''),
     'kc': ('http://www.rackspace.com/knowledge_center/%s', ''),
     'kc-article': ('http://www.rackspace.com/knowledge_center/article/%s', ''),
+    'kc-faq': ('http://www.rackspace.com/knowledge_center/frequently-asked-question/%s', ''),
     'os': ('http://www.openstack.org/%s', ''),
     'os-docs': ('http://docs.openstack.org/%s', ''),
     'os-wiki': ('http://wiki.openstack.org/%s', ''),

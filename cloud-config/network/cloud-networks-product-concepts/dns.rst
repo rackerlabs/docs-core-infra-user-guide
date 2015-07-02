@@ -5,9 +5,9 @@ DNS in the cloud
 ^^^^^^^^^^^^^^^^
 When you create a cloud server, it is assigned an IP address. You can
 access the server by its IP address, but you may prefer to associate the
-IP address with a domain name such as **www.example.com** 
+IP address with a domain name such as **www.example.com**
 and access the
-server by that name. 
+server by that name.
 You can connect and IP address and a domain name in
 two ways:
 
@@ -29,21 +29,21 @@ select **Networking > Cloud DNS > Create Domain**:
 
 .. figure:: /_images/clouddnscreatedomain.png
    :alt: Networking > Cloud DNS > Create Domain
-   
+
    *Networking > Cloud DNS > Create Domain*
 
 For more about using the Cloud Control Panel to manage DNS information,
 read
-`Create DNS Records for cloud servers with the Control Panel <http://www.rackspace.com/knowledge_center/article/creating-dns-records-for-cloud-servers-with-the-control-panel>`__.
+:kc-article:`Create DNS Records for cloud servers with the Control Panel <creating-dns-records-for-cloud-servers-with-the-control-panel>`.
 
 You can also use the Cloud DNS API to manage DNS information
-programmatically. Begin reading about that in the 
-`Cloud DNS API Getting Started Guide <http://docs.rackspace.com/cdns/api/v1.0/cdns-getting-started/>`__.
+programmatically. Begin reading about that in the
+:rax-docs:`Cloud DNS API Getting Started Guide <cdns/api/v1.0/cdns-getting-started/>`.
 
 Reverse DNS
 '''''''''''
-For each cloud server you create, you can assign a reverse DNS record. 
-A reverse DNS record, also known as a PTR record, 
+For each cloud server you create, you can assign a reverse DNS record.
+A reverse DNS record, also known as a PTR record,
 is used to
 assist in the resolution of a specific IP to a fully-qualified domain
 name (FQDN) such as **mail.example.com**.
@@ -51,35 +51,35 @@ name (FQDN) such as **mail.example.com**.
 When you enter a domain name into your browser, the DNS system finds the
 IP address of the server the domain is associated with.
 
-A reverse DNS lookup works in the opposite direction. 
+A reverse DNS lookup works in the opposite direction.
 It establishes
 which domain is associated with the IP address.
 
 Reverse DNS importance with hosted mail servers
------------------------------------------------ 
+-----------------------------------------------
 Reverse DNS is especially important if you are running an application
 like a mail server on your cloud server, as many recipient servers
 reject, or mark as spam, all email that originates from an
 "unauthenticated" server.
 
 This basically means that after the sending IP address is checked, if
-the reverse DNS does not match the sending domain, 
+the reverse DNS does not match the sending domain,
 then it is classed as
 "unauthenticated".
 
-.. NOTE:: 
+.. NOTE::
    We put "unauthenticated" in quotes because having a reverse DNS
    record attached to your domain does not automatically guarantee
    acceptance of email originating from your domain by the recipient's
-   email server. 
+   email server.
    Having a reverse DNS record for your domain can prevent
    email originating from your domain from being immediately rejected.
-   Non-matching or generic reverse DNS lookup settings 
+   Non-matching or generic reverse DNS lookup settings
    are often rejected
    out of hand, but rejection can occur for other reasons.
 
 Creating a reverse DNS record for your cloud server
---------------------------------------------------- 
+---------------------------------------------------
 You can set up a reverse DNS record through the Rackspace Cloud Control
 Panel by performing these steps:
 
@@ -93,11 +93,11 @@ Panel by performing these steps:
 
 .. figure:: /_images/clouddnsaddreverse.png
    :alt: While displaying details for a server,
-         click Add Record to begin defining a 
+         click Add Record to begin defining a
          reverse DNS record.
-   
+
    *While displaying details for a server,
-   click Add Record to begin defining a 
+   click Add Record to begin defining a
    reverse DNS record.*
 
 4. In the resulting window:
@@ -110,27 +110,27 @@ Panel by performing these steps:
 * Click **Save Record**.
 
 After you have done this, look again at the Server Details screen.
-If you previously had no DNS records associated with this server, 
-to the left of the **Add Record** link you had an inactive 
+If you previously had no DNS records associated with this server,
+to the left of the **Add Record** link you had an inactive
 **0 Records** link.
-Now that you have added a reverse DNS record, 
-that location contains an active **1 Record** link. 
+Now that you have added a reverse DNS record,
+that location contains an active **1 Record** link.
 Clicking this link
-displays the details for the reverse DNS you just added, 
-confirming the association of the domain name and 
+displays the details for the reverse DNS you just added,
+confirming the association of the domain name and
 the server's IP address.
 
-.. figure:: /_images/clouddnsaddreversedetails.png
+.. figure:: /_images/clouddnsreversedetails.png
    :alt: After adding a reverse DNS record to a server,
-         click 1 Record to confirm the association between 
+         click 1 Record to confirm the association between
          the domain name and the server's IP address.
-   
+
    *After adding a reverse DNS record to a server,
-   click 1 Record to confirm the association between 
+   click 1 Record to confirm the association between
    the domain name and the server's IP address.*
 
 Troubleshooting your reverse DNS record
 ---------------------------------------
 If you need to verify or troubleshoot your reverse DNS record, you can
 use a tool called *dig*. You can learn more about *dig* at
-`Rackspace Cloud Essentials - Using dig for DNS Verification and Troubleshooting <http://www.rackspace.com/knowledge_center/article/rackspace-cloud-essentials-using-dig-for-dns-verification-and-troubleshooting>`__.
+:kc-article:`Rackspace Cloud Essentials - Using dig for DNS Verification and Troubleshooting <rackspace-cloud-essentials-using-dig-for-dns-verification-and-troubleshooting>`.

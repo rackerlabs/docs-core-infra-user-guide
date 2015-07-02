@@ -95,7 +95,7 @@ list all your cloud servers.
 Learn about Cloud Servers in the Cloud Control Panel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the
-`Cloud Control Panel <https://mycloud.rackspace.com/>`__,
+:mycloud:`Cloud Control Panel <>`,
 your session begins with a list of all your servers.
 By default, the list is unfiltered,
 showing every server;
@@ -216,9 +216,9 @@ For example, if you code in python,
 * Follow the installation instructions to give yourself
   a local copy of the pyrax (python for Rackspace) SDK.
 * Click **documentation** to open the
-  `GitHub repository for the pyrax SDK <https://github.com/rackspace/pyrax/>`__.
+  :rax-git:`GitHub repository for the pyrax SDK <pyrax/>`.
 * In that pyrax repository, at
-  `/docs/cloud_servers.md <https://github.com/rackspace/pyrax/blob/master/docs/cloud_servers.md>`__,
+  :rax-git:`/docs/cloud_servers.md <pyrax/blob/master/docs/cloud_servers.md>`,
   read *Working with Cloud Servers*.
   That document begins with an
-  `example of using pyrax to list servers <https://github.com/rackspace/pyrax/blob/master/docs/cloud_servers.md#listing-servers>`__.
+  :rax-git:`example of using pyrax to list servers <pyrax/blob/master/docs/cloud_servers.md#listing-servers>`.

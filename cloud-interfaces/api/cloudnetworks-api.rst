@@ -68,7 +68,7 @@ list all your cloud networks.
 Learn about Cloud Networks in the Cloud Control Panel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the
-`Cloud Control Panel <https://mycloud.rackspace.com/>`__,
+:mycloud:`Cloud Control Panel <>`,
 your session begins with information about your servers.
 To see your Cloud Networks information, click **Networking**
 and then click **Networks**.
@@ -191,7 +191,7 @@ perhaps enough to walk you through exactly the steps required
 to develop your software, examine the SDK itself.
 
 To find the full SDK for your programming language, start at
-:rax-dev:`SDKs & Tools in the Developer Center <sdks>` 
+:rax-dev:`SDKs & Tools in the Developer Center <sdks>`
 and find the language.
 Then follow the steps appropriate to that language.
 
@@ -205,4 +205,4 @@ For example, if you code in Java,
   No complete example of a *List networks* request is provided,
   but you can use the other examples as guides to help you
   adapt the partial *List networks* request in the
-  `SDK QuickStart <https://developer.rackspace.com/docs/cloud-networks/getting-started/#list-networks>`__.
+  :rax-dev:`SDK QuickStart <docs/cloud-networks/getting-started/#list-networks>`.

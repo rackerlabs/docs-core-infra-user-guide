@@ -1,0 +1,6 @@
+.. note::
+   The Security Groups API is currently in Limited Availability. 
+   It is available only to Managed Infrastructure customers and 
+   not to RackConnect or Managed Operations customers. 
+   To use this feature, 
+   :ref:`contact Rackspace Support <support>`.

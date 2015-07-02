@@ -2,14 +2,14 @@
 
 ++++++++
 nova CLI
-++++++++ 
+++++++++
 The OpenStack tool primarily used for managing Cloud Servers is written
-in Python and called *nova*. 
+in Python and called *nova*.
 It is also known as *novaclient* or
 *python-novaclient*.
 
 Rackspace provides some additional functionality on top of the base
-OpenStack environment through OpenStack extensions. 
+OpenStack environment through OpenStack extensions.
 To have the
 best experience when using the novaclient with Rackspace, you should
 install the ``rackspace-novaclient`` package. It will conveniently
@@ -17,36 +17,36 @@ install not only the required novaclient componnents, but also any
 necessary or useful extensions and plugins that are applicable to the
 Rackspace cloud.
 
-We recommend that you use the 
-`Python Package Index (PyPI) <https://pypi.python.org/pypi>`__ 
+We recommend that you use the
+`Python Package Index (PyPI) <https://pypi.python.org/pypi>`__
 to install novaclient, as it will handle installing dependencies and
 required packages for you.
 
 Alternatively, you can download the ``rackspace-novaclient`` package from
-the 
-`GitHub repository for rackspace-novaclient <https://github.com/rackerlabs/rackspace-novaclient>`__.
+the
+:rackerlabs:`GitHub repository for rackspace-novaclient <rackspace-novaclient>`.
 
-OpenStack documents that may help you install novaclient 
-and learn to use it include: 
+OpenStack documents that may help you install novaclient
+and learn to use it include:
 
-* `Install the OpenStack command-line clients <http://docs.openstack.org/user-guide/common/cli_install_openstack_command_line_clients.html>`__
+* :os-docs:`Install the OpenStack command-line clients <user-guide/common/cli_install_openstack_command_line_clients.html>`
 
-* `OpenStack Command-Line Interface Reference <http://docs.openstack.org/cli-reference/content/index.html>`__, 
-  especially at 
-  `Compute command-line client <http://docs.openstack.org/cli-reference/content/novaclient_commands.html>`__ 
+* :os-docs:`OpenStack Command-Line Interface Reference <cli-reference/content/index.html>`,
+  especially at
+  :os-docs:`Compute command-line client <cli-reference/content/novaclient_commands.html>`
 
-* `nova CLI man page <http://docs.openstack.org/developer/python-novaclient/man/nova.html>`__ 
+* :os-docs:`nova CLI man page <developer/python-novaclient/man/nova.html>`
 
 .. include:: note-openstack-username.rst
 
-Rackspace publishes detailed instructions about novaclient, 
+Rackspace publishes detailed instructions about novaclient,
 including how to install the client
 on most popular operating systems:
 
-* In the Cloud Servers API documentation at 
-  `Install the nova Client with the Cloud Networks Extension <http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/section_gs_install_nova.html>`__
-* In 
-  `Using python-novaclient with the Rackspace Cloud <http://www.rackspace.com/knowledge_center/article/using-python-novaclient-with-the-rackspace-cloud>`__
+* In the Cloud Servers API documentation at
+  :rax-docs:`Install the nova Client with the Cloud Networks Extension <servers/api/v2/cs-gettingstarted/content/section_gs_install_nova.html>`
+* In
+  :kc-article:`Using python-novaclient with the Rackspace Cloud <using-python-novaclient-with-the-rackspace-cloud>`
 
 After you have novaclient installed, you will need to set up your
 environment so you can properly authenticate to Rackspace and use the

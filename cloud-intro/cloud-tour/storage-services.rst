@@ -64,7 +64,7 @@ Cloud Files at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
 +--------------------------------------------+--------------------------------------------------+
 |                                            |                                                  |
-| .. image::                                 | * :rax-cloud:`Produce overview <files>`          |
+| .. image::                                 | * :rax-cloud:`Product overview <files>`          |
 |    /_images/logo-cloudfiles-50x50.png      | * :rax-cloud:`Pay only for what you use          |
 |    :alt: Cloud Files stores                |   <public-pricing>`                              |
 |          online objects                    | * Open-source roots:                             |

@@ -6,7 +6,7 @@ Understanding Cloud Block Storage
 Cloud Block Storage (CBS) provides persistent block-level storage
 volumes for use with Rackspace Standard and Performance Cloud Servers.
 CBS allows customers to scale their storage independently of their
-compute resources. 
+compute resources.
 
 Cloud Block Storage is based on OpenStack cinder and leverages
 open-source software and commodity hardware components to provide a
@@ -29,15 +29,15 @@ volume. You can create a bootable CBS volume and launch a server
 instance from that volume. Booting from a CBS volume enables disk-less
 servers, new server configurations such as high RAM/low storage, and
 staging of common server images in CBS.
-   
+
 .. TIP::
    For instructions on using CBS boot-from-volume, see
-   `Boot a server from a Cloud Block Storage volume <http://www.rackspace.com/knowledge_center/article/boot-a-server-from-a-cloud-block-storage-volume>`__.
+   :kc-article:`Boot a server from a Cloud Block Storage volume <boot-a-server-from-a-cloud-block-storage-volume>`.
 
 The Rackspace technical documentation provides many more details about Cloud
 Block Storage. Begin exploring
-at 
-`Cloud Block Storage support <http://www.rackspace.com/knowledge_center/product-page/cloud-block-storage>`__.
+at
+:kc:`Cloud Block Storage support <product-page/cloud-block-storage>`.
 
 
 

@@ -1,7 +1,7 @@
 .. _scaling:
 
 ------------------
-Automating growth 
+Automating growth
 ------------------
 The cloud gives you room to grow. Before growth surprises you, you can
 establish some policies for handling it, using Auto Scale to add new
@@ -12,4 +12,4 @@ workload.
 Auto Scale relies on Cloud Monitoring and Cloud Load Balancers. To learn
 how to use Auto Scale through the Cloud Control Panel or the Cloud
 Monitoring API, start at
-`Rackspace Auto Scale overview <http://www.rackspace.com/knowledge_center/article/rackspace-auto-scale-overview>`__.
+:kc-article:`Rackspace Auto Scale overview <rackspace-auto-scale-overview>`.

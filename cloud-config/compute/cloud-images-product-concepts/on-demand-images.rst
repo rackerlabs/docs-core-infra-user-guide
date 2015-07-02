@@ -16,7 +16,6 @@ that any running applications have their states saved to disk before you
 create the snapshot. Otherwise, these applications may not start
 correctly when you boot a server from the image. The time such
 applications should be quiesced is fairly brief and can be monitored by
-observing your Cloud Server's task state. 
-See `Using Task States With Server
-Imaging <http://www.rackspace.com/knowledge_center/article/using-task-states-with-server-imaging>`__
+observing your Cloud Server's task state.
+See :kc-article:`Using Task States with Server Imaging <using-task-states-with-server-imaging>` 
 in the Rackspace Knowledge Center for details.

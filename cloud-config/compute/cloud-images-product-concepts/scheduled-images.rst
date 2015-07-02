@@ -8,6 +8,6 @@ scheduled images on any servers for which the service is appropriate.
 The scheduled images service will automatically create a daily or weekly
 image of the server. Remember that a virtual machine image is not really
 a backup of a server, so whether scheduled images are an appropriate
-solution for you depends entirely on your use case. 
-For details, see the 
-`Scheduled Images FAQ <http://www.rackspace.com/knowledge_center/article/scheduled-images-faq>`__.
+solution for you depends entirely on your use case.
+For details, see the
+:kc-article:`Scheduled Images FAQ <scheduled-images-faq>`.

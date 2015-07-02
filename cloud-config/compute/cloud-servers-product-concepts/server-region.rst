@@ -7,7 +7,7 @@ When you plan to build a cloud server, you may be interested in the
 geographical region of its physical host. Choosing the right region can
 optimize network delivery speed for local users. For example, if you
 expect most of the Cloud Server's workload to originate in Australia,
-you may prefer it to be hosted in our SYD (Sydney) region rather than 
+you may prefer it to be hosted in our SYD (Sydney) region rather than
 in our DFW (Dallas-Fort Worth) region.
 
 Beyond a general preference for a region, though, working in the cloud
@@ -27,7 +27,7 @@ cloud server.
 * If you use an SDK, you begin describing your new Cloud Server by
   authenticating at an API endpoint (which identifies a region), and
   then choosing an image and a flavor, as shown at
-  `Quickstart for Cloud Servers <https://developer.rackspace.com/docs/cloud-servers/getting-started/>`__.
+  :rax-dev:`Quickstart for Cloud Servers <docs/cloud-servers/getting-started/>`.
 
 No matter how you submit your request to create a Cloud Server, the
 resources described in the request determine the placement of your Cloud
@@ -43,10 +43,10 @@ Choose a region that is near many of your users, reducing their network
 transfer time.
 
 .. figure:: /_images/cloudservercreateregiondfw.png
-   :alt: Choose a region.  
+   :alt: Choose a region.
          Your choice can affect network delivery speed.
-         
-   *Choose a region. 
+
+   *Choose a region.
    Your choice can affect network delivery speed.*
 
 **Step 2: Image**
@@ -54,10 +54,10 @@ transfer time.
 Choose an image that supports the applications you intend to run.
 
 .. figure:: /_images/cloudservercreateimageubuntu.png
-   :alt: Choose an operating system. 
+   :alt: Choose an operating system.
          Your choice can affect your cost.
-         
-   *Choose an operating system. 
+
+   *Choose an operating system.
    Your choice can affect your cost.*
 
 **Step 3: Flavor**
@@ -67,10 +67,10 @@ pay. Moving the blue slider up and down changes initial resource sizes;
 hovering over the green circle pops up an explanation of pricing.
 
 .. figure:: /_images/cloudservercreateflavorstandardinstance.png
-   :alt: Choose resource sizes. 
+   :alt: Choose resource sizes.
          Your choice can affect your cost.
-   
-   *Choose resource sizes. 
+
+   *Choose resource sizes.
    Your choice can affect your cost.*
 
 After you submit your request, nova-scheduler, the component responsible

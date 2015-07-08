@@ -28,7 +28,7 @@ Cloud Servers at a glance
    the focus of this guide.
 
    A good place to begin learning to interact with it is
-   :ref:`cloud_interfaces`.
+   :ref:`cloud-interfaces`.
 
 Cloud Images at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,4 +50,4 @@ Cloud Images at a glance
    the focus of this guide.
 
    A good place to begin learning to interact with it is
-   :ref:`cloud_interfaces`.
+   :ref:`cloud-interfaces`.

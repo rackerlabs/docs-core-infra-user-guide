@@ -82,4 +82,5 @@ cloud resources.
    cloudnetworks-gui
    cloudimages-gui
    cloudblockstorage-gui
+   cloudfiles-gui
    moreinfo-gui

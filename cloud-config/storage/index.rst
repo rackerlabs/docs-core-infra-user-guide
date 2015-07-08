@@ -3,28 +3,45 @@
 ===========================================
 Core infrastructure in the Storage category
 ===========================================
-Cloud Block Storage is a core infrastructure product in the Storage category.
+Cloud Block Storage and Cloud Files are core infrastructure products
+in the Storage category.
 
 When you create a cloud server, storage of several kinds is allocated to
 that server based on the choices you make.
 
-Cloud Servers handles initial storage allocations; 
-use Cloud Block Storage to add more storage to your core infrastructure. 
+Cloud Servers handles initial storage allocations;
+use Cloud Block Storage and Cloud Files to add more storage to your
+core infrastructure.
 
 ----
 
-* To learn key concepts about Cloud Block Storage, 
+* To learn key concepts about Cloud Block Storage,
   begin at :ref:`cloud-block-storage-product-concepts`.
 
-* To see a list of actions that Cloud Block Storage can perform, 
+* To see a list of actions that Cloud Block Storage can perform,
   visit :ref:`cloud-block-storage-product-actions`.
 
-* To learn how to perform Cloud Block Storage actions using your choice of interface, 
-  begin at 
+* To learn how to perform Cloud Block Storage actions using your choice of interface,
+  begin at
 
   * :ref:`cloudblockstorage-gui`
   * :ref:`cloudblockstorage-cli`
   * :ref:`cloudblockstorage-api`
+
+----
+
+* To learn key concepts about Cloud Files,
+  begin at :ref:`cloud-files-product-concepts`.
+
+* To see a list of actions that Cloud Files can perform,
+  visit :ref:`cloud-files-product-actions`.
+
+* To learn how to perform Cloud Files actions using your choice of interface,
+  begin at
+
+  * :ref:`cloudfiles-gui`
+  * :ref:`cloudfiles-cli`
+  * :ref:`cloudfiles-api`
 
 ----
 
@@ -35,4 +52,5 @@ use Cloud Block Storage to add more storage to your core infrastructure.
 
    cloud-block-storage-product-concepts/index
    cloud-block-storage-product-actions/index
-
+   cloud-files-product-concepts/index
+   cloud-files-product-actions/index

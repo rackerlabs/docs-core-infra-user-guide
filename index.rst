@@ -58,6 +58,17 @@ at the heart of the Rackspace cloud:
 | cloud server storage.*                       |                                               |
 |                                              |                                               |
 +----------------------------------------------+-----------------------------------------------+
+| **Cloud Files**                              | * :ref:`cloud-files-product-concepts`         |
+|                                              | * :ref:`cloud-files-product-actions`          |
+| .. image::                                   | * :ref:`cloudfiles-gui`                       |
+|    /_images/logo-cloudfiles-50x50.png        | * :ref:`cloudfiles-cli`                       |
+|    :alt: Cloud Files stores                  | * :ref:`cloudfiles-api`                       |
+|          online objects.                     |                                               |
+|    :align: center                            |                                               |
+|                                              |                                               |
+| *Cloud Files stores online objects.*         |                                               |
+|                                              |                                               |
++----------------------------------------------+-----------------------------------------------+
 
 
 .. WARNING::

@@ -217,7 +217,7 @@ To include any image in the guide:
   * used at /cloud-intro/cloud-tour/application-services.html
   * resized to 50px x 50px with inkscape editor
   * collection date 2015-06-25
-  * original from Margaret Eker, resized by Margaret Eker 
+  * original from Margaret Eker, resized by Margaret Eker
 
 * **logo-cloudmonitoring-50x50.png**
   * used at /cloud-intro/cloud-tour/application-services.html

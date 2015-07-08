@@ -1,4 +1,4 @@
-.. _cloud_ops:
+.. _cloud-ops:
 
 =======================
 Succeeding in the cloud

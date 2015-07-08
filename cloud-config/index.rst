@@ -1,4 +1,4 @@
-.. _cloud_config:
+.. _cloud-config:
 
 =====================================
 Establishing your cloud configuration
@@ -28,7 +28,7 @@ the service can help with; the actions section introduces specific
 things you can ask the service to do, such as listing or creating or
 deleting virtual devices. For details about how to accomplish
 those actions using the interface of your choice, begin at
-:ref:`cloud_interfaces`.
+:ref:`cloud-interfaces`.
 
 .. toctree:: :hidden:
    :maxdepth: 6

@@ -1,4 +1,4 @@
-.. _cloud_preprod:
+.. _cloud-preprod:
 
 ==========================
 Preparing for productivity
@@ -20,7 +20,7 @@ your configuration to grow as needed.
    in addition to that provided by Rackspace's reliable infrastructure.
    You can read about
    our infrastructure at
-   :rax:`Global Infrastructure and Uptime Guarantee <about/datacenters>`; 
+   :rax:`Global Infrastructure and Uptime Guarantee <about/datacenters>`;
    to perform some test interactions,
    click the name of one of the data centers shown on that page.
 

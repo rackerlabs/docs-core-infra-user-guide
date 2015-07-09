@@ -115,7 +115,7 @@ you can see:
    *The Cloud Control Panel lists all of your
    Cloud Block Storage volumes.*
 
-.. include:: note-chrome-devtools.rst
+.. include:: /_common/note-chrome-devtools.txt
 
 Learn about Cloud Block Storage in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

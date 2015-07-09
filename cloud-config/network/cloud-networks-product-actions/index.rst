@@ -26,7 +26,7 @@ Network actions
 * Delete network
 
 Subnet actions
----------------
+--------------
 * Retrieve list of subnets
 * Create subnet
 * Show subnet
@@ -34,9 +34,21 @@ Subnet actions
 * Delete subnet
 
 Port actions
----------------
+------------
 * Retrieve list of ports
 * Create port
 * Show port
 * Update port
 * Delete port
+
+Security group actions
+----------------------
+* List security groups
+* Create security group
+* Show security group
+* Delete security group
+* List security group rules
+* Create security group rule
+* Show security group rule
+* Delete security group rule
+

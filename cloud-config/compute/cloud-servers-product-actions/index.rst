@@ -6,9 +6,7 @@ Actions for Cloud Servers
 The following actions can be performed against an active, running server in the
 Cloud Control Panel and the API.
 
-.. NOTE:: 
-   Depending on your user's specific permissions, you may be unable to access
-   all of these actions.
+.. include:: /_common/note-rbac-actions.txt
 
 To learn how to perform Cloud Servers actions using your choice of interface, 
 begin at 

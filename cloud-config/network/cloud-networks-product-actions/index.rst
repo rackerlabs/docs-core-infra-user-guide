@@ -6,9 +6,7 @@ Actions for Cloud Networks
 The actions described below can be performed to create and manage cloud networks. 
 Actions can relate to a network, a subnet, or a port.
 
-.. NOTE:: 
-   Depending on your user's specific permissions, you may not have access to 
-   all of these actions.
+.. include:: /_common/note-rbac-actions.txt
 
 To learn how to perform Cloud Networks actions using your choice of interface, 
 begin at 

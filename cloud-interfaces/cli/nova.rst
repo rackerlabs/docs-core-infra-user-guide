@@ -37,7 +37,7 @@ and learn to use it include:
 
 * :os-docs:`nova CLI man page <developer/python-novaclient/man/nova.html>`
 
-.. include:: note-openstack-username.rst
+.. include:: /_common/note-openstack-username.txt
 
 Rackspace publishes detailed instructions about novaclient,
 including how to install the client

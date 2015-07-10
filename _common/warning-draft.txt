@@ -1,0 +1,4 @@
+.. WARNING::
+   **This guide is a work in progress.**
+   You are reading an early draft;
+   be very cautious about acting on anything you read here.

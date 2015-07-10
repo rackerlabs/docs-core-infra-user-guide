@@ -6,9 +6,7 @@ Actions for Cloud Images
 The following actions can be performed to create and manage cloud images. 
 Actions can relate to an image, image sharing, image tags, image tasks, and image schemas.
 
-.. NOTE::
-   Depending on your user's specific permissions, you may not have access to 
-   all of these actions.
+.. include:: /_common/note-rbac-actions.txt
 
 To learn how to perform Cloud Images actions using your choice of interface, 
 begin at 

@@ -110,7 +110,7 @@ for tag, status, image, flavor, and type.
    *The Cloud Control Panel lists all of your
    Cloud Servers.*
 
-.. include:: note-chrome-devtools.rst
+.. include:: /_common/note-chrome-devtools.txt
 
 Learn about Cloud Servers in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

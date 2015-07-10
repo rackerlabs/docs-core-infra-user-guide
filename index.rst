@@ -70,11 +70,7 @@ at the heart of the Rackspace cloud:
 |                                              |                                               |
 +----------------------------------------------+-----------------------------------------------+
 
-
-.. WARNING::
-   **This guide is a work in progress.**
-   You are reading an early draft;
-   be very cautious about acting on anything you read here.
+.. include:: /_common/warning-draft.txt
 
 We want to hear what you think about this guide.
 If you have a suggestion regarding the content,

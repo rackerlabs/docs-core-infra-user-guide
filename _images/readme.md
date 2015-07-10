@@ -72,6 +72,14 @@ To include any image in the guide:
 ----
 **Inventory of figures**
 
+* **cloudfilesinterfaces.png**
+  * used at 
+  * source here, in cloudfilesinterfaces.xml
+    to change the drawing, open the XML in https://www.draw.io/,
+    then export a new .PNG and save it here
+  * collection date 2015-07-10
+  * contributed by Nate Archer
+
 * **cloudimageshandshaking.png**
   * used at /cloud-config/compute/cloud-images-product-concepts/sharing-images/models.html
   * source here, in cloudimageshandshaking.xml;

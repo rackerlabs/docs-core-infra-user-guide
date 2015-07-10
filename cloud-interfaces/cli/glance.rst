@@ -25,4 +25,4 @@ and learn to use it include:
 
 * :os-docs:`glance CLI man page <developer/python-glanceclient/man/glance.html>`
 
-.. include:: note-openstack-username.rst
+.. include:: /_common/note-openstack-username.txt

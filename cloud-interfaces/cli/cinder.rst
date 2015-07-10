@@ -20,4 +20,4 @@ and learn to use it include:
 
 * :os-docs:`cinder CLI man page <developer/python-cinderclient/man/cinder.html>`
 
-.. include:: note-openstack-username.rst
+.. include:: /_common/note-openstack-username.txt

@@ -16,6 +16,15 @@ and, by using
 :ref:`RackConnect <network-rackconnect>`, 
 with dedicated servers operating outside the cloud. 
 
+You can manage the networking capabilities of your cloud servers 
+in many of the same ways you manage your other networks, 
+including
+:ref:`PublicNet <publicnet>`,
+:ref:`ServiceNet <servicenet>`,
+:ref:`DNS <dns>`,
+and 
+:ref:`security groups <security-groups>`.
+
 
 .. toctree:: :hidden:
    :maxdepth: 2
@@ -28,3 +37,4 @@ with dedicated servers operating outside the cloud.
    publicnet
    servicenet
    dns
+   security-groups

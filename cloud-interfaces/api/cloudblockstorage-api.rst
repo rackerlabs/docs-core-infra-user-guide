@@ -68,7 +68,7 @@ list all your Cloud Block Storage volumes.
 Learn about Cloud Block Storage in the Cloud Control Panel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the
-`Cloud Control Panel <https://mycloud.rackspace.com/>`__,
+:mycloud:`Cloud Control Panel <>`,
 your session begins with information about your Cloud Servers.
 To see your Cloud Block Storage information, click **Storage**
 and then click **Block Storage Volumes**.
@@ -115,7 +115,7 @@ you can see:
    *The Cloud Control Panel lists all of your
    Cloud Block Storage volumes.*
 
-.. include:: note-chrome-devtools.rst
+.. include:: /_common/note-chrome-devtools.txt
 
 Learn about Cloud Block Storage in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

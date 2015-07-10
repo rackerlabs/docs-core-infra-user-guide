@@ -10,17 +10,17 @@ ways to keep up with the news:
 *  Watch for email sent from Rackspace to the email contact associated
    with your Rackspace account.
 
-*  Read Rackspace blogs, both the 
-   `general-interest blog <https://www.rackspace.com/blog/>`__ 
-   and the 
-   `developer blog <https://developer.rackspace.com/blog/>`__.
-   
-*  Subscribe to relevant discussion forums in the 
-   `Rackspace Community <https://community.rackspace.com/products/f/forumsubscriptions>`__. 
+*  Read Rackspace blogs, both the
+   :rax:`general-interest blog <blog/>`
+   and the
+   :rax-dev:`developer blog <blog/>`.
 
-*  Suggest new ideas, vote for development of your favorite ideas, 
-   and monitor progress at 
+*  Subscribe to relevant discussion forums in the
+   `Rackspace Community <https://community.rackspace.com/products/f/forumsubscriptions>`__.
+
+*  Suggest new ideas, vote for development of your favorite ideas,
+   and monitor progress at
    `Rackspace Product Feedback <https://feedback.rackspace.com/>`__.
 
-*  Follow the 
+*  Follow the
    `Rackspace twitter feed <https://twitter.com/rackspace>`__.

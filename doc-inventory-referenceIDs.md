@@ -258,9 +258,11 @@ publicnet                              = /cloud-config/network/cloud-networks-pr
 
 scaling                                = /cloud-preprod/scaling.rst
 
-sdk                                   = /cloud-interfaces/api/sdk.rst
+sdk                                    = /cloud-interfaces/api/sdk.rst
 
 security                               = /cloud-preprod/security.rst
+
+security-groups                        = /cloud-config/network/cloud-networks-product-concepts/security-groups.rst
 
 scheduled-images                       = /cloud-config/compute/cloud-images-product-concepts/scheduled-images.rst
 

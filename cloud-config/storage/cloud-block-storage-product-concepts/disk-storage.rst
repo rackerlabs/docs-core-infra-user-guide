@@ -14,7 +14,7 @@ For example, compare the disk configuration offered for a server
 with 60 GB RAM in two different flavor classes:
 
 * In the I/O flavor class, the configuration for this server
-  includes 40 GB system disk and 600 GB data disk 
+  includes 40 GB system disk and 600 GB data disk
   (addressable as two disks).
 
 * In the Compute flavor class, the configuration for this
@@ -23,16 +23,16 @@ with 60 GB RAM in two different flavor classes:
 System disk
 ^^^^^^^^^^^
 The *system disk*, also called *boot disk*, is the first disk the server
-will attempt to access and boot from, 
+will attempt to access and boot from,
 much like the first physical hard
-drive plugged into a physical computer. 
+drive plugged into a physical computer.
 Operating systems are installed
-on this disk by default. 
+on this disk by default.
 Data can be stored on a system disk, although
 it may have less capacity than any attached data disks.
 
-.. TIP:: 
-   To make a backup copy of a *system* disk, 
+.. TIP::
+   To make a backup copy of a *system* disk,
    use Cloud Images to create a
    bootable backup.
 
@@ -52,19 +52,19 @@ To prepare a data disk for use on a cloud server, follow the steps
 appropriate for that server's operating system:
 
 * For Linux,
-  see 
-  `Preparing Data Disks on Linux Cloud Servers <http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-linux-cloud-servers>`__.
+  see
+  :kc-article:`Preparing Data Disks on Linux Cloud Servers <preparing-data-disks-on-linux-cloud-servers>`.
 
 * For Windows,
-  see 
-  `Preparing Data Disks on Windows Cloud Servers <http://www.rackspace.com/knowledge_center/article/preparing-data-disks-on-windows-cloud-servers>`__.
+  see
+  :kc-article:`Preparing Data Disks on Windows Cloud Servers <preparing-data-disks-on-windows-cloud-servers>`.
 
 .. TIP::
    To make a backup copy of *data* disk, use:
 
-   * Cloud Backup for incremental backups, 
+   * Cloud Backup for incremental backups,
      such as for disaster recovery
 
-   * Cloud Block Storage for portable backups, 
+   * Cloud Block Storage for portable backups,
      such as for relocation to
      new servers

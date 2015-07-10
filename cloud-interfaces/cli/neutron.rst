@@ -29,4 +29,4 @@ and learn to use it include:
 
 * :os-docs:`Python bindings to the OpenStack Network API <developer/python-neutronclient>`
 
-.. include:: note-openstack-username.rst
+.. include:: /_common/note-openstack-username.txt

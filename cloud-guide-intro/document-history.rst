@@ -11,22 +11,22 @@ The guide is continuously improved.
 Our documentation source repository is open for review;
 to learn about everything that has changed recently, begin
 by
-:git-repo:`taking the repository's pulse <pulse>`. 
+:git-repo:`taking the repository's pulse <pulse>`.
 
 Highlights of the most recent changes are described
 in the table below:
 
-+------------------+-----------------------------------------------------------------------------------------+
-| Revision Date    | Summary of Changes                                                                      |
-+==================+=========================================================================================+
-| June 25, 2015    | * Updated list of stack templates at :ref:`stack`.                                      |
-+------------------+-----------------------------------------------------------------------------------------+
-| June 18, 2015    | * First publication at `developer.rackspace.com <https://developer.rackspace.com/>`__.  |
-+------------------+-----------------------------------------------------------------------------------------+
-| June 1, 2015     | * First draft with complete content.                                                    |
-+------------------+-----------------------------------------------------------------------------------------+
-| May 22, 2014     | * Begin document development.                                                           |
-+------------------+-----------------------------------------------------------------------------------------+
++------------------+----------------------------------------------------------------+
+| Revision Date    | Summary of Changes                                             |
++==================+================================================================+
+| June 25, 2015    | * Updated list of stack templates at :ref:`stack`              |
++------------------+----------------------------------------------------------------+
+| June 18, 2015    | * First publication at :rax-dev:`developer.rackspace.com <>`.  |
++------------------+----------------------------------------------------------------+
+| June 1, 2015     | * First draft with complete content.                           |
++------------------+----------------------------------------------------------------+
+| May 22, 2014     | * Begin document development.                                  |
++------------------+----------------------------------------------------------------+
 
 .. Estimated publication date;
    adjust when finalized.

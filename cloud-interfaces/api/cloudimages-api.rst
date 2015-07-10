@@ -68,7 +68,7 @@ list all your cloud images.
 Learn about Cloud Images in the Cloud Control Panel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the
-`Cloud Control Panel <https://mycloud.rackspace.com/>`__,
+:mycloud:`Cloud Control Panel <>`,
 your session begins with information about your servers.
 To see your Cloud Images information, click **Servers**
 and then click **Saved Images**.
@@ -103,7 +103,7 @@ you can see
    *The Cloud Control Panel lists all of your
    Cloud Networks networks.*
 
-.. include:: note-chrome-devtools.rst
+.. include:: /_common/note-chrome-devtools.txt
 
 Learn about Cloud Images in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

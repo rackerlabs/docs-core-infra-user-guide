@@ -72,33 +72,41 @@ To include any image in the guide:
 ----
 **Inventory of figures**
 
-* **CloudImagesHandshaking.png**
+* **cloudimageshandshaking.png**
   * used at /cloud-config/compute/cloud-images-product-concepts/sharing-images/models.html
-  * source here, in CloudImagesHandshaking.xml;
+  * source here, in cloudimageshandshaking.xml;
     to change the drawing, open the XML in https://www.draw.io/,
     then export a new .PNG and save it here
   * collection date 2015-06-09
   * contributed by Nate Archer
 
-* **CloudServerNetworkRemovalResults.png**
+* **cloudimagesharing.png**
+  * used at cloud-config/compute/cloud-images-product-concepts/sharing-images/models.html
+  * source here, in cloudimagesharing.xml;
+    to change the drawing, open the XML in https://www.draw.io/,
+    then export a new .PNG and save it here
+  * collection date 2015-06-15
+  * contributed by Nate Archer
+
+* **cloudservernetworkremovalresults.png**
   * used at /cloud-config/network/cloud-networks-product-concepts/network-cloud-servers.html
-  * source here, in CloudServerNetworkRemovalResults.xml;
+  * source here, in cloudservernetworkremovalresults.xml;
     to change the drawing, open the XML in https://www.draw.io/,
     then export a new .PNG and save it here  
   * collection date 2015-06-08
   * contributed by Nate Archer
 
-* **CloudServerOnMetalArchitecture.png**
+* **cloudserveronmetalarchitecture.png**
   * used at /cloud-config/compute/cloud-servers-product-concepts/index.html
-  * source here, in CloudServerOnMetalArchitecture.xml;
+  * source here, in cloudserveronmetalarchitecture.xml;
     to change the drawing, open the XML in https://www.draw.io/,
     then export a new .PNG and save it here
   * collection date 2015-06-05
   * contributed by Nate Archer
 
-* **CloudServerVirtualArchitecture.png**
+* **cloudservervirtualarchitecture.png**
   * used at /cloud-config/compute/cloud-servers-product-concepts/index.html
-  * source here, in CloudServerVirtualArchitecture.xml;
+  * source here, in cloudservervirtualarchitecture.xml;
     to change the drawing, open the XML in https://www.draw.io/,
     then export a new .PNG and save it here
   * collection date 2015-06-05
@@ -112,9 +120,9 @@ To include any image in the guide:
   * collection date 2015-06-04
   * contributed by Nate Archer
 
-* **RackConnectEnterpriseConfig.png**
+* **rackconnectenterpriseconfig.png**
   * used at /cloud-config/network/cloud-networks-product-concepts/network-rackconnect.html
-  * source here, in RackConnectEnterpriseConfig.xml;
+  * source here, in rackconnectenterpriseconfig.xml;
     to change the drawing, open the XML in https://www.draw.io/,
     then export a new .PNG and save it here
   * collection date 2015-06-12
@@ -258,13 +266,13 @@ To include any image in the guide:
 ----
 **Inventory of screenshots**
 
-* **AccountResourceLimits.png**
+* **accountresourcelimits.png**
   * used at /cloud-interfaces/gui/index.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-18
   * contributed by Rose Coste
 
-* **ChromeViewDeveloper.png**
+* **chromeviewdeveloper.png**
   * used at /cloud-interfaces/api/cloudservers-api.html
   * used at /cloud-interfaces/api/cloudnetworks-api.html
   * used at /cloud-interfaces/api/cloudimages-api.html
@@ -273,145 +281,145 @@ To include any image in the guide:
   * collection date 2015-05-15
   * contributed by Rose Coste
 
-* **CloudBigData0clusters.png**
+* **cloudbigdata0clusters.png**
   * used at /cloud-ops/somethingnew.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-19
   * contributed by Rose Coste
 
-* **CloudBlockStorage0volumes.png**
+* **cloudblockstorage0volumes.png**
   * used at /cloud-interfaces/api/cloud.rackspace.com/
   * collection date 2015-04-30
   * contributed by Rose Coste
 
-* **CloudBlockStorage1volume.png**
+* **cloudblockstorage1volume.png**
   * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-04-30
   * contributed by Rose Coste
 
- * **CloudBlockStorageListVolumesGET.png**
+ * **cloudblockstoragelistvolumesget.png**
   * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from http://api.rackspace.com/
   * collection date 2015-04-30
   * contributed by Rose Coste
 
-* **CloudBlockStorageSDKPHP.png**
+* **cloudblockstoragesdkphp.png**
   * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from https://developer.rackspace.com/docs/cloud-block-storage/getting-started/
   * collection date 2015-04-30
   * contributed by Rose Coste
 
-* **CloudDNSAddReverse.png**
+* **clouddnsaddreverse.png**
   * used at /cloud-config/network/cloud-networks-product-concepts/dns.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-06-16
   * contributed by Rose Coste
 
-* **CloudDNSAddReverseDetails.png**
+* **clouddnsaddreversedetails.png**
   * used at /cloud-config/network/cloud-networks-product-concepts/dns.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-06-16
   * contributed by Rose Coste
 
-* **CloudDNSCreateDomain.png**
+* **clouddnscreatedomain.png**
   * used at /cloud-config/network/cloud-networks-product-concepts/dns.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-03-01
   * contributed by Rose Coste
 
-* **CloudImagesListAll.png**
+* **cloudimageslistall.png**
   * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-11
   * contributed by Rose Coste
 
-* **CloudImagesListImagesGET.png**
+* **cloudimageslistimagesget.png**
   * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from http://api.rackspace.com/
   * collection date 2015-05-11
   * contributed by Rose Coste
 
-* **CloudImagesSDKpython.png**
+* **cloudimagessdkpython.png**
   * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from https://developer.rackspace.com/docs/cloud-images/getting-started/
   * collection date 2015-05-11
   * contributed by Rose Coste
 
-* **CloudNetworksListAll.png**
+* **cloudnetworkslistall.png**
   * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-07
   * contributed by Rose Coste
 
-* **CloudNetworksListNetworksGET.png**
+* **cloudnetworkslistnetworksget.png**
   * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from http://api.rackspace.com/
   * collection date 2015-05-07
   * contributed by Rose Coste
 
-* **CloudNetworksSDKjava.png**
+* **cloudnetworkssdkjava.png**
   * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from https://developer.rackspace.com/docs/cloud-networks/getting-started/
   * collection date 2015-05-07
   * contributed by Rose Coste
 
-* **CloudOrchestrationRailsFlavors.png**
+* **cloudorchestrationrailsflavors.png**
   * used at /cloud-preprod/stack.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-03-26
   * contributed by Rose Coste
 
-* **CloudServerCreateFlavorStandardInstance.png**
+* **cloudservercreateflavorstandardinstance.png**
   * used at /cloud-config/compute/cloud-servers-product-concepts/server-region.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-03-01
   * contributed by Rose Coste
 
-* **CloudServerCreateImageUbuntu.png**
+* **cloudservercreateimageubuntu.png**
   * used at /cloud-config/compute/cloud-servers-product-concepts/server-region.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-03-01
   * contributed by Rose Coste
 
-* **CloudServerCreateOnMetal.png**
+* **cloudservercreateonmetal.png**
   * used at /cloud-config/compute/cloud-servers-product-concepts/flavor-class/index.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-03-01
   * contributed by Rose Coste
 
-* **CloudServerCreateRegionDFW.png**
+* **cloudservercreateregiondfw.png**
   * used at /cloud-config/compute/cloud-servers-product-concepts/flavor-class/check-region-flavor-class.html
   * used at /cloud-config/compute/cloud-servers-product-concepts/server-region.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-03-01
   * contributed by Rose Coste  
 
-* **CloudServerCreateVirtual.png**
+* **cloudservercreatevirtual.png**
   * used at /cloud-config/compute/cloud-servers-product-concepts/flavor-class/index.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-03-01
   * contributed by Rose Coste
 
-* **CloudServersListAll.png**
+* **cloudserverslistall.png**
   * used at /cloud-interfaces/api/cloudservers-api.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-04-28
   * contributed by Rose Coste
 
-* **CloudServersListServersGET.png**
+* **cloudserverslistserversget.png**
   * used at /cloud-interfaces/api/cloudservers-api.html
   * collected from http://api.rackspace.com/
   * collection date 2015-04-29
   * contributed by Rose Coste
 
-* **CloudServersSDKpython.png**
+* **cloudserverssdkpython.png**
   * used at /cloud-interfaces/api/cloudservers-api.html
   * collected from https://developer.rackspace.com/docs/cloud-servers/getting-started/
   * collection date 2015-04-28
   * contributed by Rose Coste
 
-* **CreateTicketServersResourceLimit.png**
+* **createticketserversresourcelimit.png**
   * used at /cloud-interfaces/gui/index.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-18
@@ -424,13 +432,13 @@ To include any image in the guide:
   * collection date 2015-06-16
   * contributed by Rose Coste
 
-* **NetworkingGroup.png**
+* **networkinggroup.png**
   * used at /cloud-interfaces/gui/cloudnetworks-gui.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-13
   * contributed by Rose Coste
 
-* **NetworkingNetworks.png**
+* **networkingnetworks.png**
   * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-07
@@ -442,38 +450,38 @@ To include any image in the guide:
   * collection date 2015-05-26
   * contributed by Rose Coste
 
-* **ReleaseNotesFeed-api.png**
+* **releasenotesfeed-api.png**
   * used at /cloud-interfaces/api/moreinfo-api.html
   * collected from http://docs.rackspace.com/cbs/api/v1.0/cbs-releasenotes/
   * collection date 2015-05-19
   * contributed by Rose Coste
 
-* **ReleaseNotesFeed-SDK.png**
+* **releasenotesfeed-SDK.png**
   * used at /cloud-interfaces/api/moreinfo-api.html
   * collected from https://developer.rackspace.com/sdks/
   * collection date 2015-05-19
   * contributed by Rose Coste
 
-* **ServersGroup.png**
+* **serversgroup.png**
   * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-12
   * contributed by Rose Coste
 
-* **ServersSavedImages.png**
+* **serverssavedimages.png**
   * used at /cloud-interfaces/gui/cloudservers-gui.html
   * used at /cloud-interfaces/gui/cloudimages-gui.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-12
   * contributed by Rose Coste
 
-* **StorageGroup.png**
+* **storagegroup.png**
   * used at /cloud-interfaces/gui/cloudblockstorage-gui.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-13
   * contributed by Rose Coste
 
-* **StorageBlockStorageVolumes.png**
+* **storageblockstoragevolumes.png**
   * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-04-30

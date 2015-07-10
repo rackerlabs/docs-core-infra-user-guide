@@ -8,7 +8,7 @@ designed for high IOPS (Input/output Operations Per Second). Instead,
 Cloud Files is designed for consistent reliability of data. The
 primary function of Cloud Files is to ensure that your data is
 available when you ask for it. This works best with relatively static files,
-as opposed to files that are frequently updated. 
+as opposed to files that are frequently updated.
 
 An object is the basic storage entity and its metadata that represent
 the files that you store in Cloud Files. When you upload data to

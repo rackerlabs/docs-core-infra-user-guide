@@ -31,6 +31,15 @@ Deleting a container is a permanent action and cannot be reversed.
 
 Create or Update an Object
 ''''''''''''''''''''''''''
+Each container can store an unlimited number of objects.
+
+For large files support, Cloud Files allows you to upload multiple file
+segments and a manifest file to map the segments together. When
+uploading large files:
+
+* Files larger than 5 GB must first be segmented into smaller files
+* File segments should not be smaller than 100-200 MB
+* Files larger than 10 GB cannot be served from the CDN
 
 Copy an Object
 ''''''''''''''

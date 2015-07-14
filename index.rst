@@ -70,7 +70,6 @@ at the heart of the Rackspace cloud:
 |                                              |                                               |
 +----------------------------------------------+-----------------------------------------------+
 
-.. include:: /_common/warning-draft.txt
 
 We want to hear what you think about this guide.
 If you have a suggestion regarding the content,

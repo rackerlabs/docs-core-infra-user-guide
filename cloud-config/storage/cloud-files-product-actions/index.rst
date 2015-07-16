@@ -43,6 +43,14 @@ uploading large files:
 
 Copy an Object
 ''''''''''''''
+You can copy an existing object to a new object in the Cloud Files
+storage system. The new object can be in the same container, but must
+have a different name from the original object. If the new object
+is located in a different container, you can use the same name as
+the original or use a new name.
 
 Delete an Object
 ''''''''''''''''
+By deleting an object, you are permanently removing the object from
+the storage system (data and metadat). Deletion is processed
+immediately and cannot be reversed.

@@ -20,4 +20,6 @@ and learn to use it include:
 
 * :os-docs:`swiftclient web <developer/python-swiftclient>`
 
-.. include:: note-openstack-username.rst
+* :os-wiki:`Configuring swift <wiki/ConfigureSwift>`
+
+.. include:: /_common/note-openstack-username.txt

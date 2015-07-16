@@ -17,6 +17,18 @@ content through a RESTful (Representational State Transfer) web
 services interface. There are also language-specific APIs that use the
 RESTful API and make it easy for integration into your applications.
 
+.. figure:: /_images/cloudfilesinterfaces.png
+   :scale: 80%
+   :alt: The process for distributing content over the CDN is
+         straightforward: authenticate, create a container, upload objects,
+         mark the container as public, and begin serving that content
+         from a powerful CDN.
+
+   *The process for distributing content over the CDN is
+   straightforward: authenticate, create a container, upload objects,
+   mark the container as public, and begin serving that content
+   from a powerful CDN.*
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Ideal Uses for Cloud Files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -34,7 +46,7 @@ Following are some of the ideal uses for Cloud Files:
 
 The Rackspace technical documentation provides many more details about
 Cloud Files. Begin exploring at
-:kc:`Cloud Files support <product-page/cloud-files>` and 
+:kc:`Cloud Files support <product-page/cloud-files>` and
 :kc:`Getting Started with Cloud Files <getting-started/cloud-files>`.
 
 

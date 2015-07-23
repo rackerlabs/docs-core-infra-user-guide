@@ -69,3 +69,4 @@ core infrastructure products, see
 * :ref:`cloudnetworks-cli`
 * :ref:`cloudimages-cli`
 * :ref:`cloudblockstorage-cli`
+* :ref:`cloudfiles-cli`

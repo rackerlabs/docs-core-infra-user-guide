@@ -49,7 +49,7 @@ The
 :rax-api:`API cross-reference <api-ref-blockstorage.html>`
 lists those requests for Cloud Block Storage.
 
-The Getting Started Guide for the Cloud Block Storage API
+The *Getting Started Guide for the Cloud Block Storage API*
 includes many examples of using cURL, especially at
 :rax-docs:`Using the API directly by using cURL <cbs/api/v1.0/cbs-getting-started/content/Using_the_API_directly_d1e060.html>`.
 

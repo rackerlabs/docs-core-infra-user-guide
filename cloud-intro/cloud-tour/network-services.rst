@@ -37,7 +37,7 @@ and which Cloud Servers are connected to the network.
    the focus of this guide.
 
    A good place to begin learning to interact with it is
-   :ref:`cloud_interfaces`.
+   :ref:`cloud-interfaces`.
 
 Cloud DNS at a glance
 ~~~~~~~~~~~~~~~~~~~~~

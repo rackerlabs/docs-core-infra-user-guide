@@ -1,4 +1,4 @@
-.. _cloud_interfaces:
+.. _cloud-interfaces:
 
 ==========================
 Interacting with the cloud

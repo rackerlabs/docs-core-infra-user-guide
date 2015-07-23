@@ -3,11 +3,11 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 CLI: command-line interfaces and tools
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you want to manage your cloud configuration 
+If you want to manage your cloud configuration
 by typing commands or executing shell scripts,
-you can use command-line interfaces (CLIs) 
-provided by OpenStack and, 
-in some cases, supported by Rackspace. 
+you can use command-line interfaces (CLIs)
+provided by OpenStack and,
+in some cases, supported by Rackspace.
 
 
 
@@ -19,4 +19,5 @@ in some cases, supported by Rackspace.
    cloudnetworks-cli
    cloudimages-cli
    cloudblockstorage-cli
+   cloudfiles-cli
    moreinfo-cli

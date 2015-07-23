@@ -30,7 +30,7 @@ Cloud Block Storage at a glance
    the focus of this guide.
 
    A good place to begin learning to interact with it is
-   :ref:`cloud_interfaces`.
+   :ref:`cloud-interfaces`.
 
 Cloud Backup at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,3 +73,10 @@ Cloud Files at a glance
 | Cloud Files stores                         |                                                  |
 | online objects.                            |                                                  |
 +--------------------------------------------+--------------------------------------------------+
+
+.. TIP::
+   Cloud Files is part of the core infrastructure of the Rackspace
+   cloud, the focus of this guide.
+
+   A good place to begin learning to interact with it is
+   :ref:`cloud-interfaces`.

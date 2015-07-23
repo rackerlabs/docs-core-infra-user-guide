@@ -1,8 +1,8 @@
 .. _object-storage:
 
-~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^
 Object Storage
-~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^
 At its core, Cloud Files is an object storage solution and is not
 designed for high IOPS (Input/output Operations Per Second). Instead,
 Cloud Files is designed for consistent reliability of data. The

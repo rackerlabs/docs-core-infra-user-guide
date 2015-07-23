@@ -75,6 +75,8 @@ container you can see:
 * The number of files stored within
 * Its size
 
+.. include:: /_common/note-chrome-devtools.txt
+
 Learn about Cloud Files in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the :rax-api:`API cross-reference <>`, you can see all

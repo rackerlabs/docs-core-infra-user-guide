@@ -10,8 +10,6 @@ Cloud Files (labeled **Files**)
 available
 under **Storage**.
 
-# make sure to put an image here similar to the CBS image
-
 You can use the Cloud Control Panel to help you
 observe and manage your Cloud Block Storage configuration.
 For ideas about what to do first,

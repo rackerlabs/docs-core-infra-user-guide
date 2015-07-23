@@ -36,4 +36,6 @@ add it to the top of the appropriate
   
 ** Links from non-Rackspace sources **
 
-* none yet
+* at https://github.com/rackerlabs/docs-core-infra-user-guide, 
+  website field in repo description links to 
+  /

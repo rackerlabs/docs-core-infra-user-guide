@@ -24,10 +24,14 @@ To create a new container, log into the :mycloud:`Cloud Control Panel<>`.
 In the top navigation bar, select **Storage > Files** and click
 **Create Container**.
 
-# image here to show create container button and options
+.. figure:: /_images/cloudfilescreatecontainer.png
+   :scale: 80%
+   :alt: To create a container, enter a name, choose a region, and
+         select the type.
 
-Name the container, choose a region,  and select the type:
-Private, Public (Enabled CDN), or Static Website.
+   *To create a container, enter a name, choose a region, and
+   select the type: Private, Public (Enabled CDN), or Static
+   Website.*
 
 * Private containers allow you to securely store data on the cloud and
   access it through the Control Panel or API.
@@ -48,10 +52,10 @@ To upload files to one of your containers, first log into the
 **Storage > Files** and click on the name of the container to which
 you want to upload files.
 
-Click **Upload Files**, select the files to upload, and then click **Open**.
-After the file is uploaded, click **Close Window**. The file will
-then appear in the list of available files within the container.
-Click the gear icon next to your file and select **View All Links**
-to see the options for sharing your file.
+.. figure:: /_images/cloudfilesuploadfile.png
+   :scale: 80%
+   :alt: If you have no Cloud files objects, the Cloud Control Panel
+         shows you how to upload one.
 
-# image to show uploading files to container
+   *If you have no Cloud Files objects, the Cloud Control Panel
+   shows you how to upload one.*

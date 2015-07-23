@@ -73,7 +73,7 @@ To include any image in the guide:
 **Inventory of figures**
 
 * **cloudfilesinterfaces.png**
-  * used at 
+  * used at
   * source here, in cloudfilesinterfaces.xml
     to change the drawing, open the XML in https://www.draw.io/,
     then export a new .PNG and save it here
@@ -336,6 +336,48 @@ To include any image in the guide:
   * collection date 2015-03-01
   * contributed by Rose Coste
 
+* **cloudfilescreatecontainer.png**
+  * used at /cloud-interfaces/gui/cloudfiles-gui.html
+  * collected from https://mycloud.rackspace.com/
+  * collection date 2015-07-23
+  * contributed by Stephanie Fillmon
+
+* **cloudfilescreatecontainerbase.png**
+  * undecorated, base image for cloudfilescreatecontainer.png
+  * collected from https://mycloud.rackspace.com/
+  * collection date 2015-07-23
+  * contributed by Stephanie Fillmon
+
+* **cloudfileslistcontainers.png**
+  * undecorated, base image for cloudfileslistcontainersget.png
+  * collected from http://api.rackspace.com/
+  * collection date 2015-07-23
+  * contributed by Stephanie Fillmon
+
+* **cloudfileslistcontainersget.png**
+  * used at /cloud-interfaces/api/cloudfiles-api.html
+  * collected from http://api.rackspace.com/
+  * collection date 2015-07-23
+  * contributed by Stephanie Fillmon
+
+* **cloudfilessdk.png**
+  * undecorated, base image for cloudfilessdkphp.png
+  * collected from https://developer.rackspace.com/
+  * collection date 2015-07-23
+  * contributed by Stephanie Fillmon
+
+* **cloudfilessdkphp.png**
+  * used at /cloud-interfaces/api/cloudfiles-api.html
+  * collected from https://developer.rackspace.com/
+  * collection date 2015-07-23
+  * contributed by Stephanie Fillmon
+
+* **cloudfilesuploadfile.png**
+  * used at /cloud-interfaces/gui/cloudfiles-gui.html
+  * collected from https://mycloud.rackspace.com/
+  * collection date 2015-07-23
+  * contributed by Stephanie Fillmon
+
 * **cloudimageslistall.png**
   * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from https://mycloud.rackspace.com/
@@ -433,6 +475,18 @@ To include any image in the guide:
   * collection date 2015-05-18
   * contributed by Rose Coste
 
+* **controlpanelcloudfiles.png**
+  * used at /cloud-interfaces/api/cloudfiles-api.html
+  * used at /cloud-interfaces/gui/cloudfiles-gui.html
+  * collected from https://mycloud.rackspace.com/
+  * collection date 2015-07-23
+  * contributed by Stephanie Fillmon
+
+* **controlpanelstorage**
+  * undecorated, base image for controlpanelcloudfiles.png
+  * collected from https://mycloud.rackspace.com/
+  * collection date 2015-07-23
+  * contributed by Stephanie Fillmon
 
 * **flavorclass-network-speed.png**
   * used at /cloud-config/network/cloud-networks-product-concepts/network-cloud-servers.html

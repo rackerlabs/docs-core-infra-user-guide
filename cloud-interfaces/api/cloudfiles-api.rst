@@ -45,7 +45,7 @@ programming language.
 Awareness of both API and SDK capabilities can help
 you plan the easiet way to develop your software.
 
-.._cloudfiles-api-demonstration:
+.. _cloudfiles-api-demonstration:
 
 +++++++++++++++++++++++++++++
 Cloud Files API demonstration
@@ -59,13 +59,15 @@ Learn about Cloud Files in the Cloud Control Panel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you login to the :mycloud:`Cloud Control Panel<>`, your
 session begins with information about your Cloud Servers.
-To see your Cloud Files information, click **Storage** and
-then click **Files**.
 
-# image demonstrating location of files in control panel
+.. figure:: /_images/controlpanelcloudfiles.png
+   :scale: 80%
+   :alt: To see your Cloud Files information, click Storage
+         and then click Files.
 
-# If you have no Cloud Files containers, the Cloud Control
-  panel shows you how to create one.
+   *To see your Cloud Files information, click "Storage"
+   and then click "Files".*
+
 
 If your list of containers is not empty, then for each
 container you can see:
@@ -97,10 +99,16 @@ you can see that:
   details for a specified container and lists the objects,
   sorted by name, within that container
 
-On the first ``GET`` line, click **detail** to see more
-about how the API handles this request. The request parameters
-and sample response shown here can help you formulate a
-basic *List containers* request to the API and
+.. figure:: /_images/cloudfileslistcontainersget.png
+   :scale: 80%
+   :alt: api.rackspace.com lists all API operations. Click
+         detail to see more about how the API handles this request.
+
+   *The API cross-reference lists all API operations. Click "detail"
+   to see more about how the API handles each request.*
+
+The request parameters and sample response shown here can
+help you formulate a basic *List containers* request to the API and
 understand the API's response.
 
 In the sample response, ``bytes`` and ``name`` correspond
@@ -131,7 +139,13 @@ For example, to see Cloud Files code samples in PHP, go to the
 :rax-dev:`SDK QuickStart for Cloud Files <docs/cloud-files/getting-started>`
 and click *PHP*.
 
-# add screencap to show where the language options are located.
+.. figure:: /_images/cloudfilessdkphp.png
+   :scale: 80%
+   :alt: PHP is one of several languages for which we
+         publish an SDK QuickStart.
+
+   *PHP is one of several languages for which we
+   publish an SDK QuickStart.*
 
 Use SDK to help you write and run code to interact with Cloud Files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

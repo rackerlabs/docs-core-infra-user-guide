@@ -1,8 +1,8 @@
 .. _cloud-images-sharing:
 
---------------
+~~~~~~~~~~~~~~
 Sharing images
---------------
+~~~~~~~~~~~~~~
 Cloud images can be created as snapshots of a cloud server. They can
 also be imported using the Cloud Images Import feature.
 
@@ -17,7 +17,7 @@ useful for many scenarios:
   support different internal organizations or company branches, you can
   create a single central image and then share it with other accounts
   so they do not have to create one themselves.
-  
+
 
 .. toctree:: :hidden:
    :maxdepth: 2

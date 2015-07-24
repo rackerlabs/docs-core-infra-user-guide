@@ -1,8 +1,8 @@
 .. _personality-boot:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++++++++++++++++++++++++
 Controlling boot behavior with personality
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++++++++++++++++++++++++
 Personality allows user-specified files to be injected into a server's
 file system at boot. Personality only supports text files that are
 Base64 encoded and does not support binary or zip files. A file path on
@@ -12,7 +12,7 @@ pairs may be included.
 
 If you specify a file for injection that already exists on the remote
 server, the pre-existing file will be renamed with a ``.bak`` extension
-and a timestamp appended, such as ``.bak.1246036261.5785``. 
+and a timestamp appended, such as ``.bak.1246036261.5785``.
 The ``.bak``
 file will be owned by the root user and a member of the root group.
 

@@ -1,8 +1,8 @@
 .. _cloud-files-product-actions:
 
-~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^
 Actions for Cloud Files
-~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^
 You can use Cloud Files to perform the actions below.
 
 To learn how to perform Cloud Files actions using your choice of

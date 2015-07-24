@@ -1,8 +1,8 @@
 .. _import-export-images:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Importing and exporting images
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The Rackspace cloud proudly runs on OpenStack, open-source software that
 can and does run in many data centers in addition to Rackspace data
 centers. In addition to running on open-source software, our cloud is

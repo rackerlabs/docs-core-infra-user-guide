@@ -1,8 +1,8 @@
 .. _cloud-interfaces-gui:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------
 GUI: Rackspace Cloud Control Panel
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------
 The Rackspace :mycloud:`Cloud Control Panel <>` is
 the easiest way to get started with provisioning cloud resources.
 

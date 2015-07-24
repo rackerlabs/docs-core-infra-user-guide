@@ -1,8 +1,8 @@
 .. _software-raid:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Software RAID for Cloud Block Storage
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A redundant array of independent disks (RAID) enables expansion of
 storage capacity by combining many small disks rather than a few large
 disks. RAID is generally not necessary for baseline performance and

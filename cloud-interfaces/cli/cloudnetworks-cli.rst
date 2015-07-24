@@ -1,8 +1,8 @@
 .. _cloudnetworks-cli:
 
---------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cloud Networks and CLIs: neutron
---------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To interact with Cloud Networks at the command line,
 you can use tools created specifically for the purpose
 of interacting with OpenStack-based clouds
@@ -63,7 +63,7 @@ prefer to work with one or the other.
 For example, if you compare
 :rax-docs:`Create a network (neutron client) <networks/api/v2/cn-gettingstarted/content/neutron_create_network_chr_neutron.html>`,
 and
-:rax-docs:`Create a network (cURL) <networks/api/v2/cn-gettingstarted/content/neutron_create_network_chr_curl.html>` 
+:rax-docs:`Create a network (cURL) <networks/api/v2/cn-gettingstarted/content/neutron_create_network_chr_curl.html>`
 you can see that:
 
 * neutron users send a short command,

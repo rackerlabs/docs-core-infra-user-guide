@@ -1,8 +1,8 @@
 .. _direct-api-access:
 
------------------
+^^^^^^^^^^^^^^^^^
 Direct API access
------------------
+^^^^^^^^^^^^^^^^^
 Each of our cloud services exposes an API which can be leveraged for
 low-level integration with the service.
 Rackspace APIs,

@@ -1,8 +1,8 @@
 .. _tour-compute-services:
 
-----------------
+^^^^^^^^^^^^^^^^
 Compute services
-----------------
+^^^^^^^^^^^^^^^^
 Services in this category include
 
 * Cloud Servers

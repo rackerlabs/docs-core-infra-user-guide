@@ -1,8 +1,8 @@
 .. cloud-images-sharing-planning:
 
---------------------------------------
+++++++++++++++++++++++++++++++++++++++
 Planning to share or use shared images
---------------------------------------
+++++++++++++++++++++++++++++++++++++++
 Although it is easy to share a cloud image, it is not always
 appropriate. Consider carefully before creating an image-sharing
 relationship.
@@ -61,7 +61,7 @@ you can create a copy of the image in each region.
 
 :kc-article:`Transferring images between regions of the Rackspace open cloud <transferring-images-between-regions-of-the-rackspace-open-cloud>`
 demonstrates a method of placing an image within a Cloud Files
-container in one region and then retrieving it from the container 
+container in one region and then retrieving it from the container
 in another region. This is a complex, multi-step method but it may be
 worth the effort to master it if you need consistent images
 in multiple regions.

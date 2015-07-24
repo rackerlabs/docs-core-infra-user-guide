@@ -1,15 +1,15 @@
 .. _cloud-networks-product-actions:
 
-==========================
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 Actions for Cloud Networks
-==========================
-The actions described below can be performed to create and manage cloud networks. 
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+The actions described below can be performed to create and manage cloud networks.
 Actions can relate to a network, a subnet, or a port.
 
 .. include:: /_common/note-rbac-actions.txt
 
-To learn how to perform Cloud Networks actions using your choice of interface, 
-begin at 
+To learn how to perform Cloud Networks actions using your choice of interface,
+begin at
 
   * :ref:`cloudnetworks-gui`
   * :ref:`cloudnetworks-cli`
@@ -49,4 +49,3 @@ Security group actions
 * Create security group rule
 * Show security group rule
 * Delete security group rule
-

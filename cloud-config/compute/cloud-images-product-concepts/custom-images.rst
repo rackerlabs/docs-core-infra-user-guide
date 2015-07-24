@@ -1,8 +1,8 @@
 .. custom-images:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Creating custom images from servers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The first time you boot a cloud server, you’ll probably use an image
 supplied by Rackspace. We supply images of many different operating
 systems, all configured to run optimally in the Rackspace cloud.

@@ -1,13 +1,13 @@
 .. _cloud-images-sharing-models:
 
-------------------------
+++++++++++++++++++++++++
 Models of sharing images
-------------------------
-When you share an image, 
+++++++++++++++++++++++++
+When you share an image,
 you create a direct, unique relationship with each
 consumer of the image.
-The relationship between the producer of an image 
-and each consumer of the image 
+The relationship between the producer of an image
+and each consumer of the image
 evolves through multiple stages.
 
 One-to-one sharing
@@ -29,7 +29,7 @@ to Consumer A and Consumer B, the relationships that are created are:
 .. figure:: /_images/cloudimagesharing.png
    :alt: The producer Jan has an independent
 	 relationship with each consumer.
-   
+
    *The producer Jan has an independent
    relationship with each consumer.*
 
@@ -49,12 +49,12 @@ ensure that users involved in a sharing request have both awareness and
 control throughout.
 
 .. figure:: /_images/cloudimagehandshaking.png
-   :alt: The image producer creates an image 
-         and creates an image member for the image consumer; 
+   :alt: The image producer creates an image
+         and creates an image member for the image consumer;
          the image consumer accepts or rejects the image.
-         
-   *The image producer creates an image 
-   and creates an image member for the image consumer; 
+
+   *The image producer creates an image
+   and creates an image member for the image consumer;
    the image consumer accepts or rejects the image.*
 
 1. The image producer identifies the desired image, and the consumers to
@@ -64,7 +64,7 @@ control throughout.
    as *members* to the image.
 
 3. Each of the consumers can choose to *accept* or *reject* the image
-   sharing request. 
+   sharing request.
    This choice is recorded as their *member status*. The member
    status controls whether image appears in the consumer's image list.
 
@@ -78,20 +78,20 @@ Image members can have any of the following statuses:
 * **Rejected**: The consumer declines the invitation to potentially use
   the offered image, and the image does not appears in the consumer's
   image list. The producer knows that the consumer made an active
-  decision about the image. 
-  
-.. NOTE:: 
-   While an image is in *rejected* status, 
-   the consumer can use the image 
+  decision about the image.
+
+.. NOTE::
+   While an image is in *rejected* status,
+   the consumer can use the image
    but must know the image ID since the image is not in the image list.
 
 * **Pending**: The consumer neither accepts nor declines the invitation
   to potentially use the offered image, and may not have even noticed
   the offer. The producer might elect to send a reminder that the image
   is available, but this is outside the scope of the Cloud Images API.
-   
-.. NOTE:: 
-   While an image is in *pending* status, 
-   the consumer can use the image  
-   but must know the image ID 
+
+.. NOTE::
+   While an image is in *pending* status,
+   the consumer can use the image
+   but must know the image ID
    since the image is not shown in the image list.

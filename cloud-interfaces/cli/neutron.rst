@@ -1,8 +1,8 @@
 .. _neutron:
 
-+++++++++++
+^^^^^^^^^^^
 neutron CLI
-+++++++++++
+^^^^^^^^^^^
 The OpenStack tool primarily used for
 managing Cloud Networks is written
 in Python and called *neutron*.

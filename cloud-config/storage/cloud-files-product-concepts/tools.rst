@@ -1,8 +1,8 @@
 .. _tools:
 
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 Cloud Files Tools
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 There are a number of tools and extensions designed to help you manage
 your Cloud Files. Following are a few of the available options:
 

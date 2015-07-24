@@ -1,8 +1,8 @@
 .. _cloudfiles-api:
 
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cloud Files and SDKs and APIs
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you begin writing your own software to interact with Cloud Files,
 you may benefit from investing some time to learn about
 how Cloud Files works in the Cloud Control Panel

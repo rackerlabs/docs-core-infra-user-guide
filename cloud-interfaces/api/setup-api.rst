@@ -1,8 +1,8 @@
 .. _setup-api:
 
-------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Preparing to use SDKs and APIs
-------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 If you have a Rackspace cloud account, you can use Rackspace APIs to interact with the cloud services you subscribe to.
 
 The basic process is the same for all Rackspace APIs:

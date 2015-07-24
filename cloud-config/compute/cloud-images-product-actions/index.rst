@@ -1,15 +1,15 @@
 .. _cloud-images-product-actions:
 
-========================
+^^^^^^^^^^^^^^^^^^^^^^^^
 Actions for Cloud Images
-========================
-The following actions can be performed to create and manage cloud images. 
+^^^^^^^^^^^^^^^^^^^^^^^^
+The following actions can be performed to create and manage cloud images.
 Actions can relate to an image, image sharing, image tags, image tasks, and image schemas.
 
 .. include:: /_common/note-rbac-actions.txt
 
-To learn how to perform Cloud Images actions using your choice of interface, 
-begin at 
+To learn how to perform Cloud Images actions using your choice of interface,
+begin at
 
 * :ref:`cloudimages-gui`
 * :ref:`cloudimages-cli`

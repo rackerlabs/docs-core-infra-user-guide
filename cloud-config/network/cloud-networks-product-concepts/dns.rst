@@ -1,8 +1,8 @@
 .. _dns:
 
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 DNS in the cloud
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 When you create a cloud server, it is assigned an IP address. You can
 access the server by its IP address, but you may prefer to associate the
 IP address with a domain name such as **www.example.com**

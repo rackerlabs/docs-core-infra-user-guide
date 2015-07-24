@@ -1,8 +1,8 @@
 .. _default-base-images:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++++++++++++
 Default base image configurations
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++++++++++++
 How we manage the default configuration for base images is different for
 different kinds of accounts.
 

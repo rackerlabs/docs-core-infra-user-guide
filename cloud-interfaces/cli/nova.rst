@@ -1,8 +1,8 @@
 .. _nova:
 
-++++++++
+^^^^^^^^
 nova CLI
-++++++++
+^^^^^^^^
 The OpenStack tool primarily used for managing Cloud Servers is written
 in Python and called *nova*.
 It is also known as *novaclient* or

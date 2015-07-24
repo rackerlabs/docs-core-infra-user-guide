@@ -1,8 +1,8 @@
 .. _tour-storage-services:
 
--------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Storage and content delivery services
--------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Services in this category include
 
 * Cloud Block Storage

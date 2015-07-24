@@ -1,8 +1,8 @@
 .. _patching-base-images:
 
-^^^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++
 Patching base images
-^^^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++
 Software patches are applied to base images as appropriate to each
 operating system:
 

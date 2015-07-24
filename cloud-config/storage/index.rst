@@ -1,8 +1,8 @@
 .. _cloud-config-storage:
 
-===========================================
+-------------------------------------------
 Core infrastructure in the Storage category
-===========================================
+-------------------------------------------
 Cloud Block Storage and Cloud Files are core infrastructure products
 in the Storage category.
 

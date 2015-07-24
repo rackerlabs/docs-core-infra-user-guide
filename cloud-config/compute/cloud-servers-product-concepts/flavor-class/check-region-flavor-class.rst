@@ -1,8 +1,8 @@
 .. _check-region-flavor-class:
 
-----------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++
 Checking for regional availability of flavor classes
-----------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++
 Rackspace cloud servers are available to be created and consumed in
 multiple regions. However, not all flavor classes and flavors may be
 available in all regions. When planning a flavor class and flavor, be
@@ -29,6 +29,6 @@ only those that are available in the selected region.
 Considerations other than the availability of a flavor class can
 influence your choice of the optimal region
 in which to create a new cloud server.
-:kc-article:`About regions <about-regions>` 
+:kc-article:`About regions <about-regions>`
 discusses some of the other factors
 you should consider.

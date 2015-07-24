@@ -1,8 +1,8 @@
 .. _glance:
 
-++++++++++
+^^^^^^^^^^
 glance CLI
-++++++++++
+^^^^^^^^^^
 The OpenStack tool primarily used for
 managing Cloud Images is written
 in Python and called *glance*.

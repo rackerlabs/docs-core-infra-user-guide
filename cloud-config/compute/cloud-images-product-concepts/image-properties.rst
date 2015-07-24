@@ -1,15 +1,15 @@
 .. _image_properties:
 
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 Image properties
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 When we talk about images in the Rackspace Cloud, what we are really
 referring to is an *image record* with which the *image data file* is
-associated. 
+associated.
 
-* An image data file can be a virtual hard disk (VHD). 
+* An image data file can be a virtual hard disk (VHD).
 * An image record consists of a set of
-  *image properties* (also known as *image metadata*) 
+  *image properties* (also known as *image metadata*)
   that describes the image.
 
 Image properties have several functions:
@@ -22,30 +22,30 @@ Image properties have several functions:
   you own, you may add your own cataloging properties so that you can
   efficiently search through your set of images.
 
-* Image properties 
-  are used by the Cloud Servers API to determine 
+* Image properties
+  are used by the Cloud Servers API to determine
   whether a request to
-  boot a server from a particular combination of 
+  boot a server from a particular combination of
   image and flavor makes sense.
-  For example, if the ``min\_ram`` property of an image is ``512``, 
+  For example, if the ``min\_ram`` property of an image is ``512``,
   then
   the specified flavor must provide at least 512 MB of RAM or the boot
   request will be rejected.
 
-* Image properties 
+* Image properties
   are used by the Cloud Servers scheduler to locate a host for a server.
   For example, the ``hypervisor\_version\_requires`` property specifies
   what version of XenServer the image expects to find when it is
   booted.
 
-* Image properties  
+* Image properties
   are used by the hypervisor during the process of booting a
   server from an image. For example, the ``auto\_disk\_config``
   property indicates whether the hypervisor should expand the disk
   partition and filesystem found on the image to fit the server's
   system disk.
 
-* Image properties 
+* Image properties
   are used by Cloud Images in its handling of images. For example,
   if the ``visibility`` property indicates that an image is public, the
   image will be included in each user's image list.

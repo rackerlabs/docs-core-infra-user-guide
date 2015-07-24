@@ -1,8 +1,8 @@
 .. _cloud-images-product-concepts:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 Understanding Cloud Images
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 A virtual machine image ("image") is a single file that
 contains a virtual disk that contains a bootable operating system.
 

@@ -1,8 +1,8 @@
 .. _tour-support-services:
 
---------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Security and supporting services
---------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Services in this category include
 
 * Cloud Feeds

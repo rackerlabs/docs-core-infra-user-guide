@@ -1,8 +1,8 @@
 .. _moreinfo-gui:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Learning more about the Cloud Control Panel
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Every cloud account comes with access to the
 :mycloud:`Cloud Control Panel <>`.
 Depending on how you use your Rackspace account,

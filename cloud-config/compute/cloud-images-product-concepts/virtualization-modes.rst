@@ -1,8 +1,8 @@
 .. _virtualization-modes:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Virtualization modes: PV and PVHVM
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 You can choose between two virtualization modes to be used by the
 hypervisor that runs your cloud server:
 

@@ -1,8 +1,8 @@
 .. _server-events:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Monitoring events on your cloud server
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Automated monitoring of your cloud server configuration and its entire
 infrastructure stack enables you to know how your system is being used
 and respond to changes quickly and flexibly.

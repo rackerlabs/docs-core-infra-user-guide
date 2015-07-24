@@ -1,8 +1,8 @@
 .. _moreinfo-cli:
 
-~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^
 Learning more about CLIs
-~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^
 CLIs that you can use to interact with the Rackspace cloud
 are, or are consistent with,
 the CLIs provided by OpenStack.

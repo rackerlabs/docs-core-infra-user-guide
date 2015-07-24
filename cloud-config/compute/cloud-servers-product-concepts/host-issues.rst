@@ -1,8 +1,8 @@
 .. _host-issues:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Handling host-related issues
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A cloud server is a virtual server; it resides on a physical host. The
 physical host is designed with redundancies for power, network, and disk
 to prevent failures to the underlying virtual servers. It may sometimes

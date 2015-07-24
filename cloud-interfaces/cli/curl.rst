@@ -1,8 +1,8 @@
 .. _curl:
 
-++++++++
+^^^^^^^^
 cURL CLI
-++++++++
+^^^^^^^^
 `cURL <http://curl.haxx.se/>`__
 is a general-purpose command-line tool
 for interacting with REST APIs.

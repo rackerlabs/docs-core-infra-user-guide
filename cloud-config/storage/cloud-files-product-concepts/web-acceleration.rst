@@ -1,8 +1,8 @@
 .. _web-acceleration:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Organize Content for Web Acceleration
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 When using Cloud Files for web acceleration, a basic organizational
 structure would separate your content into different containers based on
 object type, such as images, css, javascript, videos, or uploaded

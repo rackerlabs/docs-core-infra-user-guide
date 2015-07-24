@@ -1,8 +1,8 @@
 .. scheduled-images:
 
-''''''''''''''''
+~~~~~~~~~~~~~~~~
 Scheduled images
-''''''''''''''''
+~~~~~~~~~~~~~~~~
 In addition to on-demand images, you have the ability to enable
 scheduled images on any servers for which the service is appropriate.
 The scheduled images service will automatically create a daily or weekly

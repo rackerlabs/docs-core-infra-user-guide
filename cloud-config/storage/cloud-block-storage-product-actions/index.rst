@@ -1,14 +1,14 @@
 .. _cloud-block-storage-product-actions:
 
-===============================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Actions for Cloud Block Storage
-===============================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can use Cloud Block Storage to perform the actions described below.
 
 .. include:: /_common/note-rbac-actions.txt
 
-To learn how to perform Cloud Block Storage actions using your choice of interface, 
-begin at 
+To learn how to perform Cloud Block Storage actions using your choice of interface,
+begin at
 
 * :ref:`cloudblockstorage-gui`
 * :ref:`cloudblockstorage-cli`
@@ -31,7 +31,7 @@ Immediately after a volume is created, it cannot have any data written
 to it. To make the volume available for further operations, attach it to
 a cloud server.
 
-Attach a volume to a cloud server 
+Attach a volume to a cloud server
 ----------------------------------
 Instructs the Nova API to create an iSCSI connection between the storage
 node on which the CBS volume resides and the hypervisor of the cloud
@@ -125,4 +125,3 @@ customers to use.
 
 A volume cannot be deleted if it is currently attached to a cloud server
 or has a dependent snapshot.
-

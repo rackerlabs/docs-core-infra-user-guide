@@ -1,8 +1,8 @@
 .. _diskconfig:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Configuring disks for a cloud server
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 When you create a cloud server, it is provisioned on a physical server
 in a RAID 10 configuration. This provides a level of underlying
 redundancy without requiring you to invest extra configuration effort.

@@ -1,8 +1,8 @@
 .. _swiftly:
 
-+++++++++++
+^^^^^^^^^^^
 swiftly CLI
-+++++++++++
+^^^^^^^^^^^
 Another tool for managing Cloud Files is swiftly, a
 client tool for uploading and downloading objects to your Cloud
 Files account. If you have a very large object (such as a virtual disk

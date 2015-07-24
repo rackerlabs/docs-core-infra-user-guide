@@ -1,8 +1,8 @@
 .. _server-region:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Creating a cloud server in a region
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 When you plan to build a cloud server, you may be interested in the
 geographical region of its physical host. Choosing the right region can
 optimize network delivery speed for local users. For example, if you

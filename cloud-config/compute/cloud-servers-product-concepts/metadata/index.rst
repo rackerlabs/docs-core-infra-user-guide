@@ -1,8 +1,8 @@
 .. _cloud-servers-metadata:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Describing a Cloud Server with metadata
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 You can set and retrieve custom descriptive fields on your Cloud Server
 instances by using metadata.
 
@@ -29,7 +29,7 @@ Cloud Images metadata (also known image properties), see
 Currently, the OpenStack command-line nova utility or API must be used
 to view, set, or delete metadata on a cloud server. For more information
 on using the API to work with server metadata, see
-:rax-docs:`Metadata <servers/api/v2/cs-devguide/content/MetadataSection.html>` 
+:rax-docs:`Metadata <servers/api/v2/cs-devguide/content/MetadataSection.html>`
 in the *Next Gen Cloud Servers API Developer Guide*.
 
 

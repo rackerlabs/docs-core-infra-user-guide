@@ -1,8 +1,8 @@
 .. _cloud-block-storage-product-concepts:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Understanding Cloud Block Storage
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cloud Block Storage (CBS) provides persistent block-level storage
 volumes for use with Rackspace Standard and Performance Cloud Servers.
 CBS allows customers to scale their storage independently of their

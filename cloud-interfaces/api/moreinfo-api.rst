@@ -1,8 +1,8 @@
 .. _moreinfo-api:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Learning more about SDKs and APIs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Rackspace continuously improves
 the SDKs and APIs we support.
 We publish release notes to

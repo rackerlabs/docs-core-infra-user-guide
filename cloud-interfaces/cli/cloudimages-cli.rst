@@ -1,8 +1,8 @@
 .. _cloudimages-cli:
 
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cloud Images and CLIs: glance
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To interact with Cloud Images at the command line,
 you can use tools created specifically for the purpose
 of interacting with OpenStack-based clouds

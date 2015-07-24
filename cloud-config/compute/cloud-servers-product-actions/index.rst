@@ -1,15 +1,15 @@
 .. _cloud-servers-product-actions:
 
-=========================
+^^^^^^^^^^^^^^^^^^^^^^^^^
 Actions for Cloud Servers
-=========================
+^^^^^^^^^^^^^^^^^^^^^^^^^
 The following actions can be performed against an active, running server in the
 Cloud Control Panel and the API.
 
 .. include:: /_common/note-rbac-actions.txt
 
-To learn how to perform Cloud Servers actions using your choice of interface, 
-begin at 
+To learn how to perform Cloud Servers actions using your choice of interface,
+begin at
 
 * :ref:`cloudservers-gui`
 * :ref:`cloudservers-cli`
@@ -35,10 +35,10 @@ server; reverting moves you back to it. After 24 hours, your resize will be
 automatically confirmed.
 
 .. NOTE::
-   This action is not available for all flavor classes. 
+   This action is not available for all flavor classes.
    Due to the
-   presentation of the disks, the option may be limited 
-   to allow only upward resizing 
+   presentation of the disks, the option may be limited
+   to allow only upward resizing
    or disallowed entirely.
 
 Rescue Mode
@@ -55,7 +55,7 @@ any issues. The exact process varies based on the operating system.
 
 Rescue mode can be exited at any time returning your VM to its original state
 with any changes made. Rescue mode will be automatically exited after 24 hours.
- 
+
 Reboot
 ------
 This action performs a soft or hard reboot of the server.

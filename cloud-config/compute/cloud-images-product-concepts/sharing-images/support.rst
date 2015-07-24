@@ -1,8 +1,8 @@
 .. cloud-images-sharing-support:
 
----------------------------------
++++++++++++++++++++++++++++++++++
 Getting support for shared images
----------------------------------
++++++++++++++++++++++++++++++++++
 Rackspace supports the images that we offer as base images.
 
 In almost all cases, an image that is shared from a producer to

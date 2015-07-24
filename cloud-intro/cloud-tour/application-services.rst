@@ -1,8 +1,8 @@
 .. _tour-application-services:
 
---------------------
+^^^^^^^^^^^^^^^^^^^^
 Application services
---------------------
+^^^^^^^^^^^^^^^^^^^^
 Services in this category include
 
 * Auto Scale

@@ -1,8 +1,8 @@
 .. _on-demand-images:
 
-''''''''''''''''
+~~~~~~~~~~~~~~~~
 On-demand images
-''''''''''''''''
+~~~~~~~~~~~~~~~~
 When you use the Cloud Control Panel or the Cloud Servers API to create
 an image of one of your servers, you get a copy of your
 server's system disk. The image does not include any server state stored
@@ -17,5 +17,5 @@ create the snapshot. Otherwise, these applications may not start
 correctly when you boot a server from the image. The time such
 applications should be quiesced is fairly brief and can be monitored by
 observing your Cloud Server's task state.
-See :kc-article:`Using Task States with Server Imaging <using-task-states-with-server-imaging>` 
+See :kc-article:`Using Task States with Server Imaging <using-task-states-with-server-imaging>`
 in the Rackspace Knowledge Center for details.

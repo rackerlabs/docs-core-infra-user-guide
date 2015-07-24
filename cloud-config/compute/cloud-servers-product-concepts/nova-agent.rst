@@ -1,8 +1,8 @@
 .. _nova-agent:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Operating a cloud server with nova-agent
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 One of the key differences between a cloud server and a non-cloud
 virtual machine (VM) is the presence of nova-agent on the cloud server.
 

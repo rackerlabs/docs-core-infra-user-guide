@@ -1,8 +1,8 @@
 .. _setup-cli:
 
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 Preparing to use a CLI
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 To interact with the Rackspace cloud at the command line,
 you must have some of the same things you would need
 if you wished to interact by choosing options on a Web page

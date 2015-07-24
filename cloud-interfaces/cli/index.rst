@@ -1,8 +1,8 @@
 .. _cloud-interfaces-cli:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------
 CLI: command-line interfaces and tools
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------
 If you want to manage your cloud configuration
 by typing commands or executing shell scripts,
 you can use command-line interfaces (CLIs)

@@ -1,8 +1,8 @@
 .. _data-immutability:
 
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 Data immutability
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 An important aspect of how Cloud Images treats images is that *image
 data is immutable*. Hence, once the image data has been uploaded and the
 checksum and location are set, the image data *may not be modified*.

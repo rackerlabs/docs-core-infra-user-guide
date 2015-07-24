@@ -1,8 +1,8 @@
 .. _swift:
 
-++++++++++
+^^^^^^^^^
 swift CLI
-++++++++++
+^^^^^^^^^
 The OpenStack tool primarily used for
 managing Cloud Files is written
 in Python and called *swift*.

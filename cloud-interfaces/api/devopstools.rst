@@ -1,12 +1,12 @@
 .. _devopstools:
 
-------------
+^^^^^^^^^^^^
 DevOps tools
-------------
-If you already use a DevOps tool, 
-you may be interested in plugins (official or unofficial) 
-that improve the abilities of 
-these automation frameworks to support cloud-based operations. 
+^^^^^^^^^^^^
+If you already use a DevOps tool,
+you may be interested in plugins (official or unofficial)
+that improve the abilities of
+these automation frameworks to support cloud-based operations.
 
 Sources of Rackspace-focused information about these
 plugins include:

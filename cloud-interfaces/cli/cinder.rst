@@ -1,8 +1,8 @@
 .. _cinder:
 
-++++++++++
+^^^^^^^^^^
 cinder CLI
-++++++++++
+^^^^^^^^^^
 The OpenStack tool primarily used for
 managing Cloud Block Storage is written
 in Python and called *cinder*.

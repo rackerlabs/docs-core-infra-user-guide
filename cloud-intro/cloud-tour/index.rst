@@ -22,10 +22,10 @@ perform essential tasks:
   (Cloud Images)
 * Expand storage attached to one server and transferable to others
   (Cloud Block Storage)
-* Long-term storage for unlimited objects (Cloud File)
+* Long-term storage for unlimited objects (Cloud Files)
 
 We consider
-these four services to be the core infrastructure of our managed cloud;
+these five services to be the core infrastructure of our managed cloud;
 the core infrastructure is the focus of this guide.
 
 Beyond the cloud's core infrastructure,

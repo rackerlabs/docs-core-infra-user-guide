@@ -5,7 +5,7 @@ Rackspace cloud core infrastructure at a glance
 -----------------------------------------------
 Your Rackspace cloud configuration is backed by the physical
 infrastructure in our
-:rax:`data centers <about/datacenters>`. 
+:rax:`data centers <about/datacenters>`.
 
 The virtual infrastructure of the managed cloud is provided by
 infrastructure-as-a-service (IaaS) software services that perform some
@@ -26,7 +26,7 @@ of the same functions as hardware devices in our data centers:
 
 .. figure:: /_images/core-infrastructure.png
    :alt: Cloud Servers, Cloud Networks, Cloud Images,
-         and Cloud Block Storage are the
+         Cloud Block Storage, and Cloud Files are the
          Rackspace cloud's core infrastructure.
          From the Cloud Control Panel,
          you can send a request to the API for
@@ -35,8 +35,8 @@ of the same functions as hardware devices in our data centers:
          your request.*
 
    *Cloud Servers, Cloud Networks, Cloud Images,
-   and Cloud Block Storage are the
-   Rackspace cloud's core infrastructure.From the Cloud Control Panel,
+   Cloud Block Storage, and Cloud Files are the
+   Rackspace cloud's core infrastructure. From the Cloud Control Panel,
    you can send a request to the API for a cloud service.
    The service processes
    your request.*

@@ -3,13 +3,13 @@
 +++++++++++++++++++
 Image-sharing roles
 +++++++++++++++++++
-An image producer is also called an image owner.
+An *image producer* is also called an *image owner*.
 An image owner can offer to
-share an image with one or more image consumers.
+share an image with one or more *image consumers*.
 
-An image consumer is also called an image member.
+An image consumer is also called an *image member*.
 
-A shared image is an image that an image owner has made available
+A *shared image* is an image that an image owner has made available
 to one or more image members.
 
 Image sharing is not a relationship of peers:

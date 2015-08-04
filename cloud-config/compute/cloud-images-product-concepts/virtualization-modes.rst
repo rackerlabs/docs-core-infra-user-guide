@@ -14,7 +14,7 @@ hypervisor that runs your cloud server:
   with hardware virtualization
 
 In general, PVHVM offers better performance than PV, especially for disk
-and network IO, but is not well supported in Linux operating systems
+and network I/O, but is not well supported in Linux operating systems
 with a kernel version earlier than 2.6.36. The availability of PV and
 PVHVM images in the Rackspace cloud is determined by the effectiveness
 of each virtualization mode for that particular operating system.
@@ -25,10 +25,10 @@ them:
 
 Performance
 '''''''''''
-* Network and disk IO are faster with PVHVM images because QEMU
+* Network and disk I/O are faster with PVHVM images because QEMU
   emulation is bypassed.
 
-* PVHVM requires a bit more memory overhead than PV. If your
+* PVHVM requires more memory overhead than PV. If your
   application is memory intensive, or if it is optimized for PV Memory
   Management Units, PV might be a better choice.
 
@@ -48,8 +48,8 @@ Boot loader
 * PVHVM images boot via the boot loader in the master boot record of
   the operating system.
 
-Disk config
-'''''''''''
+Disk configuration
+''''''''''''''''''
 * Automatic disk configuration can be used with PV images but fails
    with PVHVM images. The error message looks as follows: ``ERROR:
    Requested image $UUID has automatic disk resize disabled. (HTTP 400)``

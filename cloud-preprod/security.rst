@@ -4,37 +4,37 @@
 Tightening security
 -------------------
 Every time you create a server, whether in the cloud or in your data
-center, begin by configuring it to disable abuse and enable your
-legitimate work. You may have to do some research to identify the
+center, configure it to disable abuse and enable your
+legitimate work. You might need to do some research to identify the
 specific steps required to secure your configuration, but the steps
 should be similar to those shown in
 :kc-article:`Basic Cloud Server Security <basic-cloud-server-security>`,
 which demonstrates the process of securing a cloud server running
-Ubuntu. For that server, the steps are:
+Ubuntu. For that server, the steps are as follows:
 
-*  Edit the SSH known\_hosts file and remove entries that point to your
-   server's IP address.
+1.  Edit the SSH **known\_hosts** file and remove entries that point to your
+    server's IP address.
 
-*  Change your root password.
+2.  Change your root password.
 
-*  Add an admin user.
+3.  Add an admin user.
 
-*  Give the admin user sudo privileges.
+4.  Give the admin user sudo privileges.
 
-*  Establish a public/private key.
+5.  Establish a public/private key.
 
-*  Set permissions for the key.
+6.  Set permissions for the key.
 
-*  Disable unused ports.
+7.  Disable unused ports.
 
-*  Establish a firewall.
+8.  Establish a firewall.
 
-*  Set rules for the firewall.
+9.  Set rules for the firewall.
 
-*  Create a script to active the firewall after every restart.
+10.  Create a script to activate the firewall after every restart.
 
 Similar steps for securing cloud servers running operating systems
-based on Debian and RedHat
+based on Debian and Red Hat
 Package Manager (RPM) are described in the Cloud Launch Guide
 tutorial for
 `Securing a Cloud Server <https://launch.rackspace.com/guides/securing-server>`__.
@@ -44,9 +44,9 @@ tutorial for
    to save a copy of a clean, securely-configured cloud server that works
    well for your purpose.
    You can use Cloud Images to maintain a consistent starting point
-   for future servers you create.
+   for future servers that you create.
 
 Security-related offerings from Rackspace partners are listed in the
 `Rackspace Marketplace <https://marketplace.rackspace.com/home#!category/41>`__.
-You may find one or more of these that directly addresses your specific
-needs.
+You might find one or more of these that directly addresses your specific
+security needs.

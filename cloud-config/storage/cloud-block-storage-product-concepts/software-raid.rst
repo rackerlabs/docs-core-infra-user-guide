@@ -6,7 +6,7 @@ Software RAID for Cloud Block Storage
 A redundant array of independent disks (RAID) enables expansion of
 storage capacity by combining many small disks rather than a few large
 disks. RAID is generally not necessary for baseline performance and
-availability, but it may provide advantages in configurations that
+availability, but it might provide advantages in configurations that
 require extreme protection of in-flight data.
 
 RAID can be implemented by hardware, software, or a hybrid of both.
@@ -16,8 +16,9 @@ create and use a cloud-based software RAID array.
 
 RAID arrays can be configured in several ways, each prioritizing
 different features. RAID levels 0, 1, and 10 are widely used and are
-summarized in the table below. Other RAID levels exist and may be
-appropriate in specialized circumstances.
+summarized in the following table. Other RAID levels exist and might be
+appropriate in specialized circumstances. Cloud Block Storage
+back-end storage volumes use RAID level 10.
 
 +--------------------------------+-------------------------+--------------------------+--------------------------------------+
 | **Features**                   | **RAID 0 (striping)**   | **RAID 1 (mirroring)**   | **RAID 10 (mirroring + striping)**   |
@@ -36,10 +37,8 @@ appropriate in specialized circumstances.
 +--------------------------------+-------------------------+--------------------------+--------------------------------------+
 | Capacity utilization           | 100%                    | 50%                      | 50%                                  |
 +--------------------------------+-------------------------+--------------------------+--------------------------------------+
-| Typical applications           | transitory data         | transaction databases    | application servers                  |
+| Typical applications           | Transitory data         | Transaction databases    | Application servers                  |
 +--------------------------------+-------------------------+--------------------------+--------------------------------------+
-
-Cloud Block Storage back-end storage volumes use RAID level 10.
 
 Software RAID for Linux
 '''''''''''''''''''''''
@@ -57,7 +56,7 @@ read about Storage Spaces
 in Microsoft's
 `Storage Spaces Overview <http://technet.microsoft.com/en-us/library/hh831739.aspx>`__.
 
-Windows Server 2008 provides two ways to interact with RAID devices:
+Windows Server 2008 provides the following ways to interact with RAID devices:
 
 * GUI via ``Diskmgmt.msc``
 

@@ -4,7 +4,7 @@
 Cloud Networks and the Cloud Control Panel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The Cloud Control Panel groups the core infrastructure services
-as described at :ref:`cloud-tour`,
+as described in :ref:`cloud-tour`,
 with
 Cloud Networks (labeled **Networks**)
 available

@@ -3,32 +3,28 @@
 ^^^^^^^^^^^^^^^^^
 Direct API access
 ^^^^^^^^^^^^^^^^^
-Each of our cloud services exposes an API which can be leveraged for
+Each of our cloud services exposes an API that can be leveraged for
 low-level integration with the service.
 Rackspace APIs,
 like OpenStack APIs,
 are Representational State Transfer (REST) APIs,
-meaning they are is logically
+meaning that they are logically
 structured, stateless, and scalable (among other properties).
 
 For most use cases, we recommend
 working with the guidance of an SDK
 rather than integrating directly with an API.
-In the
-:rax-dev:`Developer Center <docs>`,
-we have documented basic
-functions for many APIs in many popular programming languages in
-quickstart guides. However, knowing the API
+In the :rax-dev:`Developer Center <docs>`, basic
+functions for many APIs in many popular programming languages are
+documented in quickstart guides. However, knowing the API
 structure and being able to make direct, manual calls to the API is a
-powerful tool for understanding and managing the Rackspace Cloud
+powerful tool for understanding and managing the Rackspace cloud
 infrastructure.
 
 The API Developer Guide for each service is published in
-:rax-docs:`our technical documentation collection <>`;
+:rax-docs:`our technical documentation collection <>`, and
 the same API operations are also listed
-in a
-combined
-:rax-api:`API cross-reference <>`.
+in a combined :rax-api:`API cross-reference <>`.
 
 Some of the most common ways to directly interact with APIs are:
 
@@ -42,7 +38,7 @@ Some of the most common ways to directly interact with APIs are:
 
 * Utilities for specific operating systems,
   such as those listed in your app store or directory
-  under *REST client*
+  under **REST client**
 
 For each service that offers a public API,
 Rackspace publishes at least two technical documents:
@@ -55,15 +51,15 @@ Rackspace publishes at least two technical documents:
   with the API
 
 For most APIs, we also publish
-:rax-docs:`API Release Notes <>`,
+:rax-docs:`API release notes <>`,
 *announcing* changes to the API.
 
-We publish these API documents primarily to support readers who are
+These API documents primarily support readers who are
 already experienced with RESTful APIs in other contexts and
-are seeking details specifically about Rackspace's APIs.
-We don't publish a beginner-level API tutorial.
-However, REST is widely used and introductory material is
+are seeking details specifically about the Rackspace APIs.
+We don't provide a beginner-level API tutorial,
+however, REST is widely used and introductory material is
 readily available.
-If you wish to work with our APIs and this would be your first
+If you want to work with our APIs and this is your first
 experience with RESTful APIs,
 begin with :ref:`setup-api`.

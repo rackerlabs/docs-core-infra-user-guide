@@ -2,16 +2,15 @@
 
 ++++++++++++++++++++++
 Managing shared images
-++++++++++++++++++++++ 
+++++++++++++++++++++++
 After an image is shared to a consumer,
 the consumer is free to create servers
-from the shared image. The shared images in the consumer's image list,
-just as
-any of their own saved snapshots.
+from the shared image. The shared images are in the consumer's image list,
+just as any of their own saved snapshots.
 
 After a new server is created from a
 shared image, any subsequent snapshots that are taken of that new cloud
-servers are available only to the
+server are available only to the
 the shared image consumer, who is the
 user that created them.
 Snapshots of a server created from a shared image are not
@@ -25,8 +24,8 @@ even if the producer revokes the shared image.
 
 Offering to share an image
 ''''''''''''''''''''''''''
-Once the image producer has the proper information, the sharing process
-is very straightforward.
+After the image producer has the correct information, the sharing process
+is straightforward.
 
 1. The image producer issues the image share
    request to one or more image consumers.
@@ -45,10 +44,11 @@ image.
 Removing members from a shared image
 ''''''''''''''''''''''''''''''''''''
 An image can have some or all of its members removed using the API or
-tools. The image producer has complete control over this action, and is
-the only one that can delete members from the image.
+Cloud Control Panel. The image producer has complete control over
+this action, and is
+the only one who can delete members from the image.
 
-Any members that *rejected* the share request are technically still
-members, even though they will not have visibility or access to the
-image. The image producer can and should delete these members from the
+Any members who *rejected* the share request are considered
+members, even though they cannot see or access the
+image. The image producer should delete these members from the
 image if they no longer have reason to be included.

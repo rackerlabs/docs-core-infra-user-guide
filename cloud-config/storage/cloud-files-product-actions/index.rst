@@ -3,10 +3,10 @@
 ^^^^^^^^^^^^^^^^^^^^^^^
 Actions for Cloud Files
 ^^^^^^^^^^^^^^^^^^^^^^^
-You can use Cloud Files to perform the actions below.
+You can use Cloud Files to perform the following actions.
 
-To learn how to perform Cloud Files actions using your choice of
-interface, begin at
+To learn how to perform Cloud Files actions by using your choice of
+interface, begin at one of the following topics:
 
 * :ref:`cloudfiles-gui`
 * :ref:`cloudfiles-cli`
@@ -25,7 +25,7 @@ Delete a Container
 ''''''''''''''''''
 All objects within a container must be deleted before the container
 itself can be deleted. Multiple containers allow for better
-threading of the deletion scrips.
+threading of the deletion scripts.
 
 Deleting a container is a permanent action and cannot be reversed.
 
@@ -33,7 +33,7 @@ Create or Update an Object
 ''''''''''''''''''''''''''
 Each container can store an unlimited number of objects.
 
-For large files support, Cloud Files allows you to upload multiple file
+For large files support, Cloud Files enables you to upload multiple file
 segments and a manifest file to map the segments together. When
 uploading large files:
 
@@ -46,11 +46,11 @@ Copy an Object
 You can copy an existing object to a new object in the Cloud Files
 storage system. The new object can be in the same container, but must
 have a different name from the original object. If the new object
-is located in a different container, you can use the same name as
-the original or use a new name.
+is located in a different container, you can either use the same name as
+the original or a new name.
 
 Delete an Object
 ''''''''''''''''
 By deleting an object, you are permanently removing the object from
-the storage system (data and metadat). Deletion is processed
+the storage system (data and metadata). Deletion is processed
 immediately and cannot be reversed.

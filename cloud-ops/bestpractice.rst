@@ -5,8 +5,7 @@ Best practices in the cloud
 ---------------------------
 As you learn about and experiment with the many options
 available to you in the Rackspace Cloud,
-remember these general suggestions
-as tried-and-true best practices:
+remember these best practices:
 
 * Assume failure can happen and design accordingly. Don't rely on
   individual resources
@@ -17,7 +16,7 @@ as tried-and-true best practices:
 
 * When you must stop or reboot an active server,
   always do so via the operating system.
-  Using the control panel to
+  Using the Cloud Control Panel to
   initialize a running server
   can lead to data loss and should generally be avoided.
 
@@ -52,7 +51,7 @@ Best practices for orchestration
 Best practices for security
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *  Sending a high volume of email from your cloud server can downgrade
-   its IP reputation; use Mailgun instead,
+   its IP reputation. Use Mailgun instead,
    as described at
    `Mailgun Quickstart <https://documentation.mailgun.com/quickstart-sending.html#how-to-start-sending-email>`_.
 
@@ -62,7 +61,7 @@ Best practices for security
 
 Best practices for storage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Use attached storage whenever possible since it will allow you to
+* Use attached storage whenever possible because it will allow you to
   resize, backup, and plan for failure more gracefully.
   Follow the tutorial at
   :kc-article:`Create and Attach a Cloud Block Storage Volume <create-and-attach-a-cloud-block-storage-volume>`.
@@ -70,11 +69,11 @@ Best practices for storage
 Best practices for networking
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *  Use
-   :kc:`ServiceNet <frequently-asked-question/what-is-servicenet>` 
+   :kc:`ServiceNet <frequently-asked-question/what-is-servicenet>`
    to communicate between Cloud Servers and Cloud Files and Cloud Databases.
    Use Cloud
    Networks for server-to-server communication.
 
 *  For Cloud Networks, use `RFC 1918
-   <https://tools.ietf.org/html/rfc1918>`_ less the two
+   <https://tools.ietf.org/html/rfc1918>`_, less the two
    ServiceNet blocks.

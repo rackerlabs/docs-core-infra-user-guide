@@ -3,8 +3,8 @@
 ++++++++++++++++++++++++++++++++++
 Flavor classes for virtual servers
 ++++++++++++++++++++++++++++++++++
-To create your Cloud Server as a virtual server, open the **Virtual Server**
-tab from the Cloud Control Panel.
+To create your server as a virtual server, open the **Virtual Server**
+tab on the Create Server page of the Cloud Control Panel.
 
 .. figure:: /_images/cloudservercreatevirtual.png
    :alt: Click the Virtual Server tab
@@ -19,16 +19,16 @@ memory, general purpose, or standard resources:
   other CPU-intensive workloads. Storage is entirely backed by Cloud
   Block Storage, for maximum flexibility.
 
-* **I/O** is optimized for applications demanding high disk I/O and
+* **I/O** is optimized for applications that demand high disk I/O and
   consistent performance, such as large relational databases and
   NoSQL data stores. Storage is RAID 10-protected SSD.
 
-* **Memory** is optimized for applications demanding low-latency access
+* **Memory** is optimized for applications that demand low-latency access
   to large amounts of RAM, like caching servers, in-memory analytics
   and search indexes. Storage is entirely backed by Cloud Block
   Storage for maximum flexibility.
 
-* **General Purpose** is great for web servers, batch processing,
+* **General Purpose** is for web servers, batch processing,
   network appliances, small databases, and most general purpose
   computing workloads. Storage is high-performance, RAID 10-protected
   SSD.

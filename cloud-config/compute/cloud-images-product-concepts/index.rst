@@ -6,7 +6,7 @@ Understanding Cloud Images
 A virtual machine image ("image") is a single file that
 contains a virtual disk that contains a bootable operating system.
 
-Images come in several formats. In the Rackspace Managed Cloud, we use
+Images come in several formats. The Rackspace Managed Cloud uses
 images in the Virtual Hard Disk (VHD) format. The VHD format was
 developed by Microsoft and is used by the Microsoft Hyper-V and Citrix
 XenServer hypervisors, among others.

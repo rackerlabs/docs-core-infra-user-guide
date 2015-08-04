@@ -3,8 +3,8 @@
 ++++++++++++++++++++++++++++++++++
 Flavor classes for OnMetal servers
 ++++++++++++++++++++++++++++++++++
-To create your Cloud Server as an OnMetal™ server, open the **OnMetal™
-Server** tab from the Cloud Control Panel.
+To create your server as an OnMetal™ server, open the **OnMetal™
+Server** tab on the Create Server page of the Cloud Control Panel.
 
 .. figure:: /_images/cloudservercreateonmetal.png
    :alt: Click the OnMetal Server tab
@@ -21,15 +21,14 @@ or compute resources:
 
    OnMetal I/O servers are
    designed to support low-latency and extreme throughput to local
-   storage, using a pair of the fastest PCIe flash cards that money can
-   buy.
+   storage, using a pair of the fastest PCIe flash cards available.
 
 -  **OnMetal Memory** is optimized for
    large-scale caches, index searches, and in-memory analytics.
 
    OnMetal Memory servers are
    designed for memory-intensive workloads such as Memcached and
-   Redis. 512 GB servers and low-latency 10 GB / s network enable modern
+   Redis. 512 GB servers and a low-latency 10 GB/s network enable modern
    architectures with the entire working set in RAM.
 
 -  **OnMetal Compute** is optimized for

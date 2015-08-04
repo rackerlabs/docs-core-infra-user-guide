@@ -4,7 +4,7 @@
 Cloud Files and SDKs and APIs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you begin writing your own software to interact with Cloud Files,
-you may benefit from investing some time to learn about
+you might want to learn about
 how Cloud Files works in the Cloud Control Panel
 and how SDKs and APIs are documented at Rackspace.
 
@@ -14,7 +14,7 @@ and how SDKs and APIs are documented at Rackspace.
 Cloud Files API Investigation
 +++++++++++++++++++++++++++++
 Using an API, you can write software to automate function that
-could otherwise be performed manually by a person logged into
+could otherwise be performed manually by a person logged in to
 the Cloud Control Panel. You can accelerate your
 understanding of how the API works by using the Cloud Control
 Panel to demonstrate the manual process before you begin to automate
@@ -25,7 +25,7 @@ with when you write your own software.
 Sometimes, especially for new features that are not yet
 available in the Cloud Control Panel, you can write software
 to perform functions using the API that could not
-be performed in any other way; product announcements for
+be performed in any other way. Product announcements for
 Limited Availablility and Early Access releases point out this
 limitation when it applies. In that case, experimenting
 in the Cloud Control panel can show you only part of the process
@@ -35,7 +35,7 @@ in the :rax-docs:`API documentation <>`.
 Just as you can use the Cloud Control Panel to help you
 understand a manual process that you intend to automate, you can
 use the API documentation to help you understand how
-to use a Software Development Kit (SDK) in your favorite
+to use a software development kit (SDK) in your favorite
 programming language.
 
 * The API documentation describes *what* you can ask the API to do.
@@ -43,7 +43,7 @@ programming language.
   something.
 
 Awareness of both API and SDK capabilities can help
-you plan the easiet way to develop your software.
+you plan the easiest way to develop your software.
 
 .. _cloudfiles-api-demonstration:
 
@@ -51,7 +51,7 @@ you plan the easiet way to develop your software.
 Cloud Files API demonstration
 +++++++++++++++++++++++++++++
 Using the process suggested at :ref:`cloudfiles-api-investigation`,
-here is an example of how you can plan and then write
+this section provides an example of how you can plan and then write
 your own software to perform one simple task:
 list all your Cloud Files containers.
 
@@ -85,17 +85,17 @@ In the :rax-api:`API cross-reference <>`, you can see all
 available API operations for all cloud services. The operations
 are grouped according to the service they interact with
 (for example, Cloud Block Storage or Cloud File) and the scope
-they act upon, such as containers or objects.
+they act on, such as containers or objects.
 
 You can see all Cloud Files operations in the
 :rax-api:`API cross-reference <api-ref-files.html>`. In the group of
-:rax-api:`operations that act upon containers <api-ref-files.html#files_container_services>`,
+:rax-api:`operations that act on containers <api-ref-files.html#files_container_services>`,
 you can see that:
 
-* Sending a ``PUT`` to the ``vi/{account}/{container}``
+* Sending a ``PUT`` request to the ``vi/{account}/{container}``
   requests the creation of a new container
 
-* Sending a ``GET`` to the same URI requests
+* Sending a ``GET`` request to the same URI requests
   details for a specified container and lists the objects,
   sorted by name, within that container
 
@@ -125,9 +125,9 @@ Learn about Cloud Files in SDK QuickStart
 In the
 :rax-dev:`SDK QuickStart for Cloud Files <docs/cloud-files/getting-started>`,
 you can see some of the same steps that are documented in
-the API's Getting Started Guide. For example, bot the API-focused and
+the API's Getting Started Guide. For example, both the API-focused and
 SDK-focused documents show how to authenticate with your API
-key before issuing any requests to the Cloud Block Storage API.
+key before issuing any requests to the Cloud Files API.
 
 The SDK QuickStart adds examples in several popular programming
 languages, demonstrating how to use each language

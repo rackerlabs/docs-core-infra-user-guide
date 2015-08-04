@@ -5,7 +5,7 @@ Preparing to use a CLI
 ^^^^^^^^^^^^^^^^^^^^^^
 To interact with the Rackspace cloud at the command line,
 you must have some of the same things you would need
-if you wished to interact by choosing options on a Web page
+to interact by choosing options on a web page
 (:ref:`the Cloud Control Panel <cloud-interfaces-gui>`)
 or by writing software
 (:ref:`SDK or API <cloud-interfaces-api>`):
@@ -13,11 +13,11 @@ or by writing software
 * A Rackspace cloud account
 * Credentials enabling access to that account
 
-  * Your username and password allow you to login to the Cloud Control Panel.
-  * After you login, you can obtain your API key
+  * Your user name and password allow you to log in to the Cloud Control Panel.
+  * After you log in, you can obtain your API key
     and your tenant ID (also called account number).
 
-You also need to know something that you would need to know if working
+You also need to know something that you would need to work
 with an API:
 
 * The endpoint for the cloud service with which you want to interact
@@ -25,8 +25,7 @@ with an API:
 .. note::
    :ref:`setup-api` provides more detail about these prerequisites.
 
-Beyond what you would need to use with the Control Panel or an API,
-you must have two additional tools to enable you to interact with
+You must also have the following tools to enable you to interact with
 the cloud by typing commands:
 
 * A terminal emulator such as
@@ -34,8 +33,8 @@ the cloud by typing commands:
   or
   `PuTTY <http://www.chiark.greenend.org.uk/~sgtatham/putty/>`__
 
-* A locally-installed client capable of interacting with
-  the cloud service you have chosen
+* A locally installed client capable of interacting with
+  the cloud service that you have chosen
 
   * You can use
     `cURL <http://curl.haxx.se/>`__
@@ -60,10 +59,10 @@ invoke it from a
 `cron job <http://www.unixgeeks.org/security/newbie/unix/cron-1.html>`__.
 
 Beyond this general process, the details vary
-depending on which service you are working with.
+depending on the service.
 For product-specific introductions to
 the CLIs relevant to specific
-core infrastructure products, see
+core infrastructure products, see the following sections:
 
 * :ref:`cloudservers-cli`
 * :ref:`cloudnetworks-cli`

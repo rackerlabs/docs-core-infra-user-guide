@@ -6,29 +6,29 @@ Synchronizing time with NTP
 During boot, Linux sets the cloud server's system clock to the same time
 as the physical server's hardware clock. After this initial
 synchronization, Linux maintains the server's clock separately
-from the hardware clock. If the hardware clock is incorrect, then this
-can cause issues with anything that relies on having the correct time.
+from the hardware clock. If the hardware clock is incorrect, issues can occur
+with anything that relies on having the correct time.
 
-Network time protocol (NTP) is an open-source Linux package that allows
+Network time protocol (NTP) is an open-source Linux package that enables
 a server to synchronize its system clock with a pool of authoritative
 NTP servers. You can see a list of public NTP servers at
-http://www.ntp.org; using NTP, you can synchronize the time on your
+http://www.ntp.org. By using NTP, you can synchronize the time on your
 cloud server with any of the servers on the list.
 
 To install NTP, use the package manager appropriate for your Linux
-distribution. When you start NTP, NTP will synchronize the Cloud Server
-with either a default NTP server or an NTP server you specify. To
+distribution. When you start NTP, NTP synchronizes the cloud server
+with either a default NTP server or an NTP server that you specify. To
 specify a different server or set of servers to synchronize with, edit
-your NTP config file directly.
+your NTP configuration file directly.
 
-On a virtual server such as a Cloud Server, the clock is initially
-synchronized with the Xen hypervisor. This means you must start an
-independent clock for NTP to use. Use this command::
+On a virtual server such as a cloud server, the clock is initially
+synchronized with the Xen hypervisor. This means that you must start an
+independent clock for NTP to use. Use the following command:
 
    echo 1 > /proc/sys/xen/independent\_wallclock
 
 To make the independent clock persist through restarts, add the
-following to ``*/etc/sysctl.conf*``::
+following to ``*/etc/sysctl.conf*``:
 
    #Set independent wall clock time
    xen.independent\_wallclock=1

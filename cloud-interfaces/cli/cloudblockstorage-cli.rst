@@ -5,8 +5,8 @@ Cloud Block Storage and CLIs: cinder
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To interact with Cloud Block Storage at the command line,
 you can use tools created specifically for the purpose
-of interacting with OpenStack-based clouds
-(nova, cinder)
+of interacting with OpenStack based clouds
+(nova and cinder)
 or general-purpose tools (cURL).
 
 Because Cloud Servers and Cloud Block Storage work so
@@ -27,7 +27,7 @@ You can also use the
 focused on Cloud Block Storage.
 
 In working with Cloud Block Storage,
-you may find that you need to use nova for some functions
+you might find that you need to use nova for some functions
 and cinder for others. You should install them both.
 You can see an example of using nova and cinder together at
 :kc-article:`Configuring OpenStack Block Storage <configuring-openstack-block-storage>`
@@ -40,11 +40,9 @@ you must install a local (client) copy.
 The installation procedure varies for each tool
 and is documented with the tool.
 
-The commands you can send are the
-the same,
-wrapped in the syntax of the client,
-as the requests you can send
-to the API endpoint.
+The commands that you can send are the
+the same as the requests you can send
+to the API endpoint, but they are wrapped in the syntax of the client.
 The
 :rax-api:`API cross-reference <api-ref-blockstorage.html>`
 lists those requests for Cloud Block Storage.
@@ -53,12 +51,12 @@ The *Getting Started Guide for the Cloud Block Storage API*
 includes many examples of using cURL, especially at
 :rax-docs:`Using the API directly by using cURL <cbs/api/v1.0/cbs-getting-started/content/Using_the_API_directly_d1e060.html>`.
 
-If you have both the cinder client and cURL
-installed on your local machine,
-you can choose whether to issue commands through your
-local copy of the cinder client or, by using a general-purpose client
+If you have both the cinder client and a cURL client
+installed on your local computer,
+you can choose to issue commands either through your
+local copy of the cinder client or by using a general-purpose client
 such as cURL, by sending a request to the instance of
-python-cinderclient active at the API endpoint for
+the python-cinderclient that is active at the API endpoint for
 Cloud Block Storage.
 You can see both methods demonstrated in the Cloud Block Storage
 API documentation, under

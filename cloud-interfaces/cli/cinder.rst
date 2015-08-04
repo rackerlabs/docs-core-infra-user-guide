@@ -9,8 +9,8 @@ in Python and called *cinder*.
 It is also known as
 *python-cinderclient*.
 
-OpenStack documents that may help you install cinderclient
-and learn to use it include:
+The following OpenStack documents can help you install cinderclient
+and learn to use it:
 
 * :os-docs:`Install the OpenStack command-line clients <user-guide/common/cli_install_openstack_command_line_clients.html>`
 

@@ -17,7 +17,7 @@ if you run into issues:
 Troubleshooting connectivity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 When dealing with connectivity issues, regardless of whether they are
-client-to-server or server-to-server, it may be useful to go
+client-to-server or server-to-server, it might be useful to go
 through the checklist below:
 
 * If a connection to a server fails,
@@ -51,7 +51,7 @@ Troubleshooting servers
 * Keep in mind that Windows servers normally take
   longer to build than other operating systems.
 
-* In case a build fails, try again. The build system is often
+* If a build fails, try again. The build system is often
   busy and doesn't always succeed; try more than once before being
   sure of a problem.
 
@@ -62,12 +62,12 @@ Rackspace provides a
 that may help you understand whether a problem is unique to you or
 is caused by something more general.
 
-You may also subscribe to our
+You can also subscribe to our
 `@Rackstatus <https://twitter.com/rackstatus>`__
 Twitter feed for updates on maintenance or
 other service-impacting events.
 
-As a managed cloud company, we're of course always available for you to
+As a managed cloud company, we're always available for you to
 contact us directly. If you need help, you can reach out to us
 through the "Support"
 link at the top of the

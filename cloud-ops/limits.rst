@@ -3,7 +3,7 @@
 -------------------------------
 Managing your Rackspace account
 -------------------------------
-When you log into your :mycloud:`Cloud Control
+When you log in to your :mycloud:`Cloud Control
 Panel <>`, you can examine and change
 your managed cloud configuration. For example, you can create a cloud
 server or delete a block storage volume.
@@ -42,8 +42,8 @@ Managing role-based access to services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Using role-based access control
 (:kc-article:`RBAC <overview-role-based-access-control-rbac>`),
-you can divide responsibilities among members of your team, so for
-example you can enable a database administrator to schedule database
+you can divide responsibilities among members of your team. For
+example, you can enable a database administrator to schedule database
 backups and enable a network administrator to expand a load balancing
 group. The roles that make sense for your team are likely to change as
 your workload grows, your team grows, and you add more services to your
@@ -54,7 +54,7 @@ Managing expenses by limiting workload
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Enforcing limits on some activities makes it easier to control costs.
 Because you pay for only what you use in the Rackspace Managed Cloud,
-limits mean you will not be surprised by a sudden spike in billable
+limits mean that you will not be surprised by a sudden spike in billable
 activity. Limits can also protect you from workloads beyond the capacity
 of your configuration.
 
@@ -71,9 +71,9 @@ For example, an absolute limit controls the amount of RAM that can be
 assigned in a Cloud Servers configuration.
 
 When you are logged in to the Cloud Control Panel,
-you can see absolute limits defined for Cloud Servers,
+you can see absolute limits defined for servers,
 along with your current consumption of the limited resources,
-by clicking your account number and then
+by clicking the **Account: yourUserName** menu and selecting
 :mycloud:`Resource Limits <account#resource-limits>`.
 
 Rate limits
@@ -86,7 +86,7 @@ be processed during a one-minute period.
 
 Limits for specific services
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-This table shows some examples of limits, with links to API
+The following table shows some examples of limits, with links to API
 documentation for more examples and complete details.
 
 +-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+

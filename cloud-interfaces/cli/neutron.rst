@@ -11,15 +11,15 @@ It is also known as
 
 We recommend that you use the
 `Python Package Index (PyPI) <https://pypi.python.org/pypi>`__
-to install neutronclient, as it will handle installing dependencies and
+to install neutronclient, because it installs dependencies and
 required packages for you.
 
 Alternatively, you can download the ``rackspace-neutronclient`` package from
 the
 :rackerlabs:`GitHub repository for rackspace-neutronclient <rackspace-neutronclient>`.
 
-OpenStack documents that may help you install neutronclient
-and learn to use it include:
+The following OpenStack documents can help you install neutronclient
+and learn to use it:
 
 * :os-docs:`Install the OpenStack command-line clients <user-guide/common/cli_install_openstack_command_line_clients.html>`
 

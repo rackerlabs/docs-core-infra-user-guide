@@ -14,11 +14,11 @@ you'll have to install a
 set of enabling software; for example, if you want to publish a blog
 using the WordPress content management system, you'll have to provide
 WordPress with a Linux+Apache+MySQL+PHP environment
-(**LAMP** stack).
+(a **LAMP** stack).
 To learn about
-this multi-step process:
+this multi-step process, perform the following actions:
 
-* Read articles about LAMP stacks:
+* Read the following articles about LAMP stacks:
 
   * :kc-article:`Install a LAMP stack on Ubuntu or Debian <install-a-lamp-stack-on-ubuntu-or-debian>`
 
@@ -30,13 +30,15 @@ this multi-step process:
   `CMS with WordPress <https://launch.rackspace.com/guides/wordpress>`__
 
 For many popular software packages and their enabling stacks, Rackspace
-offers an easier way. When you create a cloud server, you can choose to
+offers an easier way to get what you need. When you create a server,
+you can choose to
 install specific software in addition to the operating system. To do
 that through the Cloud Control Panel, choose **Create Stack** rather than
-**Create Server**, then choose a template describing the software you want
+**Create Server**, and then choose a template that describes
+the software that you want
 to install. We frequently expand the list of templates; as of
 July 24, 2015,
-these templates are available:
+the following templates are available:
 
 .. raw:: html
    :file: stacks-from-control-panel.html
@@ -65,8 +67,8 @@ To learn how to use the Cloud Orchestration API, begin with the
    Because installing and customizing software can be time-consuming,
    it's
    a good idea to save a copy of a cloud server that already has the
-   software you need,
+   software that you need,
    configured just the way you like it.
    You can use
    Cloud Images to maintain a consistent starting point
-   for future servers you create.
+   for future servers that you create.

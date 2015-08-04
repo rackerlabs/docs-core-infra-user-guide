@@ -5,7 +5,9 @@ Understanding Cloud Files
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 The Rackspace Cloud Files storage system provides a secure,
 network-accessible way to store an unlimited number of files. Each file
-can be as large as 5 gigabytes. You can store as much as you want
+can be as large as 5 gigabytes.
+
+You can store as many files as you want
 and only pay for the storage space you actually use.
 
 Cloud Files also provides a simple yet powerful way to publish and

@@ -5,8 +5,8 @@ Cloud Networks and CLIs: neutron
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To interact with Cloud Networks at the command line,
 you can use tools created specifically for the purpose
-of interacting with OpenStack-based clouds
-(nova, neutron)
+of interacting with OpenStack based clouds
+(nova and neutron)
 or general-purpose tools (cURL).
 
 Because Cloud Servers and Cloud Networks work so
@@ -27,10 +27,10 @@ You can also use the
 focused on Cloud Networks.
 
 In working with Cloud Networks,
-you may find that you need to use nova for some functions
+you might find that you need to use nova for some functions
 and neutron for others. You should install them both.
 You can see an example of using nova and neutron together
-in the multi-step
+in the multistep
 :rax-docs:`Configure host routes with neutron <networks/api/v2/cn-gettingstarted/content/chr_neutron_neutron.html>`
 example:
 
@@ -44,17 +44,15 @@ you must install a local (client) copy.
 The installation procedure varies for each tool
 and is documented with the tool.
 
-The commands you can send are the
-the same,
-wrapped in the syntax of the client,
-as the requests you can send
-to the API endpoint.
-The
+The commands that you can send are the
+the same as the requests you can send
+to the API endpoint, but they are wrapped in the syntax of
+the client. The
 :rax-api:`API cross-reference <api-ref-networks.html>`
 lists those requests for Cloud Networks.
 
 The *Getting Started Guide for the Cloud Networks API*
-includes detailed, parallel examples showing how you can use
+includes detailed, parallel examples that show how you to use
 either
 cURL or neutron to perform the same functions.
 If you compare the matching cURL and neutron examples,
@@ -63,7 +61,7 @@ prefer to work with one or the other.
 For example, if you compare
 :rax-docs:`Create a network (neutron client) <networks/api/v2/cn-gettingstarted/content/neutron_create_network_chr_neutron.html>`,
 and
-:rax-docs:`Create a network (cURL) <networks/api/v2/cn-gettingstarted/content/neutron_create_network_chr_curl.html>`
+:rax-docs:`Create a network (cURL) <networks/api/v2/cn-gettingstarted/content/neutron_create_network_chr_curl.html>`,
 you can see that:
 
 * neutron users send a short command,

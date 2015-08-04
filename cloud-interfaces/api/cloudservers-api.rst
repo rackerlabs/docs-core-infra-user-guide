@@ -5,7 +5,7 @@ Cloud Servers and SDKs and APIs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you begin writing your own software
 to interact with Cloud Servers,
-you may benefit from investing some time to learn about
+you might want to learn about
 how Cloud Servers works
 in the Cloud Control Panel
 and how SDKs and APIs are documented at Rackspace.
@@ -17,7 +17,7 @@ Cloud Servers API investigation
 +++++++++++++++++++++++++++++++
 Using an API,
 you can write software to automate functions that could otherwise
-be performed manually by a person logged into the Cloud Control Panel.
+be performed manually by a person logged in to the Cloud Control Panel.
 You can accelerate your understanding of how the API works
 by using the Cloud Control Panel to demonstrate the manual process
 before you begin to automate it;
@@ -29,9 +29,9 @@ Sometimes,
 especially for new features that are not yet available
 in the Cloud Control Panel,
 you can write software to perform functions
-via the API
-that could not be performed in any other way;
-product announcements for Limited Availability
+using the API
+that could not be performed in any other way.
+Product announcements for Limited Availability
 and Early Access releases point out this limitation when it applies.
 In that case,
 experimenting in the Cloud Control Panel can show you
@@ -42,7 +42,7 @@ other details are described in the
 Just as you can use the Cloud Control Panel
 to help you understand a manual process that you intend to automate,
 you can use the API documentation to help you understand
-how to use a Software Development Kit (SDK)
+how to use a software development kit (SDK)
 in your favorite programming language.
 
 * The API documentation describes
@@ -56,9 +56,9 @@ can help you to plan the easiest way to develop your software.
 
 After you understand what the Cloud Servers API is capable of
 and how to use an SDK to simplify interaction with the API,
-doing one more research task may save you the effort of
-writing your own software.
-Investigate whether the automation you require
+performing one more task may save you the effort of
+writing your own software:
+investigate whether the automation you require
 is already available from another Rackspace product or from
 a Rackspace partner.
 For example:
@@ -88,7 +88,7 @@ Cloud Servers API demonstration
 +++++++++++++++++++++++++++++++
 Using the process suggested at
 :ref:`cloudservers-api-investigation`,
-here is an example of how you can plan
+this section provides an example of how you can plan
 and then write your own software to perform one simple task:
 list all your cloud servers.
 
@@ -119,34 +119,33 @@ In the
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Servers or Cloud Files)
-and the scope they act upon (for example, flavors or images).
+and the scope they act on (for example, flavors or images).
 
 You can see all Cloud Servers operations in the
-:rax-api:`API cross-reference <api-ref.html#compute-core-v2>`;
-in the group of
-:rax-api:`operations that act upon servers <api-ref.html#compute_servers>`,
+:rax-api:`API cross-reference <api-ref.html#compute-core-v2>`.
+In the group of
+:rax-api:`operations that act on servers <api-ref.html#compute_servers>`
 you can see that:
 
-* Sending a ``GET`` to the ``/v2/{tenant_id}/servers``
-  URI requests a requests a basic list of information about servers
+* Sending a ``GET`` request to the ``/v2/{tenant_id}/servers``
+  URI requests a basic list of information about servers
 
-* Sending a ``POST`` to the same URI requests creation of a new server
+* Sending a ``POST`` request to the same URI requests
+  the creation of a new server
 
-* Sending a ``GET`` to the same URI and appending ``/detail``
-  requests requests an expanded list of information about servers
+* Sending a ``GET`` request to the same URI and appending ``/detail``
+  requests an expanded list of information about servers
 
 .. figure:: /_images/cloudserverslistserversget.png
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
 
-   *The API cross-reference lists all API operations*
+   *The API cross-reference lists all API operations Click "detail"
+   to see more about how the API handles this request.*
 
-On the first ``GET`` line, click **detail** to see
-more about how the API handles this request.
 The request parameters and sample response shown here can
-help you formulate a basic *List servers* request to the API
-and understand the API's
-response.
+help you formulate a basic *list servers* request to the API
+and understand the API's response.
 
 You can use request parameters to construct a request that returns
 a list of only the Cloud Servers
@@ -202,14 +201,12 @@ and click **PYTHON**.
 Use SDK to help you write and run code to interact with Cloud Servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The SDK QuickStart demonstrates a few basic requests;
-for more detailed guidance,
-perhaps enough to walk you through exactly the steps required
-to develop your software, examine the SDK itself.
+for more detailed guidance that will help you
+develop your software, examine the SDK itself.
 
 To find the full SDK for your programming language, start at
 :rax-dev:`SDKs & Tools in the Develop Center <sdks>`
 and find the language.
-Then follow the steps appropriate to that language.
 
 For example, if you code in python,
 

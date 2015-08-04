@@ -13,8 +13,8 @@ smaller "segments" and then creating the large object
 :kc-article:`Installing the Swiftly Cloud Files Client <installing-the-swiftly-cloud-files-client>`
 walks through the installation process for swiftly.
 
-Documents that may help you install and use
-swiftly include:
+The following resources can help you install and use
+swiftly:
 
 * `The python package index page <https://pypi.python.org/pypi/swiftly/2.02>`__
 

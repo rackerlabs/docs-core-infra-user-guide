@@ -5,7 +5,7 @@ Cloud Images and SDKs and APIs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you begin writing your own software
 to interact with Cloud Images,
-you may benefit from investing some time to learn about
+you might want to learn about
 how Cloud Images works
 in the Cloud Control Panel
 and how SDKs and APIs are documented at Rackspace.
@@ -17,7 +17,7 @@ Cloud Images API investigation
 ++++++++++++++++++++++++++++++
 Using an API,
 you can write software to automate functions that could otherwise
-be performed manually by a person logged into the Cloud Control Panel.
+be performed manually by a person logged in to the Cloud Control Panel.
 You can accelerate your understanding of how the API works
 by using the Cloud Control Panel to demonstrate the manual process
 before you begin to automate it;
@@ -29,9 +29,9 @@ Sometimes,
 especially for new features that are not yet available
 in the Cloud Control Panel,
 you can write software to perform functions
-via the API
-that could not be performed in any other way;
-product announcements for Limited Availability
+using the API
+that could not be performed in any other way.
+Product announcements for Limited Availability
 and Early Access releases point out this limitation when it applies.
 In that case,
 experimenting in the Cloud Control Panel can show you
@@ -42,7 +42,7 @@ other details are described in the
 Just as you can use the Cloud Control Panel
 to help you understand a manual process that you intend to automate,
 you can use the API documentation to help you understand
-how to use a Software Development Kit (SDK)
+how to use a software development kit (SDK)
 in your favorite programming language.
 
 * The API documentation describes
@@ -61,7 +61,7 @@ Cloud Images API demonstration
 ++++++++++++++++++++++++++++++
 Using the process suggested at
 :ref:`cloudimages-api-investigation`,
-here is an example of how you can plan
+this section provides an example of how you can plan
 and then write your own software to perform one simple task:
 list all your cloud images.
 
@@ -89,7 +89,7 @@ you can select a different region and you can search for a
 specific image.
 
 If your list of images is not empty, then for each image
-you can see
+you can see:
 
 * Its name
 * The server from which it was created
@@ -112,32 +112,30 @@ In the
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Images or Cloud Files)
-and the scope they act upon (for example, images or image schemas).
+and the scope they act on (for example, images or image schemas).
 
 You can see all Cloud Images operations in the
-:rax-api:`API cross-reference <api-ref-images.html>`;
-in the group of
-:rax-api:`operations that act upon images <api-ref-images.html#images>`,
+:rax-api:`API cross-reference <api-ref-images.html>`.
+In the group of
+:rax-api:`operations that act on images <api-ref-images.html#images>`,
 you can see that:
 
-* Sending a ``GET`` to the ``images``
+* Sending a ``GET`` request to the ``images``
   URI requests a basic list of information about public images
 
-* Sending a ``GET`` to the same URI and appending an image ID
+* Sending a ``GET`` request to the same URI and appending an image ID
   requests an expanded list of information about a single image
 
 .. figure:: /_images/cloudimageslistimagesget.png
    :scale: 80%
    :alt: api.rackspace.com lists all API operations.
 
-   *The API cross-reference lists all API operations.*
+   *The API cross-reference lists all API operations. Click "detail" to
+   see more about how the API handles this request.*
 
-On the first ``GET`` line, click **detail** to see
-more about how the API handles this request.
 The request parameters and sample response shown here can
 help you formulate a basic *List images* request to the API
-and understand the API's
-response.
+and understand the API's response.
 
 In the sample response,
 ``name``, ``created_at``, ``size``, and ``id``
@@ -183,14 +181,12 @@ and click **PYTHON**.
 Use SDK to help you write and run code to interact with Cloud Images
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The SDK QuickStart demonstrates a few basic requests;
-for more detailed guidance,
-perhaps enough to walk you through exactly the steps required
-to develop your software, examine the SDK itself.
+for more detailed guidance that will help you
+develop your software examine the SDK itself.
 
 To find the full SDK for your programming language, start at
 :rax-dev:`SDKs & Tools in the Developer Center <sdks>`
 and find the language.
-Then follow the steps appropriate to that language.
 
 For example, if you code in python,
 

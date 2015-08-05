@@ -21,6 +21,9 @@ of the same functions as hardware devices in our data centers:
 * Cloud Images preserves a consistent starting point for new Cloud
   Servers instances.
 
+* Cloud Files provides long-term storage for an unlimited number
+  of objects.
+
 * Additional services enable specific activities such as user
   authentication, load balancing, and event monitoring.
 

@@ -17,9 +17,9 @@ and especially from its core infrastructure:
 * Cloud Files
 
 The guide is meant to simplify your startup process.
-It doesn't replace our detailed technical documentation, but we
-hope it gives you a clear picture of
-what, after getting started, you can do in the Rackspace cloud.
+It doesn't replace the detailed technical documentation for these
+services, but it should give you a clear picture of
+what you can do in the Rackspace cloud.
 
 * :ref:`cloud-intro`
   provides a high-level overview of our core infrastructure,
@@ -31,8 +31,8 @@ what, after getting started, you can do in the Rackspace cloud.
   controlling your configuration, including the GUI-based Cloud Control
   Panel and several CLIs, APIs, and SDKs.
 
-* :ref:`cloud-config`, focusing on the core
-  infrastructure, provides facts and suggestions to help you quickly
+* :ref:`cloud-config`, focuses on the core
+  infrastructure, providing facts and suggestions to help you quickly
   establish a useful and manageable cloud configuration.
 
 * :ref:`cloud-preprod` specifies pre-production steps you should

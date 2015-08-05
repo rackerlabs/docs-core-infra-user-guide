@@ -3,8 +3,8 @@
 ===============================
 Introducing the Rackspace cloud
 ===============================
-We want to help you confirm that working with Rackspace, home of
-the #1 managed cloud, is the best way to get your work done.
+Rackspace is the home of the #1 managed cloud, which provides you
+with the best way to get your work done.
 
 The Rackspace public cloud is
 bigger than the core infrastructure

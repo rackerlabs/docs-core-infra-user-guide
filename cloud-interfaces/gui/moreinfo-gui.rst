@@ -6,14 +6,14 @@ Learning more about the Cloud Control Panel
 Every cloud account comes with access to the
 :mycloud:`Cloud Control Panel <>`.
 Depending on how you use your Rackspace account,
-you may not be interested in changes to specific
+you might not be interested in changes to specific
 Rackspace cloud products and services.
 However, the Cloud Control Panel is common ground,
 available to all Rackspace cloud customers,
 and we recommend that all Rackspace customers pay attention
 to ongoing development there.
 
-Making yourself familiar with these sites
+Making yourself familiar with the following sites
 and keeping up with new information there
 will
 help you become a skillful user of the Cloud Control Panel:
@@ -25,18 +25,18 @@ help you become a skillful user of the Cloud Control Panel:
 
 * **Announcements of major changes**
   are published
-  in
+  in the
   :mycloud:`Release Notes <release_notes>`.
 
   .. note::
-     We continuously improve the Cloud Control Panel;
-     you may see minor changes between one visit and the next.
-     We announce only major changes in Release Notes.
+     We continuously improve the Cloud Control Panel, so
+     you might see minor changes between visits.
+     Only major changes are announced in the Release Notes.
 
 * **Discussions with customers and Rackers**
   are open to public participation in the
   `Rackspace Community <https://community.rackspace.com/>`__.
 
 * **Feedback on proposed improvements to the Cloud Control Panel**
-  is open to public partication at
+  is open to public participation at
   `Rackspace Product Feedback <https://feedback.rackspace.com/>`__.

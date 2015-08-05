@@ -3,13 +3,13 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 Actions for Cloud Networks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-The actions described below can be performed to create and manage cloud networks.
+You can perform the following actions to create and manage cloud networks.
 Actions can relate to a network, a subnet, or a port.
 
 .. include:: /_common/note-rbac-actions.txt
 
-To learn how to perform Cloud Networks actions using your choice of interface,
-begin at
+To learn how to perform Cloud Networks actions by using your choice of
+interface, begin at one of the following topics:
 
   * :ref:`cloudnetworks-gui`
   * :ref:`cloudnetworks-cli`
@@ -17,35 +17,35 @@ begin at
 
 Network actions
 ---------------
-* Retrieve list of networks
-* Create network
-* Show network
-* Update network
-* Delete network
+* Retrieve a list of networks
+* Create a network
+* Show a network
+* Update a network
+* Delete a network
 
 Subnet actions
 --------------
-* Retrieve list of subnets
-* Create subnet
-* Show subnet
-* Update subnet
-* Delete subnet
+* Retrieve a list of subnets
+* Create a subnet
+* Show a subnet
+* Update a subnet
+* Delete a subnet
 
 Port actions
 ------------
-* Retrieve list of ports
-* Create port
-* Show port
-* Update port
-* Delete port
+* Retrieve a list of ports
+* Create a port
+* Show a port
+* Update a port
+* Delete a port
 
 Security group actions
 ----------------------
 * List security groups
-* Create security group
-* Show security group
-* Delete security group
+* Create a security group
+* Show a security group
+* Delete a security group
 * List security group rules
-* Create security group rule
-* Show security group rule
-* Delete security group rule
+* Create a security group rule
+* Show a security group rule
+* Delete a security group rule

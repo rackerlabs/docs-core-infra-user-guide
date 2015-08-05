@@ -4,7 +4,7 @@
 Showing metadata
 ++++++++++++++++
 To view the metadata on a cloud server, use the ``nova show`` command with
-the desired server ID::
+the appropriate server ID, as shown in the following example:
 
     $ nova show 191ecc6d-a4aa-4cdd-979f-536c55857c90
 
@@ -26,10 +26,9 @@ with this server.
 :ref:`set-metadata` shows how you can create or delete metadata.
 
 Some metadata are set by Rackspace and not available to be changed by
-the user; generally these fields are used by automation and
-orchestration systems needed to properly build and maintainer your cloud
-server.
+the user. Generally these metadata are used by automation and
+orchestration systems needed to correctly build and maintain your server.
 
 The metadata that are attached to your server are also stored if you
-create a snapshot or image from the server, and restored when a server is
+create a snapshot or image from the server, and are restored when a server is
 built from that image. The key names are prefixed with ``instance\_``.

@@ -3,31 +3,31 @@
 ^^^^^^^^
 nova CLI
 ^^^^^^^^
-The OpenStack tool primarily used for managing Cloud Servers is written
-in Python and called *nova*.
+The OpenStack tool primarily used to manage Cloud Servers is written
+in Python and is called *nova*.
 It is also known as *novaclient* or
 *python-novaclient*.
 
-Rackspace provides some additional functionality on top of the base
+Rackspace adds some additional functionality to the base
 OpenStack environment through OpenStack extensions.
 To have the
 best experience when using the novaclient with Rackspace, you should
-install the ``rackspace-novaclient`` package. It will conveniently
-install not only the required novaclient componnents, but also any
+install the ``rackspace-novaclient`` package. It
+installs the required novaclient components and any
 necessary or useful extensions and plugins that are applicable to the
 Rackspace cloud.
 
 We recommend that you use the
 `Python Package Index (PyPI) <https://pypi.python.org/pypi>`__
-to install novaclient, as it will handle installing dependencies and
+to install novaclient because it installs dependencies and
 required packages for you.
 
 Alternatively, you can download the ``rackspace-novaclient`` package from
 the
 :rackerlabs:`GitHub repository for rackspace-novaclient <rackspace-novaclient>`.
 
-OpenStack documents that may help you install novaclient
-and learn to use it include:
+The following OpenStack documents can help you install novaclient
+and learn to use it:
 
 * :os-docs:`Install the OpenStack command-line clients <user-guide/common/cli_install_openstack_command_line_clients.html>`
 
@@ -39,7 +39,7 @@ and learn to use it include:
 
 .. include:: /_common/note-openstack-username.txt
 
-Rackspace publishes detailed instructions about novaclient,
+Rackspace publishes the following detailed instructions about novaclient,
 including how to install the client
 on most popular operating systems:
 
@@ -48,6 +48,6 @@ on most popular operating systems:
 * In
   :kc-article:`Using python-novaclient with the Rackspace Cloud <using-python-novaclient-with-the-rackspace-cloud>`
 
-After you have novaclient installed, you will need to set up your
-environment so you can properly authenticate to Rackspace and use the
+After you have novaclient installed, you must set up your
+environment so that you can authenticate to Rackspace and use the
 tools.

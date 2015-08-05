@@ -4,12 +4,11 @@
 ServiceNet in the cloud
 ~~~~~~~~~~~~~~~~~~~~~~~
 ServiceNet is an internal, IPv4-only multi-tenant network within each
-Rackspace cloud region. ServiceNet is optimized to carry traffic across servers 
-within your configuration 
+Rackspace cloud region. ServiceNet is optimized to carry traffic across servers
+within your configuration
 (east-west traffic).
-It provides servers with access to regionalized services such as Cloud
-Files, Cloud Load Balancers, Cloud Databases, and Cloud Backup at no
-cost.
+It provides servers with no-cost access to regionalized services such as Cloud
+Files, Cloud Load Balancers, Cloud Databases, and Cloud Backup.
 
 You can configure a cloud server without ServiceNet, but Rackspace
 recommends that all servers be connected to ServiceNet so that they can

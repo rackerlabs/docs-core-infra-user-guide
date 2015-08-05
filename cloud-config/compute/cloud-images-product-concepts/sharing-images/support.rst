@@ -10,9 +10,10 @@ consumers is one that has been modified from a base Rackspace image or
 is a custom image that has been imported.
 
 This means that providing detailed support for modifications or
-applications in the shared image may be beyond the scope of Rackspace
-support (in either Managed Infrastructure or Managed Operations).
-Rackspace may be able to help you verify whether any
-Cloud Servers created from the images have problems booting or other
+applications in the shared image might be beyond the scope of Rackspace
+Support (for both Managed Infrastructure and Managed Operations
+service levels). Rackspace will generally offer best-effort support
+to verify whether any servers created from the images have
+problems booting or other
 issues, but detailed troubleshooting of any specific additional
 functionality is the responsibility of the image producer.

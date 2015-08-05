@@ -10,12 +10,13 @@
 
    * Launch the
      `Chrome browser <https://www.google.com/chrome/browser/>`__.
-   * In Chrome, login to your
+   * In Chrome, log in to your
      :mycloud:`Cloud Control Panel <>`
      account.
-   * From Chrome's menu, select **View > Developer > Developer Tools**.
+   * For Mac, from the Chrome menu, select **View > Developer > Developer Tools**.
+     For Windows, from the Chrome menu, select **More tools > Developer Tools**.
    * Experiment in the Cloud Control Panel and observe
-     behind the scenes in Chrome's developer view.
+     the actions in Chrome's developer view.
 
 
 .. figure:: /_images/chromeviewdeveloper.png

@@ -3,14 +3,14 @@
 ---------------------------------------
 Alternatives and additional information
 ---------------------------------------
-If you aren't the "you" we imagined in writing this guide, you may find
+If you aren't the "you" we imagined in writing this guide, you might find
 other Rackspace resources more suited to your needs. Here are some
 starting points:
 
 * To become a Rackspace customer, start at
   `Create an account <https://cart.rackspace.com/cloud/>`__.
 
-* To manage your account, login to the
+* To manage your account, log in to the
   :mycloud:`Cloud Control Panel <>`.
 
 * To learn the vendor-neutral basics of cloud computing, start at

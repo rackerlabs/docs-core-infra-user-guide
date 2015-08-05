@@ -5,8 +5,8 @@ Cloud Images and CLIs: glance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To interact with Cloud Images at the command line,
 you can use tools created specifically for the purpose
-of interacting with OpenStack-based clouds
-(nova, glance)
+of interacting with OpenStack based clouds
+(nova and glance)
 or general-purpose tools (cURL).
 
 Because Cloud Servers and Cloud Images work so
@@ -27,7 +27,7 @@ You can also use the
 focused on Cloud Images.
 
 In working with Cloud Images,
-you may find that you need to use nova for some functions
+you might find that you need to use nova for some functions
 and glance for others. You should install them both.
 You can see an example of using nova and glance together at
 :rax-dev:`OpenStack CLI Basics <blog/openstack-cli-basics>`
@@ -40,11 +40,9 @@ you must install a local (client) copy.
 The installation procedure varies for each tool
 and is documented with the tool.
 
-The commands you can send are the
-the same,
-wrapped in the syntax of the client,
-as the requests you can send
-to the API endpoint.
+The commands that you can send are the
+the same as the requests you can send
+to the API endpoint, but they are wrapped in the syntax of the client. 
 The
 :rax-api:`API cross-reference <api-ref-images.html>`
 lists those requests for Cloud Images.

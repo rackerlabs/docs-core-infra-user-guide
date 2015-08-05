@@ -4,7 +4,7 @@
 Cloud Files and the Cloud Control Panel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The Cloud Control Panel groups the core infrastructure services
-as described at :ref:`cloud-tour`,
+as described in :ref:`cloud-tour`,
 with
 Cloud Files (labeled **Files**)
 available
@@ -18,7 +18,7 @@ visit
 
 Create a Container
 ''''''''''''''''''
-To create a new container, log into the :mycloud:`Cloud Control Panel<>`.
+To create a new container, log in to the :mycloud:`Cloud Control Panel<>`.
 In the top navigation bar, select **Storage > Files** and click
 **Create Container**.
 
@@ -31,8 +31,8 @@ In the top navigation bar, select **Storage > Files** and click
    select the type: Private, Public (Enabled CDN), or Static
    Website.*
 
-* Private containers allow you to securely store data on the cloud and
-  access it through the Control Panel or API.
+* Private containers enable you to securely store data on the cloud and
+  access it through the Cloud Control Panel or API.
 * Public (Enabled CDN) containers automatically store files on
   servers close to your users, which speeds up the delivery of your
   data.
@@ -45,7 +45,7 @@ In the top navigation bar, select **Storage > Files** and click
 
 Upload Files to the Container
 '''''''''''''''''''''''''''''
-To upload files to one of your containers, first log into the
+To upload files to one of your containers, first log in to the
 :mycloud:`Cloud Control Panel <>`. In the top navigation bar, select
 **Storage > Files** and click on the name of the container to which
 you want to upload files.

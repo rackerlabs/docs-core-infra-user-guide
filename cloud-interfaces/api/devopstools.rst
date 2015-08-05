@@ -4,7 +4,7 @@
 DevOps tools
 ^^^^^^^^^^^^
 If you already use a DevOps tool,
-you may be interested in plugins (official or unofficial)
+you might be interested in plugins (official or unofficial)
 that improve the abilities of
 these automation frameworks to support cloud-based operations.
 

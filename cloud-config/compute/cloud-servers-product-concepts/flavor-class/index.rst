@@ -12,8 +12,7 @@ When you create a cloud server,
 the server's configuration is based on your
 answers to several questions:
 
-* **Which server technology
-  (virtual server or an OnMetal™ server)
+* **Which server technology (virtual or OnMetal™)
   should the server use?**
 
   Compare :ref:`virtual-server-flavor-class` and
@@ -23,7 +22,7 @@ answers to several questions:
 * **In which region will the server be based?**
 
   Most flavor classes are available everywhere, but a few
-  are available in some regions but not all.
+  are only available in some regions.
   :ref:`check-region-flavor-class` shows how to tell
   which flavor classes are available in your server's region.
 

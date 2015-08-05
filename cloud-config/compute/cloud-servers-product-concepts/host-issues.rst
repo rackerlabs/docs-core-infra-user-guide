@@ -5,7 +5,7 @@ Handling host-related issues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A cloud server is a virtual server; it resides on a physical host. The
 physical host is designed with redundancies for power, network, and disk
-to prevent failures to the underlying virtual servers. It may sometimes
+to prevent failures to the underlying virtual servers. It might sometimes
 be necessary to restart a physical host for maintenance or other issues.
 When it is practical to do so, virtual servers are not disrupted when
 their physical host is restarted

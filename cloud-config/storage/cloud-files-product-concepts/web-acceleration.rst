@@ -3,12 +3,13 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Organize Content for Web Acceleration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-When using Cloud Files for web acceleration, a basic organizational
-structure would separate your content into different containers based on
+When using Cloud Files for web acceleration, you can use a basic organizational
+structure to separate your content into different containers based on
 object type, such as images, css, javascript, videos, or uploaded
 content.
 
-This structure enables quick location of objects when you need them.
+Building this structure enables you to quickly locate
+your objects when you need them.
 
 Container Management
 ~~~~~~~~~~~~~~~~~~~~
@@ -16,7 +17,9 @@ A container is a storage compartment for your data and provides a
 way for you to organize that data. You can think of a container as a
 folder in Windows or a directory in UNIX. The primary difference between
 a container and these other file system concepts is that containers
-cannot be nested. You can create up to 500,000 containers under your account.
+cannot be nested.
+
+You can create up to 500,000 containers under your account.
 
 Using Multiple Containers
 '''''''''''''''''''''''''
@@ -34,12 +37,12 @@ plan ahead for multiple containers. For example: personnel-00000.
 
 Keep a Local Database of Your Container Structure
 '''''''''''''''''''''''''''''''''''''''''''''''''
-If you have a large number of files, it may be useful to keep a local copy
+If you have a large number of files, it might be useful to keep a local copy
 of your container structure and listing. You can do this in a local
 database, significantly reducing the chance of a naming conflict and
 location of a specific object. By keeping a local copy of your container
 structure, you can more easily update objects, if needed, without having
-to list all the containers. This provides a significantly reduced
+to list all the containers, significantly reducing
 time for updates.
 
 Keeping a local database is most useful to customers using
@@ -55,10 +58,10 @@ Because containers, and their objects, do not nest, there are applications
 which will fake a folder structure by adding a **path** to the beginning
 of the object name.
 
-For object storage, this allows for better subdivision of slow growth,
+For object storage, this enables better subdivision of slow growing,
 closely-grouped data that you are unlikely to divide out again later.
 
-For web acceleration, this allows pathing that displays in the
+For web acceleration, this enables pathing that displays in the
 browser. For example, a pathed object named ducks/funny/duckling.jpg
 would become
 

@@ -7,9 +7,9 @@ Cloud Block Storage and Cloud Files are core infrastructure products
 in the Storage category.
 
 When you create a cloud server, storage of several kinds is allocated to
-that server based on the choices you make.
+that server based on the choices that you make.
 
-Cloud Servers handles initial storage allocations;
+Cloud Servers handles initial storage allocations; you can
 use Cloud Block Storage and Cloud Files to add more storage to your
 core infrastructure.
 
@@ -21,8 +21,8 @@ core infrastructure.
 * To see a list of actions that Cloud Block Storage can perform,
   visit :ref:`cloud-block-storage-product-actions`.
 
-* To learn how to perform Cloud Block Storage actions using your choice of interface,
-  begin at
+* To learn how to perform Cloud Block Storage actions by using your
+  choice of interface, begin at one of the following topics:
 
   * :ref:`cloudblockstorage-gui`
   * :ref:`cloudblockstorage-cli`
@@ -36,8 +36,9 @@ core infrastructure.
 * To see a list of actions that Cloud Files can perform,
   visit :ref:`cloud-files-product-actions`.
 
-* To learn how to perform Cloud Files actions using your choice of interface,
-  begin at
+* To learn how to perform Cloud Files actions by using your choice
+  of interface,
+  begin at one of the following topics:
 
   * :ref:`cloudfiles-gui`
   * :ref:`cloudfiles-cli`

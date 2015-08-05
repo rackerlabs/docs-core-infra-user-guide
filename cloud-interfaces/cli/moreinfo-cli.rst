@@ -11,8 +11,7 @@ Useful information about these CLIs exists in sources published by
 Rackspace and in sources published by OpenStack:
 
 * :os-docs:`OpenStack Command-Line Interface Reference <cli-reference/content>`
-  documents all OpenStack CLIs, whether or not they are
-  in use at Rackspace.
+  documents all OpenStack CLIs.
 
 * In the
   `Rackspace Community <https://community.rackspace.com/>`__,

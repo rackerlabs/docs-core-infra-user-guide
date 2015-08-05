@@ -7,17 +7,13 @@ Create one or many cloud servers to give yourself computing power in the
 Rackspace Managed Cloud.
 
 If you create a server and decide that it doesn't meet your needs
-(for example, if an application you want to install is not compatible
+(for example, if an application that you want to install is not compatible
 with the operating system), simply delete that server and create a
-different one.
+new one.
 
-You can create Cloud Servers of two types:
+You can create two types of servers:
 
-* Virtual servers
-
-* OnMetal™ servers
-
-This is an architectural overview of virtual servers:
+1. Virtual servers
 
 .. figure:: /_images/cloudservervirtualarchitecture.png
    :alt: Virtual Cloud Servers are the core of a rich configuration.
@@ -31,7 +27,7 @@ This is an architectural overview of virtual servers:
    In this case, you have the option to add more servers if
    needed to account for greater workloads.*
 
-This is an architectural overview of OnMetal™ servers:
+2. OnMetal™ servers
 
 .. figure:: /_images/cloudserveronmetalarchitecture.png
    :alt: OnMetal Cloud Servers add a performance boost.

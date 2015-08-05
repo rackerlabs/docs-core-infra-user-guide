@@ -14,14 +14,14 @@ be useful within your Cloud Servers configuration:
 
 * **Support clustering**
 
-    You can take advantage of full support
+    Cloud Networks includes full support
     for broadcasting and multicasting as
     required for some clustering technologies.
 
 * **Simplify network changes**
 
     You can make networking changes to existing deployments
-    without having to rebuild your cloud server.
+    without having to rebuild your server.
 
 * **Automate network changes**
 
@@ -33,11 +33,11 @@ be useful within your Cloud Servers configuration:
 * **Support complex topologies**
 
     You can combine Cloud Networks with
-    :rax-cloud:`Brocade Vyatta Routers <servers/vrouter/>` 
+    :rax-cloud:`Brocade Vyatta Routers <servers/vrouter/>`
     to create complex topologies that route traffic
     between cloud networks or to external data centers over VPN.
 
 * **Scale networks as you grow**
 
-    Up to 250 servers can be attached to a single cloud network.
+    You can attach up to 250 servers to a single cloud network.
     You can have up to 10 cloud networks per region.

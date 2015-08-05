@@ -3,24 +3,22 @@
 ==========================
 Interacting with the cloud
 ==========================
-One of the benefits of having a cloud based on open standards,
+One benefit of having a cloud based on open standards,
 designed for
 consistency and ease of use,
 is that there are multiple ways to interact with
 and manage your cloud resources.
 
-The Rackspace cloud provides
-OpenStack-based Application Programming Interfaces
-(APIs) for all of its management functionality.
-These APIs are actually what
-power the Cloud Control Panel (GUI), the Command Line Interfaces (CLIs),
-and Software
-Development Kits (SDKs).
-The APIs themselves
-also provide direct programmatic access to cloud services.
+The Rackspace cloud provides Application Programming Interfaces
+(APIs) based on OpenStack for all of its management functionality.
+The APIs provide direct programmatic access to cloud services,
+and they also
+power the Cloud Control Panel (GUI), the command-line interfaces (CLIs),
+and software
+development kits (SDKs).
 
 Depending on your needs,
-you may prefer to interact with the cloud through
+you might want to interact with the cloud through
 a web-based control panel,
 shell scripting, or
 software
@@ -32,13 +30,13 @@ You can choose an interface
 based on personal preference or business needs.
 
 * To send requests via a GUI such as the Cloud Control Panel,
-  you use a Web browser
-  installed on your machine to interact with a Web server operated by
-  Rackspace. The Web server interacts with the API endpoint on your
+  you use a web browser
+  installed on your computer to interact with a web server operated by
+  Rackspace. The web server interacts with the API endpoint on your
   behalf.
 
 * To send requests via a CLI, you download and install appropriate
-  client software on your machine, then use that software
+  client software on your computer, and then use that software
   within a terminal emulator to interact with an
   API endpoint operated by Rackspace.
 

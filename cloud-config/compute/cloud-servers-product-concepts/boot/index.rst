@@ -1,9 +1,9 @@
 .. _boot:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Controlling Cloud Server initiation
+Controlling cloud server initiation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-You can configure your cloud server so that,
+You can configure your cloud server so that
 when it is started or restarted, it
 initiates operation in any of several ways:
 

@@ -4,16 +4,16 @@
 GUI: Rackspace Cloud Control Panel
 ----------------------------------
 The Rackspace :mycloud:`Cloud Control Panel <>` is
-the easiest way to get started with provisioning cloud resources.
+the easiest way to start provisioning cloud resources.
 
-The Cloud Control Panel provides a simple, unified web based interface
-that works in all major browsers. After signing up for a Cloud account
-at :rax:`rackspace.com <>`, the Cloud Control panel is the first place you
-should visit to get an overview of products and services available,
-create your first servers and resources, or view more information about
+The Cloud Control Panel provides a simple, unified web-based interface
+that works in all major browsers. After you sign up for a Cloud account
+at :rax:`www.rackspace.com <>`, visit the Cloud Control panel
+to get an overview of the available products and services,
+create your first servers and resources, and view information about
 your Rackspace account.
 
-The Cloud Control Panel is also where you can complete some important
+You can also use the Cloud Control Panel to complete some important
 first tasks:
 
 * :kc-article:`Obtain your API key <view-and-reset-your-api-key>`
@@ -33,23 +33,23 @@ first tasks:
      do not see that feature in the Cloud Control Panel.
      Cloud Control Panel screenshots in
      `technical documentation <http://www.rackspace.com/knowledge_center/>`__
-     may show features that are not
+     might show features that are not
      available to some users.
 
 * View and change resource limits
 
   .. figure:: /_images/accountresourcelimits.png
      :scale: 80%
-     :alt: Use the Control Panel to see your current
+     :alt: You can use the Control Panel to see your current
          limits and to ask to change them.
 
-     *Use the Control Panel to see your current
+     *You can use the Control Panel to see your current
      limits and to ask to change them.*
 
-  If you click the **Request Limit Increase** link, the system will
-  generate a ticket with details of your current limits filled in.
-  Making a change requires describing the change you want and
-  submitting the ticket for processing. Update the ticket to
+  If you click the **Request Limit Increase** link, the system
+  generates a support ticket with the details of your current limits.
+  To make a change, describe what you want and
+  submit the ticket for processing. Update the ticket to
   describe the change you want; then click **Submit Ticket**.
 
   .. figure:: /_images/createticketserversresourcelimit.png
@@ -60,14 +60,14 @@ first tasks:
      *In the generated ticket,
      fill in the details you want to change.*
 
-The Cloud Control Panel may be the only interface you need to use,
+The Cloud Control Panel might be the only interface that you need to use,
 especially if you don't need to heavily automate the management of your
 cloud resources.
 
 .. note::
-   Under unusual circumstances,
-   high-priority messages may be displayed in a banner
-   at the top of your Cloud Control Panel pages.
+   Occassionally,
+   high-priority messages are displayed in a banner
+   at the top of the Cloud Control Panel window.
    If you see such a message,
    follow its instructions as soon as you can.
 

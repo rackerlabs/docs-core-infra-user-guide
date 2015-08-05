@@ -1,9 +1,9 @@
 .. _sdk:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Software Development Kits (SDKs)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Software development kits provide
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Software Development Kits
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Software development kits (SDKs) provide
 easy to use, language-specific interfaces
 for accessing and integrating
 APIs into your applications and workflows.

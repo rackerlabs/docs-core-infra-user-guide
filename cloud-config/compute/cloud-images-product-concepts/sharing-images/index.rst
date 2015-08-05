@@ -10,7 +10,7 @@ No matter how you create an image, you can share it from one
 Rackspace cloud account to another, on an on-demand basis. This can be
 useful for many scenarios:
 
-* Share an image of a new server you have created or customized to a
+* Share an image of a new server that you have created or customized with a
   colleague for testing and comments.
 
 * If you have multiple cloud accounts at Rackspace, for example to

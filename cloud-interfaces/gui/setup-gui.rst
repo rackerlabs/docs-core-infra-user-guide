@@ -3,18 +3,18 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Preparing to use the Cloud Control Panel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-To use the Rackspace Cloud Control Panel, you need:
+To use the Rackspace Cloud Control Panel, you need the following items:
 
 * A Web browser
 * A Rackspace account
 * Credentials (username and password) giving you access
   to that account
 
-Login by launching the browser, opening the Cloud Control Panel's :mycloud:`login page <>`,
-filling in your credentials, and clicking **Log In**.
+Log in by going to the Cloud Control Panel's :mycloud:`login page <>`,
+providing your credentials, and clicking **Log In**.
 
 The account's credentials are those that were chosen when you,
-or someone else at your account, created a Rackspace
+or someone else on your account, created a Rackspace
 cloud account.
 
 If you do not have a Rackspace cloud account,

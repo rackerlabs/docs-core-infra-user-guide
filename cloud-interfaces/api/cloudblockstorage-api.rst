@@ -5,7 +5,7 @@ Cloud Block Storage and SDKs and APIs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you begin writing your own software
 to interact with Cloud Block Storage,
-you may benefit from investing some time to learn about
+you might want to learn about
 how Cloud Block Storage works
 in the Cloud Control Panel
 and how SDKs and APIs are documented at Rackspace.
@@ -17,7 +17,7 @@ Cloud Block Storage API investigation
 +++++++++++++++++++++++++++++++++++++
 Using an API,
 you can write software to automate functions that could otherwise
-be performed manually by a person logged into the Cloud Control Panel.
+be performed manually by a person logged in to the Cloud Control Panel.
 You can accelerate your understanding of how the API works
 by using the Cloud Control Panel to demonstrate the manual process
 before you begin to automate it;
@@ -29,9 +29,9 @@ Sometimes,
 especially for new features that are not yet available
 in the Cloud Control Panel,
 you can write software to perform functions
-via the API
-that could not be performed in any other way;
-product announcements for Limited Availability
+using the API
+that could not be performed in any other way.
+Product announcements for Limited Availability
 and Early Access releases point out this limitation when it applies.
 In that case,
 experimenting in the Cloud Control Panel can show you
@@ -42,7 +42,7 @@ other details are described in the
 Just as you can use the Cloud Control Panel
 to help you understand a manual process that you intend to automate,
 you can use the API documentation to help you understand
-how to use a Software Development Kit (SDK)
+how to use a software development kit (SDK)
 in your favorite programming language.
 
 * The API documentation describes
@@ -61,7 +61,7 @@ Cloud Block Storage API demonstration
 +++++++++++++++++++++++++++++++++++++
 Using the process suggested at
 :ref:`cloudblockstorage-api-investigation`,
-here is an example of how you can plan
+this section provides an example of how you can plan
 and then write your own software to perform one simple task:
 list all your Cloud Block Storage volumes.
 
@@ -124,21 +124,21 @@ In the
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Block Storage or Cloud Files)
-and the scope they act upon (for example, volumes or snapshots).
+and the scope they act on (for example, volumes or snapshots).
 
 You can see all Cloud Block Storage operations in the
-:rax-api:`API cross-reference <api-ref-blockstorage.html>`;
-in the group of
-:rax-api:`operations that act upon volumes <api-ref-blockstorage.html#volumes>`,
+:rax-api:`API cross-reference <api-ref-blockstorage.html>`.
+In the group of
+:rax-api:`operations that act on volumes <api-ref-blockstorage.html#volumes>`,
 you can see that:
 
-* Sending a ``POST`` to the ``v1/{tenant_id}/volumes``
+* Sending a ``POST`` request to the ``v1/{tenant_id}/volumes``
   URI requests creation of a new server
 
-* Sending a ``GET`` to the same URI
+* Sending a ``GET`` request to the same URI
   requests a basic list of information about volumes
 
-* Sending a ``GET`` to the same URI and appending ``/detail``
+* Sending a ``GET`` request to the same URI and appending ``/detail``
   requests an expanded list of information about volumes
 
 .. figure:: /_images/cloudblockstoragelistvolumesget.png
@@ -198,14 +198,12 @@ and click *PHP*.
 Use SDK to help you write and run code to interact with Cloud Block Storage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The SDK QuickStart demonstrates a few basic requests;
-for more detailed guidance,
-perhaps enough to walk you through exactly the steps required
-to develop your software, examine the SDK itself.
+for more detailed guidance that will help you
+develop your software, examine the SDK itself.
 
 To find the full SDK for your programming language, start at
 :rax-dev:`SDKs & Tools in the Developer Center <sdks>`
 and find the language.
-Then follow the steps appropriate to that language.
 
 For example, if you code in PHP,
 

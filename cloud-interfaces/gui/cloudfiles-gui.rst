@@ -10,6 +10,12 @@ Cloud Files (labeled **Files**)
 available
 under **Storage**.
 
+.. figure:: /_images/controlpanelcloudfiles.png
+   :scale: 80%
+   :alt: The Storage group includes Cloud Files.
+
+   *The Storage group includes Cloud Files.
+
 You can use the Cloud Control Panel to help you
 observe and manage your Cloud Block Storage configuration.
 For ideas about what to do first,

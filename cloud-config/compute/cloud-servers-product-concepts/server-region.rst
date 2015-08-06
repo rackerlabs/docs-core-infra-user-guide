@@ -10,7 +10,10 @@ expect most of the server's workload to originate in Australia,
 you might want it to be hosted in our SYD (Sydney) region rather than
 in our DFW (Dallas-Fort Worth) region.
 
-Beyond a general preference for a region, though, working in the cloud
+For more information on regions, begin with the Knowledge Center article, 
+:kc-article:`About regions <about-regions>`.
+
+Beyond a general preference for a region, working in the cloud
 means that you need not be concerned with selecting among the hundreds
 or thousands of physical servers available in that region.
 

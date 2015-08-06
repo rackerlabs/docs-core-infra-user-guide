@@ -64,11 +64,16 @@ limits, contact Rackspace.
 
 Absolute limits
 ^^^^^^^^^^^^^^^
-Absolute limits control the total number of the limited item that the
-user can possess simultaneously.
-
-For example, an absolute limit controls the amount of RAM that can be
+Absolute limits control the total number of service resources that the
+user can possess simultaneously. For example, an absolute limit
+controls the amount of RAM that can be
 assigned in a Cloud Servers configuration.
+
+Default absolute limits are set to provide you with a reasonable
+amount of resources for testing and moderately-sized environments
+and applications. If you need additional resource capacity, you
+can request an increase of your absolute limits by opening a
+ticket in the Cloud Control Panel or by contacting Rackspace Support.
 
 When you are logged in to the Cloud Control Panel,
 you can see absolute limits defined for servers,
@@ -80,26 +85,34 @@ Rate limits
 ^^^^^^^^^^^
 Rate limits control the frequency at which the user can issue specific
 requests. Rate limits are reset after a certain amount of time passes.
-
 For example, a rate limit controls the number of GET requests that can
 be processed during a one-minute period.
+
+Default rate limits are set such that most users won't encounter them,
+however if needed, you can raise your rate limits by opening a ticket in
+the Cloud Control Panel or by contacting Rackspace Support.
 
 Limits for specific services
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The following table shows some examples of limits, with links to API
 documentation for more examples and complete details.
 
-+-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| **Service**           | **Absolute limit example**                                                                           | **Rate limit example**                                                                          |
-+=======================+======================================================================================================+=================================================================================================+
-| Cloud Block Storage   | :rax-docs:`10 TB in config <cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>`         | No limits                                                                                       |
-+-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Cloud Servers         | :rax-docs:`100 servers in config <servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html>`   | :rax-docs:`100 POSTs per minute <servers/api/v2/cs-devguide/content/Rate_Limits-d1e862.html>`   |
-+-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Cloud Images          | No limits                                                                                            | No limits                                                                                       |
-+-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Cloud Networks        | No limits                                                                                            | No limits                                                                                       |
-+-----------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
++-----------------------+----------------------------------------------------------------------+------------------------------------------------------------------+
+| **Service**           | **Absolute limit example**                                           | **Rate limit example**                                           |
++=======================+======================================================================+==================================================================+
+| Cloud Block Storage   | :rax-docs:`10 TB in config                                           | No limits                                                        |
+|                       | <cbs/api/v1.0/cbs-devguide/content/Absolute_Limits-d1e1397.html>`    |                                                                  |
++-----------------------+----------------------------------------------------------------------+------------------------------------------------------------------+
+| Cloud Servers         | :rax-docs:`100 servers in config                                     | :rax-docs:`100 POSTs per minute                                  |
+|                       | <servers/api/v2/cs-devguide/content/Absolute_Limits-d1e994.html>`    | <servers/api/v2/cs-devguide/content/Rate_Limits-d1e862.html>`    |
++-----------------------+----------------------------------------------------------------------+------------------------------------------------------------------+
+| Cloud Files           | :rax-docs:`500,000 containers                                        | :rax-docs:`100 write operations per second per container         |
+|                       | <files/api/v1/cf-devguide/content/Absolute_Limits-d1e942.html>`      | <files/api/v1/cf-devguide/content/Absolute_Limits-d1e942.html>`  |
++-----------------------+----------------------------------------------------------------------+------------------------------------------------------------------+
+| Cloud Images          | No limits                                                            | No limits                                                        |
++-----------------------+----------------------------------------------------------------------+------------------------------------------------------------------+
+| Cloud Networks        | No limits                                                            | No limits                                                        |
++-----------------------+----------------------------------------------------------------------+------------------------------------------------------------------+
 
 The services mentioned here are not the only ones with absolute limits
 or rate limits. Some services have no limits. We publish the limits

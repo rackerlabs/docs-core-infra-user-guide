@@ -14,7 +14,7 @@ under **Storage**.
    :scale: 80%
    :alt: The Storage group includes Cloud Files.
 
-   *The Storage group includes Cloud Files.
+   *The Storage group includes Cloud Files.*
 
 You can use the Cloud Control Panel to help you
 observe and manage your Cloud Block Storage configuration.

@@ -6,6 +6,13 @@ Introducing the Rackspace cloud
 Rackspace is the home of the #1 managed cloud, which provides you
 with the best way to get your work done.
 
+By using the Rackspace managed cloud, you can focus
+only on your core business without worrying about building and
+maintaining the cloud infrastructure. For more information
+about what differentiates the managed cloud from other
+business solutions, see
+:rax:`What is managed cloud? <blog/what-is-managed-cloud/>`
+
 The Rackspace public cloud is
 bigger than the core infrastructure
 that is the focus of this guide,

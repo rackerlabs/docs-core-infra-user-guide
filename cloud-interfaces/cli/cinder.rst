@@ -20,4 +20,9 @@ and learn to use it:
 
 * :os-docs:`cinder CLI man page <developer/python-cinderclient/man/cinder.html>`
 
+You can use cinder to back up your volumes to :ref:`swift`, the OpenStack tool
+used to interact with Cloud Files. For more information about how to back up
+your cinder volumes, see
+:rax-dev:`Backing Up cinder Volumes to swift <blog/backing-up-cinder-volumes-to-swift/>`.
+
 .. include:: /_common/note-openstack-username.txt

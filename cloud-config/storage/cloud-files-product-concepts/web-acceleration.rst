@@ -66,6 +66,7 @@ browser. For example, a pathed object named ducks/funny/duckling.jpg
 would become
 
 .. code::
+
    http://c123456.r02.cf3.rackcdn.com/ducs/funny/duckling.jpg
 
 .. TIP::

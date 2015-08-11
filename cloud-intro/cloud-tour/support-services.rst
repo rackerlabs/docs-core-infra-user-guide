@@ -10,13 +10,17 @@ Services in this category include
 
 Cloud Feeds at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
-
-* `Product overview <http://www.rackspace.com/knowledge_center/article/cloud-feeds-overview>`__
-
-* Free with every cloud account
-
-* Open-source roots:
-  `Atom Hopper <http://atomhopper.org/>`__
++---------------------------------------------+-------------------------------------------------------+
+|                                             |                                                       |
+| .. image::                                  | * :kc-article:`Product overview                       |
+|    /_images/logo-cloudfeeds-50x50.png       |   <cloud-feeds-overview>`                             |
+|    :alt: Cloud Feeds streamlines            | * Free with every cloud account                       |
+|          event notifications.               | * Open-source roots:                                  |
+|    :align: center                           |   `Atom Hopper <http://atomhopper.org/>`__            |
+|                                             |                                                       |
+| Cloud Feeds streamlines                     |                                                       |
+| event notifications.                        |                                                       |
++---------------------------------------------+-------------------------------------------------------+
 
 Cloud Feeds provides API access to events emitted from your infrastructure
 resources.
@@ -32,7 +36,7 @@ Rackspace Identity at a glance
 |    /_images/logo-cloudidentity-50x50.png    |   <managing-role-based-access-control-rbac>`          |
 |    :alt: Rackspace Identity                 | * Free with every cloud account                       |
 |          manages authentication.            | * Open-source roots:                                  |
-|    :align: center                           | * :os-docs:`OpenStack Keystone <developer/keystone>`  |
+|    :align: center                           |   :os-docs:`OpenStack Keystone <developer/keystone>`  |
 |                                             |                                                       |
 | Rackspace Identity                          |                                                       |
 | manages authentication.                     |                                                       |

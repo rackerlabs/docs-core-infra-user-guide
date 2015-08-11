@@ -7,7 +7,7 @@ Services in this category include
 
 * Cloud Block Storage
 * Cloud Backup
-* Cloud CDN
+* Rackspace CDN
 * Cloud Files
 
 Cloud Block Storage at a glance
@@ -46,17 +46,17 @@ Cloud Backup at a glance
 | data.                                     |                                                 |
 +-------------------------------------------+-------------------------------------------------+
 
-Cloud CDN at a glance
-~~~~~~~~~~~~~~~~~~~~~
+Rackspace CDN at a glance
+~~~~~~~~~~~~~~~~~~~~~~~~~
 +-------------------------------------------+-------------------------------------------------+
 |                                           |                                                 |
 | .. image::                                | * :rax-cloud:`Product overview                  |
 |    /_images/logo-cloudcdn-50x50.png       |   <cdn-content-delivery-network>`               |
-|    :alt: Cloud CDN accelerates            | * :rax-cloud:`Pay only for what you use         |
+|    :alt: Rackspace CDN accelerates        | * :rax-cloud:`Pay only for what you use         |
 |          content delivery.                |   <public-pricing>`                             |
 |    :align: center                         |                                                 |
 |                                           |                                                 |
-| Cloud CDN accelerates                     |                                                 |
+| Rackspace CDN accelerates                 |                                                 |
 | content delivery.                         |                                                 |
 +-------------------------------------------+-------------------------------------------------+
 

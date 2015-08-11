@@ -9,6 +9,7 @@ Services in this category include
 * Cloud Metrics
 * Cloud Monitoring
 * Cloud Orchestration
+* Rackspace Intelligence
 
 Auto Scale at a glance
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -64,3 +65,17 @@ Cloud Orchestration at a glance
 | Cloud Orchestration automates                  |                                                 |
 | and standardizes infrastructure.               |                                                 |
 +------------------------------------------------+-------------------------------------------------+
+
+Rackspace Intelligence
+~~~~~~~~~~~~~~~~~~~~~~
++-----------------------------------------------------+---------------------------------------------+
+|                                                     |                                             |
+| .. image::                                          | * :kc-article:`Product overview             |
+|    /_images/logo-rackspaceintelligence-50x50.png    |   <rackspace-intelligence-faq>`             |
+|    :alt: Rackspace Intelligence provides a          | * Free with every cloud account             |
+|          transparent view of infrastructure health. |                                             |
+|    :align: center                                   |                                             |
+|                                                     |                                             |
+| Rackspace Intelligence provides                     |                                             |
+| a transparent view of infrastructure health.        |                                             |
++-----------------------------------------------------+---------------------------------------------+

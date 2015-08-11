@@ -190,6 +190,13 @@ To include any image in the guide:
   * collection date 2015-06-07
   * original from Lane Fielder, resized by Rose Coste
 
+* **logo-cloudfeeds-50x50.png**
+  * used at /cloud-intro/cloud-tour/support-services.html
+  * original size here, logo-cloudfeeds.png;
+    resized to 64px x 50px with PhotoScape
+  * collection date 2015-08-11
+  * original from Peter Kazmir, resized by Stephanie Fillmon
+
 * **logo-cloudfiles-50x50.png**
   * used at /index.html
   * used at /cloud-intro/cloud-tour/storage-services.html
@@ -270,6 +277,13 @@ To include any image in the guide:
     resized to 50px x 50px with SnagIt Editor
   * collection date 2015-06-07
   * original from Lane Fielder, resized by Rose Coste
+
+* **logo-rackspaceintelligence-50x50.png**
+  * used at /cloud-intro/cloud-tour/application-services.html
+  * original size here, logo-rackspaceintelligence.png;
+    resized to 64px x 50px with PhotoScape
+  * collection date 2015-08-11
+  * original from Constanze Kratel, resized by Stephanie Fillmon
 
 ----
 **Inventory of screenshots**

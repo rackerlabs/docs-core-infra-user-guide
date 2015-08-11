@@ -36,7 +36,7 @@ all of these:
 * Authentication (Cloud Identity)
 * Data services (Cloud Databases, Cloud Big Data, Object Rocket)
 * Recoverability (Cloud Backup)
-* Distribution of public-facing content (Cloud CDN)
+* Distribution of public-facing content (Rackspace CDN)
 * Connections to public-facing networks
   (Cloud DNS, Cloud Load Balancers)
 * Connections to dedicated hardware (RackConnect)

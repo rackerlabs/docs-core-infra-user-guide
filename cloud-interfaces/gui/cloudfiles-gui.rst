@@ -17,7 +17,7 @@ under **Storage**.
    *The Storage group includes Cloud Files.*
 
 You can use the Cloud Control Panel to help you
-observe and manage your Cloud Block Storage configuration.
+observe and manage your Cloud Files configuration.
 For ideas about what to do first,
 visit
 :kc-article:`Cloud Files overview <cloud-files-overview>`.

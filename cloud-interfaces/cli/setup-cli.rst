@@ -37,12 +37,16 @@ the cloud by typing commands:
   the cloud service that you have chosen
 
   * You can use
+    `Rackspace CLI <https://developer.rackspace.com/docs/rack-cli/>`__
+    to send commands to specific
+    cloud services.
+  * You can use
     `cURL <http://curl.haxx.se/>`__
     to send commands to any API endpoint
   * You can use
     :os-docs:`OpenStack CLIs <cli-reference/content>`
     to send commands to specific
-    cloud services
+    cloud services.
 
 In your terminal emulator,
 you can type commands to the client and,

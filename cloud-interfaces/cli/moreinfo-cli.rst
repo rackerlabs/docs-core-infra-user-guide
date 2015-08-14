@@ -10,6 +10,9 @@ the CLIs provided by OpenStack.
 Useful information about these CLIs exists in sources published by
 Rackspace and in sources published by OpenStack:
 
+* `Rackspace Command-Line Interface user guide <https://developer.rackspace.com/docs/rack-cli/>`__
+   documents all commands and configurations associated with Rackspace CLI.
+
 * :os-docs:`OpenStack Command-Line Interface Reference <cli-reference/content>`
   documents all OpenStack CLIs.
 

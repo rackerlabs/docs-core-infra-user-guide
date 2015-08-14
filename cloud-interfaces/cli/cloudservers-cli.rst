@@ -1,10 +1,10 @@
 .. _cloudservers-cli:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Cloud Servers and CLIs: nova and supernova
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cloud Servers and CLIs: rack, nova, and supernova
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To interact with Cloud Servers at the command line,
-you can use tools created specifically for the purpose
+you can use Rackspace CLI (rack), tools created specifically for the purpose
 of interacting with OpenStack based clouds
 (nova and supernova)
 or general-purpose tools (cURL).
@@ -26,6 +26,7 @@ lists those requests for Cloud Servers.
 .. toctree:: :hidden:
    :maxdepth: 2
 
+   rack
    nova
    supernova
    curl

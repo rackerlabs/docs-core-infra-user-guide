@@ -9,6 +9,11 @@ of interacting with OpenStack based clouds
 (nova and glance)
 or general-purpose tools (cURL).
 
+.. note::
+
+    Rackspace CLI does not currently support Cloud Images. Support for Cloud Images
+    will be added as development for Rackspace CLI continues.
+
 Because Cloud Servers and Cloud Images work so
 closely together,
 the command-line tools that work well with Cloud Servers
@@ -22,7 +27,8 @@ or you can go directly to the tool that interests you:
 * :ref:`supernova`
 * :ref:`curl`
 
-You can also use the
+If you choose to use tools created specifically for interacting with Openstack
+based clouds, use
 :ref:`glance`,
 focused on Cloud Images.
 
@@ -42,7 +48,7 @@ and is documented with the tool.
 
 The commands that you can send are the
 the same as the requests you can send
-to the API endpoint, but they are wrapped in the syntax of the client. 
+to the API endpoint, but they are wrapped in the syntax of the client.
 The
 :rax-api:`API cross-reference <api-ref-images.html>`
 lists those requests for Cloud Images.

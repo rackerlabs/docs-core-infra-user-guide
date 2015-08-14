@@ -4,7 +4,7 @@
 Cloud Block Storage and CLIs: cinder
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To interact with Cloud Block Storage at the command line,
-you can use tools created specifically for the purpose
+you can use Rackspace CLI (rack), tools created specifically for the purpose
 of interacting with OpenStack based clouds
 (nova and cinder)
 or general-purpose tools (cURL).
@@ -18,6 +18,7 @@ You can read about these as a group at
 :ref:`cloudservers-cli`
 or you can go directly to the tool that interests you:
 
+* :ref:`rack`
 * :ref:`nova`
 * :ref:`supernova`
 * :ref:`curl`
@@ -34,6 +35,9 @@ You can see an example of using nova and cinder together at
 where, in the "Create a Volume" section,
 ``nova volume-attach`` associates a volume with a server
 and ``cinder list`` confirms that association.
+
+Alternatively, Rackspace CLI works with most functions without having to switch
+clients.
 
 Before you can use one of these tools,
 you must install a local (client) copy.

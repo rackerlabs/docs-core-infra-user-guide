@@ -4,9 +4,9 @@
 Cloud Networks and CLIs: neutron
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To interact with Cloud Networks at the command line,
-you can use tools created specifically for the purpose
+you can use Rackspace CLI (rack), tools created specifically for the purpose
 of interacting with OpenStack based clouds
-(nova and neutron)
+(nova and neutron),
 or general-purpose tools (cURL).
 
 Because Cloud Servers and Cloud Networks work so
@@ -18,11 +18,13 @@ You can read about these as a group at
 :ref:`cloudservers-cli`
 or you can go directly to the tool that interests you:
 
+* :ref:`rack`
 * :ref:`nova`
 * :ref:`supernova`
 * :ref:`curl`
 
-You can also use the
+If you choose to use tools created specifically for interacting with Openstack
+based clouds, use
 :ref:`neutron`,
 focused on Cloud Networks.
 
@@ -38,6 +40,9 @@ example:
 * ``neutron subnet-create`` establishes a new subnet
 * ``nova boot`` initializes a new server with the new subnet
 * ``nova list`` verifies the new server's IP address
+
+Alternatively, Rackspace CLI works with most functions without having to switch
+clients.
 
 Before you can use one of these tools,
 you must install a local (client) copy.

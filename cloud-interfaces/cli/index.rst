@@ -7,7 +7,10 @@ If you want to manage your cloud configuration
 by typing commands or executing shell scripts,
 you can use command-line interfaces (CLIs)
 provided by OpenStack and,
-in some cases, supported by Rackspace.
+in some cases, supported by Rackspace. You can also use Rackspace's dedicated CLI
+client, Rackspace CLI.
+
+
 
 
 

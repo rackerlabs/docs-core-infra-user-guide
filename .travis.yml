@@ -4,25 +4,18 @@ python:
 sudo: false
 env:
   global:
-  - CONTENT_ID_BASE=https://github.com/rackerlabs/docs-core-infra-user-guide
   # Production
-  - secure: bqyQgEBTy7PdNaRQO0l7CJRWQjtKv2RFFslpI4MQgVBWpGJQowtFw7AFvwXUHKz2grWCWjIdyIx6ZboV+jwC3etT0wsIBXcRj/NFC29/97e7IriTMDbkvvjI054APH9RAjRgcZh3HFZPyq++y9c/FObvP+LKqIYDjtaV8e6KLqc=
-  - secure: AdEXTI1fph+EHAvWT+pVXmovw5tJmraMFjUeX1dzvBs/8qIQZYjz5xjrJPusX1s9u8rcIjuZJW8qsrScldxDD7eA/w/FVdpttXyl7MSD2XcNM7tHQNJOKUSSokizU9CqczR6ZEmZofxw41h+CaLC5tVYiOrMGwdcvXwos9cfI7s=
-  - secure: E1sD8ZSwI6guokyg0hIhw+IDVEbDpLBTfEngq0tazpII/fLGgXFPt1un7KKzsuliv5QJi4mIs+d2oV6Idz0Rm5yM0Jj70jcX3nV4Qzryu5qXiJ+as/O5cJsnwct6OxG4Exra9EQtSGG+wsg0EikgEGvq5JQvlRYeUX3Trhv5+JQ=
+  - secure: Kntz9PzJTX3kWjlVgj/pYzK3C60w1oftaqGQpASEOA1+PEZPmwMUDz5JByYUU+jkzvj3bnMUZ0acEqAX9Or1a7RK004lFQfqmmgs94ruEjmRfEpIFvEuB/GHkNaF6slF75SPDxVJKdQyK+PcWAK7YhXoeTJhrk1kexLW/Ya61hM=
+  - secure: d/TAc/P1ao8XeivwkhJQ9zE78AhHCoTYnCsWfRhgN7DgecJKB4TR5s4JSTm66qz7oGB43tUdizMza3wa8wbiD2Ngf1Ir3hNCSTjH8knQRM/h8HIOHHIMKb2REQNV8i488wi/klrIYFNblPv+pzyvcTj+colx9Ge5jXAX6gERqgA=
+  - secure: MIya9GdP+56BUspzDz/NPKvRImbNmapy2zjZfwGRoESEtO3Epl4cTMH6YGq59aNLPKUmJZxdfBxARJl/XNPKYbalsGExoiJ7oGp2LHXpk8bbDr4nbmREonLHaKfZFUDMdI9CfQ5VHrC4amkwkcDGgRGcJf6+dkuqA9cMjoSV3Ks=
   # Staging
-  - secure: WtHbzFieEklnQyPVINtmB54OAEt2Q8RCaety5QNNOG9Slk0Vpu/aPMuN+ti0dCP+5Am8XmOwsMLmXMLooPhh7hMOIrGC0XMXtll1BjCi8dkAfPleLb0gGLjN1mnHy6BLfN+Yvoo/A+rq/wY492Sjf5TcTaecUfvfUUOo/jfmqmA=
-  - secure: HxX0/2blDBERqZulOl4K8PEkAvSZVDOSmTcRZEvPVZMK0u4VZr8NlU0OA8zR1lV0ZiIzj5MfVsGLYWGi0jR5R3ugpCYaRH0pJdvSfcREgevOdAgsVIvZysTq5PkfpH+b/yX8blrMWDDlsLoOQ//Co0IrXcYTLYL6Z9IY1wOlC10=
-  - secure: ZFupFiH5oq0Jesv8ngM1OmjRtxalfVz5YDAPez3ptgSWagCWAVZ07Egh/mzbFGXCBkf4eg5IJqfPEyKnZOv5P/tD6v0KFRDvwv4T6vOfSXxaGISG/arAZjO+4d2+WRyro89MAhkQX3AeTEe7i3/xPXOaKjx+6jTOfK+N9+lZVD0=
-  matrix:
-  - DESC=production APIKEY_VAR1=PROD_APIKEY1 APIKEY_VAR2=PROD_APIKEY2 APIKEY_VAR3=PROD_APIKEY3
-    CONTENT_STORE_URL=https://developer.rackspace.com:9000/
-  - DESC=staging APIKEY_VAR1=STAGING_APIKEY1 APIKEY_VAR2=STAGING_APIKEY2 APIKEY_VAR3=STAGING_APIKEY3
-    CONTENT_STORE_URL=http://104.130.43.81:8000/
+  - secure: PRlgleIjCpCfRnicBkrj1GFesMxIoinjW705H5x4172L+3ZowSbjtZcXNutv013Er2gZXN2ZFnN2fuwps+fsTOsS+o286zchlk+8UY4VdtmWqecTzJE356dQi2XYF1iCekvvrFUvsqTEkiUyXct3SIitbSodaNzzLo/hyBhYs+o=
+  - secure: TMwy0sNM9ufZ6ix1qKTGZbo96xSvdiI7gQOF+L5pVxSMH/qQfMdrMw7i+YvK4wFUcC8D6Vy2HYmpB7dEa3fBto5KAoxDvCOkObqpCVmYGdblss6LVUxtV5iHJvOr35fehkhIo4T+I3NpMOCG9hhDlK9anBltjxRZIaQG6WqwgCI=
+  - secure: TJZTQF4CfsdP2NtGOtua/tQBcaPZ2GBSOle62oH+iaXs7oWWtifDrRD1oHrEJZW8BxfmsLLLM64EmpUB/Zg5Z14D5+EmJ5cS6pb7XyDnrnCBZV9jLOTiQCdXOuMrKWh/v4gQP2iUdwjXVNfTYzPJGmEQhu1ZH4HibpYw9FPeIrg=
 install:
 - pip install -e git+https://github.com/deconst/preparer-sphinx.git#egg=deconstrst
 script:
-- export CONTENT_STORE_APIKEY=${!APIKEY_VAR1}${!APIKEY_VAR2}${!APIKEY_VAR3}
-- deconst-preparer-sphinx
+- script/cibuild
 notifications:
   slack:
     secure: atxEtnjB6lAAlHiDUoRUlKAPWAYM8bwL0ICOTpxAB6FteO3I9zWOUOdvNJwOUM/YDfhJlErXLA3jT+oWPJHaIiVc2TwiQKGLU8ldrowpGsrSznTTQ/EihgTISSH1rNbSB7Wm9YkPCxTY7G/ryW3pX3ZQdGcAanPiMm8mvbwcNhM=

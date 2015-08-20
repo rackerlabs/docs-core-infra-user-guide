@@ -9,7 +9,7 @@ for interacting with REST APIs.
 Using cURL to submit a single request at the command line is
 a common method of experimenting with an API before deciding
 whether to write software to automate that request. The
-:rax-docs:`Rackspace's API documentation <>`
+:rax-docs:`Rackspace API documentation <>`
 includes
 many cURL-based examples.
 

@@ -3,31 +3,17 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cloud Files and CLIs: swift and swiftly
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+To interact with Cloud Block Storage at the command line, you can
+use tools created specifically for the purpose of interacting
+with OpenStack-based clouds, such as Rackspace CLI (rack), swift, and
+swiftly, or general-purpose tools (cURL).
 
-To interact with Cloud Files at the command line, you can use Rackspace CLI (rack), tools
-created specifically for the purpose of interacting with OpenStack based
-clouds (nova, swift, and swiftly) or general-purpose tools (cURL).
-
-Because Cloud Servers and Cloud Files work so closely together,
-the command-line tools that work well with Cloud Servers also
-work well with Cloud Files.
-
-You can read about these as a group at :ref:`cloudservers-cli`
-or you can go directly to the tool that interests you:
+For more information about these tools, see the following
+resources:
 
 * :ref:`rack`
-* :ref:`nova`
-* :ref:`supernova`
-* :ref:`curl`
-
-You can also use the :ref:`swift` or :ref:`swiftly`, focused on Cloud Files.
-
-In working with Cloud Files, you might find that you need to use
-nova for some functions and swift for others. You should install
-them both.
-
-Alternatively, Rackspace CLI works with most functions without having to switch
-clients.
+* :ref:`swift`
+* :ref:`swiftly`
 
 Before you can use one of these tools, you must install a
 local (client) copy. The installation procedure varies for each
@@ -41,11 +27,6 @@ lists those requests for Cloud Files.
 The *Getting Started Guide for the Cloud Files API* includes many
 examples of using cURL, especially at
 :rax-docs:`Using the API directly by using cURL <files/api/v1/cf-getting-started/content/Using_the_API_Directly.html>`.
-
-
-
-
-
 
 
 

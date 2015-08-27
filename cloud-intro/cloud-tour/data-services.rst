@@ -52,9 +52,9 @@ Object Rocket at a glance
 |                                            |                                                  |
 | .. image::                                 | * :rocket:`Product overview <features>`          |
 |    /_images/logo-objectrocket-50x50.png    | * :rocket:`Pay only for what you use <pricing>`  |
-|    :alt: Cloud Databases provides          | * Open-source roots:                             |
-|          on-demand provisioning and        |   :rocket:`Object Rocket <>`                     |
-|          open APIs.                        |                                                  |
+|    :alt: Object Rocket provides            | * Open-source roots:                             |
+|          managed instances of MondoDB      |   :rocket:`Object Rocket <>`                     |
+|          and Redis.                        |                                                  |
 |    :align: center                          |                                                  |
 |                                            |                                                  |
 | Object Rocket provides                     |                                                  |

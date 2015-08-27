@@ -4,7 +4,7 @@
 Rackspace CLI
 ^^^^^^^^^^^^^
 
-Rackspace Command Line Interface(*rack*) is a unified tool you can use to manage your Rackspace
+Rackspace Command Line Interface(rack) is a unified tool you can use to manage your Rackspace
 services.
 
 As opposed to using different clients to perform different tasks, *rack* requires

@@ -11,6 +11,17 @@ add it to the top of the appropriate
 
 ** Links from Rackspace sources **
 
+* at https://community.rackspace.com/products/f/25/t/5824, 
+  links in article to 
+  /user-guides/infrastructure/, 
+  /user-guides/infrastructure/cloud-intro/#cloud-intro, 
+  /user-guides/infrastructure/cloud-interfaces/#cloud-interfaces, 
+  /user-guides/infrastructure/cloud-config/#cloud-config, 
+  /user-guides/infrastructure/cloud-preprod/#cloud-preprod, 
+  /user-guides/infrastructure/cloud-ops/#cloud-ops, 
+  and to higher level at 
+  http://www.developer.rackspace.com/docs
+
 * at http://www.rackspace.com/blog/from-months-to-minutes-rapidly-deploy-production-ready-application-stacks-on-rackspace-private-cloud, 
   comment below the article links to
   /cloud-preprod/stack/

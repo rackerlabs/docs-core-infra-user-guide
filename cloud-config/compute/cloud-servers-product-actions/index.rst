@@ -115,7 +115,7 @@ the primary method of access.
   `here <http://www.rackspace.com/knowledge_center/article/managing-your-server-start-a-console-session>`__.
 
 * To find how to retrieve console output for a specified server using the API click
-  `here <http://www.rackspace.com/knowledge_center/article/managing-your-server-start-a-console-session>`__.
+  `here <http://api.rackspace.com/api-ref.html#getConsole>`__.
 
 
 Delete

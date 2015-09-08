@@ -38,7 +38,7 @@ the version of the operating system utilized by the sever, and minimum
 disk and ram requirements which affects which flavors can be used with the image.
 
 * The Cloud Control Panel can update certain properties of a saved image.  To do so,
-  click on **Saved Images** under the **Servers tab on the top of the page. On your list
+  click on **Saved Images** under the **Servers tab** on the top of the page. On your list
   of saved images, click the cog next to the name of the image you wish to update. A
   drop down menu of attributes you can update will appear. Simply click the property
   you wish to update.

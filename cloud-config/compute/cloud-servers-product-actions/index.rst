@@ -84,12 +84,9 @@ with any changes made. Rescue mode is automatically exited after 24 hours.
 
 Reboot
 ------
-The reboot action performs a soft or hard reboot of the server.
-
-* A soft reboot is a graceful shutdown and restart of the server's
-  operating system.
-* A hard reboot power cycles your server, which performs an immediate
-  shutdown and restart.
+The reboot action performs a soft or hard reboot of the server. A soft reboot is a graceful shutdown and restart of the server's
+operating system. A hard reboot power cycles your server, which performs an immediate
+shutdown and restart.
 
 - To find out how to reboot a server using the Cloud Control Panel
   click `here <http://www.rackspace.com/knowledge_center/article/managing-your-server-reboot-your-server>`__.

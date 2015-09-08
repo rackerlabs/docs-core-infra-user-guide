@@ -38,7 +38,7 @@ the version of the operating system utilized by the sever, and minimum
 disk and ram requirements which affects which flavors can be used with the image.
 
 * The Cloud Control Panel can update certain properties of a saved image.  To do so,
-  click on **Saved Images** under the **Servers tab** on the top of the page. On your list
+  click on **Saved Images** under the Servers tab on the top of the page. On your list
   of saved images, click the cog next to the name of the image you wish to update. A
   drop down menu of attributes you can update will appear. Simply click the property
   you wish to update.
@@ -53,7 +53,7 @@ is shared. This process is also called *image sharing*. You can find more inform
 :ref: `cloud-images-sharing-models`.
 
 * To find out how to create an image member using the Cloud Control panel click
-   `here <http://www.rackspace.com/knowledge_center/article/sharing-images-in-the-cloud-control-panel>`__.
+  `here <http://www.rackspace.com/knowledge_center/article/sharing-images-in-the-cloud-control-panel>`__.
 
 * To find out how to create an image member using the API
   click `here <http://api.rackspace.com/api-ref-images.html#createImageMember>`__.

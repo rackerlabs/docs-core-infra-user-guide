@@ -103,6 +103,7 @@ extlinks = {
     'kc': ('http://www.rackspace.com/knowledge_center/%s', ''),
     'kc-article': ('http://www.rackspace.com/knowledge_center/article/%s', ''),
     'kc-faq': ('http://www.rackspace.com/knowledge_center/frequently-asked-question/%s', ''),
+    'kc-product-faq': ('http://www.rackspace.com/knowledge_center/product-faq/%s', ''),
     'os': ('http://www.openstack.org/%s', ''),
     'os-docs': ('http://docs.openstack.org/%s', ''),
     'os-wiki': ('http://wiki.openstack.org/%s', ''),

@@ -16,44 +16,44 @@ begin at one of the following topics:
 * :ref:`cloudimages-cli`
 * :ref:`cloudimages-api`
 
-Image actions
--------------
-* List images
-* Get image details
-* Update an image
-* Delete an image
+Create an image backup
+----------------------
+The create image action allows you to create an image of a cloud server (also
+known as cloning a server). When you create an image from a server, you are
+essentially saving that servers operating system for a later use. Creating an
+image can also assist in restoring a server from a saved image.
 
-Image sharing actions, for image producers only
------------------------------------------------
-* Create an image member
-* Delete an image member
+* To find out how to create an image using the Cloud Control Panel click
+  `here <http://www.rackspace.com/knowledge_center/article/create-an-image-of-a-server-and-restore-a-server-from-a-saved-image>`__.
 
-Image sharing actions, for image consumers only
------------------------------------------------
-* Update an image member
+* To find out how to create an image using the API click
+  `here <http://api.rackspace.com/api-ref.html#createImage>`__.
 
-Image sharing actions, for both image producers and image consumers
--------------------------------------------------------------------
-* List image members
-* Get image member details
 
-Image tag actions
------------------
-* Add an image tag
-* Delete an image tag
+Update an image
+---------------
+This action allows you to update an image that you own. Properties that can be updated
+includes the name of the image, any associated tags included in the image,
+the version of the operating system utilized by the sever, and minimum
+disk and ram requirements which affects which flavors can be used with the image.
 
-Image task actions
-------------------
-* List tasks
-* Get task details
-* Import an image by using an asynchronous task request
-* Export an image by using an asynchronous task request
+* The Cloud Control Panel can update certain properties of a saved image.  To do so,
+  click on **Saved Images** under the Servers tab on the top of the page. On your list
+  of saved images, click the cog next to the name of the image you wish to update. A
+  drop down menu of attributes you can update will appear. Simply click the property
+  you wish to update.
 
-Image schema actions
---------------------
-* Get schema for all images
-* Get schema for a specified image
-* Get schema for all image members
-* Get schema for a specified image member
-* Get schema for all tasks
-* Get schema for a specified task
+* To find out how to update an image using the API click
+  `here <http://api.rackspace.com/api-ref-images.html#updateImage>`__.
+
+Create an image member
+----------------------
+This action allows you to add users to the list of members with whom the image
+is shared. This process is also called *image sharing*. You can find more information on image sharing on the page,
+:ref: `cloud-images-sharing-models`.
+
+* To find out how to create an image member using the Cloud Control panel click
+  `here <http://www.rackspace.com/knowledge_center/article/sharing-images-in-the-cloud-control-panel>`__.
+
+* To find out how to create an image member using the API
+  click `here <http://api.rackspace.com/api-ref-images.html#createImageMember>`__.

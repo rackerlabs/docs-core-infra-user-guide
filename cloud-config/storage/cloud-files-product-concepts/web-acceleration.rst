@@ -62,7 +62,8 @@ For web acceleration, this allows pathing that displays in the
 browser. For example, a pathed object named ducks/funny/duckling.jpg
 would become
 
-.. code-block::
+.. code::
+
    http://c123456.r02.cf3.rackcdn.com/ducks/funny/duckling.jpg
 
 .. TIP::

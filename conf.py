@@ -97,8 +97,8 @@ extlinks = {
     'rax-cloud': ('http://www.rackspace.com/cloud/%s', ''),
     'rax-docs': ('http://docs.rackspace.com/%s', ''),
     'rax-dev': ('https://developer.rackspace.com/%s', ''),
-    'rax-dev-blog': ('https://developer.rackspace.com/blog/%s', '')
-    'rax-dev-docs': ('https://developer.rackspace.com/docs/%s', '')
+    'rax-dev-blog': ('https://developer.rackspace.com/blog/%s', ''),
+    'rax-dev-docs': ('https://developer.rackspace.com/docs/%s', ''),
     'rax-dev-quickstart': ('https://developer.rackspace.com/docs/%s', ''),
     'rax-dev-devguide': ('https://developer.rackspace.com/docs/%s', ''),
     'rax-dev-userguide': ('https://developer.rackspace.com/docs/user-guides/%s', ''),

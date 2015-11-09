@@ -39,7 +39,7 @@ Best practices for orchestration
 
 *  Use config drive and cloud-init to bootstrap your servers
    as described at
-   :rax-dev:`Using Cloud-init with Rackspace cloud <blog/using-cloud-init-with-rackspace-cloud/>`.
+   :rax-dev-blog:`Using Cloud-init with Rackspace cloud <using-cloud-init-with-rackspace-cloud>`.
 
 *  For Cloud Images, use the UUID where possible because the UUID
    of an image cannot change, whereas the name cannot be guaranteed
@@ -70,7 +70,7 @@ Best practices for storage
 Best practices for networking
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *  Use
-   :kc:`ServiceNet <frequently-asked-question/what-is-servicenet>` 
+   :kc:`ServiceNet <frequently-asked-question/what-is-servicenet>`
    to communicate between Cloud Servers and Cloud Files and Cloud Databases.
    Use Cloud
    Networks for server-to-server communication.

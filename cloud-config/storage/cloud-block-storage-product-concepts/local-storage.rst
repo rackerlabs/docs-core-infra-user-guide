@@ -53,7 +53,7 @@ on systems that differ only in their storage configuration.
 
 You can see the results of a performance experiment
 comparing Rackspace storage technologies at
-:rax-dev:`Determining Optimal Storage based on IOPS <blog/determining-optimal-storage-based-on-iops/>`.
+:rax-dev-blog:`Determining Optimal Storage based on IOPS <determining-optimal-storage-based-on-iops>`.
 In that experiment,
 Cloud Block Storage on SSD performed
 better than any other option tested.

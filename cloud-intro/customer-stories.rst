@@ -16,6 +16,6 @@ customer stories include:
 
 * :rax:`Postings in the "Partner & Customer Updates" channel of the Rackspace blog <blog/channels/partner-and-customer-updates>`
 
-* :rax-dev:`Postings from Racker and customer developers in the Rackspace developer blog <blog>`
+* :rax-dev-blog:`Postings from Racker and customer developers in the Rackspace developer blog < >`
 
 * `Discussions with Rackers and customers in the Rackspace Community <https://community.rackspace.com/>`__

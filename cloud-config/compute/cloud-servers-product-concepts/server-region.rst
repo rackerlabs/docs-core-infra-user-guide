@@ -27,7 +27,7 @@ cloud server.
 * If you use an SDK, you begin describing your new Cloud Server by
   authenticating at an API endpoint (which identifies a region), and
   then choosing an image and a flavor, as shown at
-  :rax-dev:`Quickstart for Cloud Servers <docs/cloud-servers/getting-started/>`.
+  :rax-dev-quickstart:`Quickstart for Cloud Servers <cloud-servers/getting-started/>`.
 
 No matter how you submit your request to create a Cloud Server, the
 resources described in the request determine the placement of your Cloud

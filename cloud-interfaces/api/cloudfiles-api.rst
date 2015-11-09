@@ -123,7 +123,7 @@ you can see an example of
 Learn about Cloud Files in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the
-:rax-dev:`SDK QuickStart for Cloud Files <docs/cloud-files/getting-started>`,
+:rax-dev-quickstart:`SDK QuickStart for Cloud Files <cloud-files/getting-started>`,
 you can see some of the same steps that are documented in
 the API's Getting Started Guide. For example, bot the API-focused and
 SDK-focused documents show how to authenticate with your API
@@ -136,7 +136,7 @@ to code some commonly-used requests to the Cloud Files API.
 To see examples in a specific language, click that
 language's name in the list across the top of the page.
 For example, to see Cloud Files code samples in PHP, go to the
-:rax-dev:`SDK QuickStart for Cloud Files <docs/cloud-files/getting-started>`
+:rax-dev-quickstart:`SDK QuickStart for Cloud Files <cloud-files/getting-started>`
 and click *PHP*.
 
 .. figure:: /_images/cloudfilessdkphp.png

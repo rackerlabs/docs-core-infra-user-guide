@@ -155,7 +155,7 @@ you can see an example of
 Learn about Cloud Networks in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the
-:rax-dev:`SDK QuickStart for Cloud Networks <docs/cloud-networks/getting-started>`,
+:rax-dev-quickstart:`SDK QuickStart for Cloud Networks <cloud-networks/getting-started>`,
 you can see some of the same steps that are documented in
 the API's Getting Started Guide.
 For example, both the API-focused and SDK-focused documents
@@ -172,7 +172,7 @@ To see examples in a specific language,
 click that language's name in the list across the top of the page.
 For example, to see Cloud Networks code samples coded in Java,
 go to the
-:rax-dev:`SDK QuickStart for Cloud Networks <docs/cloud-networks/getting-started>`
+:rax-dev-quickstart:`SDK QuickStart for Cloud Networks <cloud-networks/getting-started>`
 and click *Java*.
 
 .. figure:: /_images/cloudnetworkssdkjava.png
@@ -205,4 +205,4 @@ For example, if you code in Java,
   No complete example of a *List networks* request is provided,
   but you can use the other examples as guides to help you
   adapt the partial *List networks* request in the
-  :rax-dev:`SDK QuickStart <docs/cloud-networks/getting-started/#list-networks>`.
+  :rax-dev-quickstart:`SDK QuickStart <cloud-networks/getting-started/#list-networks>`.

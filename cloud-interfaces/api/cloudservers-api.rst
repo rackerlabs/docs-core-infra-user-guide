@@ -171,7 +171,7 @@ demonstrates
 Learn about Cloud Servers in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the
-:rax-dev:`SDK QuickStart for Cloud Servers <docs/cloud-servers/getting-started/>`,
+:rax-dev-quickstart:`SDK QuickStart for Cloud Servers <cloud-servers/getting-started/>`,
 you can see some of the same steps that are documented in
 the API's Getting Started Guide.
 For example, both the API-focused and SDK-focused documents
@@ -188,7 +188,7 @@ To see examples in a specific language,
 click that language's name in the list across the top of the page.
 For example, to see Cloud Servers code samples coded in python,
 go to the
-:rax-dev:`SDK QuickStart for Cloud Servers <docs/cloud-servers/getting-started>`
+:rax-dev-quickstart:`SDK QuickStart for Cloud Servers <cloud-servers/getting-started>`
 and click **PYTHON**.
 
 .. figure:: /_images/cloudserverssdkpython.png

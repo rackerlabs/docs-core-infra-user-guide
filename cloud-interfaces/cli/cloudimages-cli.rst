@@ -57,7 +57,7 @@ especially at
 
 The *Developers Guide for the Cloud Images API*
 also demonstrates using cURL to interact with the API, such as at
-:rax-docs:`How cURL commands work <images/api/v2/ci-devguide/content/curl_stuff.html>`.
+:rax-dev-devguide:`How cURL commands work <cloud-images/v2/developer-guide/#document-general-api-info/how-curl-commands-work>`.
 
 
 

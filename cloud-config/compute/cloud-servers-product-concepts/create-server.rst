@@ -18,81 +18,115 @@ following characteristics:
 
 * **Flavor ID**:
 
-  The flavor's unique identifier, ``ID``, is used
-  in the API to specify a desired flavor, such as ``general1-1``.
-  Flavor IDs are returned by the
-  *List Flavors* API operation, described in the
-  :rax-docs:`Cloud Servers API documentation <servers/api/v2/cs-devguide/content/List_Flavors-d1e4188.html>`.
++++++++++
+Flavor ID
++++++++++
+The flavor's unique identifier, ``ID``,
+is used in the API to specify a desired flavor.
 
-* **Flavor description**:
+For example, ``general1-1``.
 
-  ``description`` is the friendly name for the flavor, such as ``general1-1``.
+Flavor IDs are returned by
+the *List Flavors* API operation,
+described in the
+:rax-dev-devguide:`Cloud Servers API documentation <cloud-servers/v2/developer-guide/#retrieve-list-of-flavors>`.
 
-* **Flavor memory**:
+++++++++++++++++++
+Flavor description
+++++++++++++++++++
+``description`` is the friendly name for the flavor.
 
-  ``memory`` is the amount of RAM, specified in megabytes, that
-  is available to this flavor. For example, 1 GB of available RAM.
+For example, ``1 GB General Purpose v1``.
 
-* **Flavor disk / system disk**:
++++++++++++++
+Flavor memory
++++++++++++++
+``memory`` is the amount of RAM, available to this flavor,
+specified in megabytes.
 
-  Sometimes also called a boot disk, ``flavor disk / system disk``
-  describes the size of the first disk that the server will attempt
-  to access and boot from, much like the first physical hard
-  drive plugged into the computer.
+For example, 1 GB of available RAM.
 
-  For example, a ``general1-1`` server has a 20 GB system disk.
++++++++++++++++++++++++++
+Flavor disk / system disk
++++++++++++++++++++++++++
+Sometimes also called boot disk,
+``flavor disk / system disk`` describes
+the size of the first disk that
+the server will attempt to access and boot from,
+much like the first physical hard drive
+plugged into a physical computer.
 
-* **Ephemeral / data disk**
+For example, a ``general1-1`` server
+has a 20 GB system disk.
 
-  Data disk space, versus *system* disk space, is additional
-  disk space spread across one or more virtual disks, available
-  to use for application data, caching, or other scenarios.
++++++++++++++++++++++
+Ephemeral / data disk
++++++++++++++++++++++
+Data disk space, versus *system* disk space,
+is additional disk space spread across one or more virtual disks,
+available to use for application data, caching,
+or other scenarios.
 
-  Not all flavors have data disks assigned to them. For example, the
-  ``general1-1`` flavor provides no data disk. In addition, there are some
-  important things to be aware of when using data disks:
+Not all flavors have data disks assigned to them.
+For example, the ``general1-1`` flavor provides no data disk.
 
-  * Data disks are not captured when a snapshot/image of your server
-    is created; only the system disk is captured. Using a backup solution
-    such as Rackspace Cloud Backup is highly recommended if you use data
-    disks to store critical data.
-  * Data disks may need to be formatted, partitioned, or grouped into
-    a software RAID group. The data disks are provided as empty or
-    raw disks in some cases to allow you maximum flexibility
-    in using them.
+In addition, there are some important things to be aware of
+when using data disks:
 
-* **Swap**:
+* Data disks are not captured when a snapshot/image
+  of your server is created; only the system disk is captured.
+  Using a backup solution such as Rackspace Cloud Backup
+  is highly recommended if you use
+  data disks to store critical data.
 
-  The size of an additional partition provided to your
-  instance that would generally be used by Linux for swamp memory space.
+* Data disks may need to be formatted, partitioned,
+  or grouped into a software RAID group.
+  The data disks are provided as empty or raw disks
+  in some cases to allow you maximum flexibility in using them.
 
-  Rackspace does not provide a swap partition for most flavors, as it can
-  degrade performance or hide memory usage issues. You should choose a
-  server flavor with enough RAM to support your application without the
-  use of swap.
+++++
+Swap
+++++
+Swap is the size of an additional partition provided
+to your instance that would generally be used by Linux
+for swap memory space.
 
-* **vCPUs**:
+Rackspace does not provide a swap partition for most flavors,
+as it can degrade performance or hide memory usage issues.
 
-  The number of virtual CPU cores available to this flavor. This is
-  important when planning and deploying applications that are
-  multi-threaded or CPU constrained. For example, the
-  ``general1-1`` flavor has 1 vCPU assigned.
+Rackspace recommends choosing a server flavor with enough RAM
+to support your application without the use of swap.
 
-  Depending on the flavor, vCPUs may be provided exclusively to your
-  instance, or may be shared in a time-slicing fashion with other
-  virtual machines.
++++++
+vCPUs
++++++
+``vCPUs`` is the number of virtual CPU cores
+available to this flavor.
+This is important when planning and deploying applications
+that are multi-threaded or CPU constrained.
 
-* **RXTX factor**:
+For example, the ``general1-1`` flavor has 1 vCPU assigned.
 
-  The amount of aggregate outbound bandwidth across all attached
-  networks (PublicNet, ServiceNet, Cloud Networks) on your
-  Cloud Server.
+Depending on the flavor,
+vCPUs may be provided exclusively to your instance,
+or may be shared in a time-slicing fashion
+with other virtual machines.
 
-  For more information on the different networks available to your
-  Cloud Server, see :ref:`network-cloud-servers-working`.
++++++++++++
+RXTX factor
++++++++++++
+The amount of aggregate outbound bandwidth across
+all attached networks (PublicNet, ServiceNet, Cloud Networks)
+on your Cloud Server.
 
-  Maximum outbound public bandwidth is limited to 40% of the
-  aggregate, while inbound traffic is not limited. In the
-  case of the ``general1-1`` flavor, aggregate bandwidth
-  of 200 Mb/s (Megabits per second) means that you can
-  generate 80 MB/s of outbound traffic.
+For more information on the different networks
+available to your Cloud Server,
+see
+:ref:`network-cloud-servers-working`.
+
+Maximum outbound public bandwidth is limited to 40%
+of the aggregate, while inbound traffic is not limited.
+In the case of the ``general1-1`` flavor,
+aggregate bandwidth of 200 Mb/s
+(Megabits per second) means that you can
+generate 80 Mb/s of outbound traffic.

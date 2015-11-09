@@ -36,7 +36,7 @@ In working with Cloud Images,
 you might find that you need to use nova for some functions
 and glance for others. You should install them both.
 You can see an example of using nova and glance together at
-:rax-dev:`OpenStack CLI Basics <blog/openstack-cli-basics>`
+:rax-dev-blog:`OpenStack CLI Basics <openstack-cli-basics>`
 where, in the "Creating a Modified Image" section,
 ``glance image-create`` establishes a new image
 and ``nova boot`` initializes a new server from that image.
@@ -61,7 +61,7 @@ especially at
 
 The *Developers Guide for the Cloud Images API*
 also demonstrates using cURL to interact with the API, such as at
-:rax-docs:`How cURL commands work <images/api/v2/ci-devguide/content/curl_stuff.html>`.
+:rax-dev-devguide:`How cURL commands work <cloud-images/v2/developer-guide/#document-general-api-info/how-curl-commands-work>`.
 
 
 

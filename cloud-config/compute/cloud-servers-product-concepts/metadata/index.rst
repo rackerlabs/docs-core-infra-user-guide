@@ -28,8 +28,8 @@ Cloud Images metadata (also known image properties), see
 
 Currently, the OpenStack command-line nova utility or API must be used
 to view, set, or delete metadata on a cloud server. For more information
-on using the API to work with server metadata, see
-:rax-docs:`Metadata <servers/api/v2/cs-devguide/content/MetadataSection.html>`
+on using the API to work with server metadata, see the
+:rax-dev-devguide:`metadata operations <cloud-servers/v2/developer-guide/#list-server-metadata>`
 in the *Next Gen Cloud Servers API Developer Guide*.
 
 

@@ -28,7 +28,7 @@ For example, ``general1-1``.
 Flavor IDs are returned by
 the *List Flavors* API operation,
 described in the
-:rax-docs:`Cloud Servers API documentation <servers/api/v2/cs-devguide/content/List_Flavors-d1e4188.html>`.
+:rax-dev-devguide:`Cloud Servers API documentation <cloud-servers/v2/developer-guide/#retrieve-list-of-flavors>`.
 
 ++++++++++++++++++
 Flavor description

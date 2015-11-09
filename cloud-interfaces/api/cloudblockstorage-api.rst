@@ -167,7 +167,7 @@ you can see an example of
 Learn about Cloud Block Storage in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the
-:rax-dev:`SDK QuickStart for Cloud Block Storage <docs/cloud-block-storage/getting-started>`,
+:rax-dev-quickstart:`SDK QuickStart for Cloud Block Storage <cloud-block-storage/getting-started>`,
 you can see some of the same steps that are documented in
 the API's Getting Started Guide.
 For example, both the API-focused and SDK-focused documents
@@ -184,7 +184,7 @@ To see examples in a specific language,
 click that language's name in the list across the top of the page.
 For example, to see Cloud Block Storage code samples coded in PHP,
 go to the
-:rax-dev:`SDK QuickStart for Cloud Block Storage <docs/cloud-block-storage/getting-started>`
+:rax-dev-quickstart:`SDK QuickStart for Cloud Block Storage <cloud-block-storage/getting-started>`
 and click *PHP*.
 
 .. figure:: /_images/cloudblockstoragesdkphp.png

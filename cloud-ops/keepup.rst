@@ -13,7 +13,7 @@ ways to keep up with the news:
 *  Read Rackspace blogs, both the
    :rax:`general-interest blog <blog/>`
    and the
-   :rax-dev:`developer blog <blog/>`.
+   :rax-dev-blog:`developer blog < >`.
 
 *  Subscribe to relevant discussion forums in the
    `Rackspace Community <https://community.rackspace.com/products/f/forumsubscriptions>`__.

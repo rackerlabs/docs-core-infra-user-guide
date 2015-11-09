@@ -150,7 +150,7 @@ you can see an example of
 Learn about Cloud Images in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the
-:rax-dev:`SDK QuickStart for Cloud Images <docs/cloud-images/getting-started>`,
+:rax-dev-quickstart:`SDK QuickStart for Cloud Images <cloud-images/getting-started>`,
 you can see some of the same steps that are documented in
 the API's Getting Started Guide.
 For example, both the API-focused and SDK-focused documents
@@ -167,7 +167,7 @@ To see examples in a specific language,
 click that language's name in the list across the top of the page.
 For example, to see Cloud Images code samples coded in python,
 go to the
-:rax-dev:`SDK QuickStart for Cloud Images <docs/cloud-images/getting-started>`
+:rax-dev-quickstart:`SDK QuickStart for Cloud Images <cloud-images/getting-started>`
 and click **PYTHON**.
 
 .. figure:: /_images/cloudimagessdkpython.png

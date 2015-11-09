@@ -19,7 +19,7 @@ When Rackspace makes a new service generally available,
 all customers are given access to that service.
 When a new service is made available to you,
 its endpoint is added to the
-:rax-docs:`service catalog <auth/api/v2.0/auth-client-devguide/content/Sample_Request_Response-d1e64.html>`
+:rax-dev-devguide:`service catalog <cloud-identity/v2/developer-guide/#service-catalog-resource-authentication-response-attributes>`
 that is returned when you authenticate before using an API or CLI.
 
 If you meet eligibility criteria,

@@ -62,7 +62,7 @@ python-cinderclient active at the API endpoint for
 Cloud Block Storage.
 You can see both methods demonstrated in the Cloud Block Storage
 API documentation, under
-:rax-docs:`Cloud Block Storage quotas <cbs/api/v1.0/cbs-devguide/content/serviceQuotas-d1e01.html>`.
+:rax-dev-devguide:`Cloud Block Storage quotas <cloud-block-storage/v1/developer-guide/#document-general-api-info/cloud-block-storage-quotas>`.
 
 * cinder users send a short command,
   reusing details provided when the cinder client was configured::

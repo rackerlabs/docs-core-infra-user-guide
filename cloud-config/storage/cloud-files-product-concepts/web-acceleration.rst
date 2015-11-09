@@ -67,7 +67,7 @@ would become
 
 .. code::
 
-   http://c123456.r02.cf3.rackcdn.com/ducs/funny/duckling.jpg
+   http://c123456.r02.cf3.rackcdn.com/ducks/funny/duckling.jpg
 
 .. TIP::
    You can use CNAME records to link your Cloud Files container to a

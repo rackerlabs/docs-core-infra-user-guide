@@ -4,8 +4,8 @@
 Rackspace Cloud Guide to Core Infrastructure Services
 =====================================================
 
-Introduction
-------------
+*Last updated:* |today|
+
 This is a guide to the core infrastructure services
 at the heart of the Rackspace cloud:
 

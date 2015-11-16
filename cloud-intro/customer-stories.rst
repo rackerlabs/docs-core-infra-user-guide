@@ -7,7 +7,7 @@ You have big ideas of your own, but thinking about what other customers
 have accomplished in the Rackspace cloud may give you some new
 inspiration. To learn about customers who have used the cloud to help them
 meet some of the same challenges you are facing, start at
-`rackStories: Rackspace customer culture <http://stories.rackspace.com/customers>`__.
+`RackStories: Rackspace customer culture <http://stories.rackspace.com/>`__.
 
 Other good places to find
 customer stories include:

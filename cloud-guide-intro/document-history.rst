@@ -3,6 +3,9 @@
 ================
 Document history
 ================
+
+*Last updated:* |today|
+
 This version of the guide
 replaces and obsoletes
 all previous versions.

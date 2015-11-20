@@ -36,9 +36,14 @@ install specific software in addition to the operating system. To do
 that through the Cloud Control Panel, choose **Create Stack** rather than
 **Create Server**, and then choose a template that describes
 the software that you want
-to install. We frequently expand the list of templates; as of
-July 24, 2015,
-the following templates are available:
+to install.
+
+We frequently expand the list of templates.
+The list below is a recent snapshot;
+to see the complete, up-to-the-minute list of templates,
+login to the
+:mycloud:`Cloud Control Panel <>`
+and click **Orchestration**.
 
 .. raw:: html
    :file: stacks-from-control-panel.html

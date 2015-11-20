@@ -19,22 +19,25 @@ by
 Highlights of the most recent changes are described
 in the table below:
 
-+------------------+----------------------------------------------------------------+
-| Revision Date    | Summary of Changes                                             |
-+==================+================================================================+
-| July 23, 2015    | * Added Ansible Tower to list of stack templates               |
-|                  |   at :ref:`stack`.                                             |
-+------------------+----------------------------------------------------------------+
-| July 23, 2015    | * Added Cloud Files as fifth core product.                     |
-+------------------+----------------------------------------------------------------+
-| June 25, 2015    | * Updated list of stack templates at :ref:`stack`.             |
-+------------------+----------------------------------------------------------------+
-| June 18, 2015    | * First publication at :rax-dev:`developer.rackspace.com <>`.  |
-+------------------+----------------------------------------------------------------+
-| June 1, 2015     | * First draft with complete content.                           |
-+------------------+----------------------------------------------------------------+
-| May 22, 2014     | * Begin document development.                                  |
-+------------------+----------------------------------------------------------------+
++-------------------+----------------------------------------------------------------+
+| Revision Date     | Summary of Changes                                             |
++===================+================================================================+
+| November 20, 2015 | * Added Hadoop, Kafka, and Trusted Analytics Platform          |
+|                   |   to list of stack templates                                   |
+|                   |   at :ref:`stack`.                                             |
++-------------------+----------------------------------------------------------------+
+| July 23, 2015     | * Added Ansible Tower to list of stack templates               |
+|                   |   at :ref:`stack`.                                             |
+|                   | * Added Cloud Files as fifth core product.                     |
++-------------------+----------------------------------------------------------------+
+| June 25, 2015     | * Updated list of stack templates at :ref:`stack`.             |
++-------------------+----------------------------------------------------------------+
+| June 18, 2015     | * First publication at :rax-dev:`developer.rackspace.com <>`.  |
++-------------------+----------------------------------------------------------------+
+| June 1, 2015      | * First draft with complete content.                           |
++-------------------+----------------------------------------------------------------+
+| May 22, 2014      | * Begin document development.                                  |
++-------------------+----------------------------------------------------------------+
 
 .. Estimated publication date;
    adjust when finalized.

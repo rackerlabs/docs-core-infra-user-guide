@@ -1,4 +1,4 @@
-.. _image_properties:
+.. _image-properties:
 
 ~~~~~~~~~~~~~~~~
 Image properties
@@ -57,3 +57,5 @@ properties. Among these properties are:
 * ``owner``: Indicates who owns the image
 
 * ``id``: A universally unique identifier (UUID) assigned to this image
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

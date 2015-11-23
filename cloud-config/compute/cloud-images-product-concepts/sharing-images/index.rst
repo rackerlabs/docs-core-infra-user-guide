@@ -18,6 +18,8 @@ useful for many scenarios:
   create a single central image and then share it with other accounts
   so they do not have to create one themselves.
 
+.. include:: /_common/seealso-concepts-cloud-images.txt
+
 
 .. toctree:: :hidden:
    :maxdepth: 2

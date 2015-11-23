@@ -17,3 +17,5 @@ different kinds of accounts.
 
 * For **RackConnect** accounts, default networking configurations are
   changed as needed.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

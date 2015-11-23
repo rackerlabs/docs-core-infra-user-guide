@@ -25,3 +25,5 @@ script. Instead, you should use some custom image property to identify
 an image as containing the SuperOS operating system, and then program
 your script to use the filtering abilities of the Cloud Images API to
 locate the image that you want.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

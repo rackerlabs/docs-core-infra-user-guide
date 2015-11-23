@@ -1,4 +1,4 @@
-.. cloud-images-sharing-planning:
+.. _cloud-images-sharing-planning:
 
 ++++++++++++++++++++++++++++++++++++++
 Planning to share or use shared images
@@ -62,3 +62,5 @@ container in one region and then retrieving it from the container
 in another region. This is a complex, multi-step method but it might be
 worth the effort to master it if you need consistent images
 in multiple regions.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

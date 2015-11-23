@@ -15,3 +15,5 @@ operating system:
 Regardless of which operating system an image uses, critical patches are
 applied to base images as soon as possible even if the change falls
 outside of the usual update schedule.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

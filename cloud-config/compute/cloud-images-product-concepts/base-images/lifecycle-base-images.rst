@@ -16,3 +16,5 @@ the image ID when using the Cloud Servers API.
 Older images that have been
 removed from the default list are no longer maintained and might not
 contain the most recent patches or package updates.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

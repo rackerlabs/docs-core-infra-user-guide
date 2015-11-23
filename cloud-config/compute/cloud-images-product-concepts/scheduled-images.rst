@@ -1,4 +1,4 @@
-.. scheduled-images:
+.. _scheduled-images:
 
 ~~~~~~~~~~~~~~~~
 Scheduled images
@@ -12,3 +12,5 @@ solution for you depends on your use case.
 For more information, see the
 :kc-article:`Scheduled Images FAQ <scheduled-images-faq>` in
 the Rackspace Knowledge Center.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

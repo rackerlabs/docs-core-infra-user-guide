@@ -28,3 +28,5 @@ perform some preparatory steps:
       the producer;
       the producer cannot search, browse, or otherwise discover
       a consumer's unique ID.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

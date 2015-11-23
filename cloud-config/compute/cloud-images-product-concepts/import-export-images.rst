@@ -61,3 +61,5 @@ licensing restrictions), you might not be able to import that image back
 into the Rackspace public cloud. That’s because some of the Cloud Servers
 flavors have system disks that exceed 40 GB. 40GB is the maximum size
 that you can import.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

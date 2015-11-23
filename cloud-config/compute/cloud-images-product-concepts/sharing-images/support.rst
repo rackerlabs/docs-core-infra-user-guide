@@ -1,4 +1,4 @@
-.. cloud-images-sharing-support:
+.. _cloud-images-sharing-support:
 
 +++++++++++++++++++++++++++++++++
 Getting support for shared images
@@ -17,3 +17,5 @@ to verify whether any servers created from the images have
 problems booting or other
 issues, but detailed troubleshooting of any specific additional
 functionality is the responsibility of the image producer.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

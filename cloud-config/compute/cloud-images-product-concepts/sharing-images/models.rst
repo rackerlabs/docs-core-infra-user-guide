@@ -95,3 +95,5 @@ Image members can have any of the following statuses:
    the consumer can use the image
    but must know the image ID
    since the image is not shown in the image list.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

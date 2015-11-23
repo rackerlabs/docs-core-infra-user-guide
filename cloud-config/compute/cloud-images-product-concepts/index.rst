@@ -11,7 +11,13 @@ images in the Virtual Hard Disk (VHD) format. The VHD format was
 developed by Microsoft and is used by the Microsoft Hyper-V and Citrix
 XenServer hypervisors, among others.
 
+..
+.. below, the include provides visible links
+.. (these deep levels are all invisible in the navbar)
+.. and the toctree controls the next/previous structure
+..
 
+.. include:: /_common/seealso-concepts-cloud-images.txt
 
 .. toctree:: :hidden:
    :maxdepth: 2

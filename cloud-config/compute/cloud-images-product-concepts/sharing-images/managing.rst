@@ -1,4 +1,4 @@
-.. cloud-images-sharing-managing:
+.. _cloud-images-sharing-managing:
 
 ++++++++++++++++++++++
 Managing shared images
@@ -52,3 +52,5 @@ Any members who *rejected* the share request are considered
 members, even though they cannot see or access the
 image. The image producer should delete these members from the
 image if they no longer have reason to be included.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

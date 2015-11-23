@@ -20,3 +20,5 @@ observing your Cloud Server's task state.
 For more information, see
 :kc-article:`Using Task States with Server Imaging <using-task-states-with-server-imaging>`
 in the Rackspace Knowledge Center.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

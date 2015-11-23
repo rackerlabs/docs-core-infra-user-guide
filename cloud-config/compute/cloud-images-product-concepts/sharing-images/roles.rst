@@ -22,3 +22,5 @@ Image sharing is not a relationship of peers:
 As a reminder of this unequal relationship,
 images are shared from producers *to* (not *with*)
 consumers.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

@@ -1,4 +1,4 @@
-.. custom-images:
+.. _custom-images:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Creating custom images from servers
@@ -56,3 +56,5 @@ updates Rackspace makes to its base images. For example, when a base
 image is updated to address a security vulnerability, you can use your
 bootstrapping tools to prepare an updated image of your particular
 application server.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt

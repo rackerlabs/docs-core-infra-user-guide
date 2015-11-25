@@ -17,5 +17,6 @@
    |   * :ref:`show-metadata`         |                                            |
    +----------------------------------+--------------------------------------------+
 
+   :ref:`cloud-servers-product-concepts` introduces key ideas. 
    To learn how to put these ideas to work,
    start at :ref:`cloud-servers-product-actions`.

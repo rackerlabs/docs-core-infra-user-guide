@@ -11,5 +11,6 @@
    |                                |                                  |   * :ref:`cloud-images-sharing-support`    |
    +--------------------------------+----------------------------------+--------------------------------------------+
 
+   :ref:`cloud-images-product-concepts` introduces key ideas.
    To learn how to put these ideas to work,
    start at :ref:`cloud-images-product-actions`.

@@ -1,7 +1,7 @@
 .. _ideal-uses:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-Ideal Uses for Cloud Files
+Ideal uses for Cloud Files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 The Cloud Files service is an excellent storage solution for a number
 of scenarios and is well suited to numerous applications.
@@ -19,3 +19,5 @@ The Rackspace technical documentation provides many more details about
 Cloud Files. Begin exploring at
 :kc:`Cloud Files support <product-page/cloud-files>` and
 :kc:`Getting Started with Cloud Files <getting-started/cloud-files>`.
+
+.. include:: /_common/seealso-concepts-cloud-files.txt

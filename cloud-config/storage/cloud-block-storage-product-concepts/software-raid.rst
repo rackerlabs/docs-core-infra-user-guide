@@ -65,3 +65,5 @@ Windows Server 2008 provides the following ways to interact with RAID devices:
 You can read about both Diskmgmt and Diskpart
 in Microsoft's
 `Overview of Disk Management <http://msdn.microsoft.com/en-us/library/dd163558.aspx>`__.
+
+.. include:: /_common/seealso-concepts-cloud-block-storage.txt

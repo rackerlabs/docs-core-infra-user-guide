@@ -1,15 +1,21 @@
 .. SEEALSO::
 
-   +--------------------------------+----------------------------------+--------------------------------------------+
-   | * :ref:`image-properties`      | * :ref:`base-images`:            | * :ref:`cloud-images-sharing`:             |
-   | * :ref:`data-immutability`     |                                  |                                            |
-   | * :ref:`virtualization-modes`  |   * :ref:`default-base-images`   |   * :ref:`cloud-images-sharing-managing`   |
-   | * :ref:`on-demand-images`      |   * :ref:`lifecycle-base-images` |   * :ref:`cloud-images-sharing-models`     |
-   | * :ref:`import-export-images`  |   * :ref:`patching-base-images`  |   * :ref:`cloud-images-sharing-planning`   |
-   | * :ref:`scheduled-images`      |                                  |   * :ref:`cloud-images-sharing-preparing`  |
-   | * :ref:`custom-images`         |                                  |   * :ref:`cloud-images-sharing-roles`      |
-   |                                |                                  |   * :ref:`cloud-images-sharing-support`    |
-   +--------------------------------+----------------------------------+--------------------------------------------+
+   +----------------------------------+--------------------------------------------+
+   | * :ref:`image-properties`        | * :ref:`cloud-images-sharing`:             |
+   | * :ref:`data-immutability`       |                                            |
+   | * :ref:`virtualization-modes`    |   * :ref:`cloud-images-sharing-managing`   |
+   | * :ref:`on-demand-images`        |   * :ref:`cloud-images-sharing-models`     |
+   | * :ref:`import-export-images`    |   * :ref:`cloud-images-sharing-planning`   |
+   | * :ref:`scheduled-images`        |   * :ref:`cloud-images-sharing-preparing`  |
+   | * :ref:`custom-images`           |   * :ref:`cloud-images-sharing-roles`      |
+   |                                  |   * :ref:`cloud-images-sharing-support`    |
+   | * :ref:`base-images`:            |                                            |
+   |                                  |                                            |
+   |   * :ref:`default-base-images`   |                                            |
+   |   * :ref:`lifecycle-base-images` |                                            |
+   |   * :ref:`patching-base-images`  |                                            |
+   |                                  |                                            |
+   +----------------------------------+--------------------------------------------+
 
    :ref:`cloud-images-product-concepts` introduces key ideas.
    To learn how to put these ideas to work,

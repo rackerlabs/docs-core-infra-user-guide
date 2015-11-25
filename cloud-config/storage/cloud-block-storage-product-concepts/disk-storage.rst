@@ -69,3 +69,5 @@ appropriate for that server's operating system:
    * Cloud Block Storage for portable backups,
      such as for relocation to
      new servers
+
+.. include:: /_common/seealso-concepts-cloud-block-storage.txt

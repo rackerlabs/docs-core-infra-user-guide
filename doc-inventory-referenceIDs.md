@@ -61,6 +61,8 @@ Link to a page within the site by using its reference ID.
 
 assumptions                            = /cloud-guide-intro/assumptions.rst
 
+backup-methods                         = /cloud-config/storage/cloud-block-storage-product-concepts/backup-methods.rst
+
 backups                                = /cloud-preprod/backups.rst
 
 base-images                            = /cloud-config/compute/cloud-images-product-concepts/base-images/index.rst

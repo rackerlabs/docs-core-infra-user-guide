@@ -1,7 +1,7 @@
 .. _object-storage:
 
 ~~~~~~~~~~~~~~
-Object Storage
+Object storage
 ~~~~~~~~~~~~~~
 At its core, Cloud Files is an object storage solution and is not
 designed for high IOPS (Input/output Operations Per Second). Instead,
@@ -18,3 +18,5 @@ consisting of key/value pairs.
 
 Objects are grouped into containers, and you can have any number of
 objects within a container.
+
+.. include:: /_common/seealso-concepts-cloud-files.txt

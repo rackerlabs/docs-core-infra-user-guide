@@ -16,3 +16,5 @@ config drive is labeled **config-2**.
 The config drive is used primarily as a data source for cloud-init. If
 cloud-init or cloudbase-init is present, the config drive is
 automatically mounted.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

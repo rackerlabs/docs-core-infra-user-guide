@@ -17,3 +17,5 @@ users of the running virtual server. If a physical host is in a state
 where the virtual servers are down and live migration cannot be used,
 Rackspace sends regular communication until the virtual server in
 question is up and running.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

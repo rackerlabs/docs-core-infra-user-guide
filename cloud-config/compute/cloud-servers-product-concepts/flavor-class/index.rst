@@ -43,6 +43,7 @@ answers to several questions:
   You can learn more about this at
   :ref:`choose-flavor-class`.
 
+.. include:: /_common/seealso-concepts-cloud-servers.txt
 
 .. toctree:: :hidden:
    :maxdepth: 2

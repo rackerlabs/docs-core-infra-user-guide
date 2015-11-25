@@ -1,4 +1,4 @@
-.. time:
+.. _time:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Synchronizing time with NTP
@@ -63,3 +63,5 @@ servers can synchronize with:
 +--------------+----------------------------+-------------------+
 | SYD          | time2.syd1.rackspace.com   | AET (UTC+10:00)   |
 +--------------+----------------------------+-------------------+
+
+.. include:: /_common/seealso-concepts-cloud.txt

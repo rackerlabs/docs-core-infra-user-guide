@@ -32,3 +32,5 @@ in which to create a new cloud server.
 :kc-article:`About regions <about-regions>`
 discusses some of the other factors
 you should consider.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

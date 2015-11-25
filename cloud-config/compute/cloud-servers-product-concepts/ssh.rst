@@ -21,3 +21,5 @@ and delete SSH keys using the API or the control panel.
    are not compatible with Windows.
    Although the API will allow a Windows
    server to be built with a key, the key will not be functional.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

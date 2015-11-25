@@ -32,3 +32,5 @@ orchestration systems needed to correctly build and maintain your server.
 The metadata that are attached to your server are also stored if you
 create a snapshot or image from the server, and are restored when a server is
 built from that image. The key names are prefixed with ``instance\_``.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

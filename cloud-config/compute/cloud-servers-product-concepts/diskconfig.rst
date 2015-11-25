@@ -62,3 +62,5 @@ formatting adds additional time to the boot process. It also allows a
 higher degree of customization of the disk.
 
 This option is not available for Windows.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

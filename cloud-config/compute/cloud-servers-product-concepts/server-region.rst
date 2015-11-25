@@ -94,3 +94,5 @@ possible to override this default in some circumstances. Every
 server has a *Host ID* that identifies its physical host; by examining the
 host ID for each server, you can determine whether any of your
 servers have been placed on the same physical host.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

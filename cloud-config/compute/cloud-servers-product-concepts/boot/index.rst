@@ -27,6 +27,8 @@ initiates operation in any of several ways:
   customize your boot with a
   cloud-init config file.
 
+  .. include:: /_common/seealso-concepts-cloud-servers.txt
+
 
 .. toctree:: :hidden:
    :maxdepth: 2

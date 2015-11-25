@@ -23,7 +23,7 @@ API keys, or confidential company information in metadata.
 Metadata can also be created and stored on Cloud Images (such as
 snapshots of your Cloud Server). For more information about working with
 Cloud Images metadata (also known image properties), see
-:ref:`image_properties`.
+:ref:`image-properties`.
 
 Currently, the OpenStack command-line nova utility or the API must be used
 to view, set, or delete metadata on a cloud server. For more information
@@ -31,7 +31,7 @@ on using the API to work with server metadata, see the
 :rax-dev-devguide:`metadata operations <cloud-servers/v2/developer-guide/#list-server-metadata>`
 in the *Next Gen Cloud Servers API Developer Guide*.
 
-
+.. include:: /_common/seealso-concepts-cloud-servers.txt
 
 .. toctree:: :hidden:
    :maxdepth: 2

@@ -36,3 +36,5 @@ memory, general purpose, or standard resources:
 * **Standard** scales resources like CPU, memory, and storage depending
   on your needs. All storage is located on RAID 10-protected SATA hard
   disk drives.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

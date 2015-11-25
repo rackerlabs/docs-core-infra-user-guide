@@ -17,3 +17,5 @@ In the Rackspace cloud, cloud-init is responsible for handling
 some of the server setup actions traditionally performed by the
 nova-agent. This varies from image to image, but currently cloud-init
 handles the disk expansion and partitioning for Linux PVHVM images.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

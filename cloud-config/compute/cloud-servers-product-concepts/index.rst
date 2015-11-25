@@ -43,7 +43,7 @@ and in-memory analytics.
 OnMetal I/O is optimized for large relational databases
 and Online Transaction Processing (OLTP) applications.
 
-
+.. include:: /_common/seealso-concepts-cloud-servers.txt
 
 .. toctree:: :hidden:
    :maxdepth: 2

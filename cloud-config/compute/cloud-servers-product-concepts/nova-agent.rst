@@ -41,3 +41,5 @@ OpenStack:
 * :rackerlabs:`OpenStack Unix Guest Agent <openstack-guest-agents-unix>`
 
 * :rackerlabs:`OpenStack Windows Guest Agent for Xenserver <openstack-guest-agents-windows-xenserver>`
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

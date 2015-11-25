@@ -15,6 +15,8 @@ workload.
 * To learn key concepts about Cloud Servers,
   begin at :ref:`cloud-servers-product-concepts`.
 
+.. include:: /_common/seealso-concepts-cloud-servers.txt
+
 * To see a list of actions that Cloud Servers can perform,
   visit :ref:`cloud-servers-product-actions`.
 
@@ -29,6 +31,8 @@ workload.
 
 * To learn key concepts about Cloud Images,
   begin at  :ref:`cloud-images-product-concepts`.
+
+.. include:: /_common/seealso-concepts-cloud-images.txt
 
 * To see a list of actions that Cloud Images can perform,
   see :ref:`cloud-images-product-actions`.

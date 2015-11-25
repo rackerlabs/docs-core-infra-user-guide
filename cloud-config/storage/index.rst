@@ -18,6 +18,8 @@ core infrastructure.
 * To learn key concepts about Cloud Block Storage,
   begin at :ref:`cloud-block-storage-product-concepts`.
 
+.. include:: /_common/seealso-concepts-cloud-block-storage.txt
+
 * To see a list of actions that Cloud Block Storage can perform,
   visit :ref:`cloud-block-storage-product-actions`.
 
@@ -32,6 +34,8 @@ core infrastructure.
 
 * To learn key concepts about Cloud Files,
   begin at :ref:`cloud-files-product-concepts`.
+
+.. include:: /_common/seealso-concepts-cloud-files.txt
 
 * To see a list of actions that Cloud Files can perform,
   visit :ref:`cloud-files-product-actions`.

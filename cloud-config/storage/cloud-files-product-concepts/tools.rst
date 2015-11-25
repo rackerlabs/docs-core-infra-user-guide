@@ -1,7 +1,7 @@
 .. _tools:
 
 ~~~~~~~~~~~~~~~~~
-Cloud Files Tools
+Cloud Files tools
 ~~~~~~~~~~~~~~~~~
 There are a number of tools and extensions designed to help you manage
 your Cloud Files. Following are a few of the available options:
@@ -30,3 +30,5 @@ There are many other tools that you can use to more easily manage
 your Cloud Files. Check out the
 `Rackspace Marketplace <https://marketplace.rackspace.com/>`__
 to explore the available tools.
+
+.. include:: /_common/seealso-concepts-cloud-files.txt

@@ -31,9 +31,13 @@ RESTful API and make it easy for integration into your applications.
    mark the container as public, and begin serving that content
    from a powerful CDN.*
 
+..
+.. below, the include provides visible links
+.. (these deep levels are all invisible in the navbar)
+.. and the toctree controls the next/previous structure
+..
 
-
-
+.. include:: /_common/seealso-concepts-cloud-files.txt
 
 .. toctree:: :hidden:
    :maxdepth: 2

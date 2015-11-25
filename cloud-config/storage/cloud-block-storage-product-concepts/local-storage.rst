@@ -182,7 +182,7 @@ are portable among your cloud servers. Cloud Block Storage is part of
 our core infrastructure; learn more about it at
 :ref:`cloud-block-storage-product-concepts`.
 
-Backup methods: Custom
+Backup methods: custom
 ''''''''''''''''''''''
 You can establish a custom backup process by using a utility such as
 `rsync <https://rsync.samba.org/>`__, an open-source utility that
@@ -192,3 +192,5 @@ Storage-related offerings from Rackspace partners are listed in the
 `Rackspace Marketplace <https://marketplace.rackspace.com/>`__.
 You might find one or more of these
 that directly addresses your specific needs.
+
+.. include:: /_common/seealso-concepts-cloud-block-storage.txt

@@ -44,8 +44,13 @@ Block Storage. Begin exploring
 at
 :kc:`Cloud Block Storage support <product-page/cloud-block-storage>`.
 
+..
+.. below, the include provides visible links
+.. (these deep levels are all invisible in the navbar)
+.. and the toctree controls the next/previous structure
+..
 
-
+.. include:: /_common/seealso-concepts-cloud-block-storage.txt
 
 .. toctree:: :hidden:
    :maxdepth: 2

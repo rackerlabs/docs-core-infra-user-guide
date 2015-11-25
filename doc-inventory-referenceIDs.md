@@ -1,59 +1,59 @@
 Partslist for cross-references
 ==============================
-Linking between pages in this guide requires use of reference IDs. 
-A page without an ID cannot be linked to from another page. 
+Linking between pages in this guide requires use of reference IDs.
+A page without an ID cannot be linked to from another page.
 
 **Rules**
 
-* Every content page must have an ID, 
+* Every content page must have an ID,
   whether or not any other page currently links to it.
 
-* When you create a content page, 
-  check this list to confirm that the unique ID you imagine is unused, 
+* When you create a content page,
+  check this list to confirm that the unique ID you imagine is unused,
   then add the new ID to the list.
 
 * Alphabetize the list by ID.
 
-* ID must be unique within this guide, 
+* ID must be unique within this guide,
   http://rackspace-core-infra-user-guide.readthedocs.org/en/latest.
 
-* Use "index" as the ID for the site-wide home page; 
+* Use "index" as the ID for the site-wide home page;
   its source filename is index.rst;
   it generates published filename index.html.
 
-* ID should match filename, unless matching the filename 
-  violates the rule of uniqueness 
-  (or is likely to violate the rule of uniqueness, 
+* ID should match filename, unless matching the filename
+  violates the rule of uniqueness
+  (or is likely to violate the rule of uniqueness,
   or some other rule of common sense, as the site expands).
-  For example, 
-  index.rst occurs in every directory, 
-  so files named "index.rst" cannot all use "index" as their ID. 
+  For example,
+  index.rst occurs in every directory,
+  so files named "index.rst" cannot all use "index" as their ID.
 
-* If ID cannot simply match the filename, 
+* If ID cannot simply match the filename,
   use elements of its directory structure to construct a unique
   and descriptive ID.
   "servicenet" is a descriptive ID; "page01" is not.
-  
-* If ID represents an anchor within the page rather than the 
-  page itself, begin with the ID for the page and append 
-  details to make it unique. 
+
+* If ID represents an anchor within the page rather than the
+  page itself, begin with the ID for the page and append
+  details to make it unique.
 
 ----
 
 **Use**
 
-Begin every .rst page with a reference ID. 
-After the reference ID: 
+Begin every .rst page with a reference ID.
+After the reference ID:
 * a blank line  
-* a line of delimiters 
+* a line of delimiters
 * the section title
-* a line of the same delimiters 
-* on a new non-blank line, begin content 
+* a line of the same delimiters
+* on a new non-blank line, begin content
 
-Link to a page within the site by using its reference ID. 
+Link to a page within the site by using its reference ID.
 
-* See examples at 
-  https://sphinx-js-howto.readthedocs.org/en/latest/getting-started/linking-pages.html. 
+* See examples at
+  https://sphinx-js-howto.readthedocs.org/en/latest/getting-started/linking-pages.html.
 
 ----
 
@@ -94,7 +94,7 @@ cloud-block-storage-product-concepts   = /cloud-config/storage/cloud-block-stora
 cloud-guide-intro                      = /cloud-guide-intro/index.rst
 
 cloud-images-product-actions           = /cloud-config/compute/cloud-images-product-actions/index.rst
- 
+
 cloud-images-product-concepts          = /cloud-config/compute/cloud-images-product-concepts/index.rst
 
 cloud-images-sharing                   = /cloud-config/compute/cloud-images-product-concepts/sharing-images/index.rst
@@ -272,6 +272,8 @@ server-region                          = /cloud-config/compute/cloud-servers-pro
 
 servicenet                             = /cloud-config/network/cloud-networks-product-concepts/servicenet.rst
 
+servicenet-publicnet-requirement       = /cloud-config/network/cloud-networks-product-concepts/servicenet-publicnet-requirement.rst
+
 set-metadata                           = /cloud-config/compute/cloud-servers-product-concepts/metadata/set-metadata.rst
 
 setup-api                              = /cloud-interfaces/api/setup-api.rst
@@ -288,7 +290,7 @@ somethingnew                           = /cloud-ops/somethingnew.rst
 
 ssh                                    = /cloud-config/compute/cloud-servers-product-concepts/ssh.rst
 
-stack                                  = /cloud-preprod/stack.rst 
+stack                                  = /cloud-preprod/stack.rst
 
 supernova                              = /cloud-interfaces/cli/supernova.rst
 
@@ -313,4 +315,3 @@ troubleshoot                           = /cloud-ops/troubleshoot.rst
 virtual-server-flavor-class            = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/virtual-server-flavor-class.rst
 
 virtualization-modes                   = /cloud-config/compute/cloud-images-product-concepts/virtualization-modes.rst
-

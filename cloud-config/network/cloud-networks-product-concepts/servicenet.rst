@@ -19,3 +19,5 @@ ServiceNet is required for Windows cloud server activation.
 The networks 10.176.0.0/12 and 10.208.0.0/12 are reserved for
 ServiceNet. Any servers that have ServiceNet connectivity will be
 provisioned with an IP address from one of these networks.
+
+.. include:: /_common/seealso-concepts-cloud-networks.txt

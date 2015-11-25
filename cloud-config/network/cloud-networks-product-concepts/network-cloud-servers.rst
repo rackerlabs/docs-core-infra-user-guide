@@ -87,28 +87,6 @@ should be used with caution.
 
 For OnMetal servers, attaching and detaching networks is not supported.
 
-Building servers without PublicNet or ServiceNet
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If a server is built without a PublicNet or ServiceNet network,
-it cannot access
-certain Rackspace products and services.
-
-As shown in the following figure, PublicNet and ServiceNet are essential to
-a fully functional cloud configuration.
-
-.. figure:: /_images/cloudservernetworkremovalresults.png
-   :alt: PublicNet and ServiceNet enable full Cloud Servers functionality.
-
-   *PublicNet and ServiceNet enable full Cloud Servers functionality.*
-
-* PublicNet provides a server with access to the Web as well
-  as Cloud Monitoring, Cloud Backup, Managed Cloud Support, and
-  operating system updates.
-
-* ServiceNet provides a server with access to Cloud Databases,
-  Cloud Load Balancers, Cloud Files, Cloud Backup,
-  RackConnect, and Windows activation.
-
 Adding IPv4 addresses to cloud servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Rackspace offers the ability to add IPv4 addresses to cloud servers for
@@ -152,3 +130,5 @@ We cannot allocate more than four additional IPv4 addresses to a single
 server or to a Brocade Vyatta vRouter. This limit gives each
 server or router a maximum capacity of five IPv4
 addresses, including the originally assigned public IP address.
+
+.. include:: /_common/seealso-concepts-cloud-networks.txt

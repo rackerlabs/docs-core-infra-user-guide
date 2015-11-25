@@ -1,18 +1,22 @@
 .. SEEALSO::
 
-   +-------------------------+----------------------------------+--------------------------------------------+
-   | * :ref:`create-server`  | * :ref:`boot`:                   | * :ref:`cloud-servers-flavor-class`:       |
-   | * :ref:`change-server`  |                                  |                                            |
-   | * :ref:`server-events`  |   * :ref:`cloud-init-boot`       |   * :ref:`virtual-server-flavor-class`     |
-   | * :ref:`server-region`  |   * :ref:`drive-boot`            |   * :ref:`onmetal-server-flavor-class`     |
-   | * :ref:`host-issues`    |   * :ref:`personality-boot`      |   * :ref:`choose-flavor-class`             |
-   | * :ref:`nova-agent`     |                                  |   * :ref:`check-region-flavor-class`       |
-   | * :ref:`diskconfig`     | * :ref:`cloud-servers-metadata`: |                                            |
-   | * :ref:`ssh`            |                                  |                                            |
-   | * :ref:`time`           |   * :ref:`set-metadata`          |                                            |
-   |                         |   * :ref:`show-metadata`         |                                            |
-   |                         |                                  |                                            |
-   +-------------------------+----------------------------------+--------------------------------------------+
+   +----------------------------------+--------------------------------------------+
+   | * :ref:`create-server`           | * :ref:`cloud-servers-flavor-class`:       |
+   | * :ref:`change-server`           |                                            |
+   | * :ref:`server-events`           |   * :ref:`virtual-server-flavor-class`     |
+   | * :ref:`server-region`           |   * :ref:`onmetal-server-flavor-class`     |
+   | * :ref:`host-issues`             |   * :ref:`choose-flavor-class`             |
+   | * :ref:`nova-agent`              |   * :ref:`check-region-flavor-class`       |
+   | * :ref:`diskconfig`              |                                            |
+   | * :ref:`ssh`                     | * :ref:`boot`:                             |
+   | * :ref:`time`                    |                                            |
+   |                                  |   * :ref:`cloud-init-boot`                 |
+   | * :ref:`cloud-servers-metadata`: |   * :ref:`drive-boot`                      |
+   |                                  |   * :ref:`personality-boot`                |
+   |   * :ref:`set-metadata`          |                                            |
+   |   * :ref:`show-metadata`         |                                            |
+   +----------------------------------+--------------------------------------------+
 
+   :ref:`cloud-servers-product-concepts` introduces key ideas. 
    To learn how to put these ideas to work,
    start at :ref:`cloud-servers-product-actions`.

@@ -13,7 +13,9 @@ new one.
 
 You can create virtual cloud servers and OnMetal™ cloud servers:
 
-**Virtual servers**
+~~~~~~~~~~~~~~~~~~~~~
+Virtual cloud servers
+~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /_images/cloudservervirtualarchitecture.png
    :alt: Virtual Cloud Servers are the core of a rich configuration.
@@ -28,7 +30,9 @@ Dashed lines represent an optional branch of the configuration.
 In this case, you have the option to add more servers
 to account for greater workloads.
 
-**OnMetal™ servers**
+~~~~~~~~~~~~~~~~~~~~~~
+OnMetal™ cloud servers
+~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /_images/cloudserveronmetalarchitecture.png
    :alt: OnMetal Cloud Servers add a performance boost.

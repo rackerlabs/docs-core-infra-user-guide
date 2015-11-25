@@ -1,8 +1,8 @@
 .. _onmetal-server-flavor-class:
 
-++++++++++++++++++++++++++++++++++
-Flavor classes for OnMetal servers
-++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++
+Flavor classes for OnMetal cloud servers
+++++++++++++++++++++++++++++++++++++++++
 To create your server as an OnMetal™ server, open the **OnMetal™
 Server** tab on the Create Server page of the Cloud Control Panel.
 

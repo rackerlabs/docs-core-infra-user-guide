@@ -1,8 +1,8 @@
 .. _virtual-server-flavor-class:
 
-++++++++++++++++++++++++++++++++++
-Flavor classes for virtual servers
-++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++
+Flavor classes for virtual cloud servers
+++++++++++++++++++++++++++++++++++++++++
 To create your server as a virtual server, open the **Virtual Server**
 tab on the Create Server page of the Cloud Control Panel.
 

@@ -1,7 +1,7 @@
 .. _cloud-servers-metadata:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Describing a Cloud Server with metadata
+Describing a cloud server with metadata
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 You can set and retrieve custom descriptive fields on your Cloud Servers
 instances by using metadata.

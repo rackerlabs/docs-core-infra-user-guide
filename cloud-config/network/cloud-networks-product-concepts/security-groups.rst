@@ -30,3 +30,5 @@ Cloud Networks API documentation under
 To learn more about security groups, read
 :kc-faq:`Security groups FAQ <security-groups-faq>` and
 :rax-docs:`Use security groups to control traffic <networks/api/v2/cn-gettingstarted/content/security_groups.html>`.
+
+.. include:: /_common/seealso-concepts-cloud-networks.txt

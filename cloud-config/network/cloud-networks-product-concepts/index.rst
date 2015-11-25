@@ -25,6 +25,13 @@ including
 and
 :ref:`security groups <security-groups>`.
 
+..
+.. below, the include provides visible links
+.. (these deep levels are all invisible in the navbar)
+.. and the toctree controls the next/previous structure
+..
+
+.. include:: /_common/seealso-concepts-cloud-networks.txt
 
 .. toctree:: :hidden:
    :maxdepth: 2
@@ -36,5 +43,6 @@ and
    network-rackconnect
    publicnet
    servicenet
+   servicenet-publicnet-requirement
    dns
    security-groups

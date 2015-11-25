@@ -97,7 +97,7 @@ To include any image in the guide:
   * contributed by Nate Archer
 
 * **cloudservernetworkremovalresults.png**
-  * used at /cloud-config/network/cloud-networks-product-concepts/network-cloud-servers.html
+  * used at /cloud-config/network/cloud-networks-product-concepts/servicenet-publicnet-requirement.html
   * source here, in cloudservernetworkremovalresults.xml;
     to change the drawing, open the XML in https://www.draw.io/,
     then export a new .PNG and save it here  

@@ -15,3 +15,5 @@ Network Address Translated.
 PublicNet is dual-stacked for IPv4 and IPv6. When you create a server
 with PublicNet, your server receives an IPv4 address and an IPv6 address by
 default.
+
+.. include:: /_common/seealso-concepts-cloud-networks.txt

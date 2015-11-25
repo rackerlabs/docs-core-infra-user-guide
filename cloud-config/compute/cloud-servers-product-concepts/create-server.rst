@@ -130,3 +130,5 @@ In the case of the ``general1-1`` flavor,
 aggregate bandwidth of 200 Mb/s
 (Megabits per second) means that you can
 generate 80 Mb/s of outbound traffic.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

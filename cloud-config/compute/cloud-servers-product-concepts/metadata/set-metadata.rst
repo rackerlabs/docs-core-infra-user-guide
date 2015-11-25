@@ -54,3 +54,5 @@ Now when you look at your server, your metadata item is gone:
     +----------+------------------------------------------------------------------------------+
 
 After a metadata field is deleted, it cannot be recovered.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

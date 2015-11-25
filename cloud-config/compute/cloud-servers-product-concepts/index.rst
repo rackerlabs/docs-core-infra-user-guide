@@ -11,9 +11,9 @@ If you create a server and decide that it doesn't meet your needs
 with the operating system), simply delete that server and create a
 new one.
 
-You can create two types of servers:
+You can create virtual cloud servers and OnMetal™ cloud servers:
 
-1. Virtual servers
+**Virtual servers**
 
 .. figure:: /_images/cloudservervirtualarchitecture.png
    :alt: Virtual Cloud Servers are the core of a rich configuration.
@@ -28,14 +28,14 @@ Dashed lines represent an optional branch of the configuration.
 In this case, you have the option to add more servers
 to account for greater workloads.
 
-2. OnMetal™ servers
+**OnMetal™ servers**
 
 .. figure:: /_images/cloudserveronmetalarchitecture.png
    :alt: OnMetal Cloud Servers add a performance boost.
 
    *OnMetal cloud servers are API-driven, which adds a performance boast.*
 
-OnMetal servers are highly optimized for specific workloads.
+OnMetal™ servers are highly optimized for specific workloads.
 OnMetal Compute is the best option for high traffic web servers,
 application servers, load balancers, and queue processing, while
 OnMetal Memory is better suited for large scale caches, index searches,
@@ -43,7 +43,13 @@ and in-memory analytics.
 OnMetal I/O is optimized for large relational databases
 and Online Transaction Processing (OLTP) applications.
 
+..
+.. below, the include provides visible links
+.. (these deep levels are all invisible in the navbar)
+.. and the toctree controls the next/previous structure
+..
 
+.. include:: /_common/seealso-concepts-cloud-servers.txt
 
 .. toctree:: :hidden:
    :maxdepth: 2

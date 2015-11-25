@@ -32,3 +32,5 @@ and moderate to substantial amounts of RAM and CPU resources. Although
 these servers can be both vertically and horizontally scaled in
 different scenarios, the application resources needed can often remain
 significant. In these cases, an **I/O** flavor might be a good choice.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

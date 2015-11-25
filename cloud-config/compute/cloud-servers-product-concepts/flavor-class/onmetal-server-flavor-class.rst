@@ -41,3 +41,5 @@ or compute resources:
    With high speeds, plenty of cores and a low-latency
    10 GB/s network, OnMetal Compute is perfect for rendering
    web pages or pushing packets.
+
+.. include:: /_common/seealso-concepts-cloud-servers.txt

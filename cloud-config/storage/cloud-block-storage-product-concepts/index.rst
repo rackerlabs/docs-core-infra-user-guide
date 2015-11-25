@@ -59,3 +59,4 @@ at
    local-storage
    block-storage
    software-raid
+   backup-methods

@@ -242,6 +242,8 @@ network-onmetal-servers                = /cloud-config/network/cloud-networks-pr
 
 network-rackconnect                    = /cloud-config/network/cloud-networks-product-concepts/network-rackconnect.rst
 
+network-ssh                            = /cloud-preprod/network-ssh.rst
+
 neutron                                = /cloud-interfaces/cli/neutron.rst
 
 nova                                   = /cloud-interfaces/cli/nova.rst

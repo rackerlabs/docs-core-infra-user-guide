@@ -32,6 +32,7 @@ recognize and respond to usage peaks:
    :maxdepth: 6
 
    security
+   network-ssh
    stack
    backups
    monitoring

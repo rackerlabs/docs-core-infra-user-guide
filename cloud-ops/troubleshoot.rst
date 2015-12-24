@@ -16,35 +16,69 @@ if you run into issues:
 
 Troubleshooting connectivity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-When dealing with connectivity issues, regardless of whether they are
-client-to-server or server-to-server, it might be useful to go
-through the checklist below:
+Connectivity issues can relate to
+client-to-server or server-to-server connections.
+They can also relate to connections among cloud services.
 
-* If a connection to a server fails,
-  try reaching the same server from different network locations,
-  devices, and directions.
-  If any method succeeds, the problem is not in the server itself
-  but in some aspect of the network.
+----
 
-* Try to access the server by
-  its IP address
-  (for example, 192.0.2.0)
-  instead of its
-  DNS entry (for example, www.example.com).
-  If this succeeds, the problem relates to the DNS rather than
-  to the server itself.
+**Symptom:**
+An attempt to connect to a server fails.
 
-* Try to confirm basic TCP/IP connectivity by using
-  `telnet <https://tools.ietf.org/html/rfc854>`__.
-  If you cannot telnet to a target IP through a target port,
-  a firewall may be blocking your access.
+**Test 1:**
+Try reaching the same server from different network locations,
+devices, and directions.
 
-* For detailed steps on troubleshooting networking or DNS issues, see
-  these guides:
+**Diagnosis 1:**
+If any method succeeds in connecting to the server,
+the problem is not in the server itself
+but in some aspect of the network.
 
-  * :kc-article:`Basic Network Troubleshooting <basic-network-troubleshooting>`
+**Test 2:**
+Try to access the server by
+its IP address
+(for example, 192.0.2.0)
+instead of its
+DNS entry (for example, www.example.com).
 
-  * :kc-article:`Troubleshooting DNS Issues <troubleshooting-dns-issues>`
+**Diagnosis 2:**
+If the server is accessible by its IP address but not by its DNS entry,
+the problem relates to the DNS rather than
+to the server itself.
+
+**Test 3:**
+Try to confirm basic TCP/IP connectivity by using
+`telnet <https://tools.ietf.org/html/rfc854>`__.
+
+**Diagnosis 3:**
+If you cannot telnet to a target IP through a target port,
+a :kc-article:`firewall <introduction-to-firewalls>`
+may be blocking your access.
+
+----
+
+**Symptom:**
+An attempt to connect between Cloud Servers and another cloud service fails.
+
+**Test and prevention:**
+Follow the guidance at :ref:`network-ssh` to
+determine how your SSH port should be configured
+to enable cloud services to interact.
+
+----
+
+.. seealso::
+   To learn more about troubleshooting or preventing connectivity issues,
+   read these articles:
+
+   * :kc-article:`Basic network troubleshooting <basic-network-troubleshooting>`
+
+   * :kc-article:`Troubleshooting DNS issues <troubleshooting-dns-issues>`
+
+   * :kc-article:`Introduction to firewalls <introduction-to-firewalls>`
+
+   * :ref:`network-ssh`
+
 
 Troubleshooting servers
 ~~~~~~~~~~~~~~~~~~~~~~~

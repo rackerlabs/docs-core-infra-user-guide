@@ -288,6 +288,12 @@ To include any image in the guide:
 ----
 **Inventory of screenshots**
 
+* **autoscale-nogroups.png**
+  * used at /cloud-preprod/network-ssh.html
+  * collected from https://mycloud.rackspace.com/
+  * collection date 2015-12-24
+  * contributed by Rose Coste
+
 * **accountresourcelimits.png**
   * used at /cloud-interfaces/gui/index.html
   * collected from https://mycloud.rackspace.com/

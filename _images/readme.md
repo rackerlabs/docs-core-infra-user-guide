@@ -557,6 +557,18 @@ To include any image in the guide:
   * collection date 2015-05-12
   * contributed by Rose Coste
 
+* **status-disruption-cloudservers.png**
+  * used at /cloud-ops/troubleshoot.html
+  * collected from https://status.rackspace.com/
+  * collection date 2015-12-29
+  * contributed by Rose Coste  
+
+* **status-disruption-cloudservers-detail.png**
+  * used at /cloud-ops/troubleshoot.html
+  * collected from https://status.rackspace.com/
+  * collection date 2015-12-29
+  * contributed by Rose Coste
+
 * **storagegroup.png**
   * used at /cloud-interfaces/gui/cloudblockstorage-gui.html
   * collected from https://mycloud.rackspace.com/

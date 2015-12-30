@@ -315,6 +315,8 @@ tour-storage-services                  = /cloud-intro/cloud-tour/storage-service
 tour-support-services                  = /cloud-intro/cloud-tour/support-services.rst
 
 troubleshoot                           = /cloud-ops/troubleshoot.rst
+troubleshoot-connectivity              = /cloud-ops/troubleshoot.rst
+troubleshoot-build                     = /cloud-ops/troubleshoot.rst
 
 virtual-server-flavor-class            = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/virtual-server-flavor-class.rst
 

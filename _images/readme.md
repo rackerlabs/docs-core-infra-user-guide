@@ -288,6 +288,12 @@ To include any image in the guide:
 ----
 **Inventory of screenshots**
 
+* **autoscale-nogroups.png**
+  * used at /cloud-preprod/network-ssh.html
+  * collected from https://mycloud.rackspace.com/
+  * collection date 2015-12-24
+  * contributed by Rose Coste
+
 * **accountresourcelimits.png**
   * used at /cloud-interfaces/gui/index.html
   * collected from https://mycloud.rackspace.com/
@@ -549,6 +555,18 @@ To include any image in the guide:
   * used at /cloud-interfaces/gui/cloudimages-gui.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-12
+  * contributed by Rose Coste
+
+* **status-disruption-cloudservers.png**
+  * used at /cloud-ops/troubleshoot.html
+  * collected from https://status.rackspace.com/
+  * collection date 2015-12-29
+  * contributed by Rose Coste  
+
+* **status-disruption-cloudservers-detail.png**
+  * used at /cloud-ops/troubleshoot.html
+  * collected from https://status.rackspace.com/
+  * collection date 2015-12-29
   * contributed by Rose Coste
 
 * **storagegroup.png**

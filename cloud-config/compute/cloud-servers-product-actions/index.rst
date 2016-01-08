@@ -23,14 +23,19 @@ within the same operating system family (Windows or Linux).
 Your public and ServiceNet IP addresses are retained.
 All data and disk formatting is lost.
 
-* To find out how to rebuild a server using the Cloud Control Panel click
-  `here <http://www.rackspace.com/knowledge_center/article/managing-your-server-rebuild-a-cloud-server>`__.
+.. seealso::
 
-* To find out how rebuild a server using Rackspace CLI click
-  `here <https://developer.rackspace.com/docs/rack-cli/services/servers/#rebuild>`__.
+   Learn how to perform this action with the interface of your choice:
 
-* To find out how to rebuild a server using the API click
-  `here <http://api.rackspace.com/api-ref.html#rebuildServer>`__.
+   .. hlist::
+      :columns: 3
+
+      * :kc-article:`Cloud Control Panel
+        <managing-your-server-rebuild-a-cloud-server>`
+      * :rax-dev-docs:`Rack CLI
+        <rack-cli/services/servers/#rebuild>`
+      * :rax-dev-docs:`Rackspace Cloud Servers API
+        <cloud-servers/v2/developer-guide/#rebuild-specified-server>`
 
 Resize
 ------
@@ -44,23 +49,28 @@ ensure that your server is working as intended. Confirming destroys
 the original source server, while reverting moves you back to it.
 After 24 hours, your resize is automatically confirmed.
 
-* To find out how to resize a server using the Cloud Control Panel click
-  `here <http://www.rackspace.com/knowledge_center/article/managing-your-server-resizing-standard-servers>`__.
-
-* To find out how to resize a server using Rackspace CLI click
-  `here <https://developer.rackspace.com/docs/rack-cli/services/servers/#resize>`__.
-
-* To find out how to resize a server using the API click
-  `here <http://api.rackspace.com/#resizeServer>`__.
-
 .. NOTE::
    This action is not available for all flavor classes.
    Depending on the
    presentation of the disks, the option might be limited
    to *up* only or disallowed entirely.
 
-Rescue Mode
-------------------
+.. seealso::
+
+   Learn how to perform this action with the interface of your choice:
+
+   .. hlist::
+      :columns: 3
+
+      * :kc-article:`Cloud Control Panel
+        <managing-your-server-resizing-standard-servers>`
+      * :rax-dev-docs:`Rack CLI
+        <rack-cli/services/servers/#resize>`
+      * :rax-dev-docs:`Rackspace Cloud Servers API
+        <cloud-servers/v2/developer-guide/#resize-specified-server>`
+
+Rescue
+------
 Rescue mode builds a new server by using the current server's image.
 If the system is unable to access the current server's image,
 it uses the base image that server was built from. For example,
@@ -76,11 +86,18 @@ on the operating system.
 You can exit rescue mode at any time, returning your VM to its original state
 with any changes made. Rescue mode is automatically exited after 24 hours.
 
-* To find out how to build a new server in rescue mode using the Cloud Control Panel
-  click `here <http://www.rackspace.com/knowledge_center/article/managing-your-server-rescue-mode>`__.
+  .. seealso::
 
-* To find out how to build a new server in rescue mode using the API
-  click `here <http://api.rackspace.com/api-ref.html#rescueServer>`__.
+     Learn how to perform this action with the interface of your choice:
+
+     .. hlist::
+        :columns: 3
+
+        * :kc-article:`Cloud Control Panel
+          <managing-your-server-rescue-mode>`
+        * *Rack CLI not available*
+        * :rax-dev-docs:`Rackspace Cloud Servers API
+          <cloud-servers/v2/developer-guide/#rescue-specified-server>`
 
 Reboot
 ------
@@ -88,14 +105,19 @@ The reboot action performs a soft or hard reboot of the server. A soft reboot is
 operating system. A hard reboot power cycles your server, which performs an immediate
 shutdown and restart.
 
-- To find out how to reboot a server using the Cloud Control Panel
-  click `here <http://www.rackspace.com/knowledge_center/article/managing-your-server-reboot-your-server>`__.
+.. seealso::
 
-- To find out how to reboot a server using Rackspace CLI
-  click `here <https://developer.rackspace.com/docs/rack-cli/services/servers/#reboot>`__.
+   Learn how to perform this action with the interface of your choice:
 
-- To find out how to reboot a server using the API click
-  `here <http://api.rackspace.com/#rebootServer>`__.
+   .. hlist::
+      :columns: 3
+
+      * :kc-article:`Cloud Control Panel
+        <managing-your-server-reboot-your-server>`
+      * :rax-dev-docs:`Rack CLI
+        <rack-cli/services/servers/#reboot>`
+      * :rax-dev-docs:`Rackspace Cloud Servers API
+        <cloud-servers/v2/developer-guide/#reboot-specified-server>`
 
 Console
 -------
@@ -108,23 +130,34 @@ browser used to access the console or to switch web browsers to ensure proper
 operation. The console is a backup means to access a server and should not be
 the primary method of access.
 
-* To find out how to open a console using the Cloud Control Panel click
-  `here <http://www.rackspace.com/knowledge_center/article/managing-your-server-start-a-console-session>`__.
+.. seealso::
 
-* To find how to retrieve console output for a specified server using the API click
-  `here <http://api.rackspace.com/api-ref.html#getConsole>`__.
+   Learn how to perform this action with the interface of your choice:
 
+   .. hlist::
+      :columns: 3
+
+      * :kc-article:`Cloud Control Panel
+        <managing-your-server-start-a-console-session>`
+      * *Rack CLI not available*
+      * :rax-dev-docs:`Rackspace Cloud Servers API
+        <cloud-servers/v2/developer-guide/#post-get-console-servers-server-id-action>`
 
 Delete
 ------
 The delete action permanently deletes a server. Latent data is not recoverable
 from the disk of a deleted server.
 
-* To find out how to delete a server using the Cloud Control Panel click
-  `here <http://www.rackspace.com/knowledge_center/article/managing-your-server-deleting-your-cloud-server>`__.
+.. seealso::
 
-* To find out how to delete a server using Rackspace CLI click
-  `here <https://developer.rackspace.com/docs/rack-cli/services/servers/#delete>`__.
+   Learn how to perform this action with the interface of your choice:
 
-* To find out how to delete a server using the API click
-  `here <http://api.rackspace.com/#deleteServer>`__.
+   .. hlist::
+      :columns: 3
+
+      * :kc-article:`Cloud Control Panel
+        <managing-your-server-deleting-your-cloud-server>`
+      * :rax-dev-docs:`Rack CLI
+        <rack-cli/services/servers/#delete>`
+      * :rax-dev-docs:`Rackspace Cloud Servers API
+        <cloud-servers/v2/developer-guide/#delete-delete-server-servers-server-id>`

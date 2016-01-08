@@ -12,7 +12,7 @@ should be similar to those shown in
 which demonstrates the process of securing a cloud server running
 Ubuntu. For that server, the steps are as follows:
 
-1.  Edit the SSH **known\_hosts** file and remove entries that point to your
+1.  Edit the SSH **known_hosts** file and remove entries that point to your
     server's IP address.
 
 2.  Change your root password.
@@ -38,6 +38,17 @@ based on Debian and Red Hat
 Package Manager (RPM) are described in the Cloud Launch Guide
 tutorial for
 `Securing a Cloud Server <https://launch.rackspace.com/guides/securing-server>`__.
+
+Limiting network access to your configuration,
+so that only legitimate traffic can use pre-defined ports,
+is a very effective way of improving overall security.
+A firewall is the key tool for this purpose.
+Methods not based on firewalls can require you to disable or reassign
+connections that are required for normal operation. Before pursuing any of those
+methods, consider their implications as described at:
+
+- :ref:`servicenet-publicnet-requirement`
+- :ref:`network-ssh`
 
 .. TIP::
    Because security configuration can be time-consuming, it's a good idea

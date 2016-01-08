@@ -22,6 +22,12 @@ in the table below:
 +-------------------+----------------------------------------------------------------+
 | Revision Date     | Summary of Changes                                             |
 +===================+================================================================+
+| January 8, 2016   | * Added SSH Port 22 guidance                                   |
+|                   |   to pre-production suggestions                                |
+|                   |   at :ref:`network-ssh`.                                       |
+|                   | * Reformatted and expanded troubleshooting guidance            |
+|                   |   at :ref:`troubleshoot`.                                      |
++-------------------+----------------------------------------------------------------+
 | November 20, 2015 | * Added Hadoop, Kafka, and Trusted Analytics Platform          |
 |                   |   to list of stack templates                                   |
 |                   |   at :ref:`stack`.                                             |

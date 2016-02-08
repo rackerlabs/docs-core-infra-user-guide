@@ -63,9 +63,9 @@ servers can synchronize with:
 +--------------+----------------------------+-------------------+
 | HKG          | time2.hkg1.rackspace.com   | HKT (UTC+08:00)   |
 +--------------+----------------------------+-------------------+
-| SYD          | time.syd1.rackspace.com    | AET (UTC+10:00)   |
+| SYD          | time.syd2.rackspace.com    | AET (UTC+10:00)   |
 +--------------+----------------------------+-------------------+
-| SYD          | time2.syd1.rackspace.com   | AET (UTC+10:00)   |
+| SYD          | time2.syd2.rackspace.com   | AET (UTC+10:00)   |
 +--------------+----------------------------+-------------------+
 
 .. include:: /_common/seealso-concepts-cloud-servers.txt

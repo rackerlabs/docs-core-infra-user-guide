@@ -20,7 +20,7 @@ business challenges.
 Other good places to learn about Rackspace customer stories
 include:
 
-* :kc:`Case studies and white papers in technical documentation <case-studies-white-papers>`
+* `Case studies and white papers in technical documentation <https://support.rackspace.com/white-paper/white-paper-all-articles/>`__
 
 * :rax:`Postings in the "Partner & Customer Updates" channel of the Rackspace blog <blog/channels/partner-and-customer-updates>`
 

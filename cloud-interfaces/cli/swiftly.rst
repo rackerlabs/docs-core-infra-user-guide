@@ -10,7 +10,7 @@ image file), swiftly will take care of splitting the file into
 smaller "segments" and then creating the large object
 "manifest" for you.
 
-:kc-article:`Installing the Swiftly Cloud Files Client <installing-the-swiftly-cloud-files-client>`
+:how-to:`Install the Swiftly Client for Cloud Files <install-the-swiftly-client-for-cloud-files>`
 walks through the installation process for swiftly.
 
 The following resources can help you install and use

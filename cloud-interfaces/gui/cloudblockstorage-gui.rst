@@ -19,5 +19,5 @@ under **Storage**.
 You can use the Cloud Control Panel to help you
 observe and manage your Cloud Block Storage configuration.
 For ideas about what to do first,
-visit
-:kc-article:`Getting Started with Cloud Block Storage <getting-started/cloud-block-storage>`.
+visit the
+:how-to:`Cloud Block Storage introduction page <cloud-block-storage>`.

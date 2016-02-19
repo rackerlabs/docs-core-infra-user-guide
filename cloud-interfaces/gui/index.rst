@@ -16,16 +16,16 @@ your Rackspace account.
 You can also use the Cloud Control Panel to complete some important
 first tasks:
 
-* :kc-article:`Obtain your API key <view-and-reset-your-api-key>`
+* :how-to:`Obtain your API key <view-and-reset-your-api-key>`
   for use with
   :ref:`CLIs <cloud-interfaces-cli>`,
   :ref:`SDKs <sdk>`,
   and
   :ref:`APIs <direct-api-access>`
 
-* :kc-article:`Create additional account users <managing-role-based-access-control-rbac>`
+* :how-to:`Create additional account users <managing-role-based-access-control-rbac>`
   and give them
-  :kc-article:`permissions <permissions-matrix-for-role-based-access-control-rbac>`
+  :how-to:`permissions <permissions-matrix-for-role-based-access-control-rbac>`
   if needed
 
   .. note::

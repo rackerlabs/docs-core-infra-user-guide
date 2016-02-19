@@ -24,17 +24,17 @@ Auto Scale at a glance
 | Auto Scale meets user demand.                  |                                                |
 +------------------------------------------------+------------------------------------------------+
 
-Cloud Metrics at a glance
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Rackspace Metrics at a glance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 +------------------------------------------------+------------------------------------------------+
 |                                                |                                                |
-| .. image::                                     | * :kc-article:`Product overview                |
-|    /_images/logo-cloudmetrics-50x50.png        |   <cloud-metrics-overview>`                    |
-|    :alt: Cloud Metrics stores and serves       | * Free with every cloud account                |
+| .. image::                                     | * :how-to:`Product overview                    |
+|    /_images/logo-cloudmetrics-50x50.png        |   <rackspace-metrics>`                         |
+|    :alt: Rackspace Metrics stores and serves   | * Free with every cloud account                |
 |          time-series metrics.                  | * Open-source roots:                           |
 |    :align: center                              |   `Blueflood <http://blueflood.io/>`__         |
 |                                                |                                                |
-| Cloud Metrics stores and serves                |                                                |
+| Rackspace Metrics stores and serves            |                                                |
 | time-series metrics.                           |                                                |
 +------------------------------------------------+------------------------------------------------+
 

@@ -42,7 +42,7 @@ staging of common server images in Cloud Block Storage.
 The Rackspace technical documentation provides many more details about Cloud
 Block Storage. Begin exploring
 at
-:kc:`Cloud Block Storage support <product-page/cloud-block-storage>`.
+:how-to:`Cloud Block Storage support <cloud-block-storage>`.
 
 ..
 .. below, the include provides visible links

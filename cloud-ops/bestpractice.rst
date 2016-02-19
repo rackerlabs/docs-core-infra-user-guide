@@ -69,7 +69,7 @@ Best practices for storage
 Best practices for networking
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *  Use
-   :kc:`ServiceNet <frequently-asked-question/what-is-servicenet>`
+   :how-to:`ServiceNet <cloud-load-balancers-faq>`
    to communicate between Cloud Servers and Cloud Files and Cloud Databases.
    Use Cloud
    Networks for server-to-server communication.

@@ -20,8 +20,8 @@ apply to the Rackspace cloud as well:
 Rackspace provides tools to help you automate detection of and response to
 unusual situations such as workload spikes:
 
-* :kc:`Rackspace Monitoring <getting-started/cloud-monitoring>`
-* :kc:`Rackspace Auto Scale <getting-started/auto-scale>`
+* :how-to:`Rackspace Monitoring <cloud-monitoring>`
+* :how-to:`Rackspace Auto Scale <rackspace-auto-scale>`
 * :kc-article:`Rackspace Intelligence <getting-started-with-rackspace-intelligence>`
 
 Rackspace provides a

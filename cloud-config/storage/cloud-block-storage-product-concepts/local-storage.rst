@@ -58,7 +58,7 @@ In that experiment,
 Cloud Block Storage on SSD performed
 better than any other option tested.
 In a white paper on
-:kc:`Cloud Block Storage (CBS) Benchmarking <whitepaper/cloud-block-storage-cbs-benchmarking>`,
+:how-to:`Cloud Block Storage (CBS) Benchmarking <white-paper/cloud-block-storage-cbs-benchmarking>`,
 performance quadrupled using Cloud Block Storage with SSD
 as compared to Cloud Block Storage with SATA.
 

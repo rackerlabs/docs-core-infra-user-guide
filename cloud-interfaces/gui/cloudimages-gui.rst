@@ -20,5 +20,5 @@ under **Servers**.
 You can use the Cloud Control Panel to help you
 observe and manage your Cloud Images configuration.
 For ideas about what to do first,
-visit
-:kc:`Getting Started with Rackspace Cloud Images <getting-started/cloud-images>`.
+visit the
+:how-to:`Rackspace Cloud Images introduction page <cloud-images>`.

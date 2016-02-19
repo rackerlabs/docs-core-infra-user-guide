@@ -35,7 +35,7 @@ select **Networking > Cloud DNS > Create Domain**:
 For more information about using the Cloud Control Panel to
 manage DNS information,
 read
-:kc-article:`Create DNS Records for cloud servers with the Control Panel <creating-dns-records-for-cloud-servers-with-the-control-panel>`.
+:how-to:`Create DNS Records for cloud servers with the Control Panel <create-dns-records-for-cloud-servers-with-the-control-panel>`.
 
 You can also use the Cloud DNS API to manage DNS information
 programmatically. Begin reading about that in the
@@ -125,7 +125,7 @@ for the reverse DNS record that you just added.
 Troubleshooting your reverse DNS record
 ---------------------------------------
 If you need to verify or troubleshoot your reverse DNS record, you can
-use a tool called *dig*. You can learn about *dig* at
-:kc-article:`Rackspace Cloud Essentials - Using dig for DNS Verification and Troubleshooting <rackspace-cloud-essentials-using-dig-for-dns-verification-and-troubleshooting>`.
+use a tool called *dig*. You can learn about *dig* at the
+`dig man page <http://linux.die.net/man/1/dig>`__.
 
 .. include:: /_common/seealso-concepts-cloud-networks.txt

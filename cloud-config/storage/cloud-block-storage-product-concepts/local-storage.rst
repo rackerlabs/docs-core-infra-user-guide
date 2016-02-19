@@ -131,8 +131,8 @@ For more information about OnMetal, see the following resources:
 
 * :rax:`OnMetal: The Right Way To Scale <blog/onmetal-the-right-way-to-scale/>`
 
-* :kc-article:`What is new with OnMetal Cloud Servers <what-is-new-with-onmetal-cloud-servers>`
+* :how-to:`What is new with OnMetal Cloud Servers <what-is-new-with-onmetal-cloud-servers>`
 
-* :kc-article:`Creating OnMetal Cloud Servers <creating-onmetal-cloud-servers>`
+* :how-to:`Create OnMetal Cloud Servers <create-onmetal-cloud-servers>`
 
 .. include:: /_common/seealso-concepts-cloud-block-storage.txt

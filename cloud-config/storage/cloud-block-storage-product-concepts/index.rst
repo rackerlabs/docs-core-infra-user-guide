@@ -37,7 +37,7 @@ staging of common server images in Cloud Block Storage.
 .. TIP::
    For instructions on using the Cloud Block Storage boot-from-volume feature,
    see
-   :kc-article:`Boot a server from a Cloud Block Storage volume <boot-a-server-from-a-cloud-block-storage-volume>`.
+   :how-to:`Boot a server from a Cloud Block Storage volume <boot-a-server-from-a-cloud-block-storage-volume>`.
 
 The Rackspace technical documentation provides many more details about Cloud
 Block Storage. Begin exploring

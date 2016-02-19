@@ -10,4 +10,4 @@
    the specific permissions granted to the ID you use.
 
    You can learn more about RBAC at
-   :how-to-article:`Getting Started with Role-Based Access Control (RBAC) <getting-started-with-role-based-access-control-rbac>`.
+   :how-to:`Getting Started with Role-Based Access Control (RBAC) <getting-started-with-role-based-access-control-rbac>`.

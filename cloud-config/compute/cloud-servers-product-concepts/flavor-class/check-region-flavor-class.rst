@@ -29,7 +29,7 @@ Other configuration options you can choose for that cloud server
 Considerations other than the availability of a flavor class can
 influence your choice of the optimal region
 in which to create a new cloud server.
-:kc-article:`About regions <about-regions>`
+:how-to:`About regions <about-regions>`
 discusses some of the other factors
 you should consider.
 

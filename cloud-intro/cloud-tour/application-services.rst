@@ -70,8 +70,8 @@ Rackspace Intelligence
 ~~~~~~~~~~~~~~~~~~~~~~
 +-----------------------------------------------------+---------------------------------------------+
 |                                                     |                                             |
-| .. image::                                          | * :kc-article:`Product overview             |
-|    /_images/logo-rackspaceintelligence-50x50.png    |   <rackspace-intelligence-faq>`             |
+| .. image::                                          | * :how-to:`Product overview                 |
+|    /_images/logo-rackspaceintelligence-50x50.png    |   <rackspace-intelligence>`                 |
 |    :alt: Rackspace Intelligence provides a          | * Free with every cloud account             |
 |          transparent view of infrastructure health. |                                             |
 |    :align: center                                   |                                             |

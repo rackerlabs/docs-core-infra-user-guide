@@ -12,7 +12,7 @@ Cloud Feeds at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~
 +---------------------------------------------+-------------------------------------------------------+
 |                                             |                                                       |
-| .. image::                                  | * :kc-article:`Product overview                       |
+| .. image::                                  | * :how-to:`Product overview                           |
 |    /_images/logo-cloudfeeds-50x50.png       |   <cloud-feeds-overview>`                             |
 |    :alt: Cloud Feeds streamlines            | * Free with every cloud account                       |
 |          event notifications.               | * Open-source roots:                                  |
@@ -32,7 +32,7 @@ Rackspace Identity at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 +---------------------------------------------+-------------------------------------------------------+
 |                                             |                                                       |
-| .. image::                                  | * :kc-article:`Product overview                       |
+| .. image::                                  | * :how-to:`Product overview                           |
 |    /_images/logo-cloudidentity-50x50.png    |   <managing-role-based-access-control-rbac>`          |
 |    :alt: Rackspace Identity                 | * Free with every cloud account                       |
 |          manages authentication.            | * Open-source roots:                                  |

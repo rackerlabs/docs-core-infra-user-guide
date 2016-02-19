@@ -41,7 +41,7 @@ your account itself in several areas:
 Managing role-based access to services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Using role-based access control
-(:kc-article:`RBAC <overview-role-based-access-control-rbac>`),
+(:how-to:`RBAC <overview-role-based-access-control-rbac>`),
 you can divide responsibilities among members of your team. For
 example, you can enable a database administrator to schedule database
 backups and enable a network administrator to expand a load balancing

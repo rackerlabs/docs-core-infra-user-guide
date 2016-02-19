@@ -30,8 +30,8 @@ All data and disk formatting is lost.
    .. hlist::
       :columns: 3
 
-      * :kc-article:`Cloud Control Panel
-        <managing-your-server-rebuild-a-cloud-server>`
+      * :how-to:`Cloud Control Panel
+        <rebuild-a-cloud-server>`
       * :rax-dev-docs:`Rack CLI
         <rack-cli/services/servers/#rebuild>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
@@ -62,8 +62,8 @@ After 24 hours, your resize is automatically confirmed.
    .. hlist::
       :columns: 3
 
-      * :kc-article:`Cloud Control Panel
-        <managing-your-server-resizing-standard-servers>`
+      * :how-to:`Cloud Control Panel
+        <managing-your-server-resizing-standard-and-general-purpose-servers>`
       * :rax-dev-docs:`Rack CLI
         <rack-cli/services/servers/#resize>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
@@ -93,8 +93,8 @@ with any changes made. Rescue mode is automatically exited after 24 hours.
      .. hlist::
         :columns: 3
 
-        * :kc-article:`Cloud Control Panel
-          <managing-your-server-rescue-mode>`
+        * :how-to:`Cloud Control Panel
+          <rescue-mode>`
         * *Rack CLI not available*
         * :rax-dev-docs:`Rackspace Cloud Servers API
           <cloud-servers/v2/developer-guide/#rescue-specified-server>`
@@ -112,8 +112,8 @@ shutdown and restart.
    .. hlist::
       :columns: 3
 
-      * :kc-article:`Cloud Control Panel
-        <managing-your-server-reboot-your-server>`
+      * :how-to:`Cloud Control Panel
+        <reboot-your-server>`
       * :rax-dev-docs:`Rack CLI
         <rack-cli/services/servers/#reboot>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
@@ -137,8 +137,8 @@ the primary method of access.
    .. hlist::
       :columns: 3
 
-      * :kc-article:`Cloud Control Panel
-        <managing-your-server-start-a-console-session>`
+      * :how-to:`Cloud Control Panel
+        <start-a-console-session>`
       * *Rack CLI not available*
       * :rax-dev-docs:`Rackspace Cloud Servers API
         <cloud-servers/v2/developer-guide/#post-get-console-servers-server-id-action>`
@@ -155,8 +155,8 @@ from the disk of a deleted server.
    .. hlist::
       :columns: 3
 
-      * :kc-article:`Cloud Control Panel
-        <managing-your-server-deleting-your-cloud-server>`
+      * :how-to:`Cloud Control Panel
+        <deleting-your-server>`
       * :rax-dev-docs:`Rack CLI
         <rack-cli/services/servers/#delete>`
       * :rax-dev-docs:`Rackspace Cloud Servers API

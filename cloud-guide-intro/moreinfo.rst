@@ -18,8 +18,8 @@ starting points:
 
 * To learn about the Rackspace cloud
   through tutorials, case studies, and white papers,
-  start at the
-  :kc:`Rackspace Knowledge Center <>`.
+  start at
+  :how-to:`Rackspace How-To <>`.
 
 * To develop your own software to interact with cloud services, start
   at the

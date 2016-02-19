@@ -28,6 +28,6 @@ particularly useful for OnMetal Compute and Memory v1 flavors.
 
 To learn how to attach a volume to your OnMetal server, begin
 with
-:kc-article:`Attach a Cloud Block Storage Volume to an OnMetal server <attach-a-cloud-block-storage-volume-to-an-onmetal-server>`.
+:how-to:`Attach a Cloud Block Storage Volume to an OnMetal server <attach-a-cloud-block-storage-volume-to-an-onmetal-server>`.
 
 .. include:: /_common/seealso-concepts-cloud-block-storage.txt

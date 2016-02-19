@@ -20,7 +20,7 @@ You can use the Cloud Control Panel to help you
 observe and manage your Cloud Files configuration.
 For ideas about what to do first,
 visit
-:kc-article:`Cloud Files overview <cloud-files-overview>`.
+:how-to:`Cloud Files overview <cloud-files-overview>`.
 
 Create a Container
 ''''''''''''''''''
@@ -46,7 +46,7 @@ In the top navigation bar, select **Storage > Files** and click
   named **index.html** to set up as your index page. Add a domain name
   by going to your domain hose and setting up a CNAME to your CDN URL.
   For more information on hosting static websites, try
-  :kc-article:`Serve Static Content for Websites by Using Cloud Files
+  :how-to:`Serve Static Content for Websites by Using Cloud Files
   <serve-static-content-for-websites-by-using-cloud-files>`.
 
 Upload Files to the Container

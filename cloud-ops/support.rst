@@ -16,7 +16,7 @@ in many ways:
 * `Rackspace Community <https://community.rackspace.com/>`__
   enables discussion with Rackers and Rackspace customers.
 
-* :kc:`Knowledge Center <>`
+* :how-to:`Rackspace How-To <>`
   publishes documentation primarily written for
   Cloud Control Panel users.
 

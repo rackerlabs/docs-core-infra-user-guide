@@ -21,5 +21,5 @@ under **Servers**.
 You can use the Cloud Control Panel to help you
 observe and manage your Cloud Servers configuration.
 For ideas about what to do first,
-visit
-:kc:`Getting Started with Cloud Servers <getting-started/cloud-servers>`.
+visit the
+:how-to:`Rackspace Cloud Servers introduction page <cloud-servers>`.

@@ -1,13 +1,13 @@
 .. NOTE::
-   Rackspace technical documentation for each cloud service 
-   describes all the actions that can be performed with that 
-   service's public API. 
+   Rackspace technical documentation for each cloud service
+   describes all the actions that can be performed with that
+   service's public API.
    However, because role-based access control (RBAC)
-   makes it possible to allow some users to perform actions that 
-   cannot be performed by other users, 
+   makes it possible to allow some users to perform actions that
+   cannot be performed by other users,
    your ability to perform the actions listed here
-   depends on 
+   depends on
    the specific permissions granted to the ID you use.
-   
+
    You can learn more about RBAC at
-   :kc-article:`Getting Started with Role-Based Access Control (RBAC) <getting-started-with-role-based-access-control-rbac-0>`.
+   :how-to:`Getting Started with Role-Based Access Control (RBAC) <getting-started-with-role-based-access-control-rbac>`.

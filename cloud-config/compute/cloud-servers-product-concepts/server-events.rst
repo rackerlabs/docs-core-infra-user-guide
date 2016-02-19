@@ -45,7 +45,7 @@ methods that you use to interact with Cloud Servers:
 
 * The :mycloud:`Cloud Control Panel <>`, as
   explained in its
-  :kc:`technical documentation <>`
+  :how-to:`technical documentation <>`
 
 * The raxmon command-line interface (CLI)
 

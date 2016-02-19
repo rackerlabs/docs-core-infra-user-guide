@@ -21,7 +21,7 @@ help you become a skillful user of the Cloud Control Panel:
 * **Technical documentation**
   focused on the Cloud Control Panel,
   including short tutorials and demonstrations, is
-  published in the :kc:`Rackspace Knowledge Center <>`.
+  published in :how-to:`Rackspace How-To <>`.
 
 * **Announcements of major changes**
   are published

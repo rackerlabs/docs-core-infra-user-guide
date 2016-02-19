@@ -58,7 +58,7 @@ In that experiment,
 Cloud Block Storage on SSD performed
 better than any other option tested.
 In a white paper on
-:kc:`Cloud Block Storage (CBS) Benchmarking <whitepaper/cloud-block-storage-cbs-benchmarking>`,
+:how-to:`Cloud Block Storage (CBS) Benchmarking <white-paper/cloud-block-storage-cbs-benchmarking>`,
 performance quadrupled using Cloud Block Storage with SSD
 as compared to Cloud Block Storage with SATA.
 
@@ -131,8 +131,8 @@ For more information about OnMetal, see the following resources:
 
 * :rax:`OnMetal: The Right Way To Scale <blog/onmetal-the-right-way-to-scale/>`
 
-* :kc-article:`What is new with OnMetal Cloud Servers <what-is-new-with-onmetal-cloud-servers>`
+* :how-to:`What is new with OnMetal Cloud Servers <what-is-new-with-onmetal-cloud-servers>`
 
-* :kc-article:`Creating OnMetal Cloud Servers <creating-onmetal-cloud-servers>`
+* :how-to:`Create OnMetal Cloud Servers <create-onmetal-cloud-servers>`
 
 .. include:: /_common/seealso-concepts-cloud-block-storage.txt

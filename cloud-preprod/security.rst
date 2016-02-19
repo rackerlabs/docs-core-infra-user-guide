@@ -8,7 +8,7 @@ center, configure it to disable abuse and enable your
 legitimate work. You might need to do some research to identify the
 specific steps required to secure your configuration, but the steps
 should be similar to those shown in
-:kc-article:`Basic Cloud Server Security <basic-cloud-server-security>`,
+:how-to:`Basic Cloud Server Security <basic-cloud-server-security>`,
 which demonstrates the process of securing a cloud server running
 Ubuntu. For that server, the steps are as follows:
 

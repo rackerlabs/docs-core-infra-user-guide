@@ -10,7 +10,7 @@ expect most of the server's workload to originate in Australia,
 you might want it to be hosted in our SYD (Sydney) region rather than
 in our DFW (Dallas-Fort Worth) region.
 
-For more information on regions, begin with the Knowledge Center article,
+For more information on regions, begin with the How-To article,
 :how-to:`About regions <about-regions>`.
 
 Beyond a general preference for a region, working in the cloud

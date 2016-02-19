@@ -22,7 +22,7 @@ unusual situations such as workload spikes:
 
 * :how-to:`Rackspace Monitoring <cloud-monitoring>`
 * :how-to:`Rackspace Auto Scale <rackspace-auto-scale>`
-* :kc-article:`Rackspace Intelligence <getting-started-with-rackspace-intelligence>`
+* :how-to:`Rackspace Intelligence <rackspace-intelligence>`
 
 Rackspace provides a
 `real-time system status view <https://status.rackspace.com>`__
@@ -100,8 +100,7 @@ Try to confirm basic TCP/IP connectivity by using
 
 **Diagnosis 3:**
 If you cannot telnet to a target IP through a target port,
-a :kc-article:`firewall <introduction-to-firewalls>`
-may be blocking your access.
+a firewall may be blocking your access.
 
 ----
 
@@ -119,11 +118,9 @@ to enable cloud services to interact.
    To learn more about troubleshooting or preventing connectivity issues,
    read these articles:
 
-   * :kc-article:`Basic network troubleshooting <basic-network-troubleshooting>`
+   * :how-to:`Basic network troubleshooting <basic-network-troubleshooting>`
 
-   * :kc-article:`Troubleshooting DNS issues <troubleshooting-dns-issues>`
-
-   * :kc-article:`Introduction to firewalls <introduction-to-firewalls>`
+   * :how-to:`Troubleshooting DNS issues <troubleshooting-dns-issues>`
 
    * :ref:`network-ssh`
 
@@ -226,7 +223,7 @@ also provides links to help you submit support tickets.
    To learn more about troubleshooting or preventing server build issues,
    read these articles:
 
-   * :kc-article:`RackConnect power users guide <rackconnect-power-users-guide>`
+   * :how-to:`RackConnect power users guide <rackconnect-power-users-guide>`
      suggests using the Cloud Servers API to build multiple servers in bursts
      rather than singly.
 

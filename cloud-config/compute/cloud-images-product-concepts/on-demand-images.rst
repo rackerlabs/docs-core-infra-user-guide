@@ -19,6 +19,6 @@ applications should be quiesced is fairly brief and can be monitored by
 observing your Cloud Server's task state.
 For more information, see
 :how-to:`Using Task States with Server Imaging <using-task-states-with-server-imaging>`
-in the Rackspace Knowledge Center.
+in  Rackspace How-To.
 
 .. include:: /_common/seealso-concepts-cloud-images.txt

@@ -5,7 +5,7 @@ Validating SSH configuration
 ----------------------------
 Depending on your circumstances, it may be appropriate for you to change the
 assignment of port 22 in your configuration. By default, port 22 is assigned to
-:kc-article:`Secure Shell (SSH) <connecting-to-a-server-using-ssh-on-linux-or-mac-os>`.
+:how-to:`Secure Shell (SSH) <connecting-to-a-server-using-ssh-on-linux-or-mac-os>`.
 Changing this assignment can make it harder for attackers to
 guess the location your SSH port, but that change can also make it impossible for some
 cloud services to coordinate their activities.
@@ -52,7 +52,7 @@ make sure you can answer the following questions:
   If **RackConnect Status** is **Deployed** for at least one server,
   then RackConnect is in use at your account.
   You can read more about this at
-  :kc-article:`Accessing RackConnect Cloud Servers <accessing-rackconnect-cloud-servers>`.
+  :how-to:`Accessing RackConnect Cloud Servers <accessing-rackconnect-cloud-servers>`.
 
 - *Does your account use Cloud Monitoring?*
 
@@ -97,5 +97,4 @@ make sure you can answer the following questions:
   Otherwise, a message reports that no backup activity was found.
 
 Whether you reassign port 22 or retain this default assignment,
-your best security comes from an effective
-:kc-article:`firewall <introduction-to-firewalls>` configuration.
+your best security comes from an effective firewall configuration.

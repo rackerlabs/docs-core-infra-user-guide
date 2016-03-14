@@ -51,3 +51,4 @@ what you can do in the Rackspace cloud.
    moreinfo
    contactus
    document-history
+   copyright-disclaimer

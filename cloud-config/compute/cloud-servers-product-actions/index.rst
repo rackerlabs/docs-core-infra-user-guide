@@ -31,7 +31,7 @@ All data and disk formatting is lost.
       :columns: 3
 
       * :how-to:`Cloud Control Panel
-        <rebuild-a-cloud-server/>`
+        <rebuild-a-cloud-server>`
       * :rax-dev-docs:`Rack CLI
         <rack-cli/services/servers/#rebuild>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
@@ -63,7 +63,7 @@ After 24 hours, your resize is automatically confirmed.
       :columns: 3
 
       * :how-to:`Cloud Control Panel
-        <managing-your-server-resizing-standard-and-general-purpose-servers/>`
+        <managing-your-server-resizing-standard-and-general-purpose-servers>`
       * :rax-dev-docs:`Rack CLI
         <rack-cli/services/servers/#resize>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
@@ -94,7 +94,7 @@ with any changes made. Rescue mode is automatically exited after 24 hours.
         :columns: 3
 
         * :how-to:`Cloud Control Panel
-          <rescue-mode/>`
+          <rescue-mode>`
         * *Rack CLI not available*
         * :rax-dev-docs:`Rackspace Cloud Servers API
           <cloud-servers/v2/developer-guide/#rescue-specified-server>`
@@ -113,7 +113,7 @@ shutdown and restart.
       :columns: 3
 
       * :how-to:`Cloud Control Panel
-        <reboot-your-server/>`
+        <reboot-your-server>`
       * :rax-dev-docs:`Rack CLI
         <rack-cli/services/servers/#reboot>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
@@ -138,7 +138,7 @@ the primary method of access.
       :columns: 3
 
       * :how-to:`Cloud Control Panel
-        <start-a-console-session/>`
+        <start-a-console-session>`
       * *Rack CLI not available*
       * :rax-dev-docs:`Rackspace Cloud Servers API
         <cloud-servers/v2/developer-guide/#post-get-console-servers-server-id-action>`
@@ -156,7 +156,7 @@ from the disk of a deleted server.
       :columns: 3
 
       * :how-to:`Cloud Control Panel
-        <deleting-your-server/>`
+        <deleting-your-server>`
       * :rax-dev-docs:`Rack CLI
         <rack-cli/services/servers/#delete>`
       * :rax-dev-docs:`Rackspace Cloud Servers API

@@ -10,6 +10,6 @@ image of the server. Remember that a virtual machine image is not really
 a backup of a server, so whether scheduled images are an appropriate
 solution for you depends on your use case.
 For more information, see the
-:how-to:`Scheduled Images FAQ <scheduled-images-faq>` in Rackspace How-To.
+:how-to:`Scheduled Images FAQ <scheduled-images-faq/>` in Rackspace How-To.
 
 .. include:: /_common/seealso-concepts-cloud-images.txt

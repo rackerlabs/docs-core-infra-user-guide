@@ -19,7 +19,7 @@ open in the following ways:
   hardware.
 
 You can find more information about image importing and exporting in the
-:how-to:`Cloud Images FAQ <cloud-images-faq>`.
+:how-to:`Cloud Images FAQ <cloud-images-faq/>`.
 
 Exporting an image
 ''''''''''''''''''

@@ -17,7 +17,7 @@ The following Rackspace publications provide basic information
 about cURL:
 
 * :rax-docs:`How cURL commands work <servers/api/v2/cn-gettingstarted/content/curl.html>`
-* :how-to:`Cloud Files cURL Cookbook <cloud-files-curl-cookbook>`
+* :how-to:`Cloud Files cURL Cookbook <cloud-files-curl-cookbook/>`
 * :rax-docs:`Authenticate with cURL <servers/api/v2/cs-gettingstarted/content/curl_auth.html>`
 
 In the

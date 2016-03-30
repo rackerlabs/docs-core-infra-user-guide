@@ -82,6 +82,6 @@ would become
    You can use CNAME records to link your Cloud Files container to a
    branded URL that you display instead of a CDN URL. To learn more about
    CNAMEs, check out
-   :how-to:`Using CNAMEs with Cloud Files containers <using-cnames-with-cloud-files-containers>`.
+   :how-to:`Using CNAMEs with Cloud Files containers <using-cnames-with-cloud-files-containers/>`.
 
 .. include:: /_common/seealso-concepts-cloud-files.txt

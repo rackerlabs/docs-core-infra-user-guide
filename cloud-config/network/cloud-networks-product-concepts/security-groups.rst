@@ -28,7 +28,7 @@ Cloud Networks API documentation under
 :rax-dev-devguide:`Security groups operations <cloud-networks/v2/developer-guide/#document-api-operations/sec-group-operations>`.
 
 To learn more about security groups, read
-:how-to:`Security groups FAQ <cloud-networks-faq>` and
+:how-to:`Security groups FAQ <cloud-networks-faq/>` and
 :rax-docs:`Use security groups to control traffic <networks/api/v2/cn-gettingstarted/content/security_groups.html>`.
 
 .. include:: /_common/seealso-concepts-cloud-networks.txt

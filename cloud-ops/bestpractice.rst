@@ -23,11 +23,11 @@ remember these best practices:
 * Deploy a load balancer to allow you to more easily scale and
   update your application.
   Follow the configuration guidelines at
-  :how-to:`Configure a Load Balancer <configure-a-load-balancer>`.
+  :how-to:`Configure a Load Balancer <configure-a-load-balancer/>`.
 
 * Deploy backup and/or monitoring for your most important servers.
   Configure Cloud Backup as discussed at
-  :how-to:`Rackspace Cloud Backup overview <rackspace-cloud-backup-overview>`.
+  :how-to:`Rackspace Cloud Backup overview <rackspace-cloud-backup-overview/>`.
 
 Other best practices relate to specific services, options,
 and configurations:
@@ -57,19 +57,19 @@ Best practices for security
 
 *  Use SSH keys rather than passwords for Linux.
    Follow the procedure at
-   :how-to:`Basic Cloud Server Security <basic-cloud-server-security>`.
+   :how-to:`Basic Cloud Server Security <basic-cloud-server-security/>`.
 
 Best practices for storage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Use attached storage whenever possible because it will allow you to
   resize, backup, and plan for failure more gracefully.
   Follow the tutorial at
-  :how-to:`Create and Attach a Cloud Block Storage Volume <create-and-attach-a-cloud-block-storage-volume>`.
+  :how-to:`Create and Attach a Cloud Block Storage Volume <create-and-attach-a-cloud-block-storage-volume/>`.
 
 Best practices for networking
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *  Use
-   :how-to:`ServiceNet <cloud-load-balancers-faq>`
+   :how-to:`ServiceNet <cloud-load-balancers-faq/>`
    to communicate between Cloud Servers and Cloud Files and Cloud Databases.
    Use Cloud
    Networks for server-to-server communication.

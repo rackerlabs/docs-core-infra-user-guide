@@ -56,7 +56,7 @@ the same Rackspace cloud region as the producer.
 If you need to use the same image in multiple regions,
 you can create a copy of the image in each region.
 
-:how-to:`Transferring images between regions of the Rackspace open cloud <transferring-images-between-regions-of-the-rackspace-open-cloud>`
+:how-to:`Transferring images between regions of the Rackspace open cloud <transferring-images-between-regions-of-the-rackspace-open-cloud/>`
 demonstrates a method of placing an image within a Cloud Files
 container in one region and then retrieving it from the container
 in another region. This is a complex, multi-step method but it might be

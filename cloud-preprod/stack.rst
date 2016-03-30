@@ -20,9 +20,9 @@ this multi-step process, perform the following actions:
 
 * Read the following articles about LAMP stacks:
 
-  * :how-to:`How to Install a LAMP stack on CentOS, Fedora, or Red Hat <how-to-install-a-lamp-stack-on-centos-fedora-or-red-hat>`
+  * :how-to:`How to Install a LAMP stack on CentOS, Fedora, or Red Hat <how-to-install-a-lamp-stack-on-centos-fedora-or-red-hat/>`
 
-  * :how-to:`Migrating an Application Built on a LAMP Stack from Amazon Web Services <migrating-an-application-built-on-a-lamp-stack-from-amazon-web-services>`
+  * :how-to:`Migrating an Application Built on a LAMP Stack from Amazon Web Services <migrating-an-application-built-on-a-lamp-stack-from-amazon-web-services/>`
 
 * Complete the Cloud Launch Guide tutorial for
   `CMS with WordPress <https://launch.rackspace.com/guides/wordpress>`__

@@ -105,7 +105,7 @@ extlinks = {
     'rax-api': ('http://api.rackspace.com/%s', ''),
     'rax-git': ('https://github.com/rackspace/%s', ''),
     'mycloud': ('https://mycloud.rackspace.com/%s', ''),
-    'how-to': ('http://www.support.rackspace.com/how-to/%s', ''),
+    'how-to': ('http://support.rackspace.com/how-to/%s', ''),
     'os': ('http://www.openstack.org/%s', ''),
     'os-docs': ('http://docs.openstack.org/%s', ''),
     'os-wiki': ('http://wiki.openstack.org/%s', ''),

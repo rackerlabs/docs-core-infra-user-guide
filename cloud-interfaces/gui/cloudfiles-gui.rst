@@ -20,7 +20,7 @@ You can use the Cloud Control Panel to help you
 observe and manage your Cloud Files configuration.
 For ideas about what to do first,
 visit
-:how-to:`Cloud Files overview <cloud-files-overview>`.
+:how-to:`Cloud Files overview <cloud-files-overview/>`.
 
 Create a Container
 ''''''''''''''''''
@@ -47,7 +47,7 @@ In the top navigation bar, select **Storage > Files** and click
   by going to your domain hose and setting up a CNAME to your CDN URL.
   For more information on hosting static websites, try
   :how-to:`Serve Static Content for Websites by Using Cloud Files
-  <serve-static-content-for-websites-by-using-cloud-files>`.
+  <serve-static-content-for-websites-by-using-cloud-files/>`.
 
 Upload Files to the Container
 '''''''''''''''''''''''''''''

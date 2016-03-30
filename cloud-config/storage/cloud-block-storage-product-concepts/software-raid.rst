@@ -44,7 +44,7 @@ Software RAID for Linux
 '''''''''''''''''''''''
 To learn how to set up software RAID on a cloud server running Linux,
 read
-:how-to:`Configuring a Software RAID on a Linux General Purpose Cloud Server <configuring-a-software-raid-on-a-linux-general-purpose-cloud-server>`.
+:how-to:`Configuring a Software RAID on a Linux General Purpose Cloud Server <configuring-a-software-raid-on-a-linux-general-purpose-cloud-server/>`.
 
 Software RAID for Windows
 '''''''''''''''''''''''''

@@ -39,7 +39,7 @@ created a backup copy of your data, you can restore all your
 folders and files from the backup, you can restore individual files
 or folders from a given date, or you can restore to an entirely different
 server. For more information about Cloud Backup, begin at
-:how-to:`Rackspace Cloud Backup - Overview <rackspace-cloud-backup-overview>`.
+:how-to:`Rackspace Cloud Backup - Overview <rackspace-cloud-backup-overview/>`.
 
 Backup method: Cloud Block Storage
 ''''''''''''''''''''''''''''''''''

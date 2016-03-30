@@ -35,7 +35,7 @@ select **Networking > Cloud DNS > Create Domain**:
 For more information about using the Cloud Control Panel to
 manage DNS information,
 read
-:how-to:`Create DNS Records for cloud servers with the Control Panel <create-dns-records-for-cloud-servers-with-the-control-panel/>`.
+:how-to:`Create DNS Records for cloud servers with the Control Panel <create-dns-records-for-cloud-servers-with-the-control-panel>`.
 
 You can also use the Cloud DNS API to manage DNS information
 programmatically. Begin reading about that in the

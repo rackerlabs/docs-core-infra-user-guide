@@ -54,11 +54,11 @@ appropriate for that server's operating system:
 
 * For Linux,
   see
-  :how-to:`Preparing Data Disks on Linux Cloud Servers <preparing-data-disks-on-linux-cloud-servers/>`.
+  :how-to:`Preparing Data Disks on Linux Cloud Servers <preparing-data-disks-on-linux-cloud-servers>`.
 
 * For Windows,
   see
-  :how-to:`Preparing Data Disks on Windows Cloud Servers <preparing-data-disks-on-windows-cloud-servers/>`.
+  :how-to:`Preparing Data Disks on Windows Cloud Servers <preparing-data-disks-on-windows-cloud-servers>`.
 
 .. TIP::
    To make a backup copy of a *data* disk, use one of the following services:

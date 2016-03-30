@@ -15,7 +15,7 @@ your Cloud Files. Following are a few of the available options:
 * **Cyberduck** is a full-featured browser to publish your content
   on Cloud Files and manage your CDN distributions. `Download Cyberduck
   <http://cyberduck.ch/>`__ and get started at
-  :how-to:`Configuring Rackspace Cloud Files with Cyberduck <configuring-rackspace-files-with-cyberduck/>`.
+  :how-to:`Configuring Rackspace Cloud Files with Cyberduck <configuring-rackspace-files-with-cyberduck>`.
 * **Django-Cloudfiles** is an extension to the management system
   of the website framework, Django. Django-Cloudfiles enables you
   to synchronize the static content delivery of your

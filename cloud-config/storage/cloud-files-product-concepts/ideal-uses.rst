@@ -17,6 +17,6 @@ Following are some of the ideal uses for Cloud Files:
 
 The Rackspace technical documentation provides many more details about
 Cloud Files. Begin exploring at the
-:how-to:`Cloud Files introduction <cloud-files/>` page.
+:how-to:`Cloud Files introduction <cloud-files>` page.
 
 .. include:: /_common/seealso-concepts-cloud-files.txt

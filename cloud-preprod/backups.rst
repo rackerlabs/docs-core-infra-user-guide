@@ -18,4 +18,4 @@ time.
    moveable from one server to another.
 
 For advice regarding when to use Cloud Backup and Cloud Block Storage, see
-:how-to:`Best Practices for Backing Up Your Data: Cloud Block Storage versus Cloud Backup <best-practices-for-backing-up-your-data-cloud-block-storage-versus-cloud-backup/>`.
+:how-to:`Best Practices for Backing Up Your Data: Cloud Block Storage versus Cloud Backup <best-practices-for-backing-up-your-data-cloud-block-storage-versus-cloud-backup>`.

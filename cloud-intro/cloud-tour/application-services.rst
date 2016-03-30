@@ -15,7 +15,7 @@ Auto Scale at a glance
 ~~~~~~~~~~~~~~~~~~~~~~
 +------------------------------------------------+------------------------------------------------+
 |                                                |                                                |
-| .. image::                                     | * :rax-cloud:`Product overview <auto-scale/>`  |
+| .. image::                                     | * :rax-cloud:`Product overview <auto-scale>`   |
 |    /_images/logo-autoscale-50x50.png           | * Free with every cloud account                |
 |    :alt: Auto Scale meets                      | * Open-source roots:                           |
 |          user demand.                          |   :rackerlabs:`Otter <otter>`                  |
@@ -29,7 +29,7 @@ Rackspace Metrics at a glance
 +------------------------------------------------+------------------------------------------------+
 |                                                |                                                |
 | .. image::                                     | * :how-to:`Product overview                    |
-|    /_images/logo-cloudmetrics-50x50.png        |   <rackspace-metrics/>`                        |
+|    /_images/logo-cloudmetrics-50x50.png        |   <rackspace-metrics>`                         |
 |    :alt: Rackspace Metrics stores and serves   | * Free with every cloud account                |
 |          time-series metrics.                  | * Open-source roots:                           |
 |    :align: center                              |   `Blueflood <http://blueflood.io/>`__         |
@@ -42,7 +42,7 @@ Cloud Monitoring at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 +------------------------------------------------+------------------------------------------------+
 |                                                |                                                |
-| .. image::                                     | * :rax-cloud:`Product overview <monitoring/>`  |
+| .. image::                                     | * :rax-cloud:`Product overview <monitoring>`   |
 |    /_images/logo-cloudmonitoring-50x50.png     | * Free with every cloud account                |
 |    :alt: Cloud Monitoring monitors             | * Open-source roots:                           |
 |          the infrastructure.                   |   `Virgo                                       |
@@ -56,7 +56,7 @@ Cloud Orchestration at a glance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 +------------------------------------------------+-------------------------------------------------+
 |                                                |                                                 |
-| .. image::                                     | * :rax-cloud:`Product overview <orchestration/>`|
+| .. image::                                     | * :rax-cloud:`Product overview <orchestration>` |
 |    /_images/logo-cloudorchestration-50x50.png  | * Free with every cloud account                 |
 |    :alt: Cloud Orchestration automates         | * Open-source roots:                            |
 |          and standardizes infrastructure.      |   :os-docs:`OpenStack Heat <developer/heat>`    |
@@ -71,7 +71,7 @@ Rackspace Intelligence
 +-----------------------------------------------------+---------------------------------------------+
 |                                                     |                                             |
 | .. image::                                          | * :how-to:`Product overview                 |
-|    /_images/logo-rackspaceintelligence-50x50.png    |   <rackspace-intelligence/>`                |
+|    /_images/logo-rackspaceintelligence-50x50.png    |   <rackspace-intelligence>`                 |
 |    :alt: Rackspace Intelligence provides a          | * Free with every cloud account             |
 |          transparent view of infrastructure health. |                                             |
 |    :align: center                                   |                                             |

@@ -22,4 +22,4 @@ You can use the Cloud Control Panel to help you
 observe and manage your Cloud Servers configuration.
 For ideas about what to do first,
 visit the
-:how-to:`Rackspace Cloud Servers introduction page <cloud-servers/>`.
+:how-to:`Rackspace Cloud Servers introduction page <cloud-servers>`.

@@ -18,7 +18,7 @@ change your billing options, and to explore new services and features.
 
 To learn about some of the basic activities that you might
 need to perform in the Cloud Control Panel, begin with the
-:how-to:`Cloud Servers introduction page <cloud-servers/>`.
+:how-to:`Cloud Servers introduction page <cloud-servers>`.
 
 In the Rackspace cloud,
 you can quickly try something, decide that it isn't quite right for you,

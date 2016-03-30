@@ -20,9 +20,9 @@ apply to the Rackspace cloud as well:
 Rackspace provides tools to help you automate detection of and response to
 unusual situations such as workload spikes:
 
-* :how-to:`Rackspace Monitoring <cloud-monitoring/>`
-* :how-to:`Rackspace Auto Scale <rackspace-auto-scale/>`
-* :how-to:`Rackspace Intelligence <rackspace-intelligence/>`
+* :how-to:`Rackspace Monitoring <cloud-monitoring>`
+* :how-to:`Rackspace Auto Scale <rackspace-auto-scale>`
+* :how-to:`Rackspace Intelligence <rackspace-intelligence>`
 
 Rackspace provides a
 `real-time system status view <https://status.rackspace.com>`__
@@ -118,9 +118,9 @@ to enable cloud services to interact.
    To learn more about troubleshooting or preventing connectivity issues,
    read these articles:
 
-   * :how-to:`Basic network troubleshooting <basic-network-troubleshooting/>`
+   * :how-to:`Basic network troubleshooting <basic-network-troubleshooting>`
 
-   * :how-to:`Troubleshooting DNS issues <troubleshooting-dns-issues/>`
+   * :how-to:`Troubleshooting DNS issues <troubleshooting-dns-issues>`
 
    * :ref:`network-ssh`
 
@@ -223,7 +223,7 @@ also provides links to help you submit support tickets.
    To learn more about troubleshooting or preventing server build issues,
    read these articles:
 
-   * :how-to:`RackConnect power users guide <rackconnect-power-users-guide/>`
+   * :how-to:`RackConnect power users guide <rackconnect-power-users-guide>`
      suggests using the Cloud Servers API to build multiple servers in bursts
      rather than singly.
 

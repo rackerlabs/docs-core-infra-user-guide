@@ -46,7 +46,7 @@ on most popular operating systems:
 * In the Cloud Servers API documentation at
   :rax-docs:`Install the nova Client with the Cloud Networks Extension <servers/api/v2/cs-gettingstarted/content/section_gs_install_nova.html>`
 * In
-  :how-to:`Python-novaclient and the Rackspace Cloud <using-python-novaclient-with-the-rackspace-cloud/>`
+  :how-to:`Python-novaclient and the Rackspace Cloud <using-python-novaclient-with-the-rackspace-cloud>`
 
 After you have novaclient installed, you must set up your
 environment so that you can authenticate to Rackspace and use the

@@ -20,4 +20,4 @@ You can use the Cloud Control Panel to help you
 observe and manage your Cloud Networks configuration.
 For ideas about what to do first,
 visit the
-:how-to:`Cloud Networks introduction page <cloud-networks/>`.
+:how-to:`Cloud Networks introduction page <cloud-networks>`.

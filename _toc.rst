@@ -2,7 +2,7 @@
    :includehidden:
    :maxdepth: 99
    
-   Cloud Core Infrastructure User Guide <https://developer.rackspace.com/docs/user-guides/infrastructure/#rackspace-cloud-guide-to-core-infrastructure-services>
+   Cloud Core Infrastructure User Guide <https://developer.rackspace.com/docs/user-guides/infrastructure/>
    cloud-guide-intro/index
    cloud-intro/index
    cloud-interfaces/index

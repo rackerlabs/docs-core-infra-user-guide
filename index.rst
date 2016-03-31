@@ -78,6 +78,7 @@ please :ref:`contactus`.
 .. toctree:: :hidden:
    :maxdepth: 2
 
+   Cloud Core Infrastructure User Guide <https://developer.rackspace.com/docs/user-guides/infrastructure/#rackspace-cloud-guide-to-core-infrastructure-services>
    cloud-guide-intro/index
    cloud-intro/index
    cloud-interfaces/index

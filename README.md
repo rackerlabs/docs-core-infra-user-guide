@@ -1,7 +1,6 @@
 # Rackspace Cloud Core Infrastructure Services User Guide
 
-[![Build Status](https://travis-ci.org/rackerlabs/docs-core-infra-user-guide.svg?branch=master)](https://travis-ci.org/rackerlabs/docs-core-infra-user-guide)
-
+[![build badge](https://build.developer.rackspace.com/rackerlabs/docs-core-infra-user-guide/badge?branch=master)](https://build.developer.rackspace.com/rackerlabs/docs-core-infra-user-guide/)
 ## Purpose
 
 This GitHub repository contains the source files for the Rackspace Cloud Core Infrastructure Services User Guide.

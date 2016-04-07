@@ -2,7 +2,7 @@
    :includehidden:
    :maxdepth: 99
 
-   Cloud Core Infrastructure User Guide <self>
+   self
    cloud-guide-intro/index
    cloud-intro/index
    cloud-interfaces/index

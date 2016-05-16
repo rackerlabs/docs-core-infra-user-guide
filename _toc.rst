@@ -1,6 +1,6 @@
 .. toctree::
    :includehidden:
-   :maxdepth: 99
+   :maxdepth: 4
 
    Cloud Core Infrastructure User Guide <https://developer.rackspace.com/docs/user-guides/infrastructure/>
    cloud-guide-intro/index

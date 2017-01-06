@@ -3,7 +3,7 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cloud Files and CLIs: swift and swiftly
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-To interact with Cloud Block Storage at the command line, you can
+To interact with Cloud Files at the command line, you can
 use tools created specifically for the purpose of interacting
 with OpenStack-based clouds, such as Rackspace CLI (rack), swift, and
 swiftly, or general-purpose tools (cURL).

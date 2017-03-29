@@ -41,4 +41,4 @@ customers:
   `freenode <https://freenode.net/>`__
   at #rackspace
 
-* Send email to sdk-support@rackspace.com
+* Raise an issue with `Rackspace support <https://support.rackspace.com/>`__.

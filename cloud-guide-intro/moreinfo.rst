@@ -13,9 +13,6 @@ starting points:
 * To manage your account, log in to the
   :mycloud:`Cloud Control Panel <>`.
 
-* To learn the vendor-neutral basics of cloud computing, start at
-  `Cloud U <http://cloudu.rackspace.com/>`__.
-
 * To learn about the Rackspace cloud
   through tutorials, case studies, and white papers,
   start at

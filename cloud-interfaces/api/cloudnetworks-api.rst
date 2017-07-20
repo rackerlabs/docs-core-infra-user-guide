@@ -115,9 +115,9 @@ with (for example, Cloud Networks or Cloud Files)
 and the scope they act on (for example, subnets or ports).
 
 You can see all Cloud Networks operations in the
-:rax-api:`API cross-reference <api-ref-networks.html>`.
+:rax-docs:`Cloud Networks API Reference <cloud-networks/v2/api-reference/>`.
 In the group of
-:rax-api:`operations that act on networks <api-ref-networks.html#network-ops>`,
+:rax-docs:`Network operations <cloud-networks/v2/api-reference/network-operations>`,
 you can see that:
 
 * Sending a ``GET`` request to the ``v2.0/networks``
@@ -145,10 +145,10 @@ In the sample response,
 correspond to the information available on the Cloud Control Panel.
 
 In the
-:rax-docs:`Getting Started Guide for the Cloud Networks API <networks/api/v2/cn-gettingstarted>`,
+:rax-docs:`Getting Started Guide for the Cloud Networks API <cloud-networks/v2/getting-started/>`,
 you can see an example of
 :rax-docs:`obtaining a list of networks by using the cURL command-line interface (CLI)
-<networks/api/v2/cn-gettingstarted/content/neutron_list_networks_curl.html>`.
+<cloud-networks/v2/getting-started/managing-networks/creating-network-curl/#listing-networks-curl>`.
 
 Learn about Cloud Networks in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

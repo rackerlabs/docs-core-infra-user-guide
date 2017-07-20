@@ -28,9 +28,7 @@ or you can go directly to the tool that interests you:
 * :ref:`curl`
 
 If you choose to use tools created specifically for interacting with Openstack
-based clouds, use
-:ref:`glance`,
-focused on Cloud Images.
+based clouds, use :ref:`glance`, focused on Cloud Images.
 
 In working with Cloud Images,
 you might find that you need to use nova for some functions
@@ -49,8 +47,7 @@ and is documented with the tool.
 The commands that you can send are the
 the same as the requests you can send
 to the API endpoint, but they are wrapped in the syntax of the client.
-The
-:rax-api:`API cross-reference <api-ref-images.html>`
+The :rax-docs:`Cloud Images API Reference <cloud-images/v2/api-reference/>`
 lists those requests for Cloud Images.
 
 The *Getting Started Guide for the Cloud Images API*

@@ -37,7 +37,7 @@ In that case,
 experimenting in the Cloud Control Panel can show you
 only part of the process of working with a new feature;
 other details are described in the
-:rax-api:`API documentation <>`.
+in the :rax-docs:`API documentation <>`.
 
 Just as you can use the Cloud Control Panel
 to help you understand a manual process that you intend to automate,
@@ -114,11 +114,6 @@ with (for example, Cloud Images or Cloud Files)
 and the scope they act on (for example, images or image schemas).
 
 You can see all Cloud Images operations in the
-:rax-api:`API cross-reference <api-ref-images.html>`.
-In the group of
-:rax-api:`operations that act on images <api-ref-images.html#images>`,
-you can see that:
-
 :rax-docs:`Cloud Images API Reference <cloud-images/v2/api-reference/>`.
 In the group of
 :rax-docs:`Images operations <cloud-images/v2/api-reference/images-operations/>`,

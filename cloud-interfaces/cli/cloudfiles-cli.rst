@@ -21,7 +21,7 @@ tool and is documented with with the tool.
 
 The commands you can send are the same as the requests you can send to the API
 endpoint, but are wrapped in the syntax of the client.
-The :rax-api:`API cross-reference <api-ref-files.html>`
+The :rax-docs:`Cloud Files API Reference <cloud-files/v1/storage-api-reference/>`
 lists those requests for Cloud Files.
 
 The *Getting Started Guide for the Cloud Files API* includes many

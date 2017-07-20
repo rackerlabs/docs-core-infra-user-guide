@@ -44,16 +44,13 @@ example:
 Alternatively, Rackspace CLI works with most functions without having to switch
 clients.
 
-Before you can use one of these tools,
-you must install a local (client) copy.
-The installation procedure varies for each tool
-and is documented with the tool.
+Before you can use one of these tools, you must install a local (client) copy.
+The installation procedure varies for each tool and is documented with the tool.
 
 The commands that you can send are the
 the same as the requests you can send
-to the API endpoint, but they are wrapped in the syntax of
-the client. The
-:rax-api:`API cross-reference <api-ref-networks.html>`
+to the API endpoint, but they are wrapped in the syntax of the client. The
+:rax-docs:`Cloud Networks API Reference <cloud-networks/v2/api-reference/>`
 lists those requests for Cloud Networks.
 
 The *Getting Started Guide for the Cloud Networks API*

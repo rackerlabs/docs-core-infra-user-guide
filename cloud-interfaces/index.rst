@@ -14,8 +14,7 @@ The Rackspace cloud provides Application Programming Interfaces
 The APIs provide direct programmatic access to cloud services,
 and they also
 power the Cloud Control Panel (GUI), the command-line interfaces (CLIs),
-and software
-development kits (SDKs).
+and software development kits (SDKs).
 
 Depending on your needs,
 you might want to interact with the cloud through

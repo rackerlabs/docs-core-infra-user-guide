@@ -107,8 +107,7 @@ you can see
 
 Learn about Cloud Networks in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-docs: `Developer documentation <>`.
+In the :rax-docs:`API documentation <>`,
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Networks or Cloud Files)

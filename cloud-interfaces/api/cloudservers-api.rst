@@ -114,8 +114,7 @@ for tag, status, image, flavor, and type.
 
 Learn about Cloud Servers in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-docs: `Developer documentation <>`.
+In the :rax-docs:`API documentation <>`,
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Servers or Cloud Files)
@@ -158,8 +157,7 @@ In the
 :rax-docs:`Getting Started Guide for Cloud Servers - Create your first server <cloud-servers/v2/getting-started/create-server-intro/>`,
 you can follow a 3-step tutorial to perform an essential task:
 create a cloud server.
-The
-:rax-docs:`Getting Started Guide <cloud-servers/v2/getting-started/>`
+The :rax-docs:`Getting Started Guide <cloud-servers/v2/getting-started/>`
 begins with instructions on creating a Rackspace account
 and walks you through basic server and network operations.
 An intermediate step shows an example with the cURL command-line interface (CLI) for

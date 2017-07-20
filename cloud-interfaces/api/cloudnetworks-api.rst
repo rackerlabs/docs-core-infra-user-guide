@@ -154,11 +154,10 @@ Learn about Cloud Networks in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the
 :rax-dev-quickstart:`SDK QuickStart for Cloud Networks <cloud-networks/getting-started>`,
-you can see some of the same steps that are documented in
-the API's Getting Started Guide.
-For example, both the API-focused and SDK-focused documents
-show how to authenticate with your API key before issuing any requests
-to the Cloud Networks API.
+you can see some of the same steps that are documented in  the API's Getting
+Started Guide. For example, both the API-focused and SDK-focused documents
+show how to authenticate with your API key before issuing any requests to the
+Cloud Networks API.
 
 The SDK QuickStart adds examples in several popular programming
 languages,

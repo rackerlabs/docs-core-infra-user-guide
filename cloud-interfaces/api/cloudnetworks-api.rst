@@ -108,7 +108,7 @@ you can see
 Learn about Cloud Networks in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the
-:rax-api:`API cross-reference <>`,
+:rax-docs: `Developer documentation <>`.
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Networks or Cloud Files)
@@ -146,8 +146,8 @@ correspond to the information available on the Cloud Control Panel.
 
 In the
 :rax-docs:`Getting Started Guide for the Cloud Networks API <cloud-networks/v2/getting-started/>`,
-you can see an example of
-:rax-docs:`obtaining a list of networks by using the cURL command-line interface (CLI)
+you can see an example with the cURL command-line interface (CLI) for
+:rax-docs:`Listing networks (cURL)
 <cloud-networks/v2/getting-started/managing-networks/creating-network-curl/#listing-networks-curl>`.
 
 Learn about Cloud Networks in SDK QuickStart

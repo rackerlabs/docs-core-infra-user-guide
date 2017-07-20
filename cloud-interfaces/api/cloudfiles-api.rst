@@ -81,15 +81,16 @@ container you can see:
 
 Learn about Cloud Files in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the :rax-api:`API cross-reference <>`, you can see all
+In the :rax-docs:`API documentation <>`, you can see all
 available API operations for all cloud services. The operations
 are grouped according to the service they interact with
 (for example, Cloud Block Storage or Cloud File) and the scope
 they act on, such as containers or objects.
 
 You can see all Cloud Files operations in the
-:rax-api:`API cross-reference <api-ref-files.html>`. In the group of
-:rax-api:`operations that act on containers <api-ref-files.html#files_container_services>`,
+:rax-docs:`Cloud Files API Reference <cloud-files/v1/storage-api-reference/>`.
+In the group of
+:rax-docs:`Containers operations <cloud-files/v1/storage-api-reference/container-services-operations/>`,
 you can see that:
 
 * Sending a ``PUT`` request to the ``vi/{account}/{container}``
@@ -115,10 +116,10 @@ In the sample response, ``bytes`` and ``name`` correspond
 to the information available in the Cloud Control Panel.
 
 In the :rax-docs:`Getting Started Guide for the Cloud Files API
-<files/api/v1/cf-getting-started/content/Overview-d1e01.html>`,
-you can see an example of
-:rax-docs:`obtaining a list of account details and Cloud Files containers by using the cURL command-line interface (CLI)
-<files/api/v1/cf-getting-started/content/Show-Account-Details-d1e101.html>`.
+<cloud-files/v1/getting-started/use-API-directly/>`,
+you can see an example with the cURL command-line interface (CLI) for
+:rax-docs:`Creating a storage container
+<cloud-files/v1/getting-started/use-API-directly/#creating-a-storage-container>`.
 
 Learn about Cloud Files in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

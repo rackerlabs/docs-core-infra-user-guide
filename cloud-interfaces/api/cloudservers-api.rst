@@ -114,17 +114,16 @@ for tag, status, image, flavor, and type.
 
 Learn about Cloud Servers in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-api:`API cross-reference <>`,
+In the :rax-docs:`API documentation <>`,
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Servers or Cloud Files)
 and the scope they act on (for example, flavors or images).
 
 You can see all Cloud Servers operations in the
-:rax-api:`API cross-reference <api-ref.html#compute-core-v2>`.
+:rax-docs:`Cloud Servers API Reference <cloud-servers/v2/api-reference/>`.
 In the group of
-:rax-api:`operations that act on servers <api-ref.html#compute_servers>`
+:rax-docs:`Server operations <cloud-servers/v2/api-reference/svr-basic-operations/>`,
 you can see that:
 
 * Sending a ``GET`` request to the ``/v2/{tenant_id}/servers``
@@ -155,17 +154,15 @@ the request parameters named ``status``, ``image``, and ``flavor``
 correspond to the filters available on the Cloud Control Panel.
 
 In the
-:rax-docs:`Getting Started Guide for the Cloud Servers API <servers/api/v2/cs-gettingstarted>`,
-you can follow a 12-step tutorial to perform an essential task:
+:rax-docs:`Getting Started Guide for Cloud Servers - Create your first server <cloud-servers/v2/getting-started/create-server-intro/>`,
+you can follow a 3-step tutorial to perform an essential task:
 create a cloud server.
-The
-:rax-docs:`tutorial <servers/api/v2/cs-gettingstarted/content/ch_gs_getting_started_with_nova.html>`
+The :rax-docs:`Getting Started Guide <cloud-servers/v2/getting-started/>`
 begins with instructions on creating a Rackspace account
-and concludes with deleting the Cloud Server that was created.
-An intermediate step
-demonstrates
-:rax-docs:`obtaining a detailed list of Cloud Servers by using the cURL command-line interface (CLI)
-<servers/api/v2/cs-gettingstarted/content/curl_list_servers.html>`.
+and walks you through basic server and network operations.
+An intermediate step shows an example with the cURL command-line interface (CLI) for
+:rax-docs:`Listing servers (cURL)
+<cloud-servers/v2/getting-started/create-server/listing-servers-curl/>`.
 
 Learn about Cloud Servers in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -119,17 +119,16 @@ you can see:
 
 Learn about Cloud Block Storage in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-api:`API cross-reference <>`,
+In the :rax-docs:`API documentation <>`,
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Block Storage or Cloud Files)
 and the scope they act on (for example, volumes or snapshots).
 
 You can see all Cloud Block Storage operations in the
-:rax-api:`API cross-reference <api-ref-blockstorage.html>`.
+:rax-docs:`Cloud Block Storage API Reference <cloud-block-storage/v1/api-reference/>`.
 In the group of
-:rax-api:`operations that act on volumes <api-ref-blockstorage.html#volumes>`,
+:rax-docs:`Volumes operations <cloud-block-storage/v1/api-reference/cbs-volumes-operations/>`,
 you can see that:
 
 * Sending a ``POST`` request to the ``v1/{tenant_id}/volumes``
@@ -159,10 +158,10 @@ In the sample response,
 correspond to the information available on the Cloud Control Panel.
 
 In the
-:rax-docs:`Getting Started Guide for the Cloud Block Storage API <cbs/api/v1.0/cbs-getting-started>`,
-you can see an example of
-:rax-docs:`obtaining a list of Cloud Block Storage volumes by using the cURL command-line interface (CLI)
-<cbs/api/v1.0/cbs-getting-started/content/Listing_volumes_d1e060.html>`.
+:rax-docs:`Getting Started Guide for the Cloud Block Storage API <cloud-block-storage/v1/getting-started/>`,
+you can see an example with the cURL command-line interface (CLI) for
+:rax-docs:`Listing existing block storage volumes
+<cloud-block-storage/v1/getting-started/use-API-directly/#listing-existing-block-storage-volumes>`.
 
 Learn about Cloud Block Storage in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

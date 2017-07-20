@@ -17,8 +17,7 @@ and is documented with the tool.
 The commands that you can send are the
 the same as the requests you can send
 to the API endpoint, but they are wrapped in the syntax of the client.
-The
-:rax-api:`API cross-reference <api-ref.html#compute-core-v2>`
+The :rax-docs:`Cloud Servers API Reference <cloud-servers/v2/api-reference/>`
 lists those requests for Cloud Servers.
 
 

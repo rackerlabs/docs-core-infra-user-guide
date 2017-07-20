@@ -37,7 +37,7 @@ In that case,
 experimenting in the Cloud Control Panel can show you
 only part of the process of working with a new feature;
 other details are described in the
-:rax-api:`API documentation <>`.
+in the :rax-docs:`API documentation <>`.
 
 Just as you can use the Cloud Control Panel
 to help you understand a manual process that you intend to automate,
@@ -107,17 +107,16 @@ you can see:
 
 Learn about Cloud Images in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-api:`API cross-reference <>`,
+In the :rax-docs:`API documentation <>`,
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Images or Cloud Files)
 and the scope they act on (for example, images or image schemas).
 
 You can see all Cloud Images operations in the
-:rax-api:`API cross-reference <api-ref-images.html>`.
+:rax-docs:`Cloud Images API Reference <cloud-images/v2/api-reference/>`.
 In the group of
-:rax-api:`operations that act on images <api-ref-images.html#images>`,
+:rax-docs:`Images operations <cloud-images/v2/api-reference/images-operations/>`,
 you can see that:
 
 * Sending a ``GET`` request to the ``images``
@@ -142,10 +141,10 @@ In the sample response,
 correspond to the information available on the Cloud Control Panel.
 
 In the
-:rax-docs:`Getting Started Guide for the Cloud Images API <images/api/v2/ci-gettingstarted>`,
-you can see an example of
-:rax-docs:`obtaining a list of images by using the cURL command-line interface (CLI)
-<images/api/v2/ci-gettingstarted/content/list-images.html>`.
+:rax-docs:`Getting Started Guide for the Cloud Images <cloud-images/v2/getting-started/>`,
+you can see an example with the cURL command-line interface (CLI) for
+:rax-docs:`Listing images
+<cloud-images/v2/getting-started/use-images/#listing-images>`.
 
 Learn about Cloud Images in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -22,9 +22,7 @@ powerful tool for understanding and managing the Rackspace cloud
 infrastructure.
 
 The API Developer Guide for each service is published in
-:rax-docs:`our technical documentation collection <>`, and
-the same API operations are also listed
-in a combined :rax-api:`API cross-reference <>`.
+:rax-docs:`our technical documentation collection <>`.
 
 Some of the most common ways to directly interact with APIs are:
 

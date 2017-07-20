@@ -48,7 +48,7 @@ The commands that you can send are the
 the same as the requests you can send
 to the API endpoint, but they are wrapped in the syntax of the client.
 The
-:rax-api:`API cross-reference <api-ref-blockstorage.html>`
+:rax-docs:`Cloud Block Storage API Reference <cloud-block-storage/v1/api-reference/>`
 lists those requests for Cloud Block Storage.
 
 The *Getting Started Guide for the Cloud Block Storage API*

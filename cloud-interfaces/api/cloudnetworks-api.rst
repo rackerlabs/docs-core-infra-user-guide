@@ -107,17 +107,16 @@ you can see
 
 Learn about Cloud Networks in API documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-api:`API cross-reference <>`,
+In the :rax-docs:`API documentation <>`,
 you can see all available API operations for all cloud services.
 The operations are grouped according to the service they interact
 with (for example, Cloud Networks or Cloud Files)
 and the scope they act on (for example, subnets or ports).
 
 You can see all Cloud Networks operations in the
-:rax-api:`API cross-reference <api-ref-networks.html>`.
+:rax-docs:`Cloud Networks API Reference <cloud-networks/v2/api-reference/>`.
 In the group of
-:rax-api:`operations that act on networks <api-ref-networks.html#network-ops>`,
+:rax-docs:`Network operations <cloud-networks/v2/api-reference/network-operations>`,
 you can see that:
 
 * Sending a ``GET`` request to the ``v2.0/networks``
@@ -145,26 +144,23 @@ In the sample response,
 correspond to the information available on the Cloud Control Panel.
 
 In the
-:rax-docs:`Getting Started Guide for the Cloud Networks API <networks/api/v2/cn-gettingstarted>`,
-you can see an example of
-:rax-docs:`obtaining a list of networks by using the cURL command-line interface (CLI)
-<networks/api/v2/cn-gettingstarted/content/neutron_list_networks_curl.html>`.
+:rax-docs:`Getting Started Guide for the Cloud Networks API <cloud-networks/v2/getting-started/>`,
+you can see an example with the cURL command-line interface (CLI) for
+:rax-docs:`Listing networks (cURL)
+<cloud-networks/v2/getting-started/managing-networks/creating-network-curl/#listing-networks-curl>`.
 
 Learn about Cloud Networks in SDK QuickStart
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In the
 :rax-dev-quickstart:`SDK QuickStart for Cloud Networks <cloud-networks/getting-started>`,
-you can see some of the same steps that are documented in
-the API's Getting Started Guide.
-For example, both the API-focused and SDK-focused documents
-show how to authenticate with your API key before issuing any requests
-to the Cloud Networks API.
-
-The SDK QuickStart adds examples in several popular programming
-languages,
-demonstrating how to use each language to
-code some commonly-used requests to the
+you can see some of the same steps that are documented in  the API's Getting
+Started Guide. For example, both the API-focused and SDK-focused documents
+show how to authenticate with your API key before issuing any requests to the
 Cloud Networks API.
+
+The SDK QuickStart adds examples in several popular programming languages,
+demonstrating how to use each language to code some commonly-used requests to
+the Cloud Networks API.
 
 To see examples in a specific language,
 click that language's name in the list across the top of the page.

@@ -11,8 +11,10 @@ through, to, and from ports
 (Public/ServiceNet)
 on a cloud server.
 
-Security groups are available to all customers through the Cloud Control Panel.
-To work with security groups now,
+Security groups are available to all customers through the Cloud
+Control Panel.
+
+To work with security groups,
 use the
 :ref:`neutron CLI <neutron>`
 or

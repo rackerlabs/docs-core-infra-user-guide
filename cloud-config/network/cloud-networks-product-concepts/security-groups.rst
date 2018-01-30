@@ -26,10 +26,10 @@ are listed in
 You can read full details about API operations
 related to security groups in the
 Cloud Networks API documentation under
-:rax-dev-devguide:`Security groups operations <cloud-networks/v2/developer-guide/#document-api-operations/sec-group-operations>`.
+`Security groups operations <https://developer.rackspace.com/docs/cloud-networks/v2/api-reference/sec-group-operations>`__.
 
 To learn more about security groups, read
 :how-to:`Security groups FAQ <cloud-networks-faq>` and
-:rax-docs:`Use security groups to control traffic <networks/api/v2/cn-gettingstarted/content/security_groups.html>`.
+:rax-docs:`Use security groups to control traffic <cloud-networks/v2/getting-started/controlling-network-access/security-groups>`.
 
 .. include:: /_common/seealso-concepts-cloud-networks.txt

@@ -3,7 +3,6 @@
 ~~~~~~~~~~~~~~~
 Security groups
 ~~~~~~~~~~~~~~~
-.. include:: /_common/note-limitedaccess-securitygroups.txt
 
 A security group is a named container for security group rules.
 Security group rules provide Rackspace Public Cloud users the ability
@@ -12,7 +11,7 @@ through, to, and from ports
 (Public/ServiceNet)
 on a cloud server.
 
-Security groups are not yet available through the Cloud Control Panel.
+Security groups are available to all customers through the Cloud Control Panel.
 To work with security groups now,
 use the
 :ref:`neutron CLI <neutron>`

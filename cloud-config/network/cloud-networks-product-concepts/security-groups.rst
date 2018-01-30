@@ -25,7 +25,7 @@ are listed in
 You can read full details about API operations
 related to security groups in the
 Cloud Networks API documentation under
-:ref:`Security groups operations (https://developer.rackspace.com/docs/cloud-networks/v2/api-reference/sec-group-operations/)`_.
+`Security groups operations <https://developer.rackspace.com/docs/cloud-networks/v2/api-reference/sec-group-operations/>`__.
 
 To learn more about security groups, read
 :how-to:`Security groups FAQ <cloud-networks-faq>` and

@@ -8,8 +8,8 @@ contains a virtual disk that contains a bootable operating system.
 
 Images come in several formats. The Rackspace Managed Cloud uses
 images in the Virtual Hard Disk (VHD) format. The VHD format was
-developed by Microsoft and is used by the Microsoft Hyper-V and Citrix
-XenServer hypervisors, among others.
+developed by Microsoft and is used by the Microsoft Hyper-V and
+Citrix XenServer hypervisors, among others.
 
 ..
 .. below, the include provides visible links

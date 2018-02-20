@@ -319,5 +319,3 @@ troubleshoot-connectivity              = /cloud-ops/troubleshoot.rst
 troubleshoot-build                     = /cloud-ops/troubleshoot.rst
 
 virtual-server-flavor-class            = /cloud-config/compute/cloud-servers-product-concepts/flavor-class/virtual-server-flavor-class.rst
-
-virtualization-modes                   = /cloud-config/compute/cloud-images-product-concepts/virtualization-modes.rst

@@ -24,7 +24,6 @@ XenServer hypervisors, among others.
 
    image-properties
    data-immutability
-   virtualization-modes
    base-images/index
    sharing-images/index
    import-export-images

@@ -155,8 +155,8 @@ detailed guidance that will help you develop your software,
 examine the SDK itself.
 
 To find the full SDK for your programming language, start at
-:rax-dev:`SDKs & Tools in the Developer Center <sdks>` and
-find the language.
+`SDKs & Tools in the Developer Center <https://developer.rackspace.com/docs/#sdks>`__
+and find the language.
 
 For example, if you code in PHP,
 

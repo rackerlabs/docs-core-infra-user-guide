@@ -15,17 +15,9 @@ set of enabling software; for example, if you want to publish a blog
 using the WordPress content management system, you'll have to provide
 WordPress with a Linux+Apache+MySQL+PHP environment
 (a **LAMP** stack).
-To learn about
-this multi-step process, perform the following actions:
+To learn about this process, read the article
+:how-to:`How to Install a LAMP stack on CentOS, Fedora, or Red Hat <how-to-install-a-lamp-stack-on-centos-fedora-or-red-hat>`.
 
-* Read the following articles about LAMP stacks:
-
-  * :how-to:`How to Install a LAMP stack on CentOS, Fedora, or Red Hat <how-to-install-a-lamp-stack-on-centos-fedora-or-red-hat>`
-
-  * :how-to:`Migrating an Application Built on a LAMP Stack from Amazon Web Services <migrating-an-application-built-on-a-lamp-stack-from-amazon-web-services>`
-
-* Complete the Cloud Launch Guide tutorial for
-  `CMS with WordPress <https://launch.rackspace.com/guides/wordpress>`__
 
 For many popular software packages and their enabling stacks, Rackspace
 offers an easier way to get what you need. When you create a server,
@@ -36,31 +28,18 @@ that through the Cloud Control Panel, choose **Create Stack** rather than
 the software that you want
 to install.
 
-We frequently expand the list of templates.
-The list below is a recent snapshot;
-to see the complete, up-to-the-minute list of templates,
-login to the
-:mycloud:`Cloud Control Panel <>`
-and click **Orchestration**.
-
-.. raw:: html
-   :file: stacks-from-control-panel.html
-
-.. This list is from the control panel;
-   when I update the list here, I also update it at
-   http://www.rackspace.com/knowledge_center/article/available-templates-for-cloud-orchestration.
+We frequently update the list of templates.
+To see the complete, up-to-the-minute list of templates,
+log in to the :mycloud:`Cloud Control Panel <>` and click **Orchestration**.
 
 For some templates, you can choose a flavor.
 For example, the Rails template is available in
 single-server and multi-server flavors.
 
-.. figure:: /_images/cloudorchestrationrailsflavors.png
-   :alt: Some templates are offered in multiple flavors.
+In the Cloud Control Panel, you also have the option to click **Create Custom Template** to create your own template.
 
-   *Some templates are offered in multiple flavors.*
-
-If you've written your own automation to create cloud servers, you can
-use the Cloud Orchestration API to create a server from one of our
+Additionally, if you've written your own automation to create cloud servers,
+you can use the Cloud Orchestration API to create a server from one of our
 templates. You can also use the API to create your own templates and
 then use one of your own templates to create your own cloud servers.
 To learn how to use the Cloud Orchestration API, begin with the

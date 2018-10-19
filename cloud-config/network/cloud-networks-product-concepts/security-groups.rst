@@ -7,15 +7,15 @@ Security groups
 A security group is a named container for security group rules.
 Security group rules provide Rackspace Public Cloud users the ability
 to specify the types of traffic that are allowed to pass
-through, to, and from ports
-(Public/ServiceNet)
-on a cloud server.
+through, to, and from ports on a cloud server.
 
 Security groups are available to all customers through the Cloud
-Control Panel.
+Control Panel. Security Groups are available for PublicNet and ServiceNet,
+but not for Cloud Networks, as Cloud Networks are already isolated by tenant.
 
 To work with security groups,
-use the
+use the portal,
+
 :ref:`neutron CLI <neutron>`
 or
 :ref:`Cloud Networks API <cloudnetworks-api>`.

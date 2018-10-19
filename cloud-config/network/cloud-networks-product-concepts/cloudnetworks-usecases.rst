@@ -7,19 +7,25 @@ Cloud Networks is especially useful for
 tightening security, increasing flexibility,
 and maintaining uninterrupted availability.
 
-**Security**
+**Secure east/west traffic**
 
   Get fully isolated, single-tenant Layer 2 networks designed to securely
   transfer sensitive information between servers located in the same
   region.
 
-**Flexibility and control**
+**Enforce consistent network configuration**
 
-  Control IP addressing (IPv4 or IPv6) and topology to create networks
-  that suit your workload. For example,
-  you can create one network between web servers and
-  application servers,
-  and another network between application servers and database servers.
+ Program static routes, gateway IP, and DNS servers into the Cloud Network API
+ and have them automatically injected in your servers at boot time,
+ or when the network is attached.
+ Use a :ref:`Gateway Instances<network-gateway-instances>` to connect your
+ isolated Cloud Servers to the Internet.
+
+**VPN Endpoint**
+
+  Securely connect to remote resources via VPN. By programming static routes
+  into your Cloud Networks Subnet, you can ensure that all servers attached
+  to your Cloud Network can access the remote networks connected via VPN.
 
 **High availability**
 

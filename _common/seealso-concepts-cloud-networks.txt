@@ -5,7 +5,7 @@
    | * :ref:`network-onmetal-servers`          | * :ref:`cloudnetworks-usecases`       |
    | * :ref:`network-rackconnect`              | * :ref:`security-groups`              |
    | * :ref:`publicnet`                        | * :ref:`dns`                          |
-   | * :ref:`servicenet`                       |                                       |
+   | * :ref:`servicenet`                       | * :ref:`network-gateway-instances`    |
    | * :ref:`servicenet-publicnet-requirement` |                                       |
    +-------------------------------------------+---------------------------------------+
 

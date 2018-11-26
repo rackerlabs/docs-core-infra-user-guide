@@ -32,7 +32,7 @@ You cannot NAT via ServiceNet
 To prevent spoofing,
 ServiceNet is filtered on the source and destination MAC, and destination IP. Thus,
 NAT will not work via ServiceNet. If you want to NAT, create a
-:ref:`Gateway instance<network-gateway-instances>`
+:ref:`Gateway Instance<network-gateway-instances>`
 and use Cloud Networks.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -196,7 +196,7 @@ Rackspace Cloud uses static addressing. IPs are assigned as follows:
    * - Cloud Networks
      - Can be IPv4 or IPv6. For v4, choose a range between /28 and /24.
      - Gateway IP and DNS Servers not defined by default. Must be defined
-       for :ref:`Gateway instances<network-gateway-instances>`
+       for :ref:`Gateway Instances<network-gateway-instances>`
        to work properly.
 
 

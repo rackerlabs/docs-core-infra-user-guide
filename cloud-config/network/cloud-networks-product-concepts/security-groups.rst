@@ -11,7 +11,7 @@ through, to, and from ports on a cloud server.
 
 Security groups are available to all customers through the Cloud
 Control Panel. Security Groups are available for PublicNet and ServiceNet,
-but not for Cloud Networks, as Cloud Networks are already isolated by tenant.
+but not for Cloud Networks because Cloud Networks are already isolated by tenant.
 
 To work with security groups,
 use the portal,

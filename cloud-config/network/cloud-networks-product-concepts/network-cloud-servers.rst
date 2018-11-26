@@ -25,9 +25,9 @@ though ServiceNet can also be used for server east-west (backend)
 connectivity, we do not recommend ServiceNet for that purpose because,
 unlike Cloud Networks, ServiceNet is multi-tenant.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You cannot NAT via ServiceNet
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You cannot NAT by using ServiceNet
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To prevent spoofing,
 ServiceNet is filtered on the source and destination MAC, and destination IP. Thus,

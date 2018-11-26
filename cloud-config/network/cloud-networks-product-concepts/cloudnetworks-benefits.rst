@@ -21,8 +21,8 @@ be useful within your Cloud Servers configuration:
 
 * **Enforce consistent network configuration**
 
-  Program routes, gateway IP, and DNS servers into the Cloud Network API
-  and have them automatically injected in your servers at build time,
+  Program routes, the gateway IP, and DNS servers into the Cloud Network API
+  and have them automatically injected in your servers at build time
   or when the network is attached.
   Use a :ref:`Gateway Instance<network-gateway-instances>` to connect your
   isolated Cloud Servers to the Internet.
@@ -50,7 +50,7 @@ be useful within your Cloud Servers configuration:
 
 * **Automate network changes**
 
-    Via the Cloud Networks API or Cloud Orchestration,
+    By using the Cloud Networks API or Cloud Orchestration,
     you can develop custom software to automatically
     create networks and attach or detach servers
     based on workload requirements.

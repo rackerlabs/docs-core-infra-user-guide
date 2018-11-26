@@ -14,11 +14,10 @@ Control Panel. Security Groups are available for PublicNet and ServiceNet,
 but not for Cloud Networks because Cloud Networks are already isolated by tenant.
 
 To work with security groups,
-use the portal,
+use one of the following portals:
 
-:ref:`neutron CLI <neutron>`
-or
-:ref:`Cloud Networks API <cloudnetworks-api>`.
+- :ref:`neutron CLI <neutron>`
+- :ref:`Cloud Networks API <cloudnetworks-api>`
 
 Actions related to managing security groups
 are listed in

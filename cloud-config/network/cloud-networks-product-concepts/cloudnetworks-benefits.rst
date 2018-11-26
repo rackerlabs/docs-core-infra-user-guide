@@ -27,7 +27,7 @@ be useful within your Cloud Servers configuration:
   Use a :ref:`Gateway Instance<network-gateway-instances>` to connect your
   isolated Cloud Servers to the Internet.
 
-* **NAT/VPN endpoint/network segmentation**
+* **NAT or VPN endpoint or network segmentation**
 
     Combine Cloud Networks with
     :ref:`Gateway Instances<network-gateway-instances>`

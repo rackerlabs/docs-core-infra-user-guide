@@ -42,6 +42,6 @@ Creating a Gateway Instance in Rackspace Cloud manually
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you wish to create the Gateway Instance manually, see the section entitled
-"How to Set Up Internet Access for Servers without PublicNet or ServiceNet"
+"How to set up Internet access for servers without PublicNet or ServiceNet"
 within the :ref:`Building servers without PublicNet or ServiceNet
 <servicenet-publicnet-requirement>` section of this guide.

@@ -30,9 +30,9 @@ all needed configuration (the gateway IP and DNS Servers) at the same time.
 To use the Cloud Orchestration template, copy the template to your clipboard,
 then navigate to the :mycloud:`Cloud Control Panel <>` and click
 **Orchestration**,
-then click "Stack Templates". From that page, click "Create Custom Template."
-Paste the template into the text box, then click "Create Template and Launch
-Stack".
+then click **Stack Templates**. From that page, click **Create Custom Template**.
+Paste the template into the text box, then click **Create Template and Launch
+Stack**.
 
 Fill in the stack details with your preferred information, such as administrative
 password, preferred IP scheme, and so on.

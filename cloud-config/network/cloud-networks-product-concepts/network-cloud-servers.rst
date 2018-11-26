@@ -8,7 +8,7 @@ and single-tenant, and offer users a way to securely connect their
 application servers.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-IP Addressing on Cloud Networks
+IP addressing on Cloud Networks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cloud Networks can be provisioned as either IPv4 or IPv6. Unlike PublicNet
 and ServiceNet, it is possible to assign specific Cloud Networks IPs to Cloud
@@ -17,7 +17,7 @@ an existing server (by creating a port with a fixed IP and the existing
 server's UUID as device ID).
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Communicating Securely between Rackspace Cloud Servers
+Communicating securely between Rackspace Cloud Servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Cloud Networks is recommended for all inter-server communication. Even
@@ -26,22 +26,22 @@ connectivity, we do not recommend ServiceNet for that purpose because,
 unlike Cloud Networks, ServiceNet is multi-tenant.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You Cannot NAT via ServiceNet
+You cannot NAT via ServiceNet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To prevent spoofing,
-ServiceNet is filtered on source and destination MAC, and destination IP. Thus,
-NAT will not work via ServiceNet. If you wish to NAT, create a
-:ref:`Gateway Instance<network-gateway-instances>`
+ServiceNet is filtered on the source and destination MAC, and destination IP. Thus,
+NAT will not work via ServiceNet. If you want to NAT, create a
+:ref:`Gateway instance<network-gateway-instances>`
 and use Cloud Networks.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Additional Cloud Networks Limits and Features
+Additional Cloud Networks limits and features
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Up to 10 cloud networks are supported per region, with 250 hosts per network.
-Cloud networks can be attached to and detached from live servers, making it
-possible to change the network while rebuilding cloud servers. Cloud
+Cloud Networks can be attached to and detached from live servers, making it
+possible to change the network while rebuilding Cloud Servers. Cloud
 Networks also includes full support for broadcasting and multicasting
 required for some clustering technologies.
 
@@ -51,26 +51,26 @@ Throughput in Rackspace Cloud
 
 Aggregate outbound bandwidth limits across all attached network
 interfaces (PublicNet, ServiceNet, and Cloud Networks)
-are defined for each cloud server based on its
+are defined for each Cloud Server based on its
 performance characteristics.
 
 By choosing a flavor class and then a specific flavor
 within that class,
-you can configure your cloud server's network speed
+you can configure your Cloud Server's network speed
 within the range available to it.
 
 .. figure:: /_images/flavorclass-network-speed.png
    :alt: In the Cloud Control Panel,
          use the slider to change network speed
          and other characteristics.
-         For virtual cloud servers, the
+         For virtual Cloud Servers, the
          "Comparison Chart" link provides a detailed comparison of
          the configuration available for each flavor.
 
    *In the Cloud Control Panel,
    use the slider to change network speed
    and other characteristics.
-   For virtual cloud servers, the
+   For virtual Cloud Servers, the
    "Comparison Chart" link provides a detailed comparison of
    the configuration available for each flavor.*
 
@@ -82,9 +82,9 @@ your cloud server's configuration at
 .. _network-cloud-servers-working:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Working with networked cloud servers
+Working with networked Cloud Servers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-As with physical servers, networked cloud servers are subject to
+As with physical servers, networked Cloud Servers are subject to
 relevant limitations and requirements. Throughput is called "Network" in
 the mycloud portal.
 
@@ -98,17 +98,17 @@ Network limits
 * QoS is set across 2 sides of a bond, which means that any single layer 4
   connection will get at most 1/2 of the maximum throughput advertised in the
   portal.
-* There are 2 QoS buckets, one for PublicNet, and one for
+* There are 2 QoS buckets - one for PublicNet and one for
   ServiceNet/Cloud Networks.
 * PublicNet throughput is exactly one-half of ServiceNet/Cloud Networks
   throughput.
 
-Host networking on cloud servers is redundant, with bandwidth delivered
+Host networking on Cloud Servers is redundant, with bandwidth delivered
 over two separate bonded interfaces, each able to carry 50 percent of the
 aggregate limit.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Practical Throughput Example
+Practical throughput example
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 With all those caveats in mind, let's consider a theoretical cloud flavor
 whose throughput is listed as 4 Gbps in the portal. The following QoS limits
@@ -118,7 +118,7 @@ apply:
    :widths: 25 25 50
    :header-rows: 1
 
-   * - Flavor Throughput
+   * - Flavor throughput
      - Max/L4 connection on Cloud Networks/ServiceNet
      - Max/L4 connection on PublicNet
    * - 4 Gbps
@@ -131,7 +131,7 @@ throughput.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Attaching or detaching networks from a server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-You can attach networks to or detach networks from a cloud server through
+You can attach networks to or detach networks from a Cloud Server through
 the
 :mycloud:`Rackspace Cloud Control Panel <>`
 or an API.
@@ -145,35 +145,35 @@ For OnMetal servers, attaching and detaching networks is not supported. Managed
 Operations customers may not detach ServiceNet.
 
 .. NOTE::
-    Detaching PublicNet and ServiceNet will result in a permanent loss of the
+    Detaching PublicNet and ServiceNet results in a permanent loss of the
     IPs attached to those networks.
 
 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Adding Public IPv4 addresses to cloud servers
+Adding public IPv4 addresses to Cloud Servers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Rackspace offers the ability to add IPv4 addresses to cloud servers for
+Rackspace offers the ability to add IPv4 addresses to Cloud Servers for
 a fee.
 
-Because of the global shortage of IPv4 address space, you may be
+Because of the global shortage of IPv4 address space, you might be
 asked to justify your request for additional public IPv4 addresses.
 
-Rather than assign multiple IPv4 addresses on a single cloud server, we
+Rather than assign multiple IPv4 addresses on a single Cloud Server, we
 highly recommend using Cloud Load Balancers. Multiple Cloud Load Balancers
 can have the same Cloud Server in their pools.
 
 If you still want to obtain an additional IPv4 address for your server,
 open a ticket through the Support section of the :mycloud:`Rackspace Cloud
 Control Panel <>` to get policy details and request approval. In some
-circumstances, we may ask you to provide an SSL certificate.
+circumstances, we might ask you to provide an SSL certificate.
 
 We cannot allocate more than four additional IPv4 addresses to a single
 server. This limit gives each server a maximum capacity of five IPv4
 addresses, including the originally assigned public IP address.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Rackspace Cloud, IP addressing, Netranges, and Gateways
+Rackspace Cloud, IP addressing, netranges, and gateways
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Rackspace Cloud uses static addressing. IPs are assigned as follows:
 
@@ -182,21 +182,21 @@ Rackspace Cloud uses static addressing. IPs are assigned as follows:
    :header-rows: 1
 
    * - Network
-     - Address Range
+     - Address range
      - Gateway
    * - PublicNet v4
      - /24 for virtual servers, /30 for OnMetal
-     - first usable IP in range (.1)
+     - First usable IP in range (.1)
    * - PublicNet v6
      - /64 for virtual servers and OnMetal
      - ``fe80::def`` for virtual servers, varies for OnMetal
    * - ServiceNet v4
-     - varies, /17 or smaller for virtual servers, /30 for OnMetal
-     - first usable IP in range
+     - Varies, /17 or smaller for virtual servers, /30 for OnMetal
+     - First usable IP in range
    * - Cloud Networks
      - Can be IPv4 or IPv6. For v4, choose a range between /28 and /24.
      - Gateway IP and DNS Servers not defined by default. Must be defined
-       for :ref:`Gateway Instances<network-gateway-instances>`
+       for :ref:`Gateway instances<network-gateway-instances>`
        to work properly.
 
 

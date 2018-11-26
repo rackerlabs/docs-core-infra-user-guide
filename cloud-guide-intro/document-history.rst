@@ -22,6 +22,10 @@ in the table below:
 +-------------------+----------------------------------------------------------------+
 | Revision Date     | Summary of Changes                                             |
 +===================+================================================================+
+| November 22, 2018 | * Significant revision to Cloud Networks section.              |
+|                   | * Added Gateway Instances at                                   |
+|                   |   at :ref:`network-gateway-instances`.                         |
++-------------------+----------------------------------------------------------------+
 | January 8, 2016   | * Added SSH Port 22 guidance                                   |
 |                   |   to pre-production suggestions                                |
 |                   |   at :ref:`network-ssh`.                                       |

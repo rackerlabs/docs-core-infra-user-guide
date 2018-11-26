@@ -236,7 +236,10 @@ moreinfo-cli                           = /cloud-interfaces/cli/moreinfo-cli.rst
 moreinfo-gui                           = /cloud-interfaces/gui/moreinfo-gui.rst
 
 network-cloud-servers                  = /cloud-config/network/cloud-networks-product-concepts/network-cloud-servers.rst
+
 network-cloud-servers-working          = /cloud-config/network/cloud-networks-product-concepts/network-cloud-servers.rst
+
+network-gateway-instances              = /cloud-config/network/cloud-networks-product-concepts/network-gateway-instances.rst
 
 network-onmetal-servers                = /cloud-config/network/cloud-networks-product-concepts/network-onmetal-servers.rst
 

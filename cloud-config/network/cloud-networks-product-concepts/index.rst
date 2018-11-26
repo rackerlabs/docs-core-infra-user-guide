@@ -38,6 +38,7 @@ and
 
    cloudnetworks-usecases
    cloudnetworks-benefits
+   network-gateway-instances
    network-cloud-servers
    network-onmetal-servers
    network-rackconnect

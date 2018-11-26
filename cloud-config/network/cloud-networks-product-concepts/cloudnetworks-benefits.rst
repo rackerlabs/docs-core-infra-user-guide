@@ -12,7 +12,32 @@ be useful within your Cloud Servers configuration:
     private (ServiceNet) network interfaces,
     making them accessible only through Cloud Networks.
 
-* **Support clustering**
+* **Full control over IP addresses**
+
+  Unlike PublicNet and ServiceNet, it is possible to assign
+  specific Cloud Networks IPs to Cloud Servers, either at build time
+  (by creating a port with a fixed IP) or to an existing server (by creating
+  a port with a fixed IP and the existing server's UUID as device ID).
+
+* **Enforce consistent network configuration**
+
+  Program routes, the gateway IP, and DNS servers into the Cloud Network API
+  and have them automatically injected in your servers at build time
+  or when the network is attached.
+  Use a :ref:`Gateway Instance<network-gateway-instances>` to connect your
+  isolated Cloud Servers to the Internet.
+
+* **NAT or VPN endpoint or network segmentation**
+
+    Combine Cloud Networks with
+    :ref:`Gateway Instances<network-gateway-instances>`
+    to connect your isolated Cloud Servers to the Internet.
+    You can also use Cloud Networks to connect your isolated
+    Cloud Servers to a VPN endpoint, enabling secure connectivity
+    to resources outside Rackspace Cloud. Within Rackspace Cloud, you can
+    also use multiple Cloud Networks to segment traffic.
+
+* **Cluster your applications**
 
     Cloud Networks includes full support
     for broadcasting and multicasting as
@@ -25,17 +50,11 @@ be useful within your Cloud Servers configuration:
 
 * **Automate network changes**
 
-    Via the Cloud Networks API,
+    By using the Cloud Networks API or Cloud Orchestration,
     you can develop custom software to automatically
     create networks and attach or detach servers
     based on workload requirements.
 
-* **Support complex topologies**
-
-    You can combine Cloud Networks with
-    :rax-cloud:`Brocade Vyatta Routers <servers/vrouter/>`
-    to create complex topologies that route traffic
-    between cloud networks or to external data centers over VPN.
 
 * **Scale networks as you grow**
 

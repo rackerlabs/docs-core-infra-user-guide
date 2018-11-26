@@ -14,7 +14,8 @@ You can configure a cloud server without ServiceNet, but Rackspace
 recommends that all servers be connected to ServiceNet so that they can
 access the aforementioned services.
 
-ServiceNet is required for Windows cloud server activation.
+ServiceNet is required for Windows cloud server activation and Managed
+Operations support.
 
 The networks 10.176.0.0/12 and 10.208.0.0/12 are reserved for
 ServiceNet. Any servers that have ServiceNet connectivity will be

@@ -149,6 +149,16 @@ Operations customers may not detach ServiceNet.
     IPs attached to those networks.
 
 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Programming additional network config into your Cloud Network
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You can add values such as gateway IP, DNS server IPs, and static routes
+into your Cloud Networks subnet and have them automatically injected
+to your Cloud Servers at build time, or when they are attached.
+For more details, see
+"How to set up Internet access for servers without PublicNet or ServiceNet"
+on the :ref:`Building servers without PublicNet or ServiceNet
+<servicenet-publicnet-requirement>` page.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Adding public IPv4 addresses to Cloud Servers

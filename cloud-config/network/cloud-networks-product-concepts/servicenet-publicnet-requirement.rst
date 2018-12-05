@@ -45,10 +45,17 @@ How to set up Internet access for servers without PublicNet or ServiceNet
   configuration at the same time.
 
 
-1) Create a Cloud Network via the portal.
-:rax-dev-docs:`Update the Cloud Network subnet
-<cloud-networks/v2/api-reference/subnet-operations/#update-subnet>`
-to include the following information:
+1) :rax-dev-docs:`Create a Cloud Network via
+the Neutron API<cloud-networks/v2/api-reference/network-operations/#create-network>`
+or via the neutron CLI. You cannot create the network via the mycloud portal.
+
+2) Within the Cloud Network you just created,
+:rax-dev-docs:`Create a subnet
+<cloud-networks/v2/api-reference/subnet-operations/#create-subnet>`
+including the following information:
+
+  * **IP version**: We use version 4 in these examples, but version 6 will work.
+    Only one IP version (4 or 6) may be created per Cloud Network.
 
   * **Gateway IP**: We recommend specifying the first available IP in your network
     range, such as '.1' for a /24 network.
@@ -68,22 +75,22 @@ to include the following information:
     in the routing table of any server connected to this subnet. Typically they are
     only needed when a VPN endpoint is a different host than the default gateway.
 
-2)
+3)
 :rax-dev-docs:`Create a fixed IP port
 <cloud-networks/v2/api-reference/port-operations/#create-port>`
 with the Gateway IP that you specified in the previous
 step.
 
-3)
+4)
 :rax-dev-docs:`Build a Gateway Instance
 <cloud-servers/v2/api-reference/svr-basic-operations/#create-server>` with
 PublicNet, and the fixed IP port that you created in the previous step. (ServiceNet
 is optional.)
 
-4) Configure NAT and routing on the Gateway Instance. Consult your OS distributor's
+5) Configure NAT and routing on the Gateway Instance. Consult your OS distributor's
 documentation as necessary.
 
-5) To test routing, build a server with the Cloud Network attached, but
+6) To test routing, build a server with the Cloud Network attached, but
 without PublicNet. (ServiceNet is optional.) Via the emergency console
 or ServiceNet, log in and verify that Internet access works. If it does not,
 verify your previous steps.

@@ -45,9 +45,9 @@ How to set up Internet access for servers without PublicNet or ServiceNet
   configuration at the same time.
 
 
-1) :rax-dev-docs:`Create a Cloud Network via
+1) :rax-dev-docs:`Create a Cloud Network with
 the Neutron API<cloud-networks/v2/api-reference/network-operations/#create-network>`
-or via the neutron CLI. You cannot create the network via the mycloud portal.
+or via the neutron CLI. You cannot create the network by using the Cloud Control Panel.".
 
 2) Within the Cloud Network you just created,
 :rax-dev-docs:`Create a subnet

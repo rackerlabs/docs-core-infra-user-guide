@@ -33,7 +33,7 @@ other services provide additional functions.
 Depending on your workload, you may need to use some or
 all of these:
 
-* Authentication (Cloud Identity)
+* Authentication (Rackspace Identity)
 * Data services (Cloud Databases, Cloud Big Data, Object Rocket)
 * Recoverability (Cloud Backup)
 * Distribution of public-facing content (Rackspace CDN)

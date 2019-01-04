@@ -13,18 +13,12 @@ in many ways:
 * `System Status <https://status.rackspace.com/>`__
   identifies alerts and disruptions.
 
-* `Rackspace Community <https://community.rackspace.com/>`__
-  enables discussion with Rackers and Rackspace customers.
-
 * :how-to:`Rackspace How-To <>`
   publishes documentation primarily written for
   Cloud Control Panel users.
 
-* :rax-dev:`Developer Center <>`
-  publishes documentation primarily written for software developers:
-
-  * :rax-dev:`Software Development Kits (SDKs) <sdks/>`
-  * :rax-docs:`API documentation, including release notes, developer guides, and getting started guides <>`
+* :rax-docs:`API documentation, including release notes, developer guides, and
+   getting started guides <>`
 
 Many Rackspace pages
 offer links to help you begin a live chat session or a telephone conversation.

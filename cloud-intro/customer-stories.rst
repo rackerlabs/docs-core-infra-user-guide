@@ -10,7 +10,7 @@ meet some of the same challenges you are facing, explore the Rackspace
 `Customer Stories <http://stories.rackspace.com/>`__ collection.
 Within that collection, you may be able to find a story about a Rackspace
 customer who is working in your industry, in your region, or with the
-Rackspace product you want to learn about. 
+Rackspace product you want to learn about.
 
 For example, at `Customer Stories <http://stories.rackspace.com/>`__,
 pulldown the ``Product`` list and click ``Cloud Servers`` to see links to
@@ -20,10 +20,6 @@ business challenges.
 Other good places to learn about Rackspace customer stories
 include:
 
-* `Case studies and white papers in technical documentation <https://support.rackspace.com/white-paper/white-paper-all-articles/>`__
-
 * :rax:`Postings in the "Partner & Customer Updates" channel of the Rackspace blog <blog/channels/partner-and-customer-updates>`
 
 * :rax-dev-blog:`Postings from Racker and customer developers in the Rackspace developer blog < >`
-
-* `Discussions with Rackers and customers in the Rackspace Community <https://community.rackspace.com/>`__

@@ -15,9 +15,3 @@ Rackspace and in sources published by OpenStack:
 
 * :os-docs:`OpenStack Command-Line Interface Reference <cli-reference/content>`
   documents all OpenStack CLIs.
-
-* In the
-  `Rackspace Community <https://community.rackspace.com/>`__,
-  if you search for relevant keywords
-  such as ``CLI`` or ``command line``,
-  you can find and join useful conversations.

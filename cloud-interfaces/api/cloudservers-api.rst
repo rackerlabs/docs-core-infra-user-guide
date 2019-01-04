@@ -77,8 +77,6 @@ available within the broader Rackspace portfolio include:
 
 * Rackspace product summaries such as
   :rax-cloud:`Rackspace Cloud Servers powered by OpenStack <servers>`
-* `Rackspace Community <https://community.rackspace.com/>`__
-* `Rackspace Marketplace <https://marketplace.rackspace.com/listing?p=1&default=true&q#!/list/page/1/>`__
 * :how-to:`Rackspace technical documentation <>`
 
 .. _cloudservers-api-demonstration:

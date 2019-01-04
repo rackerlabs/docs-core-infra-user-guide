@@ -30,15 +30,6 @@ including API release notes,
 
 You can learn how to use new features
 and influence planned changes by talking with Rackers and
-customers:
+customers.
 
-* Compare notes on best practices with
-  other users of SDKs and APIs
-  in the
-  `Rackspace Community <https://community.rackspace.com/>`__.
-
-* Use IRC on
-  `freenode <https://freenode.net/>`__
-  at #rackspace
-
-* Raise an issue with `Rackspace support <https://support.rackspace.com/>`__.
+If you need to do so, raise an issue with `Rackspace support <https://support.rackspace.com/>`__.

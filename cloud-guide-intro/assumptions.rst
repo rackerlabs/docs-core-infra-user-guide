@@ -36,6 +36,6 @@ the Rackspace managed cloud.
   Rackspace resources**
 
 We'll point you toward case studies, step-by-step tutorials, API
-references, community discussions, and more. As you get started in
+references, and more. As you get started in
 the Rackspace managed cloud, learning to use supporting information
 will help you become confident and successful.

@@ -37,8 +37,6 @@ command line with cURL.
    *To see samples usable with cURL,
    click "Shell".*
 
-You might also be interested in exploring some
-`alternatives to cURL <https://community.rackspace.com/developers/f/7/t/249>`__.
 You can use any tool that enables you to type a command, send it
 as a request to a REST API's endpoint,
 and then examine the API's response.

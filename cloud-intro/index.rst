@@ -35,7 +35,6 @@ what is possible in the cloud.
   Rackspace customers have put the Rackspace cloud to work for them.
 
 
-
 .. toctree:: :hidden:
    :maxdepth: 6
 

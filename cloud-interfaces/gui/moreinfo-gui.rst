@@ -32,11 +32,3 @@ help you become a skillful user of the Cloud Control Panel:
      We continuously improve the Cloud Control Panel, so
      you might see minor changes between visits.
      Only major changes are announced in the Release Notes.
-
-* **Discussions with customers and Rackers**
-  are open to public participation in the
-  `Rackspace Community <https://community.rackspace.com/>`__.
-
-* **Feedback on proposed improvements to the Cloud Control Panel**
-  is open to public participation at
-  `Rackspace Product Feedback <https://feedback.rackspace.com/>`__.

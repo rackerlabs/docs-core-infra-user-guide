@@ -21,6 +21,3 @@ starting points:
 * To develop your own software to interact with cloud services, start
   at the
   :rax-dev:`Rackspace Developer Center <>`.
-
-* To talk with Rackers and Rackspace customers, start at the
-  `Rackspace Community <https://community.rackspace.com/>`__.

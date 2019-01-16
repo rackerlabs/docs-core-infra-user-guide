@@ -33,11 +33,6 @@ Ubuntu. For that server, the steps are as follows:
 
 10.  Create a script to activate the firewall after every restart.
 
-Similar steps for securing cloud servers running operating systems
-based on Debian and Red Hat
-Package Manager (RPM) are described in the Cloud Launch Guide
-tutorial for
-`Securing a Cloud Server <https://launch.rackspace.com/guides/securing-server>`__.
 
 Limiting network access to your configuration,
 so that only legitimate traffic can use pre-defined ports,

@@ -72,7 +72,8 @@ at the heart of the Rackspace cloud:
 
 We want to hear what you think about this guide.
 If you have a suggestion regarding the content,
-please :ref:`contactus`.
+:ref:`contactus`.
+
 
 .. toctree:: :hidden:
    :maxdepth: 2

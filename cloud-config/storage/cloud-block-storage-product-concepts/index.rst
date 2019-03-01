@@ -40,8 +40,7 @@ staging of common server images in Cloud Block Storage.
    :how-to:`Boot a server from a Cloud Block Storage volume <boot-a-server-from-a-cloud-block-storage-volume>`.
 
 The Rackspace technical documentation provides many more details about Cloud
-Block Storage. Begin exploring
-at
+Block Storage. Begin exploring at 
 :how-to:`Cloud Block Storage support <cloud-block-storage>`.
 
 ..
@@ -58,5 +57,5 @@ at
    disk-storage
    local-storage
    block-storage
-   software-raid
+
    backup-methods

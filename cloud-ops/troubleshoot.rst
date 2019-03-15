@@ -235,5 +235,4 @@ also provides links to help you submit support tickets.
    * :ref:`cloud-servers-product-actions`
      identifies actions you can take after a server is built.
      It links to information about how to perform each action with
-     available interfaces such as the Cloud Control Panel, Rack CLI, and
-     Cloud Servers API.
+     the Cloud Control Panel and Cloud Servers API.

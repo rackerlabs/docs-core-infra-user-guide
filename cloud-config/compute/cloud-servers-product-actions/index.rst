@@ -32,8 +32,6 @@ All data and disk formatting is lost.
 
       * :how-to:`Cloud Control Panel
         <rebuild-a-cloud-server>`
-      * :rax-dev-docs:`Rack CLI
-        <rack-cli/services/servers/#rebuild>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
         <cloud-servers/v2/developer-guide/#rebuild-specified-server>`
 
@@ -64,8 +62,6 @@ After 24 hours, your resize is automatically confirmed.
 
       * :how-to:`Cloud Control Panel
         <managing-your-server-resizing-standard-and-general-purpose-servers>`
-      * :rax-dev-docs:`Rack CLI
-        <rack-cli/services/servers/#resize>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
         <cloud-servers/v2/developer-guide/#resize-specified-server>`
 
@@ -95,7 +91,6 @@ with any changes made. Rescue mode is automatically exited after 24 hours.
 
         * :how-to:`Cloud Control Panel
           <rescue-mode>`
-        * *Rack CLI not available*
         * :rax-dev-docs:`Rackspace Cloud Servers API
           <cloud-servers/v2/developer-guide/#rescue-specified-server>`
 
@@ -114,8 +109,6 @@ shutdown and restart.
 
       * :how-to:`Cloud Control Panel
         <reboot-your-server>`
-      * :rax-dev-docs:`Rack CLI
-        <rack-cli/services/servers/#reboot>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
         <cloud-servers/v2/developer-guide/#reboot-specified-server>`
 
@@ -139,7 +132,6 @@ the primary method of access.
 
       * :how-to:`Cloud Control Panel
         <start-a-console-session>`
-      * *Rack CLI not available*
       * :rax-dev-docs:`Rackspace Cloud Servers API
         <cloud-servers/v2/developer-guide/#post-get-console-servers-server-id-action>`
 
@@ -157,7 +149,5 @@ from the disk of a deleted server.
 
       * :how-to:`Cloud Control Panel
         <deleting-your-server>`
-      * :rax-dev-docs:`Rack CLI
-        <rack-cli/services/servers/#delete>`
       * :rax-dev-docs:`Rackspace Cloud Servers API
         <cloud-servers/v2/developer-guide/#delete-delete-server-servers-server-id>`

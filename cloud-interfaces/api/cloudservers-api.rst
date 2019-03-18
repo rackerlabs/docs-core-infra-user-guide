@@ -42,25 +42,15 @@ other details are described in the
 Just as you can use the Cloud Control Panel
 to help you understand a manual process that you intend to automate,
 you can use the API documentation to help you understand
-how to use a software development kit (SDK)
-in your favorite programming language.
+how to use API operations to automate cloud functions.
 
-* The API documentation describes
-  *what* you can ask the API to do.
+The API documentation describes what you can accomplish, how to structure an 
+API operation, and what responses to expect.
 
-* The SDK documentation demonstrates
-  *how* to ask the API to do something.
+After you understand what the Cloud Servers API is capable of,
+investigate whether the automation you require is already available from 
+another Rackspace product or from a Rackspace partner.
 
-Awareness of both API and SDK capabilities
-can help you to plan the easiest way to develop your software.
-
-After you understand what the Cloud Servers API is capable of
-and how to use an SDK to simplify interaction with the API,
-performing one more task may save you the effort of
-writing your own software:
-investigate whether the automation you require
-is already available from another Rackspace product or from
-a Rackspace partner.
 For example:
 
 * :rax-cloud:`Auto Scale <auto-scale>`

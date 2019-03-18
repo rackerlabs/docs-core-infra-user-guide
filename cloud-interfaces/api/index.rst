@@ -1,27 +1,20 @@
 .. _cloud-interfaces-api:
 
----------------------------------------
-API and SDK: Developer and DevOps tools
----------------------------------------
-If you write applications that are tightly integrated with
-the Rackspace cloud, you might find that
-clicking to choose options in the Cloud Control Panel
-and typing to issue commands with CLIs
-are not ideal for
-your purposes.
+-------------------------------
+API: Developer and DevOps tools
+-------------------------------
 
-If you develop or distribute applications for your customers,
-or if you wish to heavily automate operation of your
-cloud infrastructure,
-you might need to interact with cloud services
-through one of the many available software development kits
-or by
-direct API access.
+If you write applications that are tightly integrated with the Rackspace cloud, 
+you might find that clicking to choose options in the Cloud Control Panel
+and typing to issue commands with CLIs are not ideal for your purposes.
 
-If you are responsible for administering systems that are
-used for cloud software development,
-you might want to investigate DevOps tools
-designed for this purpose.
+If you develop or distribute applications for your customers, or if you want to 
+automate the operation of your cloud infrastructure, you might need to interact 
+with cloud services by using API operations.
+
+If you are responsible for administering systems that are used for cloud 
+software development, you can investigate DevOps tools designed for this 
+purpose.
 
 
 

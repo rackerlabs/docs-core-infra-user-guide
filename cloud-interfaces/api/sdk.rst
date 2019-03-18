@@ -12,7 +12,7 @@ providers.
 
 .. note::
 
-    The Rackspace SDKsare no longer actively supported or developed.
+    The Rackspace SDKs are no longer actively supported or developed.
 
 Rackspace created SDKs for the following languages:
 
@@ -31,5 +31,5 @@ Rackspace created SDKs for the following languages:
 * Ruby
 
 You can find links to all the Rackspace-supported SDKs, with installation 
-instructions, guidance, tutorials, and more for each, in the 
+instructions, guidance, tutorials, and more in the 
 :rax-dev:`Rackspace Developer Center <sdks>`.

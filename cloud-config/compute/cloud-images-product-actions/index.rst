@@ -26,7 +26,7 @@ image can also assist in restoring a server from a saved image.
 * To find out how to create an image using the Cloud Control Panel click
   `here <http://www.rackspace.com/knowledge_center/article/create-an-image-of-a-server-and-restore-a-server-from-a-saved-image>`__.
 
-* To find out how to create an image using the API click
+* To find out how to create an image by using the API click
   `here <https://developer.rackspace.com/docs/cloud-servers/v2/api-reference/svr-basic-operations/#create-image-of-specified-server>`__.
 
 
@@ -43,7 +43,7 @@ disk and ram requirements which affects which flavors can be used with the image
   drop down menu of attributes you can update will appear. Simply click the property
   you wish to update.
 
-* To find out how to update an image using the API click
+* To find out how to update an image by using the API click
   `here <https://developer.rackspace.com/docs/cloud-images/v2/api-reference/images-operations/#update-image>`__.
 
 Create an image member
@@ -52,8 +52,8 @@ This action allows you to add users to the list of members with whom the image
 is shared. This process is also called *image sharing*. You can find more information on image sharing on the page,
 :ref: `cloud-images-sharing-models`.
 
-* To find out how to create an image member using the Cloud Control panel click
+* To find out how to create an image member by using the Cloud Control panel click
   `here <https://support.rackspace.com/how-to/sharing-images-in-the-cloud-control-panel/>`__.
 
-* To find out how to create an image member using the API
+* To find out how to create an image member by using the API
   click `here <https://developer.rackspace.com/docs/cloud-images/v2/api-reference/image-sharing-operations/#create-image-member>`__.

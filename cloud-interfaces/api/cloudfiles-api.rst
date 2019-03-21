@@ -95,14 +95,6 @@ you can see that:
   details for a specified container and lists the objects,
   sorted by name, within that container
 
-.. figure:: /_images/cloudfileslistcontainersget.png
-   :scale: 80%
-   :alt: api.rackspace.com lists all API operations. Click
-         detail to see more about how the API handles this request.
-
-   *The API cross-reference lists all API operations. Click "detail"
-   to see more about how the API handles each request.*
-
 The request parameters and sample response shown here can
 help you formulate a basic *List containers* request to the API and
 understand the API's response.

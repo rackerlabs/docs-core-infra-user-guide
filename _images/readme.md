@@ -15,7 +15,7 @@ give each figure alternate text and a caption.*
 
 * Logos
 
-Logos represent a single word or phrase such as the  
+Logos represent a single word or phrase such as the
 the name of a product
 
 *Use the image directive to include logos;
@@ -50,7 +50,7 @@ To include any image in the guide:
   so non-visual browsers can verbally summarize its meaning.
 
   If the image is a figure or a screenshot,
-  also provide an italicized caption.  
+  also provide an italicized caption.
   Follow this model:
 
 ```
@@ -100,7 +100,7 @@ To include any image in the guide:
   * used at /cloud-config/network/cloud-networks-product-concepts/servicenet-publicnet-requirement.html
   * source here, in cloudservernetworkremovalresults.xml;
     to change the drawing, open the XML in https://www.draw.io/,
-    then export a new .PNG and save it here  
+    then export a new .PNG and save it here
   * collection date 2015-06-08
   * contributed by Nate Archer
 
@@ -326,12 +326,6 @@ To include any image in the guide:
   * collection date 2015-04-30
   * contributed by Rose Coste
 
- * **cloudblockstoragelistvolumesget.png**
-  * used at /cloud-interfaces/api/cloudblockstorage-api.html
-  * collected from http://api.rackspace.com/
-  * collection date 2015-04-30
-  * contributed by Rose Coste
-
 * **cloudblockstoragesdkphp.png**
   * used at /cloud-interfaces/api/cloudblockstorage-api.html
   * collected from https://developer.rackspace.com/docs/cloud-block-storage/getting-started/
@@ -368,18 +362,6 @@ To include any image in the guide:
   * collection date 2015-07-23
   * contributed by Stephanie Fillmon
 
-* **cloudfileslistcontainers.png**
-  * undecorated, base image for cloudfileslistcontainersget.png
-  * collected from http://api.rackspace.com/
-  * collection date 2015-07-23
-  * contributed by Stephanie Fillmon
-
-* **cloudfileslistcontainersget.png**
-  * used at /cloud-interfaces/api/cloudfiles-api.html
-  * collected from http://api.rackspace.com/
-  * collection date 2015-07-23
-  * contributed by Stephanie Fillmon
-
 * **cloudfilessdk.png**
   * undecorated, base image for cloudfilessdkphp.png
   * collected from https://developer.rackspace.com/
@@ -404,12 +386,6 @@ To include any image in the guide:
   * collection date 2015-05-11
   * contributed by Rose Coste
 
-* **cloudimageslistimagesget.png**
-  * used at /cloud-interfaces/api/cloudimages-api.html
-  * collected from http://api.rackspace.com/
-  * collection date 2015-05-11
-  * contributed by Rose Coste
-
 * **cloudimagessdkpython.png**
   * used at /cloud-interfaces/api/cloudimages-api.html
   * collected from https://developer.rackspace.com/docs/cloud-images/getting-started/
@@ -419,12 +395,6 @@ To include any image in the guide:
 * **cloudnetworkslistall.png**
   * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from https://mycloud.rackspace.com/
-  * collection date 2015-05-07
-  * contributed by Rose Coste
-
-* **cloudnetworkslistnetworksget.png**
-  * used at /cloud-interfaces/api/cloudnetworks-api.html
-  * collected from http://api.rackspace.com/
   * collection date 2015-05-07
   * contributed by Rose Coste
 
@@ -463,7 +433,7 @@ To include any image in the guide:
   * used at /cloud-config/compute/cloud-servers-product-concepts/server-region.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-03-01
-  * contributed by Rose Coste  
+  * contributed by Rose Coste
 
 * **cloudservercreatevirtual.png**
   * used at /cloud-config/compute/cloud-servers-product-concepts/flavor-class/index.html
@@ -475,12 +445,6 @@ To include any image in the guide:
   * used at /cloud-interfaces/api/cloudservers-api.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-04-28
-  * contributed by Rose Coste
-
-* **cloudserverslistserversget.png**
-  * used at /cloud-interfaces/api/cloudservers-api.html
-  * collected from http://api.rackspace.com/
-  * collection date 2015-04-29
   * contributed by Rose Coste
 
 * **cloudserverssdkpython.png**
@@ -524,7 +488,7 @@ To include any image in the guide:
   * used at /cloud-interfaces/api/cloudnetworks-api.html
   * collected from https://mycloud.rackspace.com/
   * collection date 2015-05-07
-  * contributed by Rose Coste  
+  * contributed by Rose Coste
 
 * **quickstart-shell.png**
   * used at /cloud-interfaces/cli/curl.html
@@ -561,7 +525,7 @@ To include any image in the guide:
   * used at /cloud-ops/troubleshoot.html
   * collected from https://status.rackspace.com/
   * collection date 2015-12-29
-  * contributed by Rose Coste  
+  * contributed by Rose Coste
 
 * **status-disruption-cloudservers-detail.png**
   * used at /cloud-ops/troubleshoot.html

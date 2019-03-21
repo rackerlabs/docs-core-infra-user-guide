@@ -27,7 +27,7 @@ image can also assist in restoring a server from a saved image.
   `here <http://www.rackspace.com/knowledge_center/article/create-an-image-of-a-server-and-restore-a-server-from-a-saved-image>`__.
 
 * To find out how to create an image using the API click
-  `here <http://api.rackspace.com/api-ref.html#createImage>`__.
+  `here <https://developer.rackspace.com/docs/cloud-servers/v2/api-reference/svr-basic-operations/#create-image-of-specified-server>`__.
 
 
 Update an image
@@ -44,7 +44,7 @@ disk and ram requirements which affects which flavors can be used with the image
   you wish to update.
 
 * To find out how to update an image using the API click
-  `here <http://api.rackspace.com/api-ref-images.html#updateImage>`__.
+  `here <https://developer.rackspace.com/docs/cloud-images/v2/api-reference/images-operations/#update-image>`__.
 
 Create an image member
 ----------------------
@@ -53,7 +53,7 @@ is shared. This process is also called *image sharing*. You can find more inform
 :ref: `cloud-images-sharing-models`.
 
 * To find out how to create an image member using the Cloud Control panel click
-  `here <http://www.rackspace.com/knowledge_center/article/sharing-images-in-the-cloud-control-panel>`__.
+  `here <https://support.rackspace.com/how-to/sharing-images-in-the-cloud-control-panel/>`__.
 
 * To find out how to create an image member using the API
-  click `here <http://api.rackspace.com/api-ref-images.html#createImageMember>`__.
+  click `here <https://developer.rackspace.com/docs/cloud-images/v2/api-reference/image-sharing-operations/#create-image-member>`__.

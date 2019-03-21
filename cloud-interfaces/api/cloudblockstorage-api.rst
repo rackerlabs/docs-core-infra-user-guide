@@ -133,12 +133,6 @@ you can see that:
 * Sending a ``GET`` request to the same URI and appending ``/detail``
   requests an expanded list of information about volumes
 
-.. figure:: /_images/cloudblockstoragelistvolumesget.png
-   :scale: 80%
-   :alt: api.rackspace.com lists all API operations.
-
-   *The API cross-reference lists all API operations.*
-
 On the first ``GET`` line, click **detail** to see
 more about how the API handles this request.
 The request parameters and sample response shown here can

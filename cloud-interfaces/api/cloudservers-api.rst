@@ -123,13 +123,6 @@ you can see that:
 * Sending a ``GET`` request to the same URI and appending ``/detail``
   requests an expanded list of information about servers
 
-.. figure:: /_images/cloudserverslistserversget.png
-   :scale: 80%
-   :alt: api.rackspace.com lists all API operations.
-
-   *The API cross-reference lists all API operations Click "detail"
-   to see more about how the API handles this request.*
-
 The request parameters and sample response shown here can
 help you formulate a basic *list servers* request to the API
 and understand the API's response.

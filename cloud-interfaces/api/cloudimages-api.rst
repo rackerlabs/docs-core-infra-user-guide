@@ -118,13 +118,6 @@ you can see that:
 * Sending a ``GET`` request to the same URI and appending an image ID
   requests an expanded list of information about a single image
 
-.. figure:: /_images/cloudimageslistimagesget.png
-   :scale: 80%
-   :alt: api.rackspace.com lists all API operations.
-
-   *The API cross-reference lists all API operations. Click "detail" to
-   see more about how the API handles this request.*
-
 The request parameters and sample response shown here can
 help you formulate a basic *List images* request to the API
 and understand the API's response.

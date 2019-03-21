@@ -121,13 +121,6 @@ you can see that:
 * Sending a ``GET`` request to the same URI and appending a network ID
   requests an expanded list of information about a single network
 
-.. figure:: /_images/cloudnetworkslistnetworksget.png
-   :scale: 80%
-   :alt: api.rackspace.com lists all API operations.
-
-   *The API cross-reference lists all API operations. Click "detail" to
-   see more about how the API handles this request.*
-
 The request parameters and sample response shown here can
 help you formulate a basic *List networks* request to the API
 and understand the API's response.

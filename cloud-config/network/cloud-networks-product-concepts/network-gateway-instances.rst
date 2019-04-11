@@ -5,43 +5,77 @@ Gateway Instances in Rackspace Cloud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A Gateway Instance is a Rackspace Cloud Server that routes traffic between the
 public internet and any other Rackspace Cloud Servers that do not have a public
-IP. A Gateway Instance is typically a virtual network appliance, but could
-also be a Linux or Windows server.
+IP. A Gateway Instance is typically a virtual network appliance.
 
 In the diagram below, the web server and database server do not have
 PublicNet attached. Instead, their outbound internet access is routed
-through the Gateway Instance by using Cloud Networks. The web server also has
+through the Gateway Instance by using Cloud Networks. This reduces
+exposure to attackers.
+
+The web server also has
 public-facing services exposed by using a Cloud Load Balancer, which connects
 over ServiceNet.
 
 .. figure:: /_images/gateway_instance_example.png
   :alt: Servers Behind a Gateway Instance
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Creating a Gateway Instance in Rackspace Cloud by using Orchestration (recommended)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Creating a Gateway Instance in Rackspace Cloud
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The easiest way to create a Gateway Instance is by using
-:rackerlabs:`these Cloud Orchestration templates
-<cloud-networks-orchestration>`
-that create the Gateway Instance and a Cloud Network with
-all needed configuration (the gateway IP and DNS Servers) at the same time.
+From the mycloud.rackspace.com portal, navigate to "Servers" > "Create
+Resources". From this "Create Server" page, choose a virtual network appliance
+image, such as the Fortinet Fortigate-VM. Under "Advanced Options", ensure
+that "Configure as Gateway" is checked (as it is by default).
 
-To use the Cloud Orchestration template, copy the template to your clipboard,
-then navigate to the :mycloud:`Cloud Control Panel <>` and click
-**Orchestration**,
-then click **Stack Templates**. From that page, click **Create Custom Template**.
-Paste the template into the text box, then click **Create Template and Launch
-Stack**.
+After the server is built, Rackspace's post-build automation software
+(ServerMill) automatically performs all steps described in
+the section entitled "How to set up Internet access for servers without
+PublicNet or ServiceNet" within the
+:ref:`Building servers without PublicNet or
+ServiceNet<servicenet-publicnet-requirement>` section of this guide.
 
-Fill in the stack details with your preferred information, such as administrative
-password, preferred IP scheme, and so on.
+.. NOTE::
+  You can also use
+  `these Cloud Orchestration templates
+  <https://github.com/rackerlabs/cloud-networks-orchestration.git>`_,
+  which create the Gateway Instance and a Cloud Network with all needed
+  configuration at the same time.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Creating a Gateway Instance in Rackspace Cloud manually
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Building Servers Behind Your Gateway Instance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you wish to create the Gateway Instance manually, see the section entitled
-"How to set up Internet access for servers without PublicNet or ServiceNet"
-within the :ref:`Building servers without PublicNet or ServiceNet
-<servicenet-publicnet-requirement>` section of this guide.
+1) From the mycloud portal server creation page, scroll down to Advanced Options.
+
+2) Click Select Networks... and uncheck PublicNet.
+
+3) Select the Cloud Network that has the name of your Gateway Instance.
+
+    (Optional) Enable ServiceNet if you use Rackspace products such as Cloud Backups
+    or Cloud Files.
+
+4) Select the Cloud Network that has the name of your Gateway Instance.
+
+5) *Optional* Build with the ServiceNet network if you use Rackspace products
+    such as Cloud Backups or Cloud Files.
+
+6) Click "Create Server".  The server builds without a public IP address.
+   However, since NAT is configured on the Gateway Instance, the server can connect
+   outbound to the Internet.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Accessing Servers Behind Your Gateway Instance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You can access servers behind the FortiGate-VM in a variety of ways:
+
+    * Using the Gateway Instance to forward remote access ports to
+      the server behind the Gateway Instance.
+
+    * Configuring VPN on the Gateway Instance, then connecting to VPN. Once
+      connected to VPN, you can access servers across the VPN via their Cloud Networks
+      (private) IP addresses.
+
+    * Using the Emergency Console available on the Server Details page in the
+      mycloud.rackspace.com portal.

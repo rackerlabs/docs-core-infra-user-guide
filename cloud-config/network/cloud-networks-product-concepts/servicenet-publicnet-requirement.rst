@@ -30,27 +30,24 @@ over ServiceNet.
   and can provide indirect Internet access by using a
   :ref:`Gateway Instance<network-gateway-instances>`.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-How to set up Internet access for servers without PublicNet or ServiceNet
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+How to manually set up Internet access for servers without PublicNet
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- For added security, you may opt to build servers without PublicNet or
+ For added security, you may opt to build servers without PublicNet and/or
  ServiceNet.
 
 .. NOTE::
-  The easiest way to do this is by using
-  `these Cloud Orchestration templates
-  <https://github.com/rackerlabs/cloud-networks-orchestration.git>`_,
-  which can create the Gateway Instance and a Cloud Network with all needed
-  configuration at the same time.
-
+  It's much easier to
+  :ref:`build a Gateway Instance<network-gateway-instances>`
+  which performs all the steps below automatically.
 
 1) :rax-dev-docs:`Create a Cloud Network with
 the Neutron API<cloud-networks/v2/api-reference/network-operations/#create-network>`
-or via the neutron CLI. You cannot create the network by using the Cloud Control Panel.".
+or via the neutron CLI. You cannot create the network by using the Cloud Control Panel.
 
 2) Within the Cloud Network you just created,
-:rax-dev-docs:`Create a subnet
+:rax-dev-docs:`create a subnet
 <cloud-networks/v2/api-reference/subnet-operations/#create-subnet>`
 including the following information:
 

@@ -23,10 +23,10 @@ over ServiceNet.
 Creating a Gateway Instance in Rackspace Cloud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-From the mycloud.rackspace.com portal, navigate to "Servers" > "Create
-Resources". From this "Create Server" page, choose a virtual network appliance
-image, such as the Fortinet Fortigate-VM. Under "Advanced Options", ensure
-that "Configure as Gateway" is checked (as it is by default).
+From the Cloud Control Panel, navigate to **Servers > Create Resources**.
+On the **Create Server** page, choose a virtual network appliance
+image, such as the Fortinet Fortigate-VM. Under **Advanced Options**, ensure
+that **Configure as Gateway** is checked (as it is by default).
 
 After the server is built, Rackspace's post-build automation software
 (ServerMill) automatically performs all steps described in
@@ -46,21 +46,16 @@ ServiceNet<servicenet-publicnet-requirement>` section of this guide.
 Building Servers Behind Your Gateway Instance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1) From the mycloud portal server creation page, scroll down to Advanced Options.
+1) On the Cloud Control Panel server creation page, scroll down to **Advanced Options**.
 
-2) Click Select Networks... and uncheck PublicNet.
+2) Click **Select Networks** and uncheck **PublicNet**.
 
 3) Select the Cloud Network that has the name of your Gateway Instance.
 
-    (Optional) Enable ServiceNet if you use Rackspace products such as Cloud Backups
-    or Cloud Files.
-
-4) Select the Cloud Network that has the name of your Gateway Instance.
-
-5) *Optional* Build with the ServiceNet network if you use Rackspace products
+4) *Optional* Enable ServiceNet if you use Rackspace products
     such as Cloud Backups or Cloud Files.
 
-6) Click "Create Server".  The server builds without a public IP address.
+5) Click **Create Server**. The server builds without a public IP address.
    However, since NAT is configured on the Gateway Instance, the server can connect
    outbound to the Internet.
 
@@ -78,4 +73,4 @@ You can access servers behind the FortiGate-VM in a variety of ways:
       (private) IP addresses.
 
     * Using the Emergency Console available on the Server Details page in the
-      mycloud.rackspace.com portal.
+      Cloud Control Panel.

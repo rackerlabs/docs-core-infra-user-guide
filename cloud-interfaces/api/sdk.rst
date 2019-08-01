@@ -32,4 +32,4 @@ Rackspace created SDKs for the following languages:
 
 You can find links to all the Rackspace-supported SDKs, with installation
 instructions, guidance, tutorials, and more in the
-:rax-dev:`Rackspace Developer Center`.
+:rax-docs:`Rackspace Developer Center Documents <>`.

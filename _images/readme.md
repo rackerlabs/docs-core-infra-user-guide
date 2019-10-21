@@ -498,7 +498,7 @@ To include any image in the guide:
 
 * **releasenotesfeed-api.png**
   * used at /cloud-interfaces/api/moreinfo-api.html
-  * collected from http://docs.rackspace.com/cbs/api/v1.0/cbs-releasenotes/
+  * collected from https://docs.rackspace.com/cbs/api/v1.0/cbs-releasenotes/
   * collection date 2015-05-19
   * contributed by Rose Coste
 

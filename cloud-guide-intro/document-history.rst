@@ -56,7 +56,7 @@ in the table below:
    "Document change history"
    sections at docs.rackspace.com,
    such as at
-   http://docs.rackspace.com/cdns/api/v1.0/
+   https://docs.rackspace.com/cdns/api/v1.0/
    cdns-devguide/content/
    Document_Change_History-d1e166.html.
    If that pattern changes, change here

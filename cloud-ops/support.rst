@@ -7,7 +7,7 @@ You can find support for your work in
 the Rackspace cloud
 in many ways:
 
-* `Support Home <http://support.rackspace.com/>`__
+* `Support Home <https://support.rackspace.com/>`__
   offers frequently-needed support and startup information.
 
 * `System Status <https://status.rackspace.com/>`__

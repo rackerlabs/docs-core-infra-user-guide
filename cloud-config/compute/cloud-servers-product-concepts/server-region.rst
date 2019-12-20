@@ -37,8 +37,8 @@ resources described in the request determine the placement of your
 server on a physical host capable of providing those resources. For
 example, the three figures below demonstrate using the Cloud Control
 Panel to describe the resources needed for a 1 GB standard instance of a
-cloud server in the Standard flavor class, running Ubuntu in the DFW
-region.
+cloud server in the Standard flavor class, running the Ubuntu operating
+system in the DFW region.
 
 **Step 1: Server Details**
 

@@ -9,8 +9,8 @@ legitimate work. You might need to do some research to identify the
 specific steps required to secure your configuration, but the steps
 should be similar to those shown in
 :how-to:`Basic Cloud Server Security <basic-cloud-server-security>`,
-which demonstrates the process of securing a cloud server running
-Ubuntu. For that server, the steps are as follows:
+which demonstrates the process of securing a cloud server running the
+Ubuntu operating system. For that server, the steps are as follows:
 
 1.  Edit the SSH **known_hosts** file and remove entries that point to your
     server's IP address.

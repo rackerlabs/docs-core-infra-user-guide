@@ -56,12 +56,7 @@ transfer time.
 
 Choose an image that supports the applications you intend to run.
 
-.. figure:: /_images/cloudservercreateimageubuntu.png
-   :alt: Choose an operating system.
-         Your choice can affect your cost.
-
-   *Choose an operating system.
-   Your choice can affect your cost.*
+Choose an operating system. Your choice can affect your cost.
 
 **Step 3: Flavor**
 

@@ -50,9 +50,10 @@ following actions:
 
 * Create a Cloud Images import task
 
-There are some restrictions on image import. An image must consist of a
-single file in the VHD format. Additionally, it cannot have an actual
-(or virtual) size greater than 40 GB.
+An image must consist of a single file in the VHD format. 
+
+The image import limit was raised from 40 to 160 GB, so you can now move large
+images between datacenters.
 
 Export-import asymmetry
 '''''''''''''''''''''''

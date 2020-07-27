@@ -57,7 +57,7 @@ Export-import asymmetry
 '''''''''''''''''''''''
 Although you can export a virtual machine image that you own (subject to
 licensing restrictions), you might not be able to import that image back
-into the Rackspace public cloud. Some of the Cloud Servers flavors have
-system disks that exceed 40 GB. 160 GB is the maximum size that you can import.
+into the Rackspace public cloud. Some Cloud Server flavors have
+system disks that exceed 160 GB, which is the maximum size that you can import.
 
 .. include:: /_common/seealso-concepts-cloud-images.txt

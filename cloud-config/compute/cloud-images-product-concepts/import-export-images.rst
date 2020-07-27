@@ -50,16 +50,16 @@ following actions:
 
 * Create a Cloud Images import task
 
-There are some restrictions on image import. An image must consist of a
-single file in the VHD format. Additionally, it cannot have an actual
-(or virtual) size greater than 40 GB.
+An image must consist of a single file in the VHD format, and the image import
+limit is 160 GB.
 
 Export-import asymmetry
 '''''''''''''''''''''''
 Although you can export a virtual machine image that you own (subject to
 licensing restrictions), you might not be able to import that image back
-into the Rackspace public cloud. That’s because some of the Cloud Servers
-flavors have system disks that exceed 40 GB. 40GB is the maximum size
-that you can import.
+into the Rackspace public cloud. Cloud Server flavors that have system disks
+exceeding 160 GB can be difficult to export. You might need to request a manual
+export from the hypervisor, which has a maximum import size of 160 GB. License
+restrictions prevent you from exporting Windows or RedHat Images.
 
 .. include:: /_common/seealso-concepts-cloud-images.txt

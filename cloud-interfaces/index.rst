@@ -13,9 +13,7 @@ The Rackspace cloud provides Application Programming Interfaces
 (APIs) based on OpenStack for all of its management functionality.
 The APIs provide direct programmatic access to cloud services,
 and they also
-power the Cloud Control Panel (GUI), the command-line interfaces (CLIs),
-and software
-development kits (SDKs).
+power the Cloud Control Panel (GUI) and the command-line interfaces (CLIs).
 
 Depending on your needs,
 you might want to interact with the cloud through
@@ -40,8 +38,7 @@ based on personal preference or business needs.
   within a terminal emulator to interact with an
   API endpoint operated by Rackspace.
 
-* To send requests via an API, perhaps with the guidance of an SDK,
-  you write your own software to
+* To send requests via an API, you write your own software to
   interact with an API endpoint operated by Rackspace.
 
 .. toctree:: :hidden:

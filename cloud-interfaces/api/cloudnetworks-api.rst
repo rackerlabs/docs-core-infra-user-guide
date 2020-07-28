@@ -1,8 +1,8 @@
 .. _cloudnetworks-api:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Cloud Networks and SDKs and APIs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+Cloud Networks and APIs
+^^^^^^^^^^^^^^^^^^^^^^^
 When you begin writing your own software
 to interact with Cloud Networks,
 you might want to learn about
@@ -134,53 +134,3 @@ In the
 you can see an example with the cURL command-line interface (CLI) for
 :rax-docs:`Listing networks (cURL)
 <cloud-networks/v2/getting-started/managing-networks/creating-network-curl/#listing-networks-curl>`.
-
-Learn about Cloud Networks in SDK QuickStart
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-dev-quickstart:`SDK QuickStart for Cloud Networks <cloud-networks/getting-started>`,
-you can see some of the same steps that are documented in  the API's Getting
-Started Guide. For example, both the API-focused and SDK-focused documents
-show how to authenticate with your API key before issuing any requests to the
-Cloud Networks API.
-
-The SDK QuickStart adds examples in several popular programming languages,
-demonstrating how to use each language to code some commonly-used requests to
-the Cloud Networks API.
-
-To see examples in a specific language,
-click that language's name in the list across the top of the page.
-For example, to see Cloud Networks code samples coded in Java,
-go to the
-:rax-dev-quickstart:`SDK QuickStart for Cloud Networks <cloud-networks/getting-started>`
-and click *Java*.
-
-.. figure:: /_images/cloudnetworkssdkjava.png
-   :scale: 80%
-   :alt: Java is one of several languages for which we
-         publish an SDK QuickStart.
-
-   *Java is one of several languages for which we
-   publish an SDK QuickStart.*
-
-Use SDK to help you write and run code to interact with Cloud Networks
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The SDK QuickStart demonstrates a few basic requests;
-for more detailed guidance that will help you
-develop your software, examine the SDK itself.
-
-To find the full SDK for your programming language, start at
-`SDKs & Tools in the Developer Center <https://developer.rackspace.com/docs/#sdks>`__
-and find the language.
-
-For example, if you code in Java,
-
-* Follow the installation instructions to give yourself
-  a local copy of the Apache jclouds SDK.
-* In the
-  `GitHub repository for jclouds <https://github.com/jclouds/jclouds-examples/tree/master/rackspace/src/main/java/org/jclouds/examples/rackspace/cloudnetworks>`__,
-  examine the examples of Cloud Networks code.
-  No complete example of a *List networks* request is provided,
-  but you can use the other examples as guides to help you
-  adapt the partial *List networks* request in the
-  :rax-dev-quickstart:`SDK QuickStart <cloud-networks/getting-started/#list-networks>`.

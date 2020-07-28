@@ -22,7 +22,6 @@ purpose.
    :maxdepth: 2
 
    devopstools
-   sdk
    direct-api-access
    setup-api
    cloudservers-api

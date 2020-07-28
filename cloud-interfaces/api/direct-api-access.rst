@@ -11,12 +11,7 @@ are Representational State Transfer (REST) APIs,
 meaning that they are logically
 structured, stateless, and scalable (among other properties).
 
-For most use cases, we recommend
-working with the guidance of an SDK
-rather than integrating directly with an API.
-In the :rax-dev:`Developer Center <docs>`, basic
-functions for many APIs in many popular programming languages are
-documented in quickstart guides. However, knowing the API
+In the :rax-dev:`Developer Center <docs>`, you can learn about the API
 structure and being able to make direct, manual calls to the API is a
 powerful tool for understanding and managing the Rackspace cloud
 infrastructure.

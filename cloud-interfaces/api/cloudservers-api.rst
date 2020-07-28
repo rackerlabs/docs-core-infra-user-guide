@@ -1,8 +1,8 @@
 .. _cloudservers-api:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Cloud Servers and SDKs and APIs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+Cloud Servers and APIs
+^^^^^^^^^^^^^^^^^^^^^^
 When you begin writing your own software
 to interact with Cloud Servers,
 you might want to learn about
@@ -144,56 +144,3 @@ and walks you through basic server and network operations.
 An intermediate step shows an example with the cURL command-line interface (CLI) for
 :rax-docs:`Listing servers (cURL)
 <cloud-servers/v2/getting-started/create-server/listing-servers-curl/>`.
-
-Learn about Cloud Servers in SDK QuickStart
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-dev-quickstart:`SDK QuickStart for Cloud Servers <cloud-servers/getting-started/>`,
-you can see some of the same steps that are documented in
-the API's Getting Started Guide.
-For example, both the API-focused and SDK-focused documents
-show how to authenticate with your API key before issuing any requests
-to the Cloud Servers API.
-
-The SDK QuickStart adds examples in several popular programming
-languages,
-demonstrating how to use each language to
-code some commonly-used requests to the
-Cloud Servers API.
-
-To see examples in a specific language,
-click that language's name in the list across the top of the page.
-For example, to see Cloud Servers code samples coded in python,
-go to the
-:rax-dev-quickstart:`SDK QuickStart for Cloud Servers <cloud-servers/getting-started>`
-and click **PYTHON**.
-
-.. figure:: /_images/cloudserverssdkpython.png
-   :scale: 80%
-   :alt: Python is one of several languages for which we
-         publish an SDK QuickStart.
-
-   *Python is one of several languages for which we
-   publish an SDK QuickStart.*
-
-Use SDK to help you write and run code to interact with Cloud Servers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The SDK QuickStart demonstrates a few basic requests;
-for more detailed guidance that will help you
-develop your software, examine the SDK itself.
-
-To find the full SDK for your programming language, start at
-`SDKs & Tools in the Developer Center <https://developer.rackspace.com/docs/#sdks>`__
-and find the language.
-
-For example, if you code in python,
-
-* Follow the installation instructions to give yourself
-  a local copy of the pyrax (python for Rackspace) SDK.
-* Click **documentation** to open the
-  :rax-git:`GitHub repository for the pyrax SDK <pyrax/>`.
-* In that pyrax repository, at
-  :rax-git:`/docs/cloud_servers.md <pyrax/blob/master/docs/cloud_servers.md>`,
-  read *Working with Cloud Servers*.
-  That document begins with an
-  :rax-git:`example of using pyrax to list servers <pyrax/blob/master/docs/cloud_servers.md#listing-servers>`.

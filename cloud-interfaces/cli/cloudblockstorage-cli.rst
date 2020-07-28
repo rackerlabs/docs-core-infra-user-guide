@@ -23,21 +23,7 @@ or you can go directly to the tool that interests you:
 * :ref:`supernova`
 * :ref:`curl`
 
-You can also use the
-:ref:`cinder`,
-focused on Cloud Block Storage.
-
-In working with Cloud Block Storage,
-you might find that you need to use nova for some functions
-and cinder for others. You should install them both.
-You can see an example of using nova and cinder together at
-:how-to:`Configuring OpenStack Block Storage <configuring-openstack-block-storage>`
-where, in the "Create a Volume" section,
-``nova volume-attach`` associates a volume with a server
-and ``cinder list`` confirms that association.
-
-Alternatively, Rackspace CLI works with most functions without having to switch
-clients.
+You can also use the :ref:`cinder`, focused on Cloud Block Storage.
 
 Before you can use one of these tools,
 you must install a local (client) copy.

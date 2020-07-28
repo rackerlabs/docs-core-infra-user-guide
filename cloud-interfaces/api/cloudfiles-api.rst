@@ -1,12 +1,12 @@
 .. _cloudfiles-api:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Cloud Files and SDKs and APIs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+Cloud Files and APIs
+^^^^^^^^^^^^^^^^^^^^
 When you begin writing your own software to interact with Cloud Files,
 you might want to learn about
 how Cloud Files works in the Cloud Control Panel
-and how SDKs and APIs are documented at Rackspace.
+and how APIs are documented at Rackspace.
 
 .. _cloudfiles-api-investigation:
 
@@ -107,50 +107,3 @@ In the :rax-docs:`Getting Started Guide for the Cloud Files API
 you can see an example with the cURL command-line interface (CLI) for
 :rax-docs:`Creating a storage container
 <cloud-files/v1/getting-started/use-API-directly/#creating-a-storage-container>`.
-
-Learn about Cloud Files in SDK QuickStart
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-dev-quickstart:`SDK QuickStart for Cloud Files <cloud-files/getting-started>`,
-you can see some of the same steps that are documented in
-the API's Getting Started Guide. For example, both the API-focused and
-SDK-focused documents show how to authenticate with your API
-key before issuing any requests to the Cloud Files API.
-
-The SDK QuickStart adds examples in several popular programming
-languages, demonstrating how to use each language
-to code some commonly-used requests to the Cloud Files API.
-
-To see examples in a specific language, click that
-language's name in the list across the top of the page.
-For example, to see Cloud Files code samples in PHP, go to the
-:rax-dev-quickstart:`SDK QuickStart for Cloud Files <cloud-files/getting-started>`
-and click *PHP*.
-
-.. figure:: /_images/cloudfilessdkphp.png
-   :scale: 80%
-   :alt: PHP is one of several languages for which we
-         publish an SDK QuickStart.
-
-   *PHP is one of several languages for which we
-   publish an SDK QuickStart.*
-
-Use SDK to help you write and run code to interact with Cloud Files
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The SDK QuickStart demonstrates a few basic requests; for more
-detailed guidance that will help you develop your software,
-examine the SDK itself.
-
-To find the full SDK for your programming language, start at
-`SDKs & Tools in the Developer Center <https://developer.rackspace.com/docs/#sdks>`__
-and find the language.
-
-For example, if you code in PHP,
-
-* Follow the installation instructions to give yourself a local
-  copy of the php-opencloud SDK.
-* In the `documentation repository for php-opencloud <http://docs.php-opencloud.com>`__,
-  read about the *Volumes v1* service, applicable to both Rackspace and
-  OpenStack configuration. In that document, you can go directly
-  to an
-  `example of listing Cloud Files <http://docs.php-opencloud.com/en/latest/services/object-store/containers.html#list-containers>`__.

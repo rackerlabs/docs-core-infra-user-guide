@@ -1,22 +1,21 @@
 .. _cloudblockstorage-api:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Cloud Block Storage and SDKs and APIs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cloud Block Storage and APIs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 When you begin writing your own software
 to interact with Cloud Block Storage,
 you might want to learn about
 how Cloud Block Storage works
 in the Cloud Control Panel
-and how SDKs and APIs are documented at Rackspace.
+and how APIs are documented at Rackspace.
 
 .. _cloudblockstorage-api-investigation:
 
 +++++++++++++++++++++++++++++++++++++
 Cloud Block Storage API investigation
 +++++++++++++++++++++++++++++++++++++
-Using an API,
-you can write software to automate functions that could otherwise
+Using an API, you can write software to automate functions that could otherwise
 be performed manually by a person logged in to the Cloud Control Panel.
 You can accelerate your understanding of how the API works
 by using the Cloud Control Panel to demonstrate the manual process
@@ -25,8 +24,7 @@ to interact with the Cloud Block Storage service,
 the Cloud Control Panel sends requests via the same API
 that you interact with when you write your own software.
 
-Sometimes,
-especially for new features that are not yet available
+Sometimes, especially for new features that are not yet available
 in the Cloud Control Panel,
 you can write software to perform functions
 using the API
@@ -149,56 +147,3 @@ In the
 you can see an example with the cURL command-line interface (CLI) for
 :rax-docs:`Listing existing block storage volumes
 <cloud-block-storage/v1/getting-started/use-API-directly/#listing-existing-block-storage-volumes>`.
-
-Learn about Cloud Block Storage in SDK QuickStart
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In the
-:rax-dev-quickstart:`SDK QuickStart for Cloud Block Storage <cloud-block-storage/getting-started>`,
-you can see some of the same steps that are documented in
-the API's Getting Started Guide.
-For example, both the API-focused and SDK-focused documents
-show how to authenticate with your API key before issuing any requests
-to the Cloud Block Storage API.
-
-The SDK QuickStart adds examples in several popular programming
-languages,
-demonstrating how to use each language to
-code some commonly-used requests to the
-Cloud Block Storage API.
-
-To see examples in a specific language,
-click that language's name in the list across the top of the page.
-For example, to see Cloud Block Storage code samples coded in PHP,
-go to the
-:rax-dev-quickstart:`SDK QuickStart for Cloud Block Storage <cloud-block-storage/getting-started>`
-and click *PHP*.
-
-.. figure:: /_images/cloudblockstoragesdkphp.png
-   :scale: 80%
-   :alt: PHP is one of several languages for which we
-         publish an SDK QuickStart.
-
-   *PHP is one of several languages for which we
-   publish an SDK QuickStart.*
-
-Use SDK to help you write and run code to interact with Cloud Block Storage
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The SDK QuickStart demonstrates a few basic requests;
-for more detailed guidance that will help you
-develop your software, examine the SDK itself.
-
-To find the full SDK for your programming language, start at
-`SDKs & Tools in the Developer Center <https://developer.rackspace.com/docs/#sdks>`__
-and find the language.
-
-For example, if you code in PHP,
-
-* Follow the installation instructions to give yourself
-  a local copy of the php-opencloud SDK.
-* In the
-  `documentation repository for php-opencloud <http://docs.php-opencloud.com/>`__,
-  read about the *Volumes v1* service,
-  applicable to both Rackspace and OpenStack configurations.
-  In that document,
-  you can go directly to an
-  `example of listing Cloud Block Storage volumes <http://docs.php-opencloud.com/en/latest/services/volume/volumes.html#list-volumes>`__.

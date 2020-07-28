@@ -20,7 +20,7 @@ suggestions, questions, and comments:
   `Mastering Issues <https://guides.github.com/features/issues/>`__.
 
 * Send email to the guide's maintainers at
-  userguides@rackspace.com. We'll answer as promptly as we can.
+  infodev@rackspace.com. We'll answer as promptly as we can.
 
 .. NOTE::
    If you are seeking emergency help from Rackspace,

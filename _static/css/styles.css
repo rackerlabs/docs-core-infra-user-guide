@@ -1,0 +1,8 @@
+.seealso::before {
+    content: '' !important;
+}
+
+.seealso {
+    border: 0px solid #FFFFFF !important;
+    box-shadow: inset 0px 0 0 #FFFFFF !important;
+}

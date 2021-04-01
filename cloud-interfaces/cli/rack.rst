@@ -12,9 +12,3 @@ no additional plugins to allow additional functionality with the Rackspace Cloud
 Rackspace CLI utilizes `gophercloud <http://gophercloud.io/>`__, an Openstack
 compatible SDK that allows for complete functionality with most Rackspace services.
 
-.. note::
-
-    The Rackspace CLI is no longer actively supported or developed.
-
-Follow the `installation and configuration <https://developer.rackspace.com/docs/rack-cli/configuration/>`__
-instructions from the `Rack CLI user guide <https://developer.rackspace.com/docs/rack-cli/>`__ to use *rack*.

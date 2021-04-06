@@ -16,9 +16,9 @@ many cURL-based examples.
 The following Rackspace publications provide basic information
 about cURL:
 
-* :rax-docs:`How cURL commands work <https://docs.rackspace.com/docs/cloud-servers/v2/getting-started/send-request-ovw#install-the-cloud-networks-virtual-interface-extension>`
+* :rax-docs:`How cURL commands work <cloud-servers/v2/getting-started/send-request-ovw#install-the-cloud-networks-virtual-interface-extension>`
 * :how-to:`Cloud Files cURL Cookbook <cloud-files-curl-cookbook>`
-* :rax-docs:`Authenticate with cURL <https://docs.rackspace.com/docs/cloud-servers/v2/getting-started/authenticate#authenticating-by-using-curl>`
+* :rax-docs:`Authenticate with cURL <cloud-servers/v2/getting-started/authenticate#authenticating-by-using-curl>`
 
 In the
 :rax-dev:`Developer Center <docs/>`,

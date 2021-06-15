@@ -1,6 +1,7 @@
 # Rackspace Cloud Core Infrastructure Services User Guide
 
-[![build badge](https://build.developer.rackspace.com/rackerlabs/docs-core-infra-user-guide/badge?branch=master)](https://build.developer.rackspace.com/rackerlabs/docs-core-infra-user-guide/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/97c80656-30c4-432b-a487-2b9b664fbc36/deploy-status)](https://app.netlify.com/sites/docs-core-infra-user-guide/deploys)
+
 ## Purpose
 
 This GitHub repository contains the source files for the Rackspace Cloud Core Infrastructure Services User Guide.
@@ -47,3 +48,11 @@ Source files for the Sphinx documentation project are in the main `docs-core-inf
 If you find a problem, open a GitHub [issue](https://github.com/rackerlabs/docs-core-infra-user-guide/issues).
 
 If you need additional assistance, contact us at <devdoc@rackspace.com>.
+
+## Local Setup
+
+`npm i -g netlify-cli`
+`netlify init`
+`netlify build`
+`netlify dev`
+`netlify deploy`
